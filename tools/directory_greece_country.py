@@ -385,12 +385,69 @@ if len(_chapel_rows) != len(CHAPEL_NAMES):
 for _chapel_row, _chapel_name in zip(_chapel_rows, CHAPEL_NAMES):
     _chapel_row["name"] = _chapel_name
 
+ATHOS_ROSTER = "https://site.mountathos.org/about-us/"
+ATHOS_MONASTERIES = [
+    ("great-lavra", "Holy Monastery of Great Lavra",
+     "Ιερά Μονή Μεγίστης Λαύρας"),
+    ("vatopedi", "Holy Monastery of Vatopedi",
+     "Ιερά Μονή Βατοπαιδίου"),
+    ("iviron", "Holy Monastery of Iviron",
+     "Ιερά Μονή Ιβήρων"),
+    ("hilandar", "Holy Monastery of Hilandar",
+     "Ιερά Μονή Χιλανδαρίου"),
+    ("dionysiou", "Holy Monastery of Dionysiou",
+     "Ιερά Μονή Διονυσίου"),
+    ("koutloumousiou", "Holy Monastery of Koutloumousiou",
+     "Ιερά Μονή Κουτλουμουσίου"),
+    ("pantokratoros", "Holy Monastery of Pantokratoros",
+     "Ιερά Μονή Παντοκράτορος"),
+    ("xeropotamou", "Holy Monastery of Xeropotamou",
+     "Ιερά Μονή Ξηροποτάμου"),
+    ("zografou", "Holy Monastery of Zografou",
+     "Ιερά Μονή Ζωγράφου"),
+    ("docheiariou", "Holy Monastery of Docheiariou",
+     "Ιερά Μονή Δοχειαρίου"),
+    ("karakallou", "Holy Monastery of Karakallou",
+     "Ιερά Μονή Καρακάλλου"),
+    ("philotheou", "Holy Monastery of Philotheou",
+     "Ιερά Μονή Φιλοθέου"),
+    ("simonos-petras", "Holy Monastery of Simonos Petras",
+     "Ιερά Μονή Σίμωνος Πέτρας"),
+    ("saint-paul", "Holy Monastery of Saint Paul",
+     "Ιερά Μονή Αγίου Παύλου"),
+    ("stavronikita", "Holy Monastery of Stavronikita",
+     "Ιερά Μονή Σταυρονικήτα"),
+    ("xenophontos", "Holy Monastery of Xenophontos",
+     "Ιερά Μονή Ξενοφώντος"),
+    ("gregoriou", "Holy Monastery of Gregoriou",
+     "Ιερά Μονή Γρηγορίου"),
+    ("esphigmenou", "Holy Monastery of Esphigmenou",
+     "Ιερά Μονή Εσφιγμένου"),
+    ("saint-panteleimon", "Holy Monastery of Saint Panteleimon",
+     "Ιερά Μονή Παντελεήμονος"),
+    ("konstamonitou", "Holy Monastery of Konstamonitou",
+     "Ιερά Μονή Κωνσταμονίτου"),
+]
+ROWS.extend({
+    "id": "gr-athos-%s" % slug,
+    "parent": "athos",
+    "kind": "monastery",
+    "rank": "Royal, Patriarchal and Stavropegic Monastery",
+    "name": name,
+    "local": local,
+    "seat": "Mount Athos",
+    "country": "GR",
+    "sources": [ATHOS_ROSTER],
+    "checked": CHECKED,
+    "cite": [ATHOS_ROSTER],
+} for slug, name, local in ATHOS_MONASTERIES)
+
 ENGLISH_NAMES = {row["id"]: row["name"] for row in ROWS}
 ENGLISH_SEATS = {
     row["seat"]: row["seat"] for row in ROWS if row.get("seat")
 }
 
-EXPECTED_COUNT = 343
+EXPECTED_COUNT = 363
 EXPECTED_RANKS = {
     "Archiepiscopal Region": 21,
     "Cathedral": 1,
@@ -398,11 +455,12 @@ EXPECTED_RANKS = {
     "Chapel": 155,
     "Hesychasterion": 2,
     "Monastery": 7,
-    "Parish Church": 145
+    "Parish Church": 145,
+    "Royal, Patriarchal and Stavropegic Monastery": 20
 }
 EXPECTED_KINDS = {
     "diocese": 21,
-    "monastery": 9,
+    "monastery": 29,
     "parish": 313
 }
 EXPECTED_PARENT_COUNTS = {
@@ -451,6 +509,7 @@ EXPECTED_PARENT_COUNTS = {
     "gr-megara": 1,
     "gr-syros": 1,
     "gr-ydra": 1,
+    "athos": 20,
     "je-exarch-greece": 2,
     "sinai": 1
 }
@@ -460,7 +519,7 @@ EXPECTED_EMAIL_BODIES = 4
 EXPECTED_SITE_BODIES = 4
 EXISTING_PARENTS = {
     "gr-athens", "gr-ydra", "gr-gortys", "gr-syros", "gr-megara",
-    "sinai", "je-exarch-greece",
+    "sinai", "je-exarch-greece", "athos",
 }
 ALLOWED_KINDS = {"diocese", "parish", "monastery"}
 ALLOWED_RANKS = set(EXPECTED_RANKS)
@@ -510,9 +569,10 @@ def clean(source):
         raise ValueError("%s lacks an official source" % row.get("id"))
     for source_url in sources:
         validate_url(source_url, row.get("id"))
-        if urlparse(source_url).netloc not in {"www.iaath.gr", "iaath.gr"}:
+        if urlparse(source_url).netloc not in {
+                "www.iaath.gr", "iaath.gr", "site.mountathos.org"}:
             raise ValueError(
-                "%s carries a non-Archdiocesan identity source" %
+                "%s carries a non-competent identity source" %
                 row.get("id"))
     row["sources"] = sources
     row["cite"] = list(sources)
@@ -543,6 +603,7 @@ def validate_ledger():
         "parishes": 146,
         "cemetery_churches": 12,
         "monasteries_and_hesychasteria": 9,
+        "athos_ruling_monasteries": 20,
         "chapels": 155,
         "total": EXPECTED_COUNT,
         "contact_bodies": EXPECTED_CONTACT_BODIES,
@@ -673,9 +734,9 @@ def main():
         print(json.dumps(payloads, ensure_ascii=False, indent=2))
     if args.check or not args.dump:
         print(
-            "Greece: %d officially named Athens bodies; "
+            "Greece: %d officially named bodies; "
             "21 regions, 146 parishes, 12 cemetery churches, "
-            "9 monasteries or hesychasteria, and 155 rendered chapels; "
+            "29 monasteries or hesychasteria, and 155 rendered chapels; "
             "%d bodies carry current official contact data" %
             (EXPECTED_COUNT, EXPECTED_CONTACT_BODIES)
         )

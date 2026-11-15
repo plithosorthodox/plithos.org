@@ -2,19 +2,24 @@
   "v": 1,
   "country": "LB",
   "checked": "2026-11-15",
-  "method": "Current official patriarchal, archdiocesan, monastery, and Moscow Patriarchate records were reconciled body by body. Search engines and general directories were used only for discovery. Exact current bodies are published beneath their competent Church parents. Numbered gaps, unenumerated subordinate bodies, historical-only identities, affiliation-unclear bodies, and institutions without a distinct worship body remain unpublished.",
+  "method": "Current official patriarchal, archdiocesan, monastery, and Moscow Patriarchate records were reconciled body by body. Search engines and general directories were used only for discovery. Exact current bodies are published beneath their competent Church parents. Institutional telephone numbers and emails are preserved only where the body or its Church publishes them as public contact details. Clergy mobile numbers remain unpublished. Numbered gaps, unenumerated subordinate bodies, historical-only identities, affiliation-unclear bodies, and institutions without a distinct worship body remain unpublished.",
   "published_summary": {
     "an-beirut": 16,
-    "an-zahleh": 25,
+    "an-zahleh": 26,
     "an-tripoli": 17,
     "antioch": 3,
     "russia": 2,
-    "total": 63,
-    "canonical_jurisdictions_represented": 2
+    "total": 64,
+    "canonical_jurisdictions_represented": 2,
+    "contact_rows": 36,
+    "public_email_values": 2,
+    "public_phone_values": 44,
+    "body_owned_sites": 1
   },
   "candidates": [
     {
       "candidate_id": "lb-an-beirut-number-thirteen-gap",
+      "category": "unnamed",
       "parent": "an-beirut",
       "country": "LB",
       "name": "Unresolved number 13 in the Beirut churches sequence",
@@ -26,18 +31,21 @@
     },
     {
       "candidate_id": "lb-an-remaining-archdiocesan-subordinates",
+      "category": "aggregate-only",
       "parent": "antioch",
       "country": "LB",
       "name": "Subordinate bodies of the remaining Antiochian archdioceses in Lebanon",
       "status": "hold for exact current first-party rosters",
-      "reason": "The Patriarchate establishes the remaining Lebanese archdiocesan parents, but this batch does not turn geography, older lists, or incomplete search results into current subordinate identities where an exact official roster was not available.",
+      "reason": "The Patriarchate establishes the Akkar, Byblos and Batroun, and Tyre and Sidon parents, but their current first-party pages do not enumerate complete subordinate rosters. Geography, older lists, and incomplete search results are not converted into current body identities.",
       "sources": [
-        "https://antiochpatriarchate.org/en/page/3011/",
-        "https://antiochpatriarchate.org/wp-content/uploads/2026/10/Dalil-2025.pdf"
+        "https://antiochpatriarchate.org/en/archdioces/akkar-and-dependencies/",
+        "https://antiochpatriarchate.org/en/archdioces/byblos-batroun-and-dependencies/",
+        "https://antiochpatriarchate.org/en/archdioces/tyre-sidon-and-dependencies/"
       ]
     },
     {
       "candidate_id": "lb-an-tripoli-unlisted-parish-remainder",
+      "category": "aggregate-only",
       "parent": "an-tripoli",
       "country": "LB",
       "name": "Tripoli and Koura parish remainder not individually reconciled",
@@ -46,6 +54,55 @@
       "sources": [
         "https://archtripoli.org/Archdiocese/Monasteries",
         "https://archtripoli.org/Archdiocese/Parish"
+      ]
+    },
+    {
+      "candidate_id": "lb-ro-romanian-community-current-status",
+      "category": "uncertain",
+      "parent": "romania",
+      "country": "LB",
+      "name": "Romanian Orthodox community in Lebanon",
+      "status": "hold until the Romanian Patriarchate restores or confirms a current institutional body",
+      "reason": "Older first-party reports establish Romanian Orthodox ministry in Lebanon, but the current official external communities roster does not list a Lebanon body. Historical ministry is not treated as proof of a current institution.",
+      "sources": [
+        "https://patriarhia.ro/organizarea-bisericii-ortodoxe-romane/reprezentante-si-comunitati-externe/",
+        "https://arhiva.basilica.ro/hramul-comunitatii-romanesti-din-liban/"
+      ]
+    },
+    {
+      "candidate_id": "lb-map-search-orthodox-leads",
+      "category": "affiliation-unclear",
+      "parent": "antioch",
+      "country": "LB",
+      "name": "Map and search-directory Orthodox church leads in Lebanon",
+      "status": "future verification only",
+      "reason": "A map result may identify a building or local name but cannot establish a current canonical parent or institutional body. No map-only lead is published without a competent Church source.",
+      "sources": [
+        "https://antiochpatriarchate.org/en/page/3011/"
+      ]
+    },
+    {
+      "candidate_id": "lb-historical-orthodox-sites",
+      "category": "historical",
+      "parent": "antioch",
+      "country": "LB",
+      "name": "Historical Orthodox churches and monasteries without a current body record",
+      "status": "excluded until a competent Church source establishes current worship or administration",
+      "reason": "Historical fabric, an older dedication, or an occasional visit does not establish a current parish, monastery, or recurring worship body.",
+      "sources": [
+        "https://antiochpatriarchate.org/en/page/3011/"
+      ]
+    },
+    {
+      "candidate_id": "lb-independent-orthodox-leads",
+      "category": "noncanonical",
+      "parent": "antioch",
+      "country": "LB",
+      "name": "Independent or self-described Orthodox bodies in Lebanon",
+      "status": "not published under the directory entry rule",
+      "reason": "No body discovered only through a self-description or general directory receives a row unless a current canonical Eastern Orthodox Church lists it among its own.",
+      "sources": [
+        "https://antiochpatriarchate.org/en/page/3011/"
       ]
     }
   ],
@@ -68,11 +125,28 @@
     },
     {
       "issue": "Russian metochion hierarchy",
-      "result": "The Bsalim metochion is published directly under the Church of Russia, with the Annunciation church at Jal El Dib beneath it. The two records are kept distinct and not duplicated as unrelated parishes.",
+      "result": "The Bsalim metochion is published directly under the Church of Russia, with the Annunciation church at Jal El Dib beneath it. The two records are kept distinct and not duplicated as unrelated parishes. The metochion's own working site is recorded separately from higher-level Moscow sources.",
       "sources": [
         "https://mospat.ru/en/news/94698/",
         "https://patriarchia.ru/en/article/123715?path=%2Fnews%2Fsynod-orgs",
-        "https://mospat.ru/en/news/94701/"
+        "https://podvorie-livan.com/"
+      ]
+    },
+    {
+      "issue": "Newly consecrated church in Zahle",
+      "result": "The Church of the Unexpected Joy Icon of the Mother of God is added beneath the Archdiocese of Zahle and Baalbek. Current official reports establish its consecration, regular services, and service by clergy of that Antiochian archdiocese.",
+      "sources": [
+        "https://antiochpatriarchate.org/patriark-news/%d8%a7%d9%84%d8%a8%d8%b7%d8%b1%d9%8a%d8%b1%d9%83-%d9%8a%d9%88%d8%ad%d9%86%d8%a7-%d8%a7%d9%84%d8%b9%d8%a7%d8%b4%d8%b1-%d9%8a%d9%82%d9%8a%d9%85-%d9%82%d8%af%d8%a7%d8%b3%d8%a7%d9%8b-%d9%81%d9%8a-%d9%83/",
+        "https://mospat.ru/en/news/94288/"
+      ]
+    },
+    {
+      "issue": "Institutional contact boundary",
+      "result": "The Zahle roster's landline column is retained as parish contact. Its separate mobile column is printed beside named clergy and is not republished as an institutional contact. The Balamand and Shwayya monastery landlines remain, while published mobile or person-named email details are withheld. The Beirut hospital chapel's extension is withheld because the page supplies no usable base number with it.",
+      "sources": [
+        "https://archzahle.com/archdiocese/parishes/",
+        "https://antiochpatriarchate.org/wp-content/uploads/2026/10/Dalil-2025.pdf",
+        "https://quartos.org.lb/Churches/16"
       ]
     }
   ],
@@ -98,12 +172,20 @@
       "sources": [
         "https://antiochpatriarchate.org/en/page/3011/"
       ]
+    },
+    {
+      "scope": "Personal clergy contact details",
+      "result": "Mobile numbers or email addresses printed beside a named clergyman are not republished as institutional contact details. A parish, monastery, or metochion contact is retained only where the official source publishes it for the body itself.",
+      "sources": [
+        "https://archzahle.com/archdiocese/parishes/",
+        "https://antiochpatriarchate.org/wp-content/uploads/2026/10/Dalil-2025.pdf"
+      ]
     }
   ],
   "official_jurisdiction_audit": [
     {
       "jurisdiction": "Patriarchate of Antioch",
-      "result": "Sixty-one exact current bodies are published from official patriarchal and archdiocesan records. Existing archdiocesan parents are retained, and subordinate bodies without an exact current first-party identity remain held.",
+      "result": "Sixty-two exact current bodies are published from official patriarchal and archdiocesan records. Existing archdiocesan parents are retained, and subordinate bodies without an exact current first-party identity remain held.",
       "sources": [
         "https://antiochpatriarchate.org/en/page/3011/",
         "https://quartos.org.lb/",
@@ -117,6 +199,14 @@
         "https://mospat.ru/en/news/94698/",
         "https://patriarchia.ru/en/article/123715?path=%2Fnews%2Fsynod-orgs",
         "https://mospat.ru/en/news/94701/"
+      ]
+    },
+    {
+      "jurisdiction": "Romanian Patriarchate",
+      "result": "Older official reports establish ministry to a Romanian community in Lebanon, but the current official external communities roster does not list a Lebanon body. The lead remains held rather than being presented as current.",
+      "sources": [
+        "https://patriarhia.ro/organizarea-bisericii-ortodoxe-romane/reprezentante-si-comunitati-externe/",
+        "https://arhiva.basilica.ro/hramul-comunitatii-romanesti-din-liban/"
       ]
     },
     {

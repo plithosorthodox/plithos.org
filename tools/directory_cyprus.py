@@ -37,6 +37,10 @@ ROMANIAN_EXTERNAL = (
     "https://patriarhia.ro/organizarea-bisericii-ortodoxe-romane/"
     "reprezentante-si-comunitati-externe/"
 )
+ANTIOCH_DIRECTORY = (
+    "https://www.antiochpatriarchate.org/images/pages/"
+    "dalil-2025-final2024-12-18-12-31-19.pdf"
+)
 
 
 # parent, source index, place, dedication, designation. The compact source
@@ -560,6 +564,11 @@ def source_rows():
     rows = []
     ids = set()
     for parent, number, place, dedication, designation in RAW:
+        if (parent, number) == ("cy-limassol", 28):
+            # Antioch's own current directory identifies this church as its
+            # Limassol metochion. Keep the existing stable key but publish the
+            # body under the Church that expressly lists it among its own.
+            continue
         parts = split_dedications(dedication)
         for part_number, part in enumerate(parts, 1):
             key = (parent, number)
@@ -972,11 +981,20 @@ MONASTIC_ROWS = [
 
 
 JERUSALEM_ROWS = [
-    manual("cy-je-exarchate-ascension-philoumenos", "je-exarch-cyprus",
-           "Ιερός Ναός Αναλήψεως του Κυρίου και Αγίου Ιερομάρτυρος Φιλουμένου του Αγιοταφίτου",
-           "Ascension of the Lord and Hieromartyr Philoumenos the Hagiosabbite Church in Nicosia",
-           sources=[JERUSALEM_EXARCHIES],
-           address=["4 Archimandrite Kyprianou Street", "1015 Nicosia"]),
+    dict(
+        manual(
+            "cy-je-exarchate-ascension-philoumenos",
+            "je-exarch-cyprus",
+            "Ιερός Ναός Αναλήψεως του Κυρίου και Αγίου Ιερομάρτυρος Φιλουμένου του Αγιοταφίτου",
+            "Ascension of the Lord and Hieromartyr Philoumenos the Hagiosabbite Church in Nicosia",
+            sources=[JERUSALEM_EXARCHIES],
+            address=["4 Archimandrite Kyprianou Street", "1015 Nicosia"],
+        ),
+        emails=["exarhiaptcy@gmail.com"],
+        phones=["+357-22670626"],
+        contact_sources=[JERUSALEM_EXARCHIES],
+        contact_checked=CHECKED,
+    ),
     manual("cy-je-lythrodontas-marios", "je-exarch-cyprus",
            "Μετόχιο Αγίου Μαρίου, Λυθροδόντας",
            "Saint Marios Metochion in Lythrodontas", rank="Metochion",
@@ -985,11 +1003,48 @@ JERUSALEM_ROWS = [
 
 
 DIRECT_ROMANIA_ROWS = [
-    manual("cy-ro-nicosia-community", "romania",
-           "Comunitatea Ortodoxă Română din Cipru (Nicosia)",
-           "Romanian Orthodox Community in Nicosia", rank="Church Community",
-           sources=[ROMANIAN_EXTERNAL],
-           address=["11 Mystra Street, Apartment 2", "Engomi 2408, Nicosia"]),
+    dict(
+        manual(
+            "cy-ro-nicosia-community", "romania",
+            "Comunitatea Ortodoxă Română din Cipru (Nicosia)",
+            "Romanian Orthodox Community in Nicosia",
+            rank="Church Community",
+            sources=[ROMANIAN_EXTERNAL],
+            address=[
+                "Mystra Str. 11, Ap. 2",
+                "Engomi, 2408, Nicosia",
+                "PO BOX 21130, 1502 Nicosia",
+            ],
+        ),
+        site="https://cor-nicosia.com/",
+        emails=["pr.matei.petre@cor-nicosia.com"],
+        phones=["+357 22 772 489"],
+        contact_sources=[ROMANIAN_EXTERNAL],
+        contact_checked=CHECKED,
+    ),
+]
+
+
+DIRECT_ANTIOCH_ROWS = [
+    dict(
+        manual(
+            "cy-limassol-028-agiou-ignatiou-theoforou-dia-tous-aravofonous",
+            "antioch",
+            "الأمْطُش الأنطاكي في ليماسول، قبرص",
+            "Antiochian Metochion in Limassol",
+            rank="Metochion",
+            sources=[ANTIOCH_DIRECTORY, CYPRUS_DIRECTORY],
+            address=[
+                "St. Ignatius Theophoros Church",
+                "PO Box 59664",
+                "4011 Limassol",
+            ],
+        ),
+        dedication="Saint Ignatius the God-bearer",
+        phones=["00 357 25724351"],
+        contact_sources=[ANTIOCH_DIRECTORY],
+        contact_checked=CHECKED,
+    ),
 ]
 
 
@@ -997,7 +1052,7 @@ EXISTING_PARENTS = {
     "cyprus", "cy-archbishopric", "cy-paphos", "cy-kition", "cy-kyrenia",
     "cy-limassol", "cy-morphou", "cy-constantia", "cy-kykkos",
     "cy-tamasos", "cy-trimythous", "cy-karpasia", "cy-arsinoe",
-    "cy-amathus", "je-exarch-cyprus", "romania",
+    "cy-amathus", "je-exarch-cyprus", "romania", "antioch",
 }
 
 
@@ -1031,6 +1086,9 @@ ENGLISH_NAMES = {
 ENGLISH_NAMES.update({
     row["id"]: row["name"] for row in DIRECT_ROMANIA_ROWS
 })
+ENGLISH_NAMES.update({
+    row["id"]: row["name"] for row in DIRECT_ANTIOCH_ROWS
+})
 
 EXPECTED = {
     "cyprus": 21,
@@ -1038,7 +1096,7 @@ EXPECTED = {
     "cy-paphos": 105,
     "cy-kition": 50,
     "cy-kyrenia": 11,
-    "cy-limassol": 117,
+    "cy-limassol": 116,
     "cy-morphou": 50,
     "cy-constantia": 26,
     "cy-kykkos": 19,
@@ -1050,6 +1108,7 @@ EXPECTED = {
     "je-exarch-cyprus": 2,
 }
 DIRECT_ROMANIA_EXPECTED = 1
+DIRECT_ANTIOCH_EXPECTED = 1
 
 UNTRANSLATED_PATTERNS = (
     r"\b(?:agias|agiou|agion|apostolou|apostolon|archangelou|panagias|"
@@ -1124,7 +1183,8 @@ def build_all():
     for parent, source in ROWS.items():
         rows = validate_branch(source, parent, all_seen)
         payloads[parent] = {"v": 1, "parent": parent, "country": "CY", "rows": rows}
-    direct = validate_branch(DIRECT_ROMANIA_ROWS, "romania", all_seen)
+    direct_romania = validate_branch(DIRECT_ROMANIA_ROWS, "romania", all_seen)
+    direct_antioch = validate_branch(DIRECT_ANTIOCH_ROWS, "antioch", all_seen)
     names = {}
     for payload in payloads.values():
         for item in payload["rows"]:
@@ -1134,7 +1194,7 @@ def build_all():
                     names[key], item["id"],
                 ))
             names[key] = item["id"]
-    for item in direct:
+    for item in direct_romania + direct_antioch:
         key = item["name"].casefold()
         if key in names:
             raise ValueError("duplicate reader-facing name: %s and %s" % (
@@ -1144,9 +1204,15 @@ def build_all():
     counts = {parent: len(payload["rows"]) for parent, payload in payloads.items()}
     if counts != EXPECTED:
         raise ValueError("Cyprus counts changed: %r" % counts)
-    if len(direct) != DIRECT_ROMANIA_EXPECTED:
-        raise ValueError("Romanian direct count changed: %d" % len(direct))
-    return payloads, direct
+    if len(direct_romania) != DIRECT_ROMANIA_EXPECTED:
+        raise ValueError(
+            "Romanian direct count changed: %d" % len(direct_romania)
+        )
+    if len(direct_antioch) != DIRECT_ANTIOCH_EXPECTED:
+        raise ValueError(
+            "Antiochian direct count changed: %d" % len(direct_antioch)
+        )
+    return payloads, direct_romania, direct_antioch
 
 
 def build():
@@ -1160,19 +1226,24 @@ def main():
     mode.add_argument("--dump", action="store_true")
     args = parser.parse_args()
     try:
-        payloads, direct = build_all()
+        payloads, direct_romania, direct_antioch = build_all()
     except (OSError, ValueError) as exc:
         print("directory Cyprus: %s" % exc, file=sys.stderr)
         return 1
     if args.dump:
         print(json.dumps(
-            {"branches": payloads, "direct_romania_rows": direct},
+            {
+                "branches": payloads,
+                "direct_romania_rows": direct_romania,
+                "direct_antioch_rows": direct_antioch,
+            },
             ensure_ascii=False, indent=2, sort_keys=True,
         ))
     total = sum(len(payload["rows"]) for payload in payloads.values())
     print(
-        "Cyprus: %d verified bodies across %d canonical parents, plus %d direct Romanian row"
-        % (total, len(payloads), len(direct))
+        "Cyprus: %d verified bodies across %d canonical parents, plus %d "
+        "direct Romanian row and %d direct Antiochian row"
+        % (total, len(payloads), len(direct_romania), len(direct_antioch))
     )
     return 0
 

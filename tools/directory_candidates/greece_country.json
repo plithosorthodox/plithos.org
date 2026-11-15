@@ -4,14 +4,15 @@
     "GR"
   ],
   "checked": "2026-11-15",
-  "method": "Only current competent first-party Church sources control publication. The Athens Archdiocese overview says it has 21 archiepiscopal regions, 146 parish churches, 12 cemetery churches, 9 monastic churches, and 158 chapels. Its current named rosters enumerate all of those groups except that the chapel page renders 155 named bodies. Those 155 are published and the three unnamed bodies remain held. Search engines, maps, historical projects, tourism sources, and aggregators remain discovery-only.",
+  "method": "Only current competent first-party Church sources control publication. The Athens Archdiocese overview says it has 21 archiepiscopal regions, 146 parish churches, 12 cemetery churches, 9 monastic churches, and 158 chapels. Its current named rosters enumerate all of those groups except that the chapel page renders 155 named bodies. Those 155 are published and the three unnamed bodies remain held. The official Mount Athos digital archive names all 20 ruling monasteries, which are published under the existing Monastic Community parent. Search engines, maps, historical projects, tourism sources, and aggregators remain discovery-only.",
   "published_summary": {
     "archiepiscopal_regions": 21,
     "parishes": 146,
     "cemetery_churches": 12,
     "monasteries_and_hesychasteria": 9,
+    "athos_ruling_monasteries": 20,
     "chapels": 155,
-    "total": 343,
+    "total": 363,
     "contact_bodies": 238,
     "phone_bodies": 238,
     "email_bodies": 4,
@@ -91,10 +92,11 @@
       "candidate_id": "gr-mount-athos-twenty-ruling-monasteries",
       "parent": "athos",
       "country": "GR",
-      "name": "Twenty ruling monasteries of Mount Athos and their current dependencies",
-      "status": "hold for a complete current first-party Holy Community roster",
-      "reason": "The existing directory represents the Holy Community. Search, tourism, government, heritage, and individual monastery sources confirm many identities but do not replace one current complete competent roster of all ruling monasteries and dependencies. No disputed or irregular Athonite body is inferred.",
+      "name": "Current dependencies of the twenty ruling monasteries of Mount Athos",
+      "status": "twenty ruling monasteries published; dependencies held",
+      "reason": "The official Mount Athos digital archive names the twenty ruling monasteries in order, so those institutions are published under the existing Monastic Community. Sketes, cells, kathismata, metochia, and other dependencies remain held until a current competent roster establishes their exact identities and monastery parentage. No disputed or irregular dependency is inferred.",
       "sources": [
+        "https://site.mountathos.org/about-us/",
         "https://ec-patr.org/en/eparchies-of-the-throne/patriarchal-and-stavropegic-monasteries/"
       ]
     },
@@ -172,9 +174,10 @@
     },
     {
       "jurisdiction": "Ecumenical Patriarchate in Greece",
-      "result": "The existing directory already carries Crete, the Dodecanese, Patmos, the New Lands, direct patriarchal monasteries, and Mount Athos at parent level. Their subordinate rosters remain held until competent first-party lists are reconciled.",
+      "result": "The existing directory already carries Crete, the Dodecanese, Patmos, the New Lands, direct patriarchal monasteries, and the Monastic Community of Mount Athos at parent level. The official Mount Athos archive now supports publication of its twenty ruling monasteries. Other subordinate rosters remain held until competent first-party lists are reconciled.",
       "sources": [
         "https://ec-patr.org/eparxies-oikoymenikoy-thronoy/ellada/",
+        "https://site.mountathos.org/about-us/",
         "https://ec-patr.org/en/eparchies-of-the-throne/patriarchal-and-stavropegic-monasteries/"
       ]
     },

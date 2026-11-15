@@ -294,6 +294,19 @@ def build():
             raise ValueError("%s is not a Syrian Antioch row" % row_id)
         row_ids.add(row_id)
         payload["rows"].append(row)
+    # Antioch's own current directory identifies the Limassol metochion as a
+    # direct Antiochian body. Cyprus keeps the same stable body key but removes
+    # it from the local Limassol branch, so append it once to the shared branch.
+    countries[parent].add("CY")
+    for source in directory_cyprus.DIRECT_ANTIOCH_ROWS:
+        row = directory_cyprus.clean(source)
+        row_id = row.get("id")
+        if not row_id or row_id in row_ids:
+            raise ValueError("duplicate or missing row id: %s" % row_id)
+        if row.get("parent") != parent or row.get("country") != "CY":
+            raise ValueError("%s is not a Cypriot Antiochian row" % row_id)
+        row_ids.add(row_id)
+        payload["rows"].append(row)
     # The OCU vicariate spans Europe and Australia. This module already owns
     # its shared payload, so append the Australian official-directory rows
     # here rather than creating a second branch owner in Oceania.
@@ -315,9 +328,9 @@ def build():
         else:
             payload["countries"] = scope
     row_count = sum(len(p["rows"]) for p in payloads.values())
-    if len(payloads) != 343 or row_count != 22864:
+    if len(payloads) != 344 or row_count != 22885:
         raise ValueError(
-            "combined country branches must publish 343 parents and 22864 "
+            "combined country branches must publish 344 parents and 22885 "
             "rows, got %d parents and %d rows" %
             (len(payloads), row_count))
     return dict(sorted(payloads.items()))
@@ -386,7 +399,7 @@ def main():
         for error in errors:
             print(error, file=sys.stderr)
         return 1
-    print("Combined country branches: 343 parents, 22864 subordinate bodies")
+    print("Combined country branches: 344 parents, 22885 subordinate bodies")
     return 0
 
 

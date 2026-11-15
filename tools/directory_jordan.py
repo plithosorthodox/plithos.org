@@ -2,7 +2,7 @@
 """Current canonical Eastern Orthodox bodies in Jordan.
 
 The live Jordan Metropolis roster is reconciled with the Jerusalem
-Patriarchate's East Bank roster and its 2025 official calendar. The union
+Patriarchate's East Bank roster and its 2026 official calendar. The union
 keeps current parish churches, monasteries, and named shrines while removing
 duplicate spellings of the same body.
 
@@ -28,15 +28,18 @@ PATRIARCHATE_ROSTER = (
     "https://en.jerusalem-patriarchate.info/administrative-structure/"
     "churches-in-the-east-bank-jordan/"
 )
-CALENDAR_2025 = (
-    "https://ar.jerusalem-patriarchate.info/wp-content/uploads/2025/03/"
-    "ARABIC_CALENDAR_OF_PATRIARCHATE-2025_R.pdf"
+CALENDAR_2026 = (
+    "https://ar.jerusalem-patriarchate.info/wp-content/uploads/2026/02/"
+    "arabic_2026.pdf"
 )
+MADABA_SITE = "https://stgeorge-madaba.church/"
+RUSSIAN_CHAPELS = "https://rusdm.ru/chapel/"
+RUSSIAN_HOTEL = "https://rusdm.ru/hotels/322"
 
 
 def body(row_id, name, local, seat, rank="Church", kind="parish",
-         sources=None):
-    return {
+         sources=None, **extra):
+    row = {
         "id": row_id,
         "parent": "je-amman",
         "kind": kind,
@@ -47,10 +50,15 @@ def body(row_id, name, local, seat, rank="Church", kind="parish",
         "country": "JO",
         "sources": sources or [LOCAL_ROSTER, PATRIARCHATE_ROSTER],
     }
+    row.update(extra)
+    if row.get("emails") or row.get("phones"):
+        row.setdefault("contact_sources", list(row["sources"][:3]))
+        row.setdefault("contact_checked", CHECKED)
+    return row
 
 
 CURRENT = [LOCAL_ROSTER, PATRIARCHATE_ROSTER]
-CALENDAR_ONLY = [PATRIARCHATE_ROSTER, CALENDAR_2025]
+CALENDAR_ONLY = [PATRIARCHATE_ROSTER, CALENDAR_2026]
 
 ROWS = {
     "je-amman": [
@@ -67,7 +75,9 @@ ROWS = {
              "كاتدرائية البشارة العبدلي - عمان", "Amman", "Cathedral"),
         body("jo-amman-downtown-transfiguration",
              "Church of the Transfiguration of the Saviour in Downtown Amman",
-             "كنيسة المخلص وسط البلد - عمان", "Amman"),
+             "كنيسة المخلص وسط البلد - عمان", "Amman",
+             phones=["+962/6/4772928"],
+             contact_sources=[PATRIARCHATE_ROSTER]),
         body("jo-amman-khalda-ascension",
              "Church of the Ascension of the Lord in Khalda",
              "كنيسة الصعود الإلهي خلدا - عمان", "Amman"),
@@ -168,7 +178,16 @@ ROWS = {
         body("jo-madaba-map-saint-george-monastery",
              "Saint George Map Church and Monastery in Madaba",
              "كنيسة دير القديس جاورجيوس (الخارطة) البلد - مأدبا", "Madaba",
-             "Monastery", "monastery"),
+             "Monastery", "monastery",
+             [LOCAL_ROSTER, PATRIARCHATE_ROSTER, MADABA_SITE],
+             address=["Greek Orthodox Convent", "P.O. Box 80",
+                      "Madaba 17110, Jordan"],
+             site=MADABA_SITE,
+             emails=["info@stgeorge-madaba.church",
+                     "info.prmj@orthodoxjordan.org"],
+             phones=["+962795302104", "+962/5/3253701"],
+             contact_sources=[MADABA_SITE, PATRIARCHATE_ROSTER,
+                              CALENDAR_2026]),
         body("jo-madaba-hanina-dormition",
              "Church of the Dormition of the Theotokos in Hanina",
              "كنيسة رقاد والدة الإله حنينا - مأدبا", "Madaba"),
@@ -226,15 +245,24 @@ DIRECT_RUSSIA_ROWS = [
         "parent": "russia",
         "kind": "parish",
         "rank": "Metochion",
-        "name": "Russian Ecclesiastical Mission Metochion at the Site of the Baptism of the Lord",
-        "local": "Подворье Русской Духовной Миссии на месте Крещения Господня в Иордании",
+        "name": "Metochion in Honor of Saint John the Baptist at the Site of the Baptism of the Lord",
+        "local": "Подворье в честь Предтечи и Крестителя Господня Иоанна на месте Крещения",
         "seat": "Al-Maghtas",
         "country": "JO",
+        "address": [
+            "Pilgrim House of the Russian Ecclesiastical Mission",
+            "Baptism Site Reserve, Jordan",
+        ],
+        "site": "https://hoteljordan.ru/",
+        "emails": ["rushoteljordan@rusdm.com"],
+        "phones": ["+972 2 625-00-94"],
+        "contact_sources": [RUSSIAN_CHAPELS, RUSSIAN_HOTEL],
+        "contact_checked": CHECKED,
         "checked": CHECKED,
         "sources": [
+            RUSSIAN_CHAPELS,
+            RUSSIAN_HOTEL,
             "https://rusdm.ru/gps/",
-            "https://rusdm.ru/hotels/322",
-            "https://mospat.ru/en/news/92066/",
         ],
     },
 ]
@@ -257,6 +285,20 @@ def clean(source):
         raise ValueError("%s carries a non-HTTPS source" % row.get("id"))
     row["sources"] = sources
     row["cite"] = list(sources)
+    if row.get("site") and not row["site"].startswith("https://"):
+        raise ValueError("%s carries a non-HTTPS site" % row.get("id"))
+    has_contacts = bool(row.get("emails") or row.get("phones"))
+    contact_sources = list(row.get("contact_sources") or [])
+    if has_contacts:
+        if row.get("contact_checked") != CHECKED:
+            raise ValueError("%s has undated contact details" % row.get("id"))
+        if not 1 <= len(contact_sources) <= 3 or not all(
+                str(url).startswith("https://") for url in contact_sources):
+            raise ValueError("%s has invalid contact sources" % row.get("id"))
+        row["contact_sources"] = contact_sources
+    elif contact_sources or row.get("contact_checked"):
+        raise ValueError("%s dates contact sources without contacts" %
+                         row.get("id"))
     rendered = json.dumps(row, ensure_ascii=False)
     if any(mark in rendered for mark in (
             "\u2013", "\u2014", "\u2018", "\u2019", "\u201c", "\u201d",
@@ -351,7 +393,8 @@ def main():
     if args.dump:
         print(json.dumps(payloads, ensure_ascii=False, indent=2,
                          sort_keys=True))
-    print("Jordan: 47 current bodies under two canonical parents")
+    print("Jordan: 47 current bodies under two canonical parents; "
+          "3 carry institutional contacts and 2 carry body-owned sites")
     return 0
 
 

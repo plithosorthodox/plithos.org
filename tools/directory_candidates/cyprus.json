@@ -4,14 +4,14 @@
     "CY"
   ],
   "checked": "2026-11-15",
-  "method": "The 2025 official administrative directory of the Church of Cyprus supplies the principal current roster and identifies occupied, inaccessible, destroyed, historical, and count-only bodies. Current official Jerusalem, Romanian, and Russian Church sources were used to reconcile overlapping resident jurisdictions. Search engines and maps were used only for discovery. Only current named bodies supported by a competent first-party Church source are published. Occupied or inaccessible sites, suspended or historical bodies, aggregate counts, and unclear settlement references remain here.",
+  "method": "The 2025 official administrative directory of the Church of Cyprus supplies the principal current roster and identifies occupied, inaccessible, destroyed, historical, and count-only bodies. Current official Jerusalem, Antiochian, Romanian, and Russian Church sources were used to reconcile overlapping resident jurisdictions. Search engines and maps were used only for discovery. Only current named bodies supported by a competent first-party Church source are published. Occupied or inaccessible sites, suspended or historical bodies, aggregate counts, and unclear settlement references remain here.",
   "published_summary": {
     "cyprus": 21,
     "cy-archbishopric": 64,
     "cy-paphos": 105,
     "cy-kition": 50,
     "cy-kyrenia": 11,
-    "cy-limassol": 117,
+    "cy-limassol": 116,
     "cy-morphou": 50,
     "cy-constantia": 26,
     "cy-kykkos": 19,
@@ -22,7 +22,8 @@
     "cy-amathus": 21,
     "je-exarch-cyprus": 2,
     "romania-direct": 1,
-    "church-of-cyprus-total": 623,
+    "antioch-direct": 1,
+    "church-of-cyprus-total": 622,
     "total": 626
   },
   "candidates": [
@@ -146,6 +147,14 @@
       ]
     },
     {
+      "scope": "Antiochian Metochion in Limassol",
+      "result": "The Antioch Patriarchate's current directory expressly identifies Saint Ignatius Theophoros Church as the Antiochian Metochion in Limassol. The same church appears in the Church of Cyprus roster under the Metropolis of Limassol. It is represented once under Antioch, with both first-party sources retained.",
+      "sources": [
+        "https://www.antiochpatriarchate.org/images/pages/dalil-2025-final2024-12-18-12-31-19.pdf",
+        "https://churchofcyprus.org.cy/wp-content/uploads/2025/07/%CE%94%CE%99%CE%9F%CE%99%CE%9A%CE%97%CE%A4%CE%99%CE%9A%CE%9F-%CE%95%CE%9A%CE%9A%CE%9B%CE%97%CE%A3%CE%99%CE%91%CE%A3-%CE%9A%CE%A5%CE%A0%CE%A1%CE%9F%CE%A5-2025.pdf"
+      ]
+    },
+    {
       "scope": "Russian Saint Nicholas Church in Limassol",
       "result": "The Moscow Patriarchate currently corroborates Saint Nicholas Church in Limassol. The Church of Cyprus directory lists the same Russian-speaking parish church under the Metropolis of Limassol, so it is represented once under cy-limassol and not duplicated as a direct Russian body.",
       "sources": [
@@ -155,7 +164,7 @@
     },
     {
       "scope": "Language parishes under the Church of Cyprus",
-      "result": "Russian-speaking, Bulgarian-speaking, Romanian-speaking, Arabic-speaking, and Slavic-speaking bodies named inside Church of Cyprus rosters remain under their competent Cyprus see. Language or pastoral use alone is not treated as proof of a separate foreign jurisdiction.",
+      "result": "Russian-speaking, Bulgarian-speaking, Romanian-speaking, Arabic-speaking, and Slavic-speaking bodies named inside Church of Cyprus rosters remain under their competent Cyprus see unless a foreign Church expressly lists the same body as its own. Language or pastoral use alone is not treated as proof of a separate foreign jurisdiction.",
       "sources": [
         "https://churchofcyprus.org.cy/wp-content/uploads/2025/07/%CE%94%CE%99%CE%9F%CE%99%CE%9A%CE%97%CE%A4%CE%99%CE%9A%CE%9F-%CE%95%CE%9A%CE%9B%CE%97%CE%A3%CE%99%CE%91%CE%A3-%CE%9A%CE%A5%CE%A0%CE%A1%CE%9F%CE%A5-2025.pdf"
       ]
@@ -171,17 +180,25 @@
     },
     {
       "scope": "Jerusalem Patriarchate",
-      "result": "Published the two Cyprus bodies that the current Holy Sepulchre exarchate roster expressly marks in operation. Three suspended and four former bodies are held with their stated status.",
+      "result": "Published the two Cyprus bodies that the current Holy Sepulchre exarchate roster expressly marks in operation. The Nicosia church carries the Exarchate's officially published institutional email and landline because it is located at the Exarchate's seat. Three suspended and four former bodies are held with their stated status.",
       "sources": [
         "https://jerusalem-patriarchate.info/%CE%B4%CE%B9%CE%BF%CE%B9%CE%BA%CE%B7%CF%84%CE%B9%CE%BA%CE%AE-%CE%B4%CE%B9%CE%AC%CF%81%CE%B8%CF%81%CF%89%CF%83%CE%B9%CF%82/%E1%BC%90%CE%BE%CE%B1%CF%81%CF%87%CE%AF%CE%B1%CE%B9-%CF%80%CE%B1%CE%BD%CE%B1%CE%B3%CE%AF%CE%BF%CF%85-%CF%84%CE%AC%CF%86%CE%BF%CF%85/"
       ]
     },
     {
       "scope": "Romanian Orthodox Church",
-      "result": "Published the Romanian Orthodox Community in Nicosia from the Romanian Patriarchate's current external-community roster. The Romanian-speaking parish in Paralimni remains separately under the Church of Cyprus because its competent Cyprus directory lists it there.",
+      "result": "Published the Romanian Orthodox Community in Nicosia from the Romanian Patriarchate's current external-community roster, including its answering body-owned site and officially published institutional contact details. The Romanian-speaking parish in Paralimni remains separately under the Church of Cyprus because its competent Cyprus directory lists it there.",
       "sources": [
         "https://patriarhia.ro/organizarea-bisericii-ortodoxe-romane/reprezentante-si-comunitati-externe/",
         "https://churchofcyprus.org.cy/wp-content/uploads/2025/07/%CE%94%CE%99%CE%9F%CE%99%CE%9A%CE%97%CE%A4%CE%99%CE%9A%CE%9F-%CE%95%CE%9A%CE%9B%CE%97%CE%A3%CE%99%CE%91%CE%A3-%CE%9A%CE%A5%CE%A0%CE%A1%CE%9F%CE%A5-2025.pdf"
+      ]
+    },
+    {
+      "scope": "Greek Orthodox Patriarchate of Antioch and All the East",
+      "result": "Published the Antiochian Metochion in Limassol from Antioch's current directory and reconciled it with the same Saint Ignatius Theophoros Church in the Church of Cyprus roster. The body is represented once under Antioch.",
+      "sources": [
+        "https://www.antiochpatriarchate.org/images/pages/dalil-2025-final2024-12-18-12-31-19.pdf",
+        "https://churchofcyprus.org.cy/wp-content/uploads/2025/07/%CE%94%CE%99%CE%9F%CE%99%CE%9A%CE%97%CE%A4%CE%99%CE%9A%CE%9F-%CE%95%CE%9A%CE%9A%CE%9B%CE%97%CE%A3%CE%99%CE%91%CE%A3-%CE%9A%CE%A5%CE%A0%CE%A1%CE%9F%CE%A5-2025.pdf"
       ]
     },
     {
@@ -194,7 +211,7 @@
     },
     {
       "scope": "Remaining canonical Local Churches and overlapping diaspora jurisdictions",
-      "result": "The Church of Cyprus directory's general profiles of other Orthodox Churches are not resident-body rosters. No additional Cyprus row is published without an exact current first-party jurisdictional citation. This records incomplete verification and makes no country-level absence claim for Constantinople, Alexandria, Antioch, Serbia, Bulgaria, Georgia, Greece, Poland, Albania, the Czech Lands and Slovakia, North Macedonia, Ukraine, OCU, OCA, ROCOR, Sinai, or other canonical diaspora structures.",
+      "result": "The Church of Cyprus directory's general profiles of other Orthodox Churches are not resident-body rosters. No additional Cyprus row is published without an exact current first-party jurisdictional citation. This records incomplete verification and makes no country-level absence claim for Constantinople, Alexandria, Serbia, Bulgaria, Georgia, Greece, Poland, Albania, the Czech Lands and Slovakia, North Macedonia, Ukraine, OCU, OCA, ROCOR, Sinai, or other canonical diaspora structures.",
       "sources": [
         "https://churchofcyprus.org.cy/wp-content/uploads/2025/07/%CE%94%CE%99%CE%9F%CE%99%CE%9A%CE%97%CE%A4%CE%99%CE%9A%CE%9F-%CE%95%CE%9A%CE%9B%CE%97%CE%A3%CE%99%CE%91%CE%A3-%CE%9A%CE%A5%CE%A0%CE%A1%CE%9F%CE%A5-2025.pdf"
       ]

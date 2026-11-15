@@ -2,12 +2,14 @@
   "v": 1,
   "country": "JO",
   "checked": "2026-11-15",
-  "method": "The live Jordan Metropolis church roster was reconciled with the Jerusalem Patriarchate's East Bank roster and its 2025 official calendar. The current Russian Ecclesiastical Mission record was checked separately. Search and maps were used only for discovery. Duplicate spellings, historical sites, and institutions were not counted as additional worship bodies.",
+  "method": "The live Jordan Metropolis church roster was reconciled with the Jerusalem Patriarchate's East Bank roster and its 2026 official calendar. The current Russian Ecclesiastical Mission record was checked separately. Search and maps were used only for discovery. Duplicate spellings, historical sites, and institutions were not counted as additional worship bodies.",
   "published_summary": {
     "je-amman": 46,
     "russia": 1,
     "parish_and_shrine_bodies": 36,
     "monastic_bodies": 11,
+    "contact_bearing_bodies": 3,
+    "body_owned_websites": 2,
     "total": 47
   },
   "candidates": [
@@ -22,6 +24,17 @@
         "https://en.jerusalem-patriarchate.info/holy-shrines/holy-shrines-in-jordan/",
         "https://orthodoxjordan.org/%D8%A7%D9%84%D9%83%D9%86%D8%A7%D8%A6%D8%B3/"
       ]
+    },
+    {
+      "candidate_id": "jo-serbian-baptism-site-land-grant",
+      "parent": "serbia",
+      "country": "JO",
+      "name": "Proposed Serbian Orthodox presence at the Baptism Site",
+      "status": "hold until a competent Church source establishes a current worship body",
+      "reason": "The Serbian Church reported in December 2025 that Jordan offered land near the Baptism Site. It did not report that a parish, monastery, mission, chapel, or recurring worship community had been constituted there.",
+      "sources": [
+        "https://www.spc.rs/en/news/patriarch/-/15415.patriarch-porfirije-visited-the-site-of-the-baptism-of-our-lord-and-savior-jesus-christ.html"
+      ]
     }
   ],
   "reconciliation": [
@@ -33,31 +46,39 @@
       ]
     },
     {
-      "scope": "Jerusalem Patriarchate East Bank roster and 2025 calendar",
+      "scope": "Jerusalem Patriarchate East Bank roster and 2026 calendar",
       "result": "The Patriarchate records six additional exact bodies not exposed by the live local page: the Saint George shrine at Mahis, the Prophet Elias shrine at Listib, the Saint George shrine at Souf, the Saint John the Baptist church at Ma'in, and the Saint George shrines at Taybeh and Kufran. They are published from the competent Church's current records.",
       "sources": [
         "https://en.jerusalem-patriarchate.info/administrative-structure/churches-in-the-east-bank-jordan/",
-        "https://ar.jerusalem-patriarchate.info/wp-content/uploads/2025/03/ARABIC_CALENDAR_OF_PATRIARCHATE-2025_R.pdf"
+        "https://ar.jerusalem-patriarchate.info/wp-content/uploads/2026/02/arabic_2026.pdf"
       ]
     },
     {
       "scope": "Russian Pilgrim House and metochion at the Baptism Site",
       "result": "The pilgrim house, its house chapel, and the Russian Ecclesiastical Mission metochion are one current institution at the same site, not three bodies. It is published once as the current metochion under the Russian Church.",
       "sources": [
-        "https://rusdm.ru/gps/",
+        "https://rusdm.ru/chapel/",
         "https://rusdm.ru/hotels/322",
-        "https://mospat.ru/en/news/92066/"
+        "https://hoteljordan.ru/"
+      ]
+    },
+    {
+      "scope": "Theophany and Saint John the Baptist names at Al-Maghtas",
+      "result": "The current Jordan roster publishes the Patriarchal Monastery of the Theophany, while current Metropolis reporting also calls the same Al-Maghtas complex the Monastery of Saint John the Baptist. The category and event records connect both names to the same current complex, so it remains one published body rather than two.",
+      "sources": [
+        "https://orthodoxjordan.org/%D8%A7%D9%84%D9%83%D9%86%D8%A7%D8%A6%D8%B3/",
+        "https://orthodoxjordan.org/category/%D8%A7%D9%84%D9%83%D9%86%D8%A7%D8%A6%D8%B3/%D8%AF%D9%8A%D8%B1-%D8%A7%D9%84%D8%B8%D9%87%D9%88%D8%B1-%D8%A7%D9%84%D8%A7%D9%84%D9%87%D9%8A-%D8%A7%D9%84%D9%85%D8%BA%D8%B7%D8%B3/"
       ]
     }
   ],
   "official_jurisdiction_audit": [
     {
       "jurisdiction": "Patriarchate of Jerusalem",
-      "result": "Forty-six exact current bodies in Jordan were established by the local Metropolis roster, the Patriarchate's East Bank roster, and its 2025 official calendar. They are published under the Amman archdiocesan parent.",
+      "result": "Forty-six exact current bodies in Jordan were established by the local Metropolis roster, the Patriarchate's East Bank roster, and its 2026 official calendar. They are published under the Amman archdiocesan parent.",
       "sources": [
         "https://orthodoxjordan.org/%D8%A7%D9%84%D9%83%D9%86%D8%A7%D8%A6%D8%B3/",
         "https://en.jerusalem-patriarchate.info/administrative-structure/churches-in-the-east-bank-jordan/",
-        "https://ar.jerusalem-patriarchate.info/wp-content/uploads/2025/03/ARABIC_CALENDAR_OF_PATRIARCHATE-2025_R.pdf"
+        "https://ar.jerusalem-patriarchate.info/wp-content/uploads/2026/02/arabic_2026.pdf"
       ]
     },
     {
@@ -65,7 +86,8 @@
       "result": "The Russian Ecclesiastical Mission's current metochion at the Site of the Baptism of the Lord is established by the Mission's own current directory and current Church reporting. It is published under the direct Russian Church branch.",
       "sources": [
         "https://rusdm.ru/gps/",
-        "https://mospat.ru/en/news/92066/"
+        "https://rusdm.ru/chapel/",
+        "https://rusdm.ru/hotels/322"
       ]
     },
     {

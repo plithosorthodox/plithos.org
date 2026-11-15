@@ -47,11 +47,27 @@ RUSSIA_MOUNT_LEBANON = "https://mospat.ru/en/news/94696/"
 TRIPOLI_SAINT_JAMES = (
     "https://archtripoli.org/Archdiocese/Monasteries/Yaacoub-Deddeh"
 )
+TRIPOLI_BADBA = (
+    "https://archtripoli.org/Archdiocese/Monasteries/Chafia-Bdeba"
+)
+ZAHLE_UNEXPECTED_JOY = "https://mospat.ru/en/news/94288/"
+ZAHLE_UNEXPECTED_JOY_ANTIOCH = (
+    "https://antiochpatriarchate.org/patriark-news/"
+    "%d8%a7%d9%84%d8%a8%d8%b7%d8%b1%d9%8a%d8%b1%d9%83-"
+    "%d9%8a%d9%88%d8%ad%d9%86%d8%a7-%d8%a7%d9%84%d8%b9%d8%a7%d8%b4%d8%b1-"
+    "%d9%8a%d9%82%d9%8a%d9%85-%d9%82%d8%af%d8%a7%d8%b3%d8%a7%d9%8b-"
+    "%d9%81%d9%8a-%d9%83/"
+)
+RUSSIA_METOCHION_SITE = "https://podvorie-livan.com/"
+RUSSIA_ANNUNCIATION_SITE = (
+    "https://podvorie-livan.com/"
+    "hram-blagoveshcheniya-presvyatoy-bogoroditsy-v-zhal-el-dib"
+)
 
 
 def body(row_id, parent, name, local, seat, rank, sources,
-         kind="parish", address=None):
-    return {
+         kind="parish", address=None, site=None):
+    item = {
         "id": row_id,
         "parent": parent,
         "kind": kind,
@@ -63,6 +79,9 @@ def body(row_id, parent, name, local, seat, rank, sources,
         "address": address,
         "sources": sources,
     }
+    if site:
+        item["site"] = site
+    return item
 
 
 def beirut_body(number, slug, name, local, seat="Beirut", rank="Church",
@@ -290,6 +309,13 @@ ZAHLE_ROWS = [
         "saint-george-baalbek", "Church of Saint George in Baalbek",
         "القديس جاورجيوس- بعلبك", "Baalbek",
     ),
+    zahle_body(
+        "unexpected-joy-theotokos",
+        "Church of the \"Unexpected Joy\" Icon of the Mother of God in Zahle",
+        "كنيسة سيدة الفرح-زحلة",
+        "Zahle",
+        sources=[ZAHLE_UNEXPECTED_JOY_ANTIOCH, ZAHLE_UNEXPECTED_JOY],
+    ),
 ]
 
 
@@ -317,7 +343,7 @@ TRIPOLI_ROWS = [
         "fervent-intercessor-badba-monastery",
         "Monastery of Our Lady, the Fervent Intercessor, in Badba",
         "دير الشفيعة الحارة - بدبا", "Badba", "Monastery", "monastery",
-        [TRIPOLI_MONASTERIES],
+        [TRIPOLI_MONASTERIES, TRIPOLI_BADBA],
     ),
     tripoli_body(
         "saint-james-persian-deddeh-monastery",
@@ -450,7 +476,8 @@ DIRECT_RUSSIA_ROWS = [
         "Подворье Русской Православной Церкви в Бсалиме",
         "Bsalim",
         "Metochion",
-        [RUSSIA_METOCHION, RUSSIA_METOCHION_CURRENT],
+        [RUSSIA_METOCHION, RUSSIA_METOCHION_CURRENT, RUSSIA_METOCHION_SITE],
+        site=RUSSIA_METOCHION_SITE,
     ),
     body(
         "lb-ru-jal-el-dib-annunciation",
@@ -459,7 +486,8 @@ DIRECT_RUSSIA_ROWS = [
         "храм Благовещения Пресвятой Богородицы в Жаль Эль Диб",
         "Jal El Dib",
         "Church",
-        [RUSSIA_ANNUNCIATION, RUSSIA_MOUNT_LEBANON],
+        [RUSSIA_ANNUNCIATION, RUSSIA_MOUNT_LEBANON,
+         RUSSIA_ANNUNCIATION_SITE],
     ),
 ]
 
@@ -468,8 +496,12 @@ ROWS = {
     "an-zahleh": ZAHLE_ROWS,
     "an-tripoli": TRIPOLI_ROWS,
 }
-EXPECTED = {"an-beirut": 16, "an-zahleh": 25, "an-tripoli": 17}
-EXPECTED_TOTAL = 63
+EXPECTED = {"an-beirut": 16, "an-zahleh": 26, "an-tripoli": 17}
+EXPECTED_TOTAL = 64
+EXPECTED_CONTACT_ROWS = 36
+EXPECTED_EMAIL_VALUES = 2
+EXPECTED_PHONE_VALUES = 44
+EXPECTED_SITE_ROWS = 1
 ALLOWED_KINDS = {"parish", "monastery"}
 ALLOWED_RANKS = {
     "Church", "Cathedral", "Monastery", "Shrine",
@@ -517,88 +549,82 @@ _CONTACT_UPDATES = {
         "phones": ["01 216 885", "01 334 086"],
     },
     "lb-an-beirut-saint-catherine-monastery": {"phones": ["01 200 239"]},
-    "lb-an-beirut-saint-george-university-medical-center": {
-        "phones": ["ext: 1287"],
-    },
     "lb-an-zahleh-saint-nicholas-midan": {
-        "phones": ["08/820527", "08/818630", "03/009609", "03/379808"],
+        "phones": ["08/820527", "08/818630"],
     },
     "lb-an-zahleh-saint-nicholas-gardenia": {
-        "phones": ["08/820527", "03/009609"],
-    },
-    "lb-an-zahleh-saint-george-deir-el-ghazal": {
-        "phones": ["03/138265"],
+        "phones": ["08/820527"],
     },
     "lb-an-zahleh-saint-andrew-rayak": {
-        "phones": ["08/951127", "03/662892"],
+        "phones": ["08/951127"],
     },
     "lb-an-zahleh-saint-george-housh-el-omara": {
-        "phones": ["08/811695", "03/329627", "03/672273"],
+        "phones": ["08/811695"],
     },
     "lb-an-zahleh-nativity-theotokos-qabb-elias": {
-        "phones": ["08/501166", "81/310211"],
+        "phones": ["08/501166"],
     },
     "lb-an-zahleh-annunciation-theotokos-chlifa": {
-        "phones": ["08/300082", "71/676416"],
+        "phones": ["08/300082"],
     },
     "lb-an-zahleh-dormition-theotokos-hadath-baalbek": {
-        "phones": ["08/300082", "71/676416"],
+        "phones": ["08/300082"],
     },
     "lb-an-zahleh-our-lady-earthquake-zahleh": {
-        "phones": ["08/817868", "03/321248"],
+        "phones": ["08/817868"],
     },
     "lb-an-zahleh-saint-george-qaraoun": {
-        "phones": ["08/801232", "76/827982"],
+        "phones": ["08/801232"],
     },
     "lb-an-zahleh-transfiguration-makseh": {
-        "phones": ["08/801232", "76/827982"],
+        "phones": ["08/801232"],
     },
     "lb-an-zahleh-saint-anthony-maallaqa": {
-        "phones": ["08/800890", "03/239871"],
+        "phones": ["08/800890"],
     },
     "lb-an-zahleh-archangel-michael-ablah": {
-        "phones": ["08/950776", "03/226286"],
+        "phones": ["08/950776"],
     },
     "lb-an-zahleh-our-lady-beit-chama": {
-        "phones": ["08/950776", "03/226286"],
+        "phones": ["08/950776"],
     },
     "lb-an-zahleh-saint-george-qaa-el-rim": {
-        "phones": ["80/800130", "70/528920"],
+        "phones": ["80/800130"],
     },
     "lb-an-zahleh-holy-cross-rayit": {
-        "phones": ["08/800130", "70/528920"],
+        "phones": ["08/800130"],
     },
     "lb-an-zahleh-saint-george-kafr-zabad": {
-        "phones": ["08/807932", "70/777173"],
+        "phones": ["08/807932"],
     },
     "lb-an-zahleh-saint-george-talia": {
-        "phones": ["08/829599", "03/581847"],
+        "phones": ["08/829599"],
     },
     "lb-an-zahleh-prophet-elias-housh-barada": {
-        "phones": ["08/829599", "03/581847"],
+        "phones": ["08/829599"],
     },
     "lb-an-zahleh-saint-john-baptist-taalabaya": {
-        "phones": ["08/925533", "03/940157"],
+        "phones": ["08/925533"],
     },
     "lb-an-zahleh-saint-george-jdita": {
-        "phones": ["08/925533", "03/940157"],
+        "phones": ["08/925533"],
     },
-    "lb-an-zahleh-prophet-elias-niha": {"phones": ["70/865170"]},
-    "lb-an-zahleh-saint-nicholas-terbol": {"phones": ["70/865170"]},
-    "lb-an-zahleh-dormition-theotokos-qousaya": {
-        "phones": ["03/688257"],
+    "lb-an-tripoli-fervent-intercessor-badba-monastery": {
+        "phones": ["06-931509"],
     },
-    "lb-an-zahleh-saint-george-baalbek": {"phones": ["71/964720"]},
     "lb-an-tripoli-saint-james-persian-deddeh-monastery": {
         "phones": ["405176/ 06"],
     },
     "lb-an-balamand-patriarchal-monastery": {
-        "phones": ["00961 6 930311", "00961 76 880886"],
+        "phones": ["00961 6 930311"],
         "emails": ["monastery.balamand@gmail.com"],
     },
     "lb-an-saint-elias-shwayya-patriarchal-monastery": {
-        "phones": ["00961 4 390046", "00961 3 349337"],
-        "emails": ["costakayal.ck@gmail.com"],
+        "phones": ["00961 4 390046"],
+    },
+    "lb-ru-bsalim-metochion": {
+        "phones": ["+961-04-722-633"],
+        "emails": ["SanGiovanni-Libano@yandex.com"],
     },
 }
 for _contact_id, _contact_values in _CONTACT_UPDATES.items():
@@ -614,10 +640,14 @@ for _contact_id, _contact in CONTACTS.items():
         _contact["contact_sources"] = [ZAHLE_ROSTER]
     elif _contact_id == "lb-an-tripoli-saint-james-persian-deddeh-monastery":
         _contact["contact_sources"] = [TRIPOLI_SAINT_JAMES]
+    elif _contact_id == "lb-an-tripoli-fervent-intercessor-badba-monastery":
+        _contact["contact_sources"] = [TRIPOLI_BADBA]
     elif _contact_id == "lb-an-balamand-patriarchal-monastery":
         _contact["contact_sources"] = [BALAMAND, ANTIOCH_DIRECTORY]
     elif _contact_id == "lb-an-saint-elias-shwayya-patriarchal-monastery":
         _contact["contact_sources"] = [ANTIOCH_DIRECTORY]
+    elif _contact_id == "lb-ru-bsalim-metochion":
+        _contact["contact_sources"] = [RUSSIA_METOCHION_SITE]
     else:
         raise ValueError("missing contact source for %s" % _contact_id)
     _ROW_BY_ID[_contact_id].update({
@@ -671,6 +701,8 @@ def _validate_row(item, seen, branch_seen, names):
             not isinstance(item["address"], list) or
             not all(isinstance(line, str) for line in item["address"])):
         raise ValueError("%s has an invalid address" % row_id)
+    if item.get("site") and not item["site"].startswith("https://"):
+        raise ValueError("%s has a non-HTTPS body-owned site" % row_id)
     rendered = json.dumps(item, ensure_ascii=False)
     if any(mark in rendered for mark in (
             "\u2013", "\u2014", "\ufffd", "\u2018", "\u2019",
@@ -729,12 +761,17 @@ def build():
                    for value in contact[key]):
             raise ValueError("%s contact map has an empty value" % row_id)
     if sum(bool(value["emails"] or value["phones"])
-           for value in CONTACTS.values()) != 40:
+           for value in CONTACTS.values()) != EXPECTED_CONTACT_ROWS:
         raise ValueError("Lebanon contact-bearing row total is out of sync")
-    if sum(len(value["emails"]) for value in CONTACTS.values()) != 2:
+    if sum(len(value["emails"]) for value in CONTACTS.values()) != \
+            EXPECTED_EMAIL_VALUES:
         raise ValueError("Lebanon email total is out of sync")
-    if sum(len(value["phones"]) for value in CONTACTS.values()) != 72:
+    if sum(len(value["phones"]) for value in CONTACTS.values()) != \
+            EXPECTED_PHONE_VALUES:
         raise ValueError("Lebanon phone total is out of sync")
+    if sum(bool(item.get("site")) for item in ALL_SOURCE_ROWS) != \
+            EXPECTED_SITE_ROWS:
+        raise ValueError("Lebanon body-owned site total is out of sync")
     if sum(EXPECTED.values()) + len(DIRECT_ANTIOCH_ROWS) + \
             len(DIRECT_RUSSIA_ROWS) != EXPECTED_TOTAL:
         raise ValueError("Lebanon branch total must remain %d" % EXPECTED_TOTAL)
@@ -750,12 +787,16 @@ def validate_candidate_ledger():
     summary = ledger.get("published_summary") or {}
     expected_summary = {
         "an-beirut": 16,
-        "an-zahleh": 25,
+        "an-zahleh": 26,
         "an-tripoli": 17,
         "antioch": 3,
         "russia": 2,
         "total": EXPECTED_TOTAL,
         "canonical_jurisdictions_represented": 2,
+        "contact_rows": EXPECTED_CONTACT_ROWS,
+        "public_email_values": EXPECTED_EMAIL_VALUES,
+        "public_phone_values": EXPECTED_PHONE_VALUES,
+        "body_owned_sites": EXPECTED_SITE_ROWS,
     }
     if summary != expected_summary:
         raise ValueError("Lebanon candidate ledger totals are out of sync")
@@ -776,6 +817,13 @@ def validate_candidate_ledger():
         candidate_ids.append(candidate_id)
     if len(candidate_ids) != len(set(candidate_ids)):
         raise ValueError("Lebanon candidate ledger has duplicate ids")
+    required_categories = {
+        "affiliation-unclear", "aggregate-only", "historical",
+        "noncanonical", "uncertain", "unnamed",
+    }
+    categories = {item.get("category") for item in ledger["candidates"]}
+    if categories < required_categories:
+        raise ValueError("Lebanon candidate ledger lacks a required category")
     for section in required_lists:
         for item in ledger[section]:
             sources = item.get("sources") or []
@@ -808,8 +856,8 @@ def main():
                          sort_keys=True))
     else:
         print(
-            "Lebanon: 63 current officially named bodies across "
-            "2 canonical jurisdictions"
+            "Lebanon: %d current officially named bodies across "
+            "2 canonical jurisdictions" % EXPECTED_TOTAL
         )
     return 0
 
