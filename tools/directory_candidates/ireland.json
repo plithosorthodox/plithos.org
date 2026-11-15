@@ -1,0 +1,33 @@
+{
+  "v": 1,
+  "countries": [
+    "IE",
+    "GB"
+  ],
+  "checked": "2026-11-14",
+  "status": "not published pending current official parent confirmation",
+  "candidates": [
+    {
+      "name": "Parish of Saint Maximus the Confessor",
+      "local": "წმ. მაქსიმე აღმსარებლის სამრევლო",
+      "place": "Dublin, Ireland",
+      "claimed_parent": "Georgian Orthodox Eparchy of Great Britain and Ireland",
+      "address": [
+        "Goldenbridge Integrated Service Complex",
+        "Saint Vincent Street West",
+        "Dublin 8",
+        "D08 YWN2"
+      ],
+      "discovery": "https://georgianorthodoxchurchinireland.com/",
+      "official_note": "The parish's own current site gives its name and address, but no current Georgian Patriarchate or diocesan parish list was found to establish the claimed parent row."
+    },
+    {
+      "name": "Bulgarian Orthodox Church Community in Ireland",
+      "local": "Българска православна църковна община в Ирландия",
+      "place": "Dublin, Ireland",
+      "claimed_parent": "Bulgarian Eastern Orthodox Diocese of Western and Central Europe",
+      "discovery": "https://bg-patriarshia.bg/orthodox-thought/smelostta-da-si-pozhelaesh-tsarkva-balgarite-v-irlandia-osno",
+      "official_note": "The Bulgarian Patriarchate reports that foundations were laid for a new community at the 2026 Paschal service, but describes it as still being organized and does not yet list a patron, regular place of worship or parish schedule."
+    }
+  ]
+}

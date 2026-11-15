@@ -1,0 +1,45 @@
+{
+  "v": 1,
+  "country": "LV",
+  "checked": "2026-11-14",
+  "status": "not published pending current official parent confirmation",
+  "claimed_body": {
+    "name": "Latvijas Pareizticīgā Autonomā Baznīca Konstantinopoles Patriarhāta jurisdikcijā",
+    "claimed_parent": "constantinople",
+    "discovery": "https://data.gov.lv/dati/lv/dataset/uz",
+    "verification": "https://ec-patr.org/entities/iera-mitropoli-soyidias/"
+  },
+  "candidates": [
+    {"name": "Visu Svēto Latvijas Pareizticīgā (autonomā) draudze", "discovery": "https://data.gov.lv/dati/lv/dataset/uz"},
+    {"name": "Mūžamjaunavas Marijas PATVĒRUMA Latvijas Pareizticīgā (autonomā) draudze", "discovery": "https://data.gov.lv/dati/lv/dataset/uz"},
+    {"name": "Apustuļiem līdzīgās Svētās lielkņazes OLGAS Latvijas Pareizticīgā (autonomā) draudze", "discovery": "https://data.gov.lv/dati/lv/dataset/uz"},
+    {"name": "Visu Sērojošo Prieka Latvijas Pareizticīgā (autonomā) draudze", "discovery": "https://data.gov.lv/dati/lv/dataset/uz"},
+    {"name": "Svētā arhistratēģa erceņģeļa MIHAILA Latvijas Pareizticīgā (autonomā) draudze", "discovery": "https://data.gov.lv/dati/lv/dataset/uz"},
+    {"name": "Svētītāja PLATONA jaunmocekļa Latvijas Pareizticīgā (autonomā) draudze", "discovery": "https://data.gov.lv/dati/lv/dataset/uz"},
+    {"name": "Rīgas Dievmātes Pasludināšanas Latvijas Pareizticīgā (autonomā) draudze", "discovery": "https://data.gov.lv/dati/lv/dataset/uz"},
+    {"name": "Svētītāja NIKOLAJA Latvijas Pareizticīgā (autonomā) draudze", "discovery": "https://data.gov.lv/dati/lv/dataset/uz"},
+    {"name": "Svēto mocekļu Borisa un Gļeba Latvijas Pareizticīgā (autonomā) draudze", "discovery": "https://data.gov.lv/dati/lv/dataset/uz"},
+    {"name": "Svētā Apustuļiem līdzīgā lielkņaza Vladimira Latvijas Pareizticīgā (autonomā) draudze", "discovery": "https://data.gov.lv/dati/lv/dataset/uz"},
+    {"name": "Svētītāja Joanna jaunmocekļa Rīgas Arhibīskapa Latvijas Pareizticīgā (autonomā) draudze", "discovery": "https://data.gov.lv/dati/lv/dataset/uz"}
+  ],
+  "closed": [
+    {
+      "name": "Rīgas Svētā Aleksandra Ņevska Latvijas Pareizticīgā Autonomā draudze",
+      "registration": "40801052706",
+      "ceased": "2026-01-23",
+      "source": "https://data.gov.lv/dati/lv/dataset/uz"
+    }
+  ],
+  "official_inactive_sites": [
+    {
+      "name": "Kaunatas Vissvētās Dievmātes Aizmigšanas pareizticīgo baznīca",
+      "status": "official directory says inactive and no services are held",
+      "source": "https://eparhija.lv/hramy-eparhii/hramy-rezeknenskogo-blagochinija/"
+    },
+    {
+      "name": "Vecslabadas Kunga Apskaidrošanās pareizticīgo baznīca",
+      "status": "official directory says restoration is needed and no services are held",
+      "source": "https://eparhija.lv/hramy-eparhii/hramy-rezeknenskogo-blagochinija/"
+    }
+  ]
+}

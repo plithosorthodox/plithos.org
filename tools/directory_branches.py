@@ -15,7 +15,9 @@ import directory_finland
 import directory_direct
 import directory_japan
 import directory_korea
+import directory_latvia
 import directory_lithuania
+import directory_northwest_europe
 
 
 MODULES = (
@@ -24,7 +26,9 @@ MODULES = (
     directory_direct,
     directory_japan,
     directory_korea,
+    directory_latvia,
     directory_lithuania,
+    directory_northwest_europe,
 )
 
 
