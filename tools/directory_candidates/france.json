@@ -1,0 +1,422 @@
+{
+  "v": 1,
+  "countries": [
+    "FR"
+  ],
+  "checked": "2026-11-15",
+  "method": "Current official patriarchal, diocesan, vicariate, parish, mission, monastery, chapel, and worship-site sources establish published rows. Search engines, maps, civil registers, and independent directories were used only for discovery. Unclear, historical, omitted, conflicting, and outside-scope bodies remain here rather than being silently merged or published. Overlapping canonical jurisdictions are preserved neutrally.",
+  "published_summary": {
+    "an-france": 4,
+    "bg-western-central-europe": 4,
+    "ep-france": 58,
+    "ep-ukrainian-western-europe": 1,
+    "mk-europe": 1,
+    "ro-western-europe": 113,
+    "ru-archdiocese-western-europe": 47,
+    "ru-great-britain-and-western-europe-rocor": 13,
+    "ru-korsun": 37,
+    "sr-western-europe": 29,
+    "ukraine-uoc": 2,
+    "FR": 309,
+    "total": 309
+  },
+  "candidates": [
+    {
+      "candidate_id": "fr-an-le-blanc-mesnil-archangels",
+      "parent": "an-france",
+      "country": "FR",
+      "name": "Holy Archangels Michael and Gabriel Antiochian Orthodox Parish in Le Blanc-Mesnil",
+      "status": "hold for current first-party confirmation",
+      "reason": "The parish appears in the documented historical four-parish Antiochian structure, but it is absent from the current first-party parish material located during this audit.",
+      "sources": [
+        "https://www.oeuvre-orient.fr/nos-actions/actualites/visite-pastorale-en-france-beatitude-patriarche-jean-x-dantioche-primat-leglise-grec-orthodoxe-dantioche-lorient/",
+        "https://www.antiochefrance.org/"
+      ]
+    },
+    {
+      "candidate_id": "fr-ge-villeneuve-saint-georges-saint-tamar",
+      "parent": "ge-western-europe",
+      "country": "FR",
+      "name": "St Tamar Georgian Orthodox Parish in Villeneuve-Saint-Georges",
+      "status": "hold for current official Georgian parish confirmation",
+      "reason": "Government cultural material and historical reporting identify the parish, but no current official Georgian diocesan directory was found.",
+      "sources": [
+        "https://www.culture.gouv.fr/fr/Media/Thematiques/Patrimoine-culturel-immateriel/Files/Fiches-inventaire-du-PCI/Les-danses-georgiennes-en-Ile-de-France",
+        "https://patriarchate.ge/sinodi/members/all"
+      ]
+    },
+    {
+      "candidate_id": "fr-ge-strasbourg-saint-ketevan",
+      "parent": "ge-western-europe",
+      "country": "FR",
+      "name": "St Ketevan Georgian Orthodox Parish in Strasbourg",
+      "status": "hold for current official Georgian parish confirmation",
+      "reason": "Independent and historical sources identify the parish, but no current official Georgian diocesan directory was found.",
+      "sources": [
+        "https://patriarchate.ge/sinodi/members/all",
+        "https://stgregoirestattale.wordpress.com/wp-content/uploads/2013/08/programme-septembre-2013.pdf"
+      ]
+    },
+    {
+      "candidate_id": "fr-ge-denat-saint-nino",
+      "parent": "ge-western-europe",
+      "country": "FR",
+      "name": "St Nino Georgian Orthodox Parish in Dénat",
+      "status": "hold for current official Georgian parish confirmation",
+      "reason": "The body appears in current independent directory research, but no current official Georgian diocesan parish record was located.",
+      "sources": [
+        "https://patriarchate.ge/sinodi/members/all",
+        "https://www.aeof.fr/uploads/files/AEOF-AnnuaireRegroup%C3%A92024.pdf"
+      ]
+    },
+    {
+      "candidate_id": "fr-ge-dijon-saint-nikolozi",
+      "parent": "ge-western-europe",
+      "country": "FR",
+      "name": "St Nikolozi Georgian Orthodox Parish in Dijon",
+      "status": "hold for current official Georgian parish confirmation",
+      "reason": "A current French civil association record describes a Georgian Orthodox parish, but civil registration does not establish its current canonical parent and no official Georgian diocesan record was found.",
+      "sources": [
+        "https://asso-info.fr/eglise-orthodoxe-georgienne-de-dijon-paroisse-saint-nikolozi",
+        "https://patriarchate.ge/sinodi/members/all"
+      ]
+    },
+    {
+      "candidate_id": "fr-uoc-additional-france-parishes",
+      "parent": "ukraine-uoc",
+      "country": "FR",
+      "name": "Additional Ukrainian Orthodox Church parishes in France",
+      "status": "hold for individual current official identification",
+      "reason": "The Paris rector is officially called dean of UOC parishes in France, in the plural, but the audit could individually confirm only Paris and Besançon as current parishes.",
+      "sources": [
+        "https://vzcz.church.ua/2024/04/09/keruyuchij-zaxidnojevropejskim-vikariatstvom-upc-vidvidav-parafiyu-na-chest-pochajivskoji-ikoni-bozhoji-materi-v-parizhi/",
+        "https://vzcz.church.ua/2026/02/09/pro-sluzhinnya-zaxidnojevropejskogo-vikariatstva-ukrajinskoji-pravoslavnoji-cerkvi/"
+      ]
+    },
+    {
+      "candidate_id": "fr-uoc-dunkerque-worship-community",
+      "parent": "ukraine-uoc",
+      "country": "FR",
+      "name": "Ukrainian Orthodox worship community in Dunkerque",
+      "status": "hold for stable-body confirmation",
+      "reason": "An official April 2025 report lists a Dunkerque address for Paschal worship by clergy of the UOC Belgian Deanery, but does not identify a parish, mission, chapel, or recurring worship site.",
+      "sources": [
+        "https://vzcz.church.ua/2025/04/16/v-bryusseli-zvershena-soborna-liturgiya-z-duxovenstvom-belgijskogo-blagochinnya/"
+      ]
+    },
+    {
+      "candidate_id": "fr-uoc-perpignan-prayer-community",
+      "parent": "ukraine-uoc",
+      "country": "FR",
+      "name": "Ukrainian Orthodox prayer community in Perpignan",
+      "status": "hold for stable-body confirmation",
+      "reason": "An official February 2026 report documents a common prayer in Perpignan, but does not identify a parish, mission, chapel, or recurring worship site.",
+      "sources": [
+        "https://vzcz.church.ua/2026/02/26/u-chetvertu-richnicyu-z-pochatku-vijni-na-zakordonnix-parafiyax-upc-buli-zversheni-molebni-i-panaxidi/"
+      ]
+    }
+  ],
+  "outside_scope": [
+    {
+      "name": "Chapel of the All-Holy Mother of God in Monaco",
+      "parent": "ep-france",
+      "country": "MC",
+      "status": "official and current, outside France module scope",
+      "sources": [
+        "https://mgro.fr/fr/paroisses/",
+        "https://mgro.fr/fr/paroisse/chapelle-la-toute-sainte-mere-de-dieu/"
+      ]
+    },
+    {
+      "name": "Protection of the Mother of God Parish in Melide",
+      "parent": "ru-korsun",
+      "country": "CH",
+      "status": "official current API record misclassified with country code FRA, outside France scope",
+      "reason": "The current Korsun API returns the record under the France filter, but the official address and coordinates are in Melide, Switzerland.",
+      "sources": [
+        "https://cerkov-ru.com/api/v1/map/parishes?locale=fr&bbox=-10%2C40%2C15%2C55&country_code=FRA",
+        "https://cerkov-ru.com/fr/parishes/paroisse-de-la-protection-de-la-mere-de-dieu-a-melide"
+      ]
+    },
+    {
+      "name": "All Swiss Saints Community in Lausanne",
+      "parent": "ru-korsun",
+      "country": "CH",
+      "status": "official current API record misclassified with country code FRA, outside France scope",
+      "reason": "The current Korsun API returns the record under the France filter, but the official address and coordinates are in Lausanne, Switzerland.",
+      "sources": [
+        "https://cerkov-ru.com/api/v1/map/parishes?locale=fr&bbox=-10%2C40%2C15%2C55&country_code=FRA",
+        "https://cerkov-ru.com/fr/parishes/communaute-tous-les-saints-helvetiques-a-lausanne-a2069html"
+      ]
+    }
+  ],
+  "historical_or_reconciled": [
+    {
+      "name": "St Andrew Ukrainian Orthodox Parish in Châlette-sur-Loing",
+      "status": "historically documented, absent from the current diocesan directory",
+      "reason": "Older Ecumenical Patriarchate material identified the parish, but the current Ukrainian Orthodox Diocese directory lists only the Holy Apostle Simon community in Paris for France.",
+      "sources": [
+        "https://www.uokd.de/gemeinden"
+      ]
+    },
+    {
+      "name": "Orthodox Church of Ukraine resident structure in France",
+      "status": "no distinct current resident body confirmed",
+      "reason": "Official OCU France reports found during the audit concern visiting worship, delegations, or worship hosted by the Ecumenical Patriarchate. They do not establish a separate current resident OCU parish or mission.",
+      "sources": [
+        "https://www.pomisna.info/uk/vsi-novyny/arhiyepyskop-yevstratij-ocholyv-bozhestvennu-liturgiyu-u-kafedralnomu-hrami-gallskoyi-mytropoliyi-v-paryzhi/",
+        "https://www.pomisna.info/uk/vsi-novyny/molod-ta-duhovenstvo-ptsu-vzyaly-uchast-u-mizhnarodnij-rizdvyanij-zustrichi-teze-v-paryzhi/"
+      ]
+    }
+  ],
+  "source_reconciliations": [
+    {
+      "subject": "Greek Metropolis count",
+      "decision": "The current page carries 59 cards. Fifty-eight are in France and the Monaco chapel is retained outside scope.",
+      "source": "https://mgro.fr/fr/paroisses/"
+    },
+    {
+      "subject": "Korsun France API country errors",
+      "decision": "The current API returns 39 records under country code FRA. Melide and Lausanne explicitly carry Swiss addresses and coordinates, so 37 France-coded records are published and the two Swiss records are retained outside scope.",
+      "source": "https://cerkov-ru.com/api/v1/map/parishes?locale=fr&bbox=-10%2C40%2C15%2C55&country_code=FRA"
+    },
+    {
+      "subject": "Épinay-sous-Sénart Korsun records",
+      "decision": "The current official API carries two separately identified chapel records at 4 rue Sainte-Geneviève. Both official records are preserved rather than silently merged, pending a source-side correction or an explicit statement that they are one institution.",
+      "source": "https://cerkov-ru.com/api/v1/map/parishes?locale=fr&bbox=-10%2C40%2C15%2C55&country_code=FRA"
+    },
+    {
+      "subject": "Sainte-Nino Georgian parish in Paris",
+      "decision": "The current Greek Metropolis directory controls the parent assignment. Sainte-Nino is published under the Ecumenical Patriarchate and is not duplicated under the Georgian Patriarchate.",
+      "source": "https://mgro.fr/fr/paroisses/"
+    },
+    {
+      "subject": "Nilvange overlapping jurisdiction records",
+      "decision": "The Greek Metropolis and ROCOR directories both claim a Holy Trinity and St Nicholas body at 22 rue de Verdun. Both current authority records are preserved under their respective parents without commentary in reader-facing data.",
+      "sources": [
+        "https://mgro.fr/fr/paroisses/",
+        "https://orthodox-europe.org/wp-content/uploads/2025/12/2026-Diocese-of-GB-and-W-Europe-Directory-PDF.pdf"
+      ]
+    },
+    {
+      "subject": "Marseille St George overlapping jurisdiction records",
+      "decision": "The Greek Metropolis and ROCOR directories both list St George at 16 rue Clapier. ROCOR marks its record temporarily unserved. Both current authority records are preserved under their respective parents.",
+      "sources": [
+        "https://mgro.fr/fr/paroisses/",
+        "https://orthodox-europe.org/wp-content/uploads/2025/12/2026-Diocese-of-GB-and-W-Europe-Directory-PDF.pdf"
+      ]
+    },
+    {
+      "subject": "Limours Romanian institutions",
+      "decision": "The Romanian parish register names the metropolitan residence church and the monastic register separately names the Protection of the Mother of God monastic community at the same address. Both institutions are preserved.",
+      "sources": [
+        "https://www.mitropolia.eu/fr/site/184/paroisses-de-france-andorre-et-dom-tom.htm",
+        "https://www.mitropolia.eu/fr/site/207/communautes-monastiques-de-france.htm"
+      ]
+    },
+    {
+      "subject": "Moldovan parish naming in Paris",
+      "decision": "A current Orthodox Church of Moldova report names the Presentation and All Saints Protectors of Moldova parish and Father Mihail Cusnir. The current Russian Tradition directory identifies the same cleric at the Church of the Presentation of the Virgin in the Temple, already published under that canonical parent. It is not duplicated as a separately governed Moldovan jurisdiction.",
+      "sources": [
+        "https://mitropolia.md/bucuria-invierii-impartasita-persoanelor-aflate-in-dificultate-si-copiilor-cu-dizabilitati-din-capitala/",
+        "https://archeveche.eu/lieux/eglise-de-la-presentation-de-la-vierge-au-temple/"
+      ]
+    },
+    {
+      "subject": "French overseas departments",
+      "decision": "Official France rosters include Martinique and Guadeloupe bodies. They remain in the France branch because both territories are departments of France. Monaco is a separate sovereign state and remains outside scope.",
+      "sources": [
+        "https://archeveche.eu/lieux/",
+        "https://www.mitropolia.eu/fr/site/184/paroisses-de-france-andorre-et-dom-tom.htm"
+      ]
+    }
+  ],
+  "official_jurisdiction_audit": [
+    {
+      "jurisdiction": "Ecumenical Patriarchate, Greek Orthodox Metropolis of France",
+      "result": "Fifty-eight current France bodies published. The current Monaco chapel is retained outside scope.",
+      "sources": [
+        "https://mgro.fr/fr/paroisses/",
+        "https://ec-patr.org/entities/iera-mitropoli-gallias/"
+      ]
+    },
+    {
+      "jurisdiction": "Romanian Orthodox Metropolis of Western and Southern Europe",
+      "result": "One hundred one current parish, mission, filial, community, cathedral, church, and worship-site records plus twelve monastic communities published.",
+      "sources": [
+        "https://www.mitropolia.eu/fr/site/184/paroisses-de-france-andorre-et-dom-tom.htm",
+        "https://www.mitropolia.eu/fr/site/207/communautes-monastiques-de-france.htm"
+      ]
+    },
+    {
+      "jurisdiction": "Archdiocese of Orthodox Churches of Russian Tradition in Western Europe",
+      "result": "Forty-seven current France bodies published from the official live directory.",
+      "source": "https://archeveche.eu/lieux/"
+    },
+    {
+      "jurisdiction": "Russian Orthodox Church, Diocese of Korsun",
+      "result": "Thirty-seven current France-coded official records published. Two Swiss records incorrectly returned by the official France filter are retained outside scope.",
+      "source": "https://cerkov-ru.com/api/v1/map/parishes?locale=fr&bbox=-10%2C40%2C15%2C55&country_code=FRA"
+    },
+    {
+      "jurisdiction": "Russian Orthodox Church Outside Russia, Diocese of Great Britain and Western Europe",
+      "result": "Twelve current parish or community records plus Lesna Convent published, for thirteen total.",
+      "sources": [
+        "https://orthodox-europe.org/wp-content/uploads/2025/12/2026-Diocese-of-GB-and-W-Europe-Directory-PDF.pdf",
+        "https://directory.synod.com/listings/",
+        "https://www.synod.com/synod/en/rocor/enmonasteries.html"
+      ]
+    },
+    {
+      "jurisdiction": "Serbian Orthodox Church, Diocese of Western Europe",
+      "result": "Twenty-nine current France bodies published, including the five bodies listed below the official map.",
+      "sources": [
+        "https://dioceseserbe.org/fr/france/",
+        "https://dioceseserbe.org/fr/diocese/"
+      ]
+    },
+    {
+      "jurisdiction": "Bulgarian Orthodox Diocese of Western and Central Europe",
+      "result": "Four current church communities published in Paris, Strasbourg, Lyon, and Lille.",
+      "source": "https://bg-patriarshia.bg/west-eu-diocese-temples"
+    },
+    {
+      "jurisdiction": "Ecumenical Patriarchate, Ukrainian Orthodox Diocese of Western Europe",
+      "result": "One current France body published, the Holy Apostle Simon community in Paris.",
+      "source": "https://www.uokd.de/gemeinden"
+    },
+    {
+      "jurisdiction": "Ukrainian Orthodox Church, Western European Vicariate",
+      "result": "The Paris and Besançon parishes are published. Dunkerque and additional France bodies remain candidates until individually identified as stable current institutions in official records.",
+      "sources": [
+        "https://vzcz.church.ua/2024/04/09/keruyuchij-zaxidnojevropejskim-vikariatstvom-upc-vidvidav-parafiyu-na-chest-pochajivskoji-ikoni-bozhoji-materi-v-parizhi/",
+        "https://uoc-news.church/2023/09/27/keruyuchij-zaxidnojevropejskim-vikariatstvom-upc-vidvidav-mikolajivsku-parafiyu-u-francuzkomu-misti-bezanson/",
+        "https://vzcz.church.ua/2025/04/16/v-bryusseli-zvershena-soborna-liturgiya-z-duxovenstvom-belgijskogo-blagochinnya/"
+      ]
+    },
+    {
+      "jurisdiction": "Antiochian Orthodox Archdiocese of France, Western and Southern Europe",
+      "result": "Four current bodies published: Sainte-Hélène in Vaucresson, St Gregory of Tours, St Ignatius in Nice, and the Burning Bush Monastery. Le Blanc-Mesnil remains a candidate.",
+      "sources": [
+        "https://www.antiochefrance.org/",
+        "https://agoap.fr/",
+        "https://eglise371.wixsite.com/saint-gregoire37",
+        "https://orthodoxesantiochenice.com/",
+        "https://www.antiochpatriarchate.org/en/page/224/"
+      ]
+    },
+    {
+      "jurisdiction": "Macedonian Orthodox Church - Ohrid Archbishopric, European Diocese",
+      "result": "One current France church community published, Sts Cyril and Methodius in Paris, from the official diocesan clergy and country-total pages.",
+      "sources": [
+        "https://mpee.mk/category/zapadno-evropsko-namesnistvo",
+        "https://mpee.mk/category/za-eparxijata"
+      ]
+    },
+    {
+      "jurisdiction": "Georgian Orthodox Church, Eparchy of Western Europe",
+      "result": "The current eparchy and its France seat are official, but no current official parish directory was found. Four discovered France bodies remain candidates and Sainte-Nino remains under the Greek Metropolis.",
+      "sources": [
+        "https://patriarchate.ge/sinodi/members/all",
+        "https://www.aeof.fr/uploads/files/AEOF-AnnuaireRegroup%C3%A92024.pdf"
+      ]
+    },
+    {
+      "jurisdiction": "Orthodox Church of Ukraine",
+      "result": "No distinct current resident France parish, mission, monastery, chapel, or recurring worship site was found in official OCU sources. Recent France records describe visitors or services hosted by the Ecumenical Patriarchate.",
+      "sources": [
+        "https://www.pomisna.info/uk/vsi-novyny/arhiyepyskop-yevstratij-ocholyv-bozhestvennu-liturgiyu-u-kafedralnomu-hrami-gallskoyi-mytropoliyi-v-paryzhi/",
+        "https://www.pomisna.info/uk/vsi-novyny/molod-ta-duhovenstvo-ptsu-vzyaly-uchast-u-mizhnarodnij-rizdvyanij-zustrichi-teze-v-paryzhi/"
+      ]
+    },
+    {
+      "jurisdiction": "Patriarchate of Alexandria",
+      "result": "No France body appears in the official territorial structure.",
+      "source": "https://www.patriarchateofalexandria.com/archdioceses/?lang=en"
+    },
+    {
+      "jurisdiction": "Patriarchate of Jerusalem",
+      "result": "No France body appears in the official administrative structure.",
+      "source": "https://en.jerusalem-patriarchate.info/administrative-structure/holy-bishoprics/"
+    },
+    {
+      "jurisdiction": "Church of Cyprus",
+      "result": "No France body appears in the official administrative structure.",
+      "source": "https://churchofcyprus.org.cy/diikitiki_diathrosi"
+    },
+    {
+      "jurisdiction": "Church of Greece",
+      "result": "No separately governed France body appears in the official diocesan structure. Greek-speaking France bodies found in current sources are represented under the Ecumenical Patriarchate.",
+      "source": "https://ecclesiagreece.gr/ecclesiajoomla/"
+    },
+    {
+      "jurisdiction": "Polish Autocephalous Orthodox Church",
+      "result": "No France body appears in the official administration directory.",
+      "source": "https://www.orthodox.pl/administracja/"
+    },
+    {
+      "jurisdiction": "Orthodox Autocephalous Church of Albania",
+      "result": "No France body appears in the official organization.",
+      "source": "https://orthodoxalbania.org/2026/en/church-organization-2026/"
+    },
+    {
+      "jurisdiction": "Orthodox Church of the Czech Lands and Slovakia",
+      "result": "No France body appears in the official schematism.",
+      "source": "https://orthodox.sk/schematizmus/pravoslavna-eparchia/"
+    },
+    {
+      "jurisdiction": "Orthodox Church in America",
+      "result": "No France diocese, parish, mission, monastery, chapel, or recurring worship site appears in the official directory.",
+      "source": "https://www.oca.org/parishes"
+    },
+    {
+      "jurisdiction": "Orthodox Church of Finland",
+      "result": "No France body appears in the official diocesan and parish structure.",
+      "source": "https://ort.fi/en/finnish-orthodox-church/"
+    },
+    {
+      "jurisdiction": "Estonian Apostolic Orthodox Church",
+      "result": "No France body appears in the official structure.",
+      "source": "https://www.eoc.ee/"
+    },
+    {
+      "jurisdiction": "Orthodox Church of Latvia",
+      "result": "No France body was found in the official structure.",
+      "source": "http://www.pravoslavie.lv/"
+    },
+    {
+      "jurisdiction": "Orthodox Church of Lithuania",
+      "result": "No France body was found in the official structure.",
+      "source": "https://www.orthodoxy.lt/"
+    },
+    {
+      "jurisdiction": "Orthodox Church of Moldova",
+      "result": "No separately governed France body appears in the official eparchial structure. A current Moldova report names a Paris parish whose priest and church are already identified by the current Russian Tradition directory, so it is not duplicated.",
+      "sources": [
+        "https://mitropolia.md/eparhii/",
+        "https://mitropolia.md/bucuria-invierii-impartasita-persoanelor-aflate-in-dificultate-si-copiilor-cu-dizabilitati-din-capitala/",
+        "https://archeveche.eu/lieux/eglise-de-la-presentation-de-la-vierge-au-temple/"
+      ]
+    },
+    {
+      "jurisdiction": "Belarusian Orthodox Church",
+      "result": "No France body appears in the official eparchial structure.",
+      "source": "https://church.by/belorusskiy-ekzarhat/eparkhii/"
+    },
+    {
+      "jurisdiction": "Orthodox Church in Japan",
+      "result": "No France body appears in the official church structure.",
+      "source": "https://www.orthodoxjapan.jp/"
+    },
+    {
+      "jurisdiction": "Chinese Autonomous Orthodox Church",
+      "result": "The official territorial description is limited to Orthodox communities in China and identifies no France body.",
+      "source": "https://patriarchia.ru/church/orgs/autonom-church/org/265"
+    },
+    {
+      "jurisdiction": "Estonian Christian Orthodox Church",
+      "result": "No France body appears in the official parish structure.",
+      "source": "https://et.orthodox.ee/parishes/"
+    }
+  ]
+}
