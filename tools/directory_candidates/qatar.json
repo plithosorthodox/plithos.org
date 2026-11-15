@@ -1,0 +1,59 @@
+{
+  "v": 1,
+  "country": "QA",
+  "checked": "2026-11-15",
+  "method": "Current official patriarchal, administrative, and parish directories were used to establish Qatari bodies. Search engines and maps were used only to discover first-party sources. Overlapping jurisdictional claims are preserved without adjudication, and no body was inferred from population, clergy visits, or an unofficial listing.",
+  "published_summary": {
+    "je-qatar": 3,
+    "an-baghdad": 1,
+    "total": 4
+  },
+  "candidates": [],
+  "official_jurisdiction_audit": [
+    {
+      "jurisdiction": "Jerusalem Patriarchate",
+      "sources": [
+        "https://en.jerusalem-patriarchate.info/administrative-structure/patriarchal-management-committees/",
+        "https://ar.jerusalem-patriarchate.info/%D8%A7%D9%84%D9%86%D9%8A%D8%A7%D8%A8%D8%A7%D8%AA-%D8%A7%D9%84%D8%A8%D8%B7%D8%B1%D9%8A%D8%B1%D9%83%D9%8A%D8%A9/",
+        "https://ar.jerusalem-patriarchate.info/wp-content/uploads/2025/03/ARABIC_CALENDAR_OF_PATRIARCHATE-2025_R.pdf"
+      ],
+      "result": "The current official directory names three worship sites under the Patriarchal Representation in Qatar. All three are published."
+    },
+    {
+      "jurisdiction": "Antiochian Patriarchate",
+      "sources": [
+        "https://www.antiochpatriarchate.org/en/category/antiochian-vicariates-and-representatives-of-his-beatitude/108/",
+        "https://www.antiochpatriarchate.org/images/pages/dalil-20242023-12-19-07-53-37.pdf"
+      ],
+      "result": "The current official directory names the Vicariate of the State of Qatar and publishes its representative through the Archdiocese of Baghdad, Kuwait and Dependencies. The vicariate is published without inferring a local worship site."
+    },
+    {
+      "jurisdiction": "Moscow Patriarchate",
+      "sources": [
+        "https://patriarchia.ru/"
+      ],
+      "result": "Current official jurisdictional and diaspora material was checked and did not name a separate Qatari body. This records the bounded audit result, not a claim that a body could never exist."
+    },
+    {
+      "jurisdiction": "Romanian Patriarchate",
+      "sources": [
+        "https://patriarhia.ro/organizarea-bisericii-ortodoxe-romane/reprezentante-si-comunitati-externe/"
+      ],
+      "result": "The current official external communities directory was checked and did not name a Qatari body. This records the bounded audit result, not a claim that a body could never exist."
+    },
+    {
+      "jurisdiction": "Serbian Patriarchate",
+      "sources": [
+        "https://www.spc.rs/en/96.dioceses-of-the-soc.html"
+      ],
+      "result": "The current official diocesan and linked diaspora material was checked and did not name a Qatari body. This records the bounded audit result, not a claim that a body could never exist."
+    },
+    {
+      "jurisdiction": "Russian Orthodox Church Outside of Russia",
+      "sources": [
+        "https://directory.synod.com/listings/"
+      ],
+      "result": "The current official clergy and parish directory was checked and did not name a Qatari body. This records the bounded audit result, not a claim that a body could never exist."
+    }
+  ]
+}
