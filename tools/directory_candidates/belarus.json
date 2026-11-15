@@ -1,0 +1,284 @@
+{
+  "v": 1,
+  "countries": [
+    "BY"
+  ],
+  "checked": "2026-11-15",
+  "method": "Current first-party Belarusian Exarchate and diocesan rosters control publication. Every body whose current official name could be extracted is published under the diocese or metropolitical parent that lists it. Central totals are used only to detect gaps. They do not create unnamed rows. Administrative dean-office labels and generic roster headings are retained here rather than published as worship bodies. Construction notices, monuments, historical-only references, inaccessible pages, and search or map discoveries without a competent current canonical-parent listing remain held here.",
+  "published_summary": {
+    "ru-babruysk": 75,
+    "ru-barysaw": 97,
+    "ru-brest": 211,
+    "ru-homel": 159,
+    "ru-hrodna": 119,
+    "ru-lida": 51,
+    "ru-mahilyow": 22,
+    "ru-maladzyechna": 115,
+    "ru-minsk": 102,
+    "ru-navahrudak": 95,
+    "ru-pinsk": 74,
+    "ru-polatsk": 125,
+    "ru-slutsk": 104,
+    "ru-turaw": 82,
+    "ru-vitebsk": 180,
+    "belarus": 3,
+    "total": 1614
+  },
+  "candidates": [
+    {
+      "candidate_id": "by-brest-central-total-reconciliation",
+      "parent": "ru-brest",
+      "country": "BY",
+      "name": "Brest diocesan bodies not reconciled to the central parish total",
+      "status": "hold for exact current official names",
+      "reason": "The nine current deanery pages and central monastery list yield 211 named bodies. The central summary reports a different parish total. Dependent churches, chapels, and monasteries can make body and parish totals differ, so no unnamed rows are inferred.",
+      "sources": [
+        "https://pravbrest.by/",
+        "https://church.by/belorusskiy-ekzarhat/eparkhii/",
+        "https://church.by/belorusskiy-ekzarhat/monastyri/"
+      ]
+    },
+    {
+      "candidate_id": "by-hrodna-central-total-reconciliation",
+      "parent": "ru-hrodna",
+      "country": "BY",
+      "name": "Hrodna diocesan bodies not reconciled to the central parish total",
+      "status": "hold for exact current official names",
+      "reason": "The current diocesan church-card roster yields 119 worship bodies after the administrative bishop's house is excluded. The central summary reports 104 parishes. The exact named bodies are published and the count difference is held rather than collapsed or guessed.",
+      "sources": [
+        "https://orthos.org/khramy/kartochki-khramov/",
+        "https://orthos.org/sitemap",
+        "https://church.by/belorusskiy-ekzarhat/eparkhii/"
+      ]
+    },
+    {
+      "candidate_id": "by-lida-central-total-reconciliation",
+      "parent": "ru-lida",
+      "country": "BY",
+      "name": "Lida diocesan bodies not reconciled to the central parish total",
+      "status": "hold for exact current official names",
+      "reason": "The current official roster yields 51 named bodies while the central summary reports 47 parishes. The exact bodies are published and the difference remains unresolved because churches, chapels, and parish totals need not be identical.",
+      "sources": [
+        "https://lida-eparhia.by/?page_id=20",
+        "https://church.by/belorusskiy-ekzarhat/eparkhii/"
+      ]
+    },
+    {
+      "candidate_id": "by-pinsk-incomplete-current-roster",
+      "parent": "ru-pinsk",
+      "country": "BY",
+      "name": "Complete current Pinsk diocesan roster",
+      "status": "hold for complete enumeration",
+      "reason": "The current clergy roster names 73 unique worship bodies and the monastery page names one convent. Aggregate diocesan material indicates a larger network, including bodies in the Luninets, Liakhavichy, Pinsk, and Stolin deaneries, but does not provide every exact current name in one competent list.",
+      "sources": [
+        "https://pinskeparh.by/dukhovenstvo",
+        "https://pinskeparh.by/monastyri",
+        "https://church.by/belorusskiy-ekzarhat/eparkhii/"
+      ]
+    },
+    {
+      "candidate_id": "by-pinsk-ivanava-george-construction",
+      "parent": "ru-pinsk",
+      "country": "BY",
+      "name": "Future Saint George Church in Ivanava",
+      "status": "hold as construction-only",
+      "reason": "Current official material describes a future Saint George church in Ivanava. A construction project does not by itself establish a current parish, chapel, or recurring worship site, so no directory row is published.",
+      "sources": [
+        "https://pinskeparh.by/",
+        "https://pinskeparh.by/dukhovenstvo"
+      ]
+    },
+    {
+      "candidate_id": "by-navahrudak-nonbody-pages",
+      "parent": "ru-navahrudak",
+      "country": "BY",
+      "name": "Navahrudak monument and construction-only pages",
+      "status": "hold as nonbody and construction-only material",
+      "reason": "The deanery navigation includes one monument page and one construction-complex page. Neither page independently establishes a current named parish, chapel, monastery, or recurring worship site. They are retained for later reconciliation and not published as bodies.",
+      "sources": [
+        "https://www.eparhia.by/eparkhija/prikhody/novogrudskoe-blagochinie.html",
+        "https://www.eparhia.by/eparkhija/prikhody/slonimskoe-blagochinie.html"
+      ]
+    },
+    {
+      "candidate_id": "by-polatsk-five-unnamed-parishes",
+      "parent": "ru-polatsk",
+      "country": "BY",
+      "name": "Five Polatsk parishes absent from the named deanery tables",
+      "status": "hold for exact current official names",
+      "reason": "The central summary reports 111 parishes. The current deanery tables contain 106 named non-monastic, non-chapel worship bodies, along with 17 separately named chapels and two convents. Five parish names cannot be derived safely from the available official tables.",
+      "sources": [
+        "https://eparhia992.by/eparkhiya/blagochiniya/",
+        "https://church.by/belorusskiy-ekzarhat/eparkhii/"
+      ]
+    },
+    {
+      "candidate_id": "by-other-diocesan-count-reconciliation",
+      "parent": "belarus",
+      "country": "BY",
+      "name": "Remaining central-count discrepancies in the eastern dioceses",
+      "status": "hold for exact current official names",
+      "reason": "Current diocesan pages for Babruysk, Barysaw, Homel, Mahilyow, Maladzyechna, Minsk, Slutsk, Turaw, and Vitebsk provide the exact names published in the directory. Where the central branch total and the extractable named roster differ, the unnamed remainder is held rather than fabricated.",
+      "sources": [
+        "https://church.by/belorusskiy-ekzarhat/eparkhii/",
+        "https://church.by/belorusskiy-ekzarhat/monastyri/"
+      ]
+    }
+  ],
+  "source_reconciliations": [
+    {
+      "subject": "Parish totals and named worship-body rosters",
+      "decision": "A central parish total is not treated as a row count. Named diocesan rosters can include dependent churches, cathedrals, chapels, prayer houses, house churches, and monastic temples. Exact current named bodies are published. Unnamed numerical differences remain candidates.",
+      "sources": [
+        "https://church.by/belorusskiy-ekzarhat/eparkhii/",
+        "https://church.by/belorusskiy-ekzarhat/monastyri/"
+      ]
+    },
+    {
+      "subject": "Metropolitical monasteries",
+      "decision": "The three monasteries identified as metropolitical or stauropegial by the central list are published under the Belarusian Exarchate rather than assigned to a diocese by geography.",
+      "sources": [
+        "https://church.by/belorusskiy-ekzarhat/monastyri/"
+      ]
+    },
+    {
+      "subject": "Search and map discoveries",
+      "decision": "Search and map results were used only to find possible official pages. No result without a current competent canonical-parent listing was published. No map-only candidate supplied enough official evidence for a named row in this audit.",
+      "sources": [
+        "https://church.by/belorusskiy-ekzarhat/eparkhii/"
+      ]
+    }
+  ],
+  "exclusions": [
+    {
+      "candidate_id": "by-minsk-dean-office-labels",
+      "parent": "ru-minsk",
+      "country": "BY",
+      "name": "Ten Minsk dean-office labels extracted as worship bodies",
+      "status": "excluded as administrative labels",
+      "reason": "These ten official pages identify the dean of a district. They do not name a parish, church, chapel, monastery, or recurring worship site. Their exact local labels and source pages are retained below so the exclusion remains auditable.",
+      "items": [
+        {"id": "by-minsk-81ee974f8e", "local": "Благочинный 1-го Минского городского округа", "source": "https://pravminsk.by/eparchiya/hramy-i-monastyri/blagochinnyj/"},
+        {"id": "by-minsk-5fead28d39", "local": "Благочинный 1-го Минского районного округа", "source": "https://pravminsk.by/eparchiya/hramy-i-monastyri/blagochinnyj-1-go-minskogo-rajonnogo-okruga/"},
+        {"id": "by-minsk-adbb8465aa", "local": "Благочинный 2-го Минского городского округа", "source": "https://pravminsk.by/eparchiya/hramy-i-monastyri/blagochinnyj-2-go-minskogo-gorodskogo-okruga/"},
+        {"id": "by-minsk-00ba2345de", "local": "Благочинный 2-го Минского районного округа", "source": "https://pravminsk.by/eparchiya/hramy-i-monastyri/blagochinnyj-2-go-minskogo-rajonnogo-okruga/"},
+        {"id": "by-minsk-99efd53162", "local": "Благочинный 3-го Минского городского округа", "source": "https://pravminsk.by/eparchiya/hramy-i-monastyri/blagochinnyj-3-go-minskogo-gorodskogo-okruga/"},
+        {"id": "by-minsk-1963aac663", "local": "Благочинный 3-го Минского районного округа", "source": "https://pravminsk.by/eparchiya/hramy-i-monastyri/blagochinnyj-3-go-minskogo-rajonnogo-okruga/"},
+        {"id": "by-minsk-7a908651b0", "local": "Благочинный 4-го Минского городского округа", "source": "https://pravminsk.by/eparchiya/hramy-i-monastyri/blagochinnyj-4-go-minskogo-gorodskogo-okruga/"},
+        {"id": "by-minsk-1a947c44d8", "local": "Благочинный 5-го Минского городского округа", "source": "https://pravminsk.by/eparchiya/hramy-i-monastyri/blagochinnyj-5-go-minskogo-gorodskogo-okruga/"},
+        {"id": "by-minsk-958a44e290", "local": "Благочинный 6-го Минского городского округа", "source": "https://pravminsk.by/eparchiya/hramy-i-monastyri/blagochinnyj-6-go-minskogo-gorodskogo-okruga/"},
+        {"id": "by-minsk-8af6b20b9b", "local": "Благочинный 7-го Минского городского округа", "source": "https://pravminsk.by/eparchiya/hramy-i-monastyri/blagochinnyj-7-go-minskogo-gorodskogo-okruga/"}
+      ],
+      "sources": [
+        "https://pravminsk.by/eparchiya/hramy-i-monastyri/blagochinnyj/"
+      ]
+    },
+    {
+      "candidate_id": "by-mahilyow-roster-headings",
+      "parent": "ru-mahilyow",
+      "country": "BY",
+      "name": "Two Mahilyow generic roster headings extracted as monasteries",
+      "status": "excluded as roster headings",
+      "reason": "The exact labels are page headings, not the names of current monasteries or other worship bodies. They are retained below for an auditable exclusion.",
+      "items": [
+        {"id": "by-mahilyow-245330a4b1", "local": "Монастыри", "source": "https://mogeparhia.by/xramy-eparxii/monastyri/"},
+        {"id": "by-mahilyow-d02f9fc737", "local": "Храмы и монастыри", "source": "https://mogeparhia.by/xramy-eparxii/monastyri/"}
+      ],
+      "sources": [
+        "https://mogeparhia.by/xramy-eparxii/monastyri/"
+      ]
+    },
+    {
+      "candidate_id": "by-belarusian-autocephalous-orthodox-church",
+      "country": "BY",
+      "name": "Bodies describing themselves as the Belarusian Autocephalous Orthodox Church",
+      "status": "excluded from publication",
+      "reason": "The reviewed self-description was not accompanied by a current competent listing under a canonical Local Eastern Orthodox Church. The Belarusian Exarchate's current structure was checked separately. No judgement beyond the directory's source rule is made.",
+      "sources": [
+        "https://www.belapc.org/",
+        "https://church.by/belorusskiy-ekzarhat/eparkhii/"
+      ]
+    },
+    {
+      "candidate_id": "by-old-believer-old-calendarist-bodies",
+      "country": "BY",
+      "name": "Old Believer and independent Old Calendarist bodies",
+      "status": "excluded from this directory scope",
+      "reason": "These bodies are outside the directory's bounded scope of current canonical Eastern Orthodox jurisdictions. A search result or local religious registration alone is not a competent canonical-parent listing.",
+      "sources": [
+        "https://church.by/belorusskiy-ekzarhat/eparkhii/"
+      ]
+    },
+    {
+      "candidate_id": "by-oriental-orthodox-bodies",
+      "country": "BY",
+      "name": "Armenian and other Oriental Orthodox bodies",
+      "status": "excluded from this directory scope",
+      "reason": "Oriental Orthodox communities are not Eastern Orthodox bodies and are outside this directory's stated scope. Their presence is not treated as evidence of a Belarusian Eastern Orthodox jurisdiction.",
+      "sources": [
+        "https://www.armenianchurch.org/en/dioceses"
+      ]
+    }
+  ],
+  "official_jurisdiction_audit": [
+    {
+      "jurisdiction": "Russian Orthodox Church, Belarusian Exarchate",
+      "result": "All fifteen current dioceses in Belarus and the central monastery list were checked. The directory publishes 1,611 exact diocesan bodies and three metropolitical monasteries. Administrative labels and generic roster headings are held as exclusions. Numerical gaps and source discrepancies remain held as candidates.",
+      "sources": [
+        "https://church.by/belorusskiy-ekzarhat/eparkhii/",
+        "https://church.by/belorusskiy-ekzarhat/monastyri/"
+      ]
+    },
+    {
+      "jurisdiction": "Ecumenical Patriarchate",
+      "result": "The current official entity directory was checked for a separately administered Belarus body. None was established by that bounded current structure.",
+      "sources": [
+        "https://ec-patr.org/en/entities/"
+      ]
+    },
+    {
+      "jurisdiction": "Orthodox Church of Ukraine and Ukrainian Orthodox Church",
+      "result": "The current official central structures were checked for a separately administered Belarus parish, mission, monastery, chapel, or recurring worship site. None was established by those bounded lists.",
+      "sources": [
+        "https://www.pomisna.info/uk/tserkva/synodalni-ustanovy/",
+        "https://church.ua/eparhii/"
+      ]
+    },
+    {
+      "jurisdiction": "Serbian, Romanian, Bulgarian, Georgian, and Polish Orthodox Churches",
+      "result": "Current official diocesan and foreign-community structures were checked for separately administered Belarus bodies. None was established by the bounded structures reviewed. Nationality, language, clergy visits, and concelebration were not treated as a separate jurisdiction.",
+      "sources": [
+        "https://spc.rs/en/eparchies/",
+        "https://patriarhia.ro/organizarea-bisericii-ortodoxe-romane/reprezentante-si-comunitati-externe/",
+        "https://bg-patriarshia.bg/dioceses"
+      ]
+    },
+    {
+      "jurisdiction": "Patriarchates of Alexandria, Antioch, and Jerusalem",
+      "result": "The current official territorial structures were checked for a separately administered Belarus body. None was established by those bounded current lists.",
+      "sources": [
+        "https://www.patriarchateofalexandria.com/archdioceses/?lang=en",
+        "https://www.antiochpatriarchate.org/en/category/dioceses/",
+        "https://en.jerusalem-patriarchate.info/holy-synod/"
+      ]
+    },
+    {
+      "jurisdiction": "Orthodox Church in America, ROCOR, and Russian Tradition",
+      "result": "Current official parish and territorial structures were checked for a separately administered Belarus body outside the Belarusian Exarchate. None was established by the bounded lists reviewed.",
+      "sources": [
+        "https://www.oca.org/parishes",
+        "https://directory.stinnocentpress.com/",
+        "https://archeveche.eu/lieux/"
+      ]
+    },
+    {
+      "jurisdiction": "Other canonical Local Churches",
+      "result": "Current official structures for Cyprus, the Czech Lands and Slovakia, Finland, Estonia, Japan, Sinai, Albania, and North Macedonia were checked at the national or diocesan level. No additional separately administered Belarus body was established by those bounded structures.",
+      "sources": [
+        "https://churchofcyprus.org.cy/",
+        "https://www.pravoslavnacirkev.cz/",
+        "https://ort.fi/en/parishes/"
+      ]
+    }
+  ]
+}

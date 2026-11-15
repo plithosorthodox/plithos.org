@@ -1304,6 +1304,13 @@ from directory_bulgaria import (
 NAMES.update(_BULGARIA_NAMES)
 del _BULGARIA_NAMES
 
+from directory_belarus import (
+    ENGLISH_NAMES as _BELARUS_NAMES,
+    ENGLISH_SEATS as _BELARUS_SEATS,
+)
+NAMES.update(_BELARUS_NAMES)
+del _BELARUS_NAMES
+
 from directory_brazil import ENGLISH_NAMES as _BRAZIL_NAMES
 NAMES.update(_BRAZIL_NAMES)
 del _BRAZIL_NAMES
@@ -2179,6 +2186,8 @@ SEATS.update(_GHANA_SEATS)
 del _GHANA_SEATS
 SEATS.update(_BULGARIA_SEATS)
 del _BULGARIA_SEATS
+SEATS.update(_BELARUS_SEATS)
+del _BELARUS_SEATS
 SEATS.update(_TUNISIA_SEATS)
 del _TUNISIA_SEATS
 SEATS.update(_LIBYA_SEATS)
