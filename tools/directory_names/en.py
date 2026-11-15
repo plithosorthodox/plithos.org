@@ -1260,6 +1260,10 @@ from directory_qatar import ENGLISH_NAMES as _QATAR_NAMES
 NAMES.update(_QATAR_NAMES)
 del _QATAR_NAMES
 
+from directory_armenia import ENGLISH_NAMES as _ARMENIA_NAMES
+NAMES.update(_ARMENIA_NAMES)
+del _ARMENIA_NAMES
+
 SEATS = {
     "Istanbul": u"Istanbul",
     "Alexandria": u"Alexandria",

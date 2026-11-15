@@ -1,0 +1,92 @@
+{
+  "v": 1,
+  "country": "AM",
+  "checked": "2026-11-15",
+  "method": "Current official diocesan, patriarchal, shrine, and service records were used to establish Armenian bodies. Search engines and maps were used only to discover first-party sources. Historic buildings under restoration were not treated as current worship bodies, and no body was inferred from population or an unofficial listing.",
+  "published_summary": {
+    "ru-yerevan-and-armenia": 10,
+    "total": 10
+  },
+  "candidates": [
+    {
+      "candidate_id": "am-ru-gyumri-epiphany",
+      "parent": "ru-yerevan-and-armenia",
+      "country": "AM",
+      "name": "Church of the Epiphany in Gyumri",
+      "local": "Храм Богоявления города Гюмри",
+      "status": "hold until restored for current church use",
+      "reason": "The diocesan shrine page names the historic church, but its dedicated official page says that it has remained abandoned for decades and needs restoration. It is not counted among the diocese's active churches.",
+      "sources": [
+        "https://armeparchy.org/svjatyni-armenii/",
+        "https://armeparchy.org/2024/10/17/hram-bogojavlenija-goroda-gjumri/"
+      ]
+    },
+    {
+      "candidate_id": "am-ru-amrakits-saint-nicholas",
+      "parent": "ru-yerevan-and-armenia",
+      "country": "AM",
+      "name": "Church of St. Nicholas the Wonderworker in Amrakits",
+      "local": "Храм святителя Николая Чудотворца в селе Амракиц",
+      "status": "hold until restoration and current worship are established",
+      "reason": "The diocese documents the historic church and a 2026 visit, but its restoration remains the subject of current work and the source does not establish regular worship or inclusion in the active roster.",
+      "sources": [
+        "https://armeparchy.org/2025/07/03/v-armenii-prodolzhaetsja-restavracija-hrama-svjatitelja-nikolaja-chudotvorca/",
+        "https://armeparchy.org/2026/10/20/vizit-pochjotnyh-gostej-v-hram-svjatitelja-nikolaja-v-sele-amrakic/"
+      ]
+    }
+  ],
+  "official_jurisdiction_audit": [
+    {
+      "jurisdiction": "Moscow Patriarchate",
+      "sources": [
+        "https://armeparchy.org/eparhiya/",
+        "https://armeparchy.org/svjatyni-armenii/",
+        "https://patriarchia.ru/en/org/564"
+      ],
+      "result": "The current diocesan roster names eight active churches. Later official service records establish two further current worship sites. All ten current bodies are published, while two buildings under restoration remain held."
+    },
+    {
+      "jurisdiction": "Georgian Patriarchate",
+      "sources": [
+        "https://patriarchate.ge/sinodi/members/all",
+        "https://patriarchate.ge/"
+      ],
+      "result": "Current official synodal and diocesan material was checked and did not name a current Georgian Patriarchate body in Armenia. The earlier Georgian care of Russian parishes ended before the current Moscow Patriarchate diocese was formed."
+    },
+    {
+      "jurisdiction": "Ecumenical Patriarchate",
+      "sources": [
+        "https://ec-patr.org/en/ecumenical-patriarchate/directory/"
+      ],
+      "result": "The current official directory was checked and did not name an Armenian body. This records the bounded audit result, not a claim that a body could never exist."
+    },
+    {
+      "jurisdiction": "Romanian Patriarchate",
+      "sources": [
+        "https://patriarhia.ro/organizarea-bisericii-ortodoxe-romane/reprezentante-si-comunitati-externe/"
+      ],
+      "result": "The current official external communities directory was checked and did not name an Armenian body. This records the bounded audit result, not a claim that a body could never exist."
+    },
+    {
+      "jurisdiction": "Serbian Patriarchate",
+      "sources": [
+        "https://www.spc.rs/en/96.dioceses-of-the-soc.html"
+      ],
+      "result": "The current official diocesan and linked diaspora material was checked and did not name an Armenian body. This records the bounded audit result, not a claim that a body could never exist."
+    },
+    {
+      "jurisdiction": "Russian Orthodox Church Outside of Russia",
+      "sources": [
+        "https://directory.synod.com/listings/"
+      ],
+      "result": "The current official clergy and parish directory was checked and did not name a separate Armenian body. This records the bounded audit result, not a claim that a body could never exist."
+    },
+    {
+      "jurisdiction": "Antiochian Patriarchate",
+      "sources": [
+        "https://www.antiochpatriarchate.org/en/category/dioceses/6/"
+      ],
+      "result": "The current official diocesan material was checked and did not name an Armenian body. This records the bounded audit result, not a claim that a body could never exist."
+    }
+  ]
+}
