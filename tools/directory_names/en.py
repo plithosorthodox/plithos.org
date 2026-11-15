@@ -1189,6 +1189,10 @@ from directory_iberia import ENGLISH_NAMES as _IBERIA_NAMES
 NAMES.update(_IBERIA_NAMES)
 del _IBERIA_NAMES
 
+from directory_malta_gibraltar import ENGLISH_NAMES as _MALTA_GIBRALTAR_NAMES
+NAMES.update(_MALTA_GIBRALTAR_NAMES)
+del _MALTA_GIBRALTAR_NAMES
+
 SEATS = {
     "Istanbul": u"Istanbul",
     "Alexandria": u"Alexandria",

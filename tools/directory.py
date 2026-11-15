@@ -732,7 +732,7 @@ COUNTRIES = {
     "ME": "Montenegro",
     "CA": "Canada", "CH": "Switzerland", "CY": "Cyprus", "DE": "Germany", "DK": "Denmark",
     "EE": "Estonia", "ES": "Spain", "FO": "Faroe Islands", "FR": "France", "GB": "United Kingdom", "GL": "Greenland",
-    "HK": "Hong Kong", "IS": "Iceland", "IT": "Italy", "KR": "South Korea", "MC": "Monaco", "MX": "Mexico", "NO": "Norway", "PT": "Portugal",
+    "GI": "Gibraltar", "HK": "Hong Kong", "IS": "Iceland", "IT": "Italy", "KR": "South Korea", "MC": "Monaco", "MX": "Mexico", "NO": "Norway", "PT": "Portugal",
     "SE": "Sweden", "SG": "Singapore",
     "EG": "Egypt", "FI": "Finland", "GE": "Georgia", "GR": "Greece",
     "IL": "Israel", "JP": "Japan", "MK": "North Macedonia", "PL": "Poland",

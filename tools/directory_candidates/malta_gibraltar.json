@@ -1,0 +1,118 @@
+{
+  "v": 1,
+  "countries": [
+    "GI",
+    "MT"
+  ],
+  "checked": "2026-11-14",
+  "method": "Current official patriarchal, diocesan, parish, mission, and government sources were checked. Search and map results were used only for discovery. Unclear or historically documented bodies remain here rather than being published as current rows.",
+  "published_summary": {
+    "by_country": {
+      "GI": 1,
+      "MT": 8
+    },
+    "ep-malta": 5,
+    "ro-italy": 1,
+    "ru-great-britain-and-western-europe-rocor": 1,
+    "russia": 1,
+    "sr-switzerland": 1,
+    "total": 9
+  },
+  "candidates": [
+    {
+      "candidate_id": "mt-bg-saint-patriarch-euthymius",
+      "parent": "bg-western-central-europe",
+      "country": "MT",
+      "name": "Bulgarian Orthodox Mission of Saint Patriarch Euthymius in Valletta",
+      "status": "hold for current official church confirmation",
+      "reason": "The Bulgarian Patriarchate documented the founding of a Malta community in 2009 and described a Valletta mission in 2017. The current official diocesan temple register omits Malta, although a 2026 Malta government account names a Bulgarian Orthodox representative. The body is not published until the Bulgarian diocese confirms its current ecclesiastical status.",
+      "sources": [
+        "https://bg-patriarshia.bg/news/na-30-avgust-2009-g-v-malta-beshe-osnovana-balgarska-pravosl",
+        "https://bg-patriarshia.bg/news/priklyuchi-deseti-eparhiyski-sabor-na-zapadno-i-srednoevrope",
+        "https://bg-patriarshia.bg/west-eu-diocese-temples"
+      ]
+    }
+  ],
+  "source_reconciliations": [
+    {
+      "country": "MT",
+      "name": "Serbian Orthodox Parish of the Holy Apostle Paul and Saint Nicholas",
+      "result": "The pre-2024 parish record belonged to the former Eparchy of Austria and Switzerland. Current 2025 and 2026 Serbian Church records place Malta under the Eparchy of Switzerland, so the row is published under sr-switzerland.",
+      "sources": [
+        "https://spc.rs/sr/news/iz-zivota-crkve/8358.kanonska-poseta-episkopa-andreja-malti.html",
+        "https://spc.rs/sr/news/iz-zivota-crkve/-/14168.bratski-sastanak-svestenstva-eparhije-svajcarske.html",
+        "https://spc.rs/sr/news/iz-zivota-crkve/-/16495.episkop-andrej-posetio-srpsku-zajednicu-na-malti.html"
+      ]
+    },
+    {
+      "country": "MT",
+      "name": "Russian Orthodox Parish of Saint Paul the Apostle",
+      "result": "The Holy Synod of the Russian Orthodox Church received the parish in 2003. A current canonical Romanian parish directory for Malta continues to identify it as the Moscow Patriarchate parish using the Church of Our Lady of Damascus. It is published directly under russia because the founding decision names no intermediate eparchy.",
+      "sources": [
+        "https://patriarchia.ru/article/98218",
+        "https://romanianchurchmalta.com/eastern-orthodox-christianity-in-malta/"
+      ]
+    },
+    {
+      "country": "MT",
+      "name": "Greek, Ukrainian, and Georgian parishes of the Patriarchal Exarchate of Malta",
+      "result": "The official exarchate entry identifies three language parishes separately from its two named churches. The directory therefore preserves both the parish bodies and their worship sites rather than merging the communities by building.",
+      "source": "https://ec-patr.org/entities/patriarhiki-eksarxia-melitis/"
+    }
+  ],
+  "official_jurisdiction_audit": [
+    {
+      "jurisdiction": "Ecumenical Patriarchate",
+      "result": "The two churches and three language parishes of the Patriarchal Exarchate of Malta are included. No Gibraltar body was found in the official structures checked.",
+      "source": "https://ec-patr.org/entities/patriarhiki-eksarxia-melitis/"
+    },
+    {
+      "jurisdiction": "Russian Orthodox Church",
+      "result": "The Malta Parish of Saint Paul the Apostle is included from its official synodal reception and current canonical corroboration.",
+      "source": "https://patriarchia.ru/article/98218"
+    },
+    {
+      "jurisdiction": "Russian Orthodox Church Outside Russia",
+      "result": "The current Gibraltar Parish of Saint Frideswide is included. The current official diocesan directory contains no Malta parish.",
+      "source": "https://orthodox-europe.org/wp-content/uploads/2025/12/2026-Diocese-of-GB-and-W-Europe-Directory-PDF.pdf"
+    },
+    {
+      "jurisdiction": "Serbian Orthodox Church",
+      "result": "The current Malta parish under the Eparchy of Switzerland is included. No Gibraltar body was found.",
+      "source": "https://spc.rs/sr/news/iz-zivota-crkve/-/16495.episkop-andrej-posetio-srpsku-zajednicu-na-malti.html"
+    },
+    {
+      "jurisdiction": "Romanian Orthodox Church",
+      "result": "The current Malta Parish of the Nativity of Saint John the Baptist is included. No Gibraltar body was found.",
+      "source": "https://episcopia-italiei.it/ro/parohii-filii-si-paraclise/5510-malta-republica"
+    },
+    {
+      "jurisdiction": "Bulgarian Orthodox Church",
+      "result": "The historically documented Malta mission is retained as an unresolved current candidate because the current official temple register omits it. No Gibraltar body was found.",
+      "source": "https://bg-patriarshia.bg/west-eu-diocese-temples"
+    },
+    {
+      "jurisdiction": "Georgian Orthodox Church",
+      "result": "The current Georgian-speaking Malta parish is governed by the Ecumenical Patriarchate and is included there. No separately governed Georgian body was found.",
+      "source": "https://ec-patr.org/entities/patriarhiki-eksarxia-melitis/"
+    },
+    {
+      "jurisdiction": "Ukrainian Orthodox bodies",
+      "result": "The current Ukrainian-speaking Malta parish is governed by the Ecumenical Patriarchate and is included there. No separate OCU or UOC body in Malta or Gibraltar was found in the official foreign mission material checked.",
+      "sources": [
+        "https://ec-patr.org/entities/patriarhiki-eksarxia-melitis/",
+        "https://vzcz.church.ua/2023/12/28/za-kordonom-diyut-84-gromadi-ukrajinskoji-pravoslavnoji-cerkvi/",
+        "https://www.pomisna.info/uk/tserkva/synodalni-ustanovy/"
+      ]
+    },
+    {
+      "jurisdiction": "Other canonical Eastern Orthodox Churches and diaspora structures",
+      "result": "No additional current body or recurring worship site in Malta or Gibraltar was established by the official structures checked. This includes Alexandria, Antioch, Jerusalem, Cyprus, Greece, Poland, Albania, the Czech Lands and Slovakia, Finland, Estonia, Japan, North Macedonia, the OCA, the Archdiocese of Orthodox Churches of Russian Tradition, and Sinai.",
+      "sources": [
+        "https://www.patriarchateofalexandria.com/archdioceses/?lang=en",
+        "https://antiochpatriarchate.org/en/page/3011/",
+        "https://archeveche.eu/en/lieux/"
+      ]
+    }
+  ]
+}

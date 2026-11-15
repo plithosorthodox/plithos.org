@@ -22,6 +22,7 @@ import directory_finland
 import directory_iceland
 import directory_ireland
 import directory_liechtenstein
+import directory_malta_gibraltar
 import directory_norway
 import directory_sweden
 import directory_switzerland
@@ -112,6 +113,7 @@ ROWS["russia"].extend(directory_estonia.DIRECT_RUSSIA_ROWS)
 ROWS["russia"].extend(directory_finland.DIRECT_RUSSIA_ROWS)
 ROWS["russia"].extend(directory_iceland.build()["russia"]["rows"])
 ROWS["russia"].extend(directory_ireland.ROWS["russia"])
+ROWS["russia"].extend(directory_malta_gibraltar.build()["russia"]["rows"])
 ROWS["russia"].extend(directory_australia.build()["russia"])
 ROWS["russia"].extend(directory_norway.build()["russia"]["rows"])
 ROWS["russia"].extend(directory_sweden.DIRECT_RUSSIA_ROWS)
@@ -172,8 +174,8 @@ def build():
             "countries": sorted(countries),
             "rows": rows,
         }
-    if len(payloads["russia"]["rows"]) != 44:
-        raise ValueError("the direct Russia branch must have 44 rows")
+    if len(payloads["russia"]["rows"]) != 45:
+        raise ValueError("the direct Russia branch must have 45 rows")
     if len(payloads["romania"]["rows"]) != 5:
         raise ValueError("the direct Romania branch must have 5 rows")
     return payloads
@@ -240,7 +242,7 @@ def main():
         for error in errors:
             print(error, file=sys.stderr)
         return 1
-    print("2 direct parents, 49 subordinate bodies")
+    print("2 direct parents, 50 subordinate bodies")
     return 0
 
 
