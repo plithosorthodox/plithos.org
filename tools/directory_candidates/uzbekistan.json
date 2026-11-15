@@ -1,0 +1,53 @@
+{
+  "v": 1,
+  "country": "UZ",
+  "checked": "2026-11-15",
+  "method": "The official Tashkent and Uzbekistan Diocese parish roster was reconciled with its current parish gallery, current diocesan news, the Moscow Patriarchate district record, search discovery, and map discovery. The text roster names 38 bodies. The official galleries and recent reports establish ten additional current bodies. Search engines and map services were used only to discover candidates and addresses.",
+  "published_summary": {
+    "ru-tashkent": 48,
+    "worship_bodies": 48
+  },
+  "candidates": [
+    {
+      "candidate_id": "uz-ru-urgench-unnamed-church-under-construction",
+      "parent": "ru-tashkent",
+      "country": "UZ",
+      "name": "Unnamed Orthodox church under construction near Urgench",
+      "status": "hold until the diocese publishes the dedication and constituted body",
+      "reason": "A May 2026 official visitation report says the bishop visited the place where an Orthodox church is being built, but does not name or separately constitute the body.",
+      "sources": [
+        "https://pravoslavie.uz/news/111198/"
+      ]
+    },
+    {
+      "candidate_id": "uz-ru-tashkent-joy-all-sorrow-cemetery-chapel",
+      "parent": "ru-tashkent",
+      "country": "UZ",
+      "name": "Joy of All Who Sorrow Icon Cemetery Chapel in Tashkent",
+      "status": "hold pending current official confirmation",
+      "reason": "An older official diocesan publication describes this chapel as attached to Saint Alexander Nevsky Church, but the current parish roster and current gallery do not separately list it.",
+      "sources": [
+        "https://pravoslavie.uz/upload/ArchiveMag/2012/March.pdf",
+        "https://pravoslavie.uz/archdiocese/parishes/"
+      ]
+    }
+  ],
+  "exclusions": [
+    {
+      "scope": "Historical churches outside the current diocesan lists",
+      "result": "The diocesan history and archive document many destroyed, closed, or former churches. They are not published as current bodies without a current diocesan roster, gallery, or service report.",
+      "sources": [
+        "https://pravoslavie.uz/archdiocese/parishes/",
+        "https://pravoslavie.uz/upload/ArchiveMag/2012/March.pdf"
+      ]
+    },
+    {
+      "scope": "Other canonical Eastern Orthodox jurisdictions",
+      "result": "No current first-party synodal, diocesan, parish, or monastery source found in this pass establishes another canonical Eastern Orthodox worship body in Uzbekistan.",
+      "sources": [
+        "https://pravoslavie.uz/",
+        "https://patriarchia.ru/org/294"
+      ]
+    }
+  ]
+}
