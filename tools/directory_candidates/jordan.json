@@ -1,0 +1,97 @@
+{
+  "v": 1,
+  "country": "JO",
+  "checked": "2026-11-15",
+  "method": "The live Jordan Metropolis church roster was reconciled with the Jerusalem Patriarchate's East Bank roster and its 2025 official calendar. The current Russian Ecclesiastical Mission record was checked separately. Search and maps were used only for discovery. Duplicate spellings, historical sites, and institutions were not counted as additional worship bodies.",
+  "published_summary": {
+    "je-amman": 46,
+    "russia": 1,
+    "parish_and_shrine_bodies": 36,
+    "monastic_bodies": 11,
+    "total": 47
+  },
+  "candidates": [
+    {
+      "candidate_id": "jo-mount-nebo-historical-church",
+      "parent": "je-amman",
+      "country": "JO",
+      "name": "Historical church at Mount Nebo",
+      "status": "hold until a current competent Church source establishes a functioning worship body",
+      "reason": "The Jerusalem Patriarchate describes the ancient church and pilgrimage site, but the current Jordan church roster and 2025 calendar do not name a current parish, monastery, shrine body, or recurring worship community there.",
+      "sources": [
+        "https://en.jerusalem-patriarchate.info/holy-shrines/holy-shrines-in-jordan/",
+        "https://orthodoxjordan.org/%D8%A7%D9%84%D9%83%D9%86%D8%A7%D8%A6%D8%B3/"
+      ]
+    }
+  ],
+  "reconciliation": [
+    {
+      "scope": "Live Jordan Metropolis roster",
+      "result": "The local roster names forty unique current bodies after its duplicate Anjara and Ader page headings are collapsed. These bodies are published once each.",
+      "sources": [
+        "https://orthodoxjordan.org/%D8%A7%D9%84%D9%83%D9%86%D8%A7%D8%A6%D8%B3/"
+      ]
+    },
+    {
+      "scope": "Jerusalem Patriarchate East Bank roster and 2025 calendar",
+      "result": "The Patriarchate records six additional exact bodies not exposed by the live local page: the Saint George shrine at Mahis, the Prophet Elias shrine at Listib, the Saint George shrine at Souf, the Saint John the Baptist church at Ma'in, and the Saint George shrines at Taybeh and Kufran. They are published from the competent Church's current records.",
+      "sources": [
+        "https://en.jerusalem-patriarchate.info/administrative-structure/churches-in-the-east-bank-jordan/",
+        "https://ar.jerusalem-patriarchate.info/wp-content/uploads/2025/03/ARABIC_CALENDAR_OF_PATRIARCHATE-2025_R.pdf"
+      ]
+    },
+    {
+      "scope": "Russian Pilgrim House and metochion at the Baptism Site",
+      "result": "The pilgrim house, its house chapel, and the Russian Ecclesiastical Mission metochion are one current institution at the same site, not three bodies. It is published once as the current metochion under the Russian Church.",
+      "sources": [
+        "https://rusdm.ru/gps/",
+        "https://rusdm.ru/hotels/322",
+        "https://mospat.ru/en/news/92066/"
+      ]
+    }
+  ],
+  "official_jurisdiction_audit": [
+    {
+      "jurisdiction": "Patriarchate of Jerusalem",
+      "result": "Forty-six exact current bodies in Jordan were established by the local Metropolis roster, the Patriarchate's East Bank roster, and its 2025 official calendar. They are published under the Amman archdiocesan parent.",
+      "sources": [
+        "https://orthodoxjordan.org/%D8%A7%D9%84%D9%83%D9%86%D8%A7%D8%A6%D8%B3/",
+        "https://en.jerusalem-patriarchate.info/administrative-structure/churches-in-the-east-bank-jordan/",
+        "https://ar.jerusalem-patriarchate.info/wp-content/uploads/2025/03/ARABIC_CALENDAR_OF_PATRIARCHATE-2025_R.pdf"
+      ]
+    },
+    {
+      "jurisdiction": "Moscow Patriarchate",
+      "result": "The Russian Ecclesiastical Mission's current metochion at the Site of the Baptism of the Lord is established by the Mission's own current directory and current Church reporting. It is published under the direct Russian Church branch.",
+      "sources": [
+        "https://rusdm.ru/gps/",
+        "https://mospat.ru/en/news/92066/"
+      ]
+    },
+    {
+      "jurisdiction": "Other canonical Eastern Orthodox jurisdictions",
+      "result": "Bounded current official structures were checked for separately constituted Jordan parishes, monasteries, missions, or recurring worship communities. No additional exact current body was established by a competent first-party source.",
+      "sources": [
+        "https://en.jerusalem-patriarchate.info/administrative-structure/churches-in-the-east-bank-jordan/",
+        "https://patriarchia.ru/church/orgs/foreign-institutions/org/95"
+      ]
+    }
+  ],
+  "exclusions": [
+    {
+      "scope": "Ancient church remains and archaeological sites",
+      "result": "A historical church or archaeological location was not published unless a current competent Church roster names it as a present church, monastery, or shrine body. This keeps official current shrines while excluding ruins and pilgrimage geography alone.",
+      "sources": [
+        "https://en.jerusalem-patriarchate.info/holy-shrines/holy-shrines-in-jordan/",
+        "https://orthodoxjordan.org/%D8%A7%D9%84%D9%83%D9%86%D8%A7%D8%A6%D8%B3/"
+      ]
+    },
+    {
+      "scope": "Discovery sources",
+      "result": "Search and map results did not independently establish canonical standing or a current body and supplied no additional published rows.",
+      "sources": [
+        "https://orthodoxjordan.org/%D8%A7%D9%84%D9%83%D9%86%D8%A7%D8%A6%D8%B3/"
+      ]
+    }
+  ]
+}

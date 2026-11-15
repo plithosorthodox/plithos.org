@@ -1371,6 +1371,13 @@ from directory_iraq import (
 NAMES.update(_IRAQ_NAMES)
 del _IRAQ_NAMES
 
+from directory_jordan import (
+    ENGLISH_NAMES as _JORDAN_NAMES,
+    ENGLISH_SEATS as _JORDAN_SEATS,
+)
+NAMES.update(_JORDAN_NAMES)
+del _JORDAN_NAMES
+
 from directory_turkmenistan import (
     ENGLISH_NAMES as _TURKMENISTAN_NAMES,
     ENGLISH_SEATS as _TURKMENISTAN_SEATS,
@@ -2183,6 +2190,8 @@ SEATS.update(_ETHIOPIA_SEATS)
 del _ETHIOPIA_SEATS
 SEATS.update(_IRAQ_SEATS)
 del _IRAQ_SEATS
+SEATS.update(_JORDAN_SEATS)
+del _JORDAN_SEATS
 SEATS.update(_TURKMENISTAN_SEATS)
 del _TURKMENISTAN_SEATS
 SEATS.update(_TAJIKISTAN_SEATS)
