@@ -1,0 +1,81 @@
+{
+  "v": 1,
+  "country": "SD",
+  "checked": "2026-11-15",
+  "method": "Current official patriarchal, exarchate, and diaspora records were checked for exact current Eastern Orthodox bodies in Sudan. Search engines and maps were used only to discover competent first-party or similarly strong current official sources. The existing Holy Archdiocese of Nubia parent is retained and refreshed. Count-only bodies, unnamed communities, visiting services, and bodies without an exact current canonical identity remain unpublished.",
+  "published_summary": {
+    "existing_ax-nubia_parent": 1,
+    "ax-nubia": 1,
+    "new_subordinate_bodies": 1
+  },
+  "candidates": [
+    {
+      "candidate_id": "sd-ax-count-only-remainder",
+      "parent": "ax-nubia",
+      "country": "SD",
+      "name": "Count-only remainder of Nubian Archdiocese bodies in Sudan",
+      "status": "hold until the competent archdiocese publishes exact current names and locations",
+      "reason": "A secondary Orthodox directory reports one cathedral, two churches, and one mission under the Archdiocese of Nubia. The Annunciation cathedral is independently established and published. The remaining aggregate cannot be converted into exact rows without a current competent body-level roster.",
+      "sources": [
+        "https://www.patriarchateofalexandria.com/archdioceses/iera-mitropoli-noyvias/",
+        "https://orthodox-world.org/en/d/607/archdiocese-of-nouvias"
+      ]
+    },
+    {
+      "candidate_id": "sd-ax-khartoum-annunciation-operational-status",
+      "parent": "ax-nubia",
+      "country": "SD",
+      "name": "Wartime operating status of the Annunciation cathedral in Khartoum",
+      "status": "publish the current identifiable church and retain operating-status uncertainty",
+      "reason": "The Patriarchate identifies the cathedral and the current metropolitan see remains Khartoum. A United Nations satellite assessment dated November 2025 confirms the church still stands but records moderate facade and roof damage. The building and canonical identity are published, while no claim is made about a regular wartime service schedule.",
+      "sources": [
+        "https://www.patriarchateofalexandria.com/patriarchal-divine-liturgy-in-khartoum/?lang=en&print=print",
+        "https://www.patriarchateofalexandria.com/archdioceses/iera-mitropoli-noyvias/",
+        "https://www.unosat.org/static/unosat_filesystem/4225/CE20231504SDN_UNOSAT_Sudan_CHS_20251210_v1-1.pdf"
+      ]
+    }
+  ],
+  "official_jurisdiction_audit": [
+    {
+      "jurisdiction": "Patriarchate of Alexandria",
+      "result": "The current patriarchal register establishes the Holy Archdiocese of Nubia and its Khartoum see. The Patriarchate's body-level record identifies the Annunciation cathedral, and a current United Nations assessment confirms the building remains standing despite wartime damage. It is published without asserting a current service schedule.",
+      "sources": [
+        "https://www.patriarchateofalexandria.com/archdioceses/iera-mitropoli-noyvias/",
+        "https://www.patriarchateofalexandria.com/patriarchal-divine-liturgy-in-khartoum/?lang=en&print=print",
+        "https://www.unosat.org/static/unosat_filesystem/4225/CE20231504SDN_UNOSAT_Sudan_CHS_20251210_v1-1.pdf"
+      ]
+    },
+    {
+      "jurisdiction": "Moscow Patriarchate, Patriarchal Exarchate of Africa",
+      "result": "The North African Diocese includes Sudan in territorial scope. Current official Moscow reporting records inter-Christian meetings in Sudan but does not establish a named Eastern Orthodox parish or recurring worship body. No row is published from territorial scope or inter-Christian activity alone.",
+      "sources": [
+        "https://exarchate-africa.ru/en/dioceses_cat/diocese-of-north-africa/",
+        "https://exarchate-africa.ru/en/news/a-representative-of-the-russian-orthodox-church-visits-sudan/"
+      ]
+    },
+    {
+      "jurisdiction": "Ecumenical Patriarchate, Antiochian Patriarchate, Jerusalem Patriarchate, Romanian Patriarchate, Serbian Patriarchate, Georgian Patriarchate, OCA, and ROCOR",
+      "result": "Their current official jurisdictional or diaspora directories were checked and did not name an additional Sudan body. This is a bounded directory result, not a general country-level absence claim.",
+      "sources": [
+        "https://ec-patr.org/en/ecumenical-patriarchate/directory/",
+        "https://www.antiochpatriarchate.org/en/category/dioceses/6/",
+        "https://directory.synod.com/listings/"
+      ]
+    },
+    {
+      "jurisdiction": "Oriental Orthodox Churches",
+      "result": "Coptic, Ethiopian, and Eritrean Orthodox bodies are outside this Eastern Orthodox directory and are not converted into rows. Their presence is recorded only to prevent accidental inclusion or confusion with the Alexandrian Eastern Orthodox body.",
+      "sources": [
+        "https://exarchate-africa.ru/en/news/a-representative-of-the-russian-orthodox-church-visits-sudan/"
+      ]
+    },
+    {
+      "jurisdiction": "Other canonical Local Churches and diaspora structures",
+      "result": "No additional Sudan row is published without an exact current first-party jurisdictional citation. This records incomplete verification for structures not individually listed and makes no general absence claim.",
+      "sources": [
+        "https://www.patriarchateofalexandria.com/archdioceses/?lang=en",
+        "https://exarchate-africa.ru/en/dioceses_cat/diocese-of-north-africa/"
+      ]
+    }
+  ]
+}

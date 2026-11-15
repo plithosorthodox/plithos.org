@@ -274,6 +274,7 @@ ROWS = [
       local=u"ΙΕΡΑ ΜΗΤΡΟΠΟΛΗ ΝΟΥΒΙΑΣ",
       seat="Khartoum", country="SD",
       address=["P.O. Box 47 Khartoum, Sudan"],
+      checked="2026-11-15",
       sources=[AX + "iera-mitropoli-noyvias/",
                AX + "holy-archdiocese-of-nouvias/?lang=en"]),
 
