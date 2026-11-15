@@ -1181,6 +1181,10 @@ from directory_germany import ENGLISH_NAMES as _GERMANY_NAMES
 NAMES.update(_GERMANY_NAMES)
 del _GERMANY_NAMES
 
+from directory_microstates import ENGLISH_NAMES as _MICROSTATES_NAMES
+NAMES.update(_MICROSTATES_NAMES)
+del _MICROSTATES_NAMES
+
 SEATS = {
     "Istanbul": u"Istanbul",
     "Alexandria": u"Alexandria",

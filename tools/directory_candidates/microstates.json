@@ -1,0 +1,180 @@
+{
+  "v": 1,
+  "countries": [
+    "AD",
+    "MC",
+    "SM",
+    "VA"
+  ],
+  "checked": "2026-11-14",
+  "method": "Current official patriarchal, diocesan, monastery, parish, and mission sources were checked for Andorra, Monaco, San Marino, and Vatican City. Search and map results were used only for discovery and were not accepted as proof of canonical parentage or current worship.",
+  "published_summary": {
+    "by_country": {
+      "AD": 1,
+      "MC": 3,
+      "SM": 2,
+      "VA": 0
+    },
+    "ep-france": 1,
+    "ep-italy": 1,
+    "ro-italy": 1,
+    "ru-great-britain-and-western-europe-rocor": 1,
+    "ru-korsun": 1,
+    "ru-spain-and-portugal": 1,
+    "total": 6
+  },
+  "candidates": [],
+  "historical_or_reconciled": [
+    {
+      "country": "MC",
+      "name": "Orthodox community founded in Monaco in 2018",
+      "status": "historical predecessor, not a separate current row",
+      "reason": "The official 2018 diocesan account records a newly formed Monaco community under Archpriest Vadim Zakrevski. The Holy Synod placed the Parish of the Holy Royal Passion-Bearers in the Diocese of Korsun in 2020, and the same rector serves that current parish in the official 2026 diocesan account. The current parish is published once under the Diocese of Korsun.",
+      "sources": [
+        "https://www.egliserusse.eu/Une-premiere-liturgie-episcopale-orthodoxe-vient-d-etre-celebree-dans-la-Principaute-de-Monaco_a1698.html",
+        "https://patriarchia.ru/db/text/5730334",
+        "https://www.egliserusse.eu/Fete-onomastique-de-la-paroisse-des-Saints-Martyrs-imperiaux-a-Monaco_a2490.html"
+      ]
+    }
+  ],
+  "official_jurisdiction_audit": [
+    {
+      "jurisdiction": "Ecumenical Patriarchate",
+      "result": "The Monaco Chapel of the All-Holy Mother of God and the San Marino Parish of Saint Michael the Archangel are included. The Metropolis of Spain and Portugal officially includes Andorra in its territory, but no separate current Andorra body or recurring worship site was documented by its official material. No Vatican City body was found.",
+      "sources": [
+        "https://mgro.fr/fr/paroisse/chapelle-la-toute-sainte-mere-de-dieu/",
+        "https://ec-patr.org/entities/iera-mitropoli-italias-melitis/",
+        "https://ec-patr.org/entities/iera-mitropoli-ispanias/"
+      ]
+    },
+    {
+      "jurisdiction": "Patriarchate of Alexandria",
+      "result": "No body or recurring worship site in the four microstates appears in the official territorial structure.",
+      "source": "https://www.patriarchateofalexandria.com/archdioceses/?lang=en"
+    },
+    {
+      "jurisdiction": "Patriarchate of Antioch",
+      "result": "No body or recurring worship site in the four microstates was found in the official European structure checked.",
+      "source": "https://antiochpatriarchate.org/en/page/3011/"
+    },
+    {
+      "jurisdiction": "Patriarchate of Jerusalem",
+      "result": "No body or recurring worship site in the four microstates appears in the official administrative structure.",
+      "source": "https://en.jerusalem-patriarchate.info/administrative-structure/holy-bishoprics/"
+    },
+    {
+      "jurisdiction": "Russian Orthodox Church, direct Moscow structures",
+      "result": "The current Kazan Icon community in Andorra and the Holy Royal Passion-Bearers parish in Monaco are included. Official structures assign San Marino to the Moscow parishes in Italy, but no separate current San Marino body or recurring worship site was found. No Vatican City body was found.",
+      "sources": [
+        "https://eparchia.patriarchia.ru/article/122320",
+        "https://www.egliserusse.eu/Fete-onomastique-de-la-paroisse-des-Saints-Martyrs-imperiaux-a-Monaco_a2490.html",
+        "https://patriarchia.ru/church/orgs/exarchates/org/543"
+      ]
+    },
+    {
+      "jurisdiction": "Russian Orthodox Church Outside Russia, Diocese of Great Britain and Western Europe",
+      "result": "The Parish of the Holy Equal-to-the-Apostles Empress Elena in Monaco is included. The current official directory contains no Andorra, San Marino, or Vatican City body.",
+      "sources": [
+        "https://orthodox-europe.org/wp-content/uploads/2025/12/2026-Diocese-of-GB-and-W-Europe-Directory-PDF.pdf",
+        "https://orthodox-europe.org/content/monaco-altar-feast-2026/"
+      ]
+    },
+    {
+      "jurisdiction": "Archdiocese of Orthodox Churches of Russian Tradition in Western Europe",
+      "result": "No body or recurring worship site in the four microstates appears in the current official directory.",
+      "source": "https://archeveche.eu/en/lieux/"
+    },
+    {
+      "jurisdiction": "Serbian Orthodox Church",
+      "result": "No body or recurring worship site in the four microstates appears in the official Western European and Iberian directories checked.",
+      "sources": [
+        "https://dioceseserbe.org/france/",
+        "https://dioceseserbe.org/fr/espagne-et-portugal/"
+      ]
+    },
+    {
+      "jurisdiction": "Romanian Orthodox Church",
+      "result": "The Parish of the Holy Great Martyr Marina in San Marino is included. The current France and Andorra list contains no Andorra body and identifies Menton as a filial worship site in France, not Monaco. No Vatican City body was found.",
+      "sources": [
+        "https://episcopia-italiei.it/ro/organizare-2026-context/8830-parohii2026",
+        "https://www.episcopia-italiei.it/it/parrocchie/404-san-marino-repubblica",
+        "https://www.mitropolia.eu/fr/site/184/paroisses-de-france-andorre-et-dom-tom.htm"
+      ]
+    },
+    {
+      "jurisdiction": "Bulgarian Orthodox Church",
+      "result": "The official diocese assigns San Marino to an Italian, San Marino, and Malta archpriest district, but its current temple directory documents no separate worship body or recurring worship site in San Marino. No body was found in Andorra, Monaco, or Vatican City.",
+      "source": "https://bg-patriarshia.bg/west-eu-diocese-temples"
+    },
+    {
+      "jurisdiction": "Georgian Orthodox Church",
+      "result": "No current officially documented body or recurring worship site in the four microstates was found.",
+      "source": "https://patriarchate.ge/"
+    },
+    {
+      "jurisdiction": "Church of Cyprus",
+      "result": "No body or recurring worship site in the four microstates appears in the official structure.",
+      "source": "https://churchofcyprus.org.cy/diikitiki_diathrosi"
+    },
+    {
+      "jurisdiction": "Church of Greece",
+      "result": "No separately governed body or recurring worship site in the four microstates was found. The included Greek bodies in Monaco and San Marino are under the Ecumenical Patriarchate.",
+      "source": "https://www.ecclesia.gr/greek/dioceses/dioceses.asp"
+    },
+    {
+      "jurisdiction": "Polish Autocephalous Orthodox Church",
+      "result": "No body or recurring worship site in the four microstates appears in the official administration directory.",
+      "source": "https://www.orthodox.pl/administracja/"
+    },
+    {
+      "jurisdiction": "Orthodox Autocephalous Church of Albania",
+      "result": "No body or recurring worship site in the four microstates appears in the official organization.",
+      "source": "https://orthodoxalbania.org/2026/en/church-organization-2026/"
+    },
+    {
+      "jurisdiction": "Orthodox Church of the Czech Lands and Slovakia",
+      "result": "No body or recurring worship site in the four microstates appears in the official schematism.",
+      "source": "https://orthodox.sk/schematizmus/pravoslavna-eparchia/"
+    },
+    {
+      "jurisdiction": "Orthodox Church in America",
+      "result": "No body or recurring worship site in the four microstates appears in the official parish directory.",
+      "source": "https://www.oca.org/parishes/search"
+    },
+    {
+      "jurisdiction": "Orthodox Church of Finland",
+      "result": "No body or recurring worship site in the four microstates appears in the official church structure.",
+      "source": "https://ort.fi/suomen-ortodoksinen-kirkko/seurakunnat/"
+    },
+    {
+      "jurisdiction": "Apostolic Orthodox Church of Estonia",
+      "result": "No body or recurring worship site in the four microstates appears in the official church structure.",
+      "source": "https://www.eoc.ee/fr/eglise-orthodoxe-destonie/structure/"
+    },
+    {
+      "jurisdiction": "Orthodox Church in Japan",
+      "result": "No body or recurring worship site in the four microstates appears in the official national church material.",
+      "source": "https://www.orthodoxjapan.jp/"
+    },
+    {
+      "jurisdiction": "Macedonian Orthodox Church, Archdiocese of Ohrid",
+      "result": "No current officially documented body or recurring worship site in the four microstates was found.",
+      "source": "https://mpee.mk/"
+    },
+    {
+      "jurisdiction": "Ukrainian Orthodox Church",
+      "result": "No current officially documented body or recurring worship site in the four microstates was found in the official foreign mission material checked.",
+      "source": "https://vzcz.church.ua/2023/12/28/za-kordonom-diyut-84-gromadi-ukrajinskoji-pravoslavnoji-cerkvi/"
+    },
+    {
+      "jurisdiction": "Orthodox Church of Ukraine",
+      "result": "No current officially documented body or recurring worship site in the four microstates was found.",
+      "source": "https://www.pomisna.info/uk/tserkva/synodalni-ustanovy/"
+    },
+    {
+      "jurisdiction": "Church of Sinai",
+      "result": "No dependency, body, or recurring worship site in the four microstates appears in the official monastery material.",
+      "source": "https://www.sinaimonastery.com/"
+    }
+  ]
+}
