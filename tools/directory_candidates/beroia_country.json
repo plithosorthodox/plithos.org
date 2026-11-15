@@ -1,0 +1,168 @@
+{
+  "v": 1,
+  "countries": [
+    "GR"
+  ],
+  "checked": "2026-11-15",
+  "parent": "ep-beroia",
+  "published_summary": {
+    "ep-beroia": 362,
+    "total": 362,
+    "parish_kind_rows": 340,
+    "monastery_kind_rows": 22,
+    "contact_bodies": 73,
+    "phone_bodies": 71,
+    "public_phone_values": 74,
+    "email_bodies": 3,
+    "public_email_values": 4,
+    "body_owned_sites": 5,
+    "address_bodies": 362
+  },
+  "candidates": [
+    {
+      "candidate_id": "gr-ep-beroia-unnamed-church-aggregates",
+      "status": "held",
+      "reason": "The patriarchal overview gives aggregate totals for chapels, country churches, cemetery churches, private churches, and monastic churches. The current regional rosters label many subordinate bodies only as chapels, so the aggregate categories cannot be assigned to unnamed bodies without inference.",
+      "sources": [
+        "https://ec-patr.org/entities/iera-moni-veroias-naoysis-kampanias/",
+        "https://imverias.gr/"
+      ]
+    },
+    {
+      "candidate_id": "gr-ep-beroia-saint-luke-dovra-unfinished-church",
+      "status": "held",
+      "reason": "The official monastery history says the great Church of Saint Luke remains unfinished. It is not published as a current completed worship body.",
+      "local": "μεγαλοπρεποῦς Ἱεροῦ Ναοῦ τοῦ Ἁγίου Λουκᾶ",
+      "sources": [
+        "https://imverias.gr/iera-moni-panagias-dovra/"
+      ]
+    },
+    {
+      "candidate_id": "gr-ep-beroia-prodromos-naoussa-unnamed-chapel",
+      "status": "held",
+      "reason": "The official monastery history says one chapel was created in the monastery building but gives it no dedication. The two separately named chapels are published.",
+      "sources": [
+        "https://imverias.gr/iera-moni-timiou-prodromou-naoussis/"
+      ]
+    },
+    {
+      "candidate_id": "gr-ep-beroia-panagia-soumela-old-new-buildings",
+      "status": "held-as-one-body",
+      "reason": "Official sources describe the old and new churches at Panagia Soumela, but the patriarchal and pilgrimage sources identify one current pilgrimage institution. The two buildings are not split into inferred independent directory bodies.",
+      "sources": [
+        "https://ec-patr.org/entities/iera-moni-veroias-naoysis-kampanias/",
+        "https://imverias.gr/iera-moni-panagias-soumela/",
+        "https://www.panagiasoumela.gr/"
+      ]
+    },
+    {
+      "candidate_id": "gr-ep-beroia-map-and-search-leads",
+      "status": "held-for-first-party-verification",
+      "reason": "Search and map results may reveal further buildings, but no result is promoted without a current competent first-party identity and jurisdiction source.",
+      "sources": [
+        "https://imverias.gr/",
+        "https://ec-patr.org/entities/iera-moni-veroias-naoysis-kampanias/"
+      ]
+    }
+  ],
+  "source_reconciliations": [
+    {
+      "topic": "regional-page-count",
+      "finding": "The current Metropolis home page links twelve archieratiki regional rosters: central Beroia plus eleven additional regions. All twelve are represented.",
+      "sources": [
+        "https://imverias.gr/"
+      ]
+    },
+    {
+      "topic": "parish-count",
+      "finding": "The patriarchal overview reports 110 parish churches. The twelve current regional rosters name 113 principal bodies: 111 parish bodies including three metropolitan cathedrals, one pilgrimage church, and one cemetery church. The exact current names are retained and the one-body parish excess is not silently removed.",
+      "sources": [
+        "https://ec-patr.org/entities/iera-moni-veroias-naoysis-kampanias/",
+        "https://imverias.gr/"
+      ]
+    },
+    {
+      "topic": "subordinate-body-counts",
+      "finding": "The patriarchal overview reports 75 chapels, 75 country churches, 22 cemetery churches, 10 private churches, 9 monastic churches, and 1 pilgrimage church. The current exact official pages yield 183 bodies explicitly grouped as chapels, 8 explicitly labeled country churches, 24 cemetery churches, 1 named private church, 10 named current monastic churches or chapels plus 1 historic monastic church, and 2 pilgrimage churches. Because the local rosters use chapel as a broad heading, these categories are not forced to match the older aggregate totals.",
+      "sources": [
+        "https://ec-patr.org/entities/iera-moni-veroias-naoysis-kampanias/",
+        "https://imverias.gr/",
+        "https://imverias.gr/proskinimatikoi-idrimatikoi-naoi/"
+      ]
+    },
+    {
+      "topic": "monastery-count",
+      "finding": "The patriarchal overview names eight established monasteries and three monasteries under re-establishment. All eleven exact bodies are represented under the patriarchal classification. The local Metropolis home page places Panagiopoula among current monastery links, while the patriarchal overview classifies it under re-establishment; the patriarchal rank is retained and the local current identity is also cited.",
+      "sources": [
+        "https://ec-patr.org/entities/iera-moni-veroias-naoysis-kampanias/",
+        "https://imverias.gr/"
+      ]
+    },
+    {
+      "topic": "source-dates",
+      "finding": "Each regional source in the module retains the WordPress modified timestamp observed through the Metropolis first-party API. Every directory row also receives the common 2026-11-15 source observation date.",
+      "sources": [
+        "https://imverias.gr/"
+      ]
+    }
+  ],
+  "official_parent_audit": [
+    {
+      "topic": "canonical-parent",
+      "finding": "The Ecumenical Patriarchate identifies the Holy Metropolis of Beroia, Naousa, and Kampania and supplies the competent parish, chapel, monastery, and pilgrimage aggregates used for reconciliation.",
+      "sources": [
+        "https://ec-patr.org/entities/iera-moni-veroias-naoysis-kampanias/"
+      ]
+    },
+    {
+      "topic": "current-local-rosters",
+      "finding": "The Metropolis official site supplies the twelve current regional rosters, the pilgrimage and institutional church roster, current monastery pages, fixed institutional contacts, and named subordinate worship bodies.",
+      "sources": [
+        "https://imverias.gr/",
+        "https://imverias.gr/proskinimatikoi-idrimatikoi-naoi/"
+      ]
+    },
+    {
+      "topic": "body-owned-sites",
+      "finding": "Five bodies have separately verified body-owned sites: the Holy Forerunner Skete, Kallipetra Monastery, Holy Forerunner Monastery in Naoussa, Moutsiali Monastery, and Panagia Soumela pilgrimage.",
+      "sources": [
+        "https://apotomi.gr/",
+        "https://imkallipetras.gr/",
+        "https://www.panagiasoumela.gr/"
+      ]
+    }
+  ],
+  "exclusions": [
+    {
+      "topic": "personal-clergy-contacts",
+      "finding": "All priest, abbot, abbess, monastic, and other personally assigned mobile numbers and person-named email addresses were excluded, even when the official source published them.",
+      "sources": [
+        "https://ec-patr.org/entities/iera-moni-veroias-naoysis-kampanias/",
+        "https://imverias.gr/"
+      ]
+    },
+    {
+      "topic": "central-office-numbers",
+      "finding": "The Metropolis office number repeated for Charadra, Elafina, Kostochori, Kastania, and Koumaria was not represented as a body-owned church phone. The fixed-looking number on the Asomata roster was excluded because the page labels it as the priest's contact.",
+      "sources": [
+        "https://imverias.gr/arxieratiki-perifereia-verginis/",
+        "https://imverias.gr/arxieratiki-perifereia-dovras/",
+        "https://imverias.gr/arxieratiki-perifereia-perichoron-verias/"
+      ]
+    },
+    {
+      "topic": "unnamed-aggregates",
+      "finding": "No synthetic rows were created for unnamed bodies needed to make the patriarchal aggregate totals match.",
+      "sources": [
+        "https://ec-patr.org/entities/iera-moni-veroias-naoysis-kampanias/"
+      ]
+    },
+    {
+      "topic": "metochi-place-name",
+      "finding": "Metochi on the Vergina regional roster is the locality of Saint Panteleimon Parish Church. It is not classified as a monastic metochion.",
+      "sources": [
+        "https://imverias.gr/arxieratiki-perifereia-verginis/"
+      ]
+    }
+  ]
+}

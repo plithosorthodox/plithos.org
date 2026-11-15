@@ -1,0 +1,230 @@
+{
+  "v": 1,
+  "countries": [
+    "GR"
+  ],
+  "checked": "2026-11-15",
+  "method": "The official numbered profile category is transcribed as the exact identity roster. The current Metropolis administration page supplies category totals. The current monastery page and the Ecumenical Patriarchate yearbook distinguish five active monasteries, nine named monastic metochia and chapels, and the former Holy Spirit monastery church. Fixed institutional landlines are retained, personal mobile numbers are excluded, and only the one body-owned site linked by an official profile is attached. Aggregate gaps and older prose references that cannot be reconciled to the current totals remain held.",
+  "published_summary": {
+    "ep-serres": 140,
+    "total": 140,
+    "numbered_profile_rows": 126,
+    "numbered_parish_profiles": 118,
+    "numbered_chapel_profiles": 6,
+    "numbered_cemetery_profiles": 2,
+    "parish_kind_rows": 126,
+    "monastery_kind_rows": 14,
+    "active_monasteries": 5,
+    "named_monastic_metochia_and_chapels": 9,
+    "historic_monastery_churches": 1,
+    "contact_bodies": 112,
+    "phone_bodies": 112,
+    "public_phone_values": 112,
+    "email_bodies": 0,
+    "public_email_values": 0,
+    "body_owned_sites": 1,
+    "address_bodies": 140
+  },
+  "candidates": [
+    {
+      "candidate_id": "ep-serres-unnumbered-parish-chapel-gaps",
+      "parent": "ep-serres",
+      "country": "GR",
+      "category": "aggregate-gap",
+      "status": "held",
+      "reason": "The current administration page reports 66 chapels, while six chapels have exact numbered profiles. Older profile prose names many dependencies but does not form a current complete roster and cannot be reconciled cleanly to the aggregate. The remaining aggregate identities are held rather than inferred.",
+      "sources": [
+        "https://www.imsn.gr/%CE%B4%CE%B9%CE%BF%CE%B9%CE%BA%CE%B7%CF%83%CE%B7/",
+        "https://www.imsn.gr/category/mitropoli/naoi/"
+      ]
+    },
+    {
+      "candidate_id": "ep-serres-unnumbered-cemetery-church-gaps",
+      "parent": "ep-serres",
+      "country": "GR",
+      "category": "aggregate-gap",
+      "status": "held",
+      "reason": "The current administration page reports 22 cemetery churches, while two have exact numbered profiles. The twenty remaining aggregate identities are not converted into rows without a current body-named roster.",
+      "sources": [
+        "https://www.imsn.gr/%CE%B4%CE%B9%CE%BF%CE%B9%CE%BA%CE%B7%CF%83%CE%B7/",
+        "https://www.imsn.gr/category/mitropoli/naoi/"
+      ]
+    },
+    {
+      "candidate_id": "ep-serres-private-church-aggregate",
+      "parent": "ep-serres",
+      "country": "GR",
+      "category": "aggregate-only",
+      "status": "held",
+      "reason": "The official total of eight private churches does not identify the current bodies by name.",
+      "sources": [
+        "https://www.imsn.gr/%CE%B4%CE%B9%CE%BF%CE%B9%CE%BA%CE%B7%CF%83%CE%B7/"
+      ]
+    },
+    {
+      "candidate_id": "ep-serres-hospital-chapel-aggregate",
+      "parent": "ep-serres",
+      "country": "GR",
+      "category": "aggregate-only",
+      "status": "held",
+      "reason": "The official total of one hospital chapel does not state its exact current title on the aggregate page.",
+      "sources": [
+        "https://www.imsn.gr/%CE%B4%CE%B9%CE%BF%CE%B9%CE%BA%CE%B7%CF%83%CE%B7/"
+      ]
+    },
+    {
+      "candidate_id": "ep-serres-association-chapel-aggregate",
+      "parent": "ep-serres",
+      "country": "GR",
+      "category": "aggregate-only",
+      "status": "held",
+      "reason": "The official total of two association chapels does not identify the current bodies by name.",
+      "sources": [
+        "https://www.imsn.gr/%CE%B4%CE%B9%CE%BF%CE%B9%CE%BA%CE%B7%CF%83%CE%B7/"
+      ]
+    },
+    {
+      "candidate_id": "ep-serres-military-chapel-aggregate",
+      "parent": "ep-serres",
+      "country": "GR",
+      "category": "aggregate-only",
+      "status": "held",
+      "reason": "The official total of five military chapels does not identify the current bodies by name.",
+      "sources": [
+        "https://www.imsn.gr/%CE%B4%CE%B9%CE%BF%CE%B9%CE%BA%CE%B7%CF%83%CE%B7/"
+      ]
+    },
+    {
+      "candidate_id": "ep-serres-holy-cross-unnamed-monastery-chapels",
+      "parent": "ep-serres",
+      "country": "GR",
+      "category": "unnamed-bodies",
+      "status": "held",
+      "reason": "The current monastery page states that two chapels adjoin the Holy Cross monastery church but does not give their dedications. They are not converted into invented directory identities.",
+      "sources": [
+        "https://www.imsn.gr/%CE%B9%CE%B5%CF%81%CE%AD%CF%82-%CE%BC%CE%BF%CE%BD%CE%AD%CF%82/"
+      ]
+    },
+    {
+      "candidate_id": "ep-serres-old-eptamyloi-monydrio-title",
+      "parent": "ep-serres",
+      "country": "GR",
+      "category": "superseded-title",
+      "status": "reconciled",
+      "reason": "Category 29 retains the older Saints George and Demetrius monydrio title. The current monastery page records its 2017 subordination to Saint Paraskevi Monastery and its current dedication to New Martyr Ephraim. One current Saint Ephraim metochion row is published, not a duplicate historical row.",
+      "sources": [
+        "https://www.imsn.gr/wp-json/wp/v2/posts/782",
+        "https://www.imsn.gr/%CE%B9%CE%B5%CF%81%CE%AD%CF%82-%CE%BC%CE%BF%CE%BD%CE%AD%CF%82/"
+      ]
+    }
+  ],
+  "source_reconciliations": [
+    {
+      "candidate_id": "ep-serres-numbered-profile-reconciliation",
+      "status": "published",
+      "result": "The category 28 REST collection exposes exactly 126 uniquely numbered profiles across two pages. Numbers 001 through 016 and 025 through 126 provide 118 parish identities. Numbers 017 and 018 provide two cemetery churches. Numbers 019 through 024 provide six chapels. Every profile number and current post id is published once.",
+      "sources": [
+        "https://www.imsn.gr/wp-json/wp/v2/posts?categories=28&per_page=100&page=1",
+        "https://www.imsn.gr/wp-json/wp/v2/posts?categories=28&per_page=100&page=2",
+        "https://www.imsn.gr/%CE%B4%CE%B9%CE%BF%CE%B9%CE%BA%CE%B7%CF%83%CE%B7/"
+      ]
+    },
+    {
+      "candidate_id": "ep-serres-active-monastery-reconciliation",
+      "status": "published",
+      "result": "The current canonical yearbook enumerates five active monasteries: Saint Paraskevi, Saint John the Forerunner, Vyssiani, Holy Cross, and Prophet Elijah. The current Metropolis monastery page supplies their exact identities, locations, and fixed contacts.",
+      "sources": [
+        "https://ec-patr.org/entities/iera-mitropoli-serron-nigritis/",
+        "https://www.imsn.gr/%CE%B9%CE%B5%CF%81%CE%AD%CF%82-%CE%BC%CE%BF%CE%BD%CE%AD%CF%82/"
+      ]
+    },
+    {
+      "candidate_id": "ep-serres-monastic-dependency-reconciliation",
+      "status": "published",
+      "result": "Nine exact named monastic metochia and chapels are published. Saint Simeon is already numbered profile 020. Eight additional exact bodies come from the current monastery page. The page's two unnamed Holy Cross chapels remain held.",
+      "sources": [
+        "https://www.imsn.gr/%CE%B9%CE%B5%CF%81%CE%AD%CF%82-%CE%BC%CE%BF%CE%BD%CE%AD%CF%82/",
+        "https://ec-patr.org/entities/iera-mitropoli-serron-nigritis/"
+      ]
+    },
+    {
+      "candidate_id": "ep-serres-holy-spirit-former-monastery",
+      "status": "published",
+      "result": "The current Metropolis page says the Holy Spirit complex formerly operated as a men's monastery and that its church remains renovated and in use for its feast. It is published as a historic monastery church and is not counted among the five active monasteries.",
+      "sources": [
+        "https://www.imsn.gr/wp-json/wp/v2/posts/976",
+        "https://www.imsn.gr/%CE%B9%CE%B5%CF%81%CE%AD%CF%82-%CE%BC%CE%BF%CE%BD%CE%AD%CF%82/",
+        "https://ec-patr.org/entities/iera-mitropoli-serron-nigritis/"
+      ]
+    },
+    {
+      "candidate_id": "ep-serres-holy-theodores-current-rank",
+      "status": "published",
+      "result": "The current canonical yearbook identifies the Holy Theodores church as the old metropolitan church, now cathedral and pilgrimage church. That current rank is preserved while its numbered profile identity remains in the 118-profile parish sequence.",
+      "sources": [
+        "https://www.imsn.gr/wp-json/wp/v2/posts/707",
+        "https://ec-patr.org/entities/iera-mitropoli-serron-nigritis/"
+      ]
+    },
+    {
+      "candidate_id": "ep-serres-fixed-contact-reconciliation",
+      "status": "published",
+      "result": "The numbered profiles publish 106 fixed institutional landlines. The monastery sources publish five monastery landlines and one Saint Ephraim metochion landline. The Saint George Nigrita profile links its body-owned site. No institutional email is published by these body-specific sources.",
+      "sources": [
+        "https://www.imsn.gr/category/mitropoli/naoi/",
+        "https://www.imsn.gr/%CE%B9%CE%B5%CF%81%CE%AD%CF%82-%CE%BC%CE%BF%CE%BD%CE%AD%CF%82/",
+        "https://ecclesia-nigrita.gr/m-epikoinwnia"
+      ]
+    }
+  ],
+  "official_parent_audit": [
+    {
+      "candidate_id": "ep-serres-parent-authority",
+      "status": "confirmed",
+      "result": "The Ecumenical Patriarchate and the Church of Greece both list the Holy Metropolis of Serres and Nigrita. The existing directory parent ep-serres records the same body and its official site.",
+      "sources": [
+        "https://ec-patr.org/entities/iera-mitropoli-serron-nigritis/",
+        "https://www.ecclesiagreece.gr/ecclesiajoomla/index.php/el/metropoleis/serron-kai-nigrites",
+        "https://www.imsn.gr/"
+      ]
+    }
+  ],
+  "exclusions": [
+    {
+      "candidate_id": "ep-serres-personal-mobile-contacts",
+      "status": "excluded",
+      "reason": "Mobile-only values on profiles 038, 055, 093, 104, and 124 are excluded. Profile 108 publishes both a fixed landline and a mobile number, so only its fixed institutional line is retained.",
+      "sources": [
+        "https://www.imsn.gr/category/mitropoli/naoi/",
+        "https://www.imsn.gr/wp-json/wp/v2/posts?categories=28&per_page=100&page=1",
+        "https://www.imsn.gr/wp-json/wp/v2/posts?categories=28&per_page=100&page=2"
+      ]
+    },
+    {
+      "candidate_id": "ep-serres-parent-office-contact-reuse",
+      "status": "excluded",
+      "reason": "The general Metropolis phone and email are not copied onto subordinate bodies. Contacts are attached only where a body-specific first-party source publishes them.",
+      "sources": [
+        "https://www.imsn.gr/",
+        "https://ec-patr.org/entities/iera-mitropoli-serron-nigritis/"
+      ]
+    },
+    {
+      "candidate_id": "ep-serres-profile-prose-dependency-leads",
+      "status": "excluded",
+      "reason": "Older profile prose names many dependent chapels and churches, but those mentions exceed the current aggregate totals and do not form a current complete roster. They remain evidence leads rather than silently becoming current rows.",
+      "sources": [
+        "https://www.imsn.gr/category/mitropoli/naoi/",
+        "https://www.imsn.gr/%CE%B4%CE%B9%CE%BF%CE%B9%CE%BA%CE%B7%CF%83%CE%B7/"
+      ]
+    },
+    {
+      "candidate_id": "ep-serres-search-and-map-only-leads",
+      "status": "excluded",
+      "reason": "Search and map listings are discovery leads only. A body is not published without an official first-party identity tying it to the Metropolis.",
+      "sources": [
+        "https://www.imsn.gr/"
+      ]
+    }
+  ]
+}

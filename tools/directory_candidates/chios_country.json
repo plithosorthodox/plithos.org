@@ -1,0 +1,225 @@
+{
+  "v": 1,
+  "countries": [
+    "GR"
+  ],
+  "parent": "ep-chios",
+  "checked": "2026-11-15",
+  "higher_level_site": "https://www.imchiou.gr/",
+  "method": "Only current competent first-party Church sources control publication. The nine official committee sections name exactly 109 principal parishes. Current parish profiles control exact subordinate worship-body identities, while the separate monastery and pilgrimage rosters control those body classes. Clergy-personal contacts are excluded, and body-owned sites remain distinct from the higher-level metropolis site.",
+  "published_summary": {
+    "principal_parishes": 109,
+    "named_subordinate_bodies": 794,
+    "monasteries": 25,
+    "dependent_sketes": 2,
+    "pilgrimage_churches": 4,
+    "total": 934,
+    "address_bodies": 137,
+    "contact_bodies": 78,
+    "phone_bodies": 77,
+    "email_bodies": 3,
+    "body_owned_sites": 8
+  },
+  "candidates": [
+    {
+      "candidate_id": "gr-chios-aggregate-unnamed-bodies",
+      "parent": "ep-chios",
+      "country": "GR",
+      "name": "Aggregate chapels and churches not individually reconciled by the current official pages",
+      "status": "exact rendered bodies published; aggregate remainder held",
+      "reason": "The Ecumenical Patriarchate overview reports 356 chapels, 63 country chapels, 1 cemetery church, 492 private churches, and 48 monastic churches. Current parish profiles mix these categories and do not individually name every body in those aggregates. No unnamed remainder is inferred from search or map results.",
+      "sources": [
+        "https://ec-patr.org/entities/iera-mitropoli-xioy/",
+        "https://www.imchiou.gr/index.php/el/i-mitropolis/enories"
+      ]
+    },
+    {
+      "candidate_id": "gr-chios-ambiguous-profile-repetitions",
+      "parent": "ep-chios",
+      "country": "GR",
+      "name": "Indistinguishable repeated worship-body names in parish profiles",
+      "status": "19 repeated-name groups, comprising 38 source entries, held",
+      "reason": "Within a single current parish profile, each group repeats the same exact name without a location or ownership distinction. The rows remain held rather than inventing separate identities. The 61 exact private-chapel listings that both Pyrgi parish pages explicitly share are instead published once with both sources.",
+      "held_groups": [
+        {
+          "profile": "https://www.imchiou.gr/index.php/el/i-mitropolis/enories/arxieratiki-epitropeia-poleos-xiou/ieros-naos-zoodoxou-pigis-letsainis",
+          "local": "Αγίων Κωνσταντίνου και Ελένης",
+          "occurrences": 2
+        },
+        {
+          "profile": "https://www.imchiou.gr/index.php/el/i-mitropolis/enories/arxieratiki-epitropeia-poleos-xiou/ieros-naos-zoodoxou-pigis-letsainis",
+          "local": "Αγίας Μεγαλομάρτυρος Ειρήνης",
+          "occurrences": 2
+        },
+        {
+          "profile": "https://www.imchiou.gr/index.php/el/i-mitropolis/enories/arxieratiki-epitropeia-volissou/ieros-naos-metamorfoseos-sotiros-xristou-psaron",
+          "local": "Προφήτου Ηλιού (Ιδιωτικό)",
+          "occurrences": 2
+        },
+        {
+          "profile": "https://www.imchiou.gr/index.php/el/i-mitropolis/enories/arxieratiki-epitropeia-volissou/ieros-naos-metamorfoseos-sotiros-xristou-psaron",
+          "local": "Γενθλίου της Θεοτόκου (Ιδιωτικό)",
+          "occurrences": 2
+        },
+        {
+          "profile": "https://www.imchiou.gr/index.php/el/i-mitropolis/enories/arxieratiki-epitropeia-kourounion/ieros-naos-genesiou-theotokou-leptopodon",
+          "local": "Αγίου Γεωργίου (ενοριακό)",
+          "occurrences": 2
+        },
+        {
+          "profile": "https://www.imchiou.gr/index.php/el/i-mitropolis/enories/arxieratiki-epitropeia-neniton/ieros-naos-zoodoxou-pigis-koinis",
+          "local": "Αγίου Νικολάου (Ενοριακό)",
+          "occurrences": 2
+        },
+        {
+          "profile": "https://www.imchiou.gr/index.php/el/i-mitropolis/enories/arxieratiki-epitropeia-pyrgiou/ieros-naos-agiou-dimitriou-armolion",
+          "local": "Αγίου Γεωργίου (Αδελφάτο)",
+          "occurrences": 2
+        },
+        {
+          "profile": "https://www.imchiou.gr/index.php/el/i-mitropolis/enories/arxieratiki-epitropeia-pyrgiou/ieros-naos-eisodion-theotokou-pyrgiou",
+          "local": "Αγία Μαρίνα",
+          "occurrences": 2
+        },
+        {
+          "profile": "https://www.imchiou.gr/index.php/el/i-mitropolis/enories/arxieratiki-epitropeia-pyrgiou/ieros-naos-eisodion-theotokou-pyrgiou",
+          "local": "Αγία Ερμιόνη",
+          "occurrences": 2
+        },
+        {
+          "profile": "https://www.imchiou.gr/index.php/el/i-mitropolis/enories/arxieratiki-epitropeia-pyrgiou/ieros-naos-taksiarxon-meston",
+          "local": "Μεταμορφώσεως Σωτήρος",
+          "occurrences": 2
+        },
+        {
+          "profile": "https://www.imchiou.gr/index.php/el/i-mitropolis/enories/arxieratiki-epitropeia-pyrgiou/ieros-naos-taksiarxon-meston",
+          "local": "Αγίου Δημητρίου",
+          "occurrences": 2
+        },
+        {
+          "profile": "https://www.imchiou.gr/index.php/el/i-mitropolis/enories/arxieratiki-epitropeia-pyrgiou/ieros-naos-taksiarxon-meston",
+          "local": "Γενεσίου Θεοτόκου",
+          "occurrences": 2
+        },
+        {
+          "profile": "https://www.imchiou.gr/index.php/el/i-mitropolis/enories/arxieratiki-epitropeia-pyrgiou/ieros-naos-taksiarxon-meston",
+          "local": "Αγίας Παρασκευής",
+          "occurrences": 2
+        },
+        {
+          "profile": "https://www.imchiou.gr/index.php/el/i-mitropolis/enories/arxieratiki-epitropeia-pyrgiou/ieros-naos-taksiarxon-meston",
+          "local": "Αγίου Γεωργίου",
+          "occurrences": 2
+        },
+        {
+          "profile": "https://www.imchiou.gr/index.php/el/i-mitropolis/enories/arxieratiki-epitropeia-pyrgiou/ieros-naos-koimiseos-theotokou-pyrgiou",
+          "local": "Αγία Κυριακή",
+          "occurrences": 2
+        },
+        {
+          "profile": "https://www.imchiou.gr/index.php/el/i-mitropolis/enories/arxieratiki-epitropeia-pyrgiou/ieros-naos-koimiseos-theotokou-pyrgiou",
+          "local": "Αγία Παρασκευή",
+          "occurrences": 2
+        },
+        {
+          "profile": "https://www.imchiou.gr/index.php/el/i-mitropolis/enories/arxieratiki-epitropeia-pyrgiou/ieros-naos-koimiseos-theotokou-pyrgiou",
+          "local": "Αγία Μαρίνα",
+          "occurrences": 2
+        },
+        {
+          "profile": "https://www.imchiou.gr/index.php/el/i-mitropolis/enories/arxieratiki-epitropeia-pyrgiou/ieros-naos-koimiseos-theotokou-pyrgiou",
+          "local": "Αγία Ερμιόνη",
+          "occurrences": 2
+        },
+        {
+          "profile": "https://www.imchiou.gr/index.php/el/i-mitropolis/enories/arxieratiki-epitropeia-pyrgiou/ieros-naos-agiou-georgiou-olympon",
+          "local": "Συν. Παμμεγίστων Ταξιαρχών (Αδελφάτο)",
+          "occurrences": 2
+        }
+      ],
+      "sources": [
+        "https://www.imchiou.gr/index.php/el/i-mitropolis/enories/arxieratiki-epitropeia-pyrgiou/ieros-naos-eisodion-theotokou-pyrgiou",
+        "https://www.imchiou.gr/index.php/el/i-mitropolis/enories/arxieratiki-epitropeia-pyrgiou/ieros-naos-koimiseos-theotokou-pyrgiou"
+      ]
+    },
+    {
+      "candidate_id": "gr-chios-dissolved-and-former-bodies",
+      "parent": "ep-chios",
+      "country": "GR",
+      "name": "Dissolved, abandoned, former-calendar, and historic bodies named only in profile context",
+      "status": "10 exact non-current profile entries held outside the current body roster",
+      "reason": "Parish profiles name several dissolved monasteries, abandoned churches, historic monuments, and old-calendar bodies. Their mention does not establish a current worship body under this parent, so they are not silently promoted into the current directory.",
+      "held_bodies": [
+        {"local": "Ιερά Μονή Ταξιαρχών (Παλαιού Ημερολογίου)", "source": "https://www.imchiou.gr/index.php/el/i-mitropolis/enories/arxieratiki-epitropeia-neniton/ieros-naos-agiou-georgiou-neniton"},
+        {"local": "Ἁγίου Βασιλείου {Ἐρειπωμένος, (πρώην Μητροπολιτικός Ναός), ἐντός τῶν ὁρίων τῆς ἐνορίας}", "source": "https://www.imchiou.gr/index.php/el/i-mitropolis/enories/arxieratiki-epitropeia-poleos-xiou/ieros-naos-agiou-iakovou-poleos-xiou"},
+        {"local": "Ἁγίου Νικολάου (Παλαιοῦ ἡμερολογίου)", "source": "https://www.imchiou.gr/index.php/el/i-mitropolis/enories/arxieratiki-epitropeia-poleos-xiou/ieros-naos-agiou-iakovou-poleos-xiou"},
+        {"local": "Ἁγίας Σκέπης καί Χίων Ἁγίων (Παλαιοῦ ἡμερολογίου)", "source": "https://www.imchiou.gr/index.php/el/i-mitropolis/enories/arxieratiki-epitropeia-poleos-xiou/ieros-naos-agiou-iakovou-poleos-xiou"},
+        {"local": "Ἁγίου Γεωργίου (Θέση Πραστιά-ἐρειπωμένο)", "source": "https://www.imchiou.gr/index.php/el/i-mitropolis/enories/arxieratiki-epitropeia-volissou/ieros-naos-agiou-georgiou-sidirountas"},
+        {"local": "Αγίου Στυλιανού (ερειπωμένο)", "source": "https://www.imchiou.gr/index.php/el/i-mitropolis/enories/arxieratiki-epitropeia-volissou/ieros-naos-agiou-ioannou-theologou-parparias"},
+        {"local": "Αγίων Ασωμάτων (ερειπωμένο)", "source": "https://www.imchiou.gr/index.php/el/i-mitropolis/enories/arxieratiki-epitropeia-volissou/ieros-naos-agiou-ioannou-theologou-parparias"},
+        {"local": "Παναγίας Αγρελιώτισσας (Γενεσίου Θεοτόκου) (διαλελυμένη)", "source": "https://www.imchiou.gr/index.php/el/i-mitropolis/enories/arxieratiki-epitropeia-volissou/ieros-naos-agiou-ioannou-theologou-parparias"},
+        {"local": "Παναγίας Ευαγγελίστριας (Ευαγγελισμού Θεοτόκου) (διαλελυμένη)", "source": "https://www.imchiou.gr/index.php/el/i-mitropolis/enories/arxieratiki-epitropeia-volissou/ieros-naos-agiou-ioannou-theologou-parparias"},
+        {"local": "Παναγίας Παγούσαινας (Κοιμήσεως Θεοτόκου) (διαλελυμένες)", "source": "https://www.imchiou.gr/index.php/el/i-mitropolis/enories/arxieratiki-epitropeia-volissou/ieros-naos-agiou-ioannou-theologou-parparias"}
+      ],
+      "sources": [
+        "https://www.imchiou.gr/index.php/el/i-mitropolis/enories",
+        "https://ec-patr.org/entities/iera-mitropoli-xioy/"
+      ]
+    },
+    {
+      "candidate_id": "gr-chios-search-and-map-leads",
+      "parent": "ep-chios",
+      "country": "GR",
+      "name": "Search and map discoveries not tied to the current official roster",
+      "status": "discovery-only",
+      "reason": "Search engines and maps may identify possible worship bodies or contact details, but no additional body or contact is published until a competent current Church source confirms its exact identity and canonical parentage.",
+      "sources": [
+        "https://www.imchiou.gr/index.php/el/i-mitropolis/enories",
+        "https://ec-patr.org/entities/iera-mitropoli-xioy/"
+      ]
+    }
+  ],
+  "source_reconciliations": [
+    {
+      "scope": "Principal parish roster",
+      "decision": "The nine current official committee sections reconcile exactly to 109 principal parishes: 19, 14, 14, 9, 13, 10, 10, 11, and 9.",
+      "sources": [
+        "https://www.imchiou.gr/index.php/el/i-mitropolis/enories",
+        "https://ec-patr.org/entities/iera-mitropoli-xioy/"
+      ]
+    },
+    {
+      "scope": "Exact subordinate bodies",
+      "decision": "Every unambiguous exact worship body rendered within the current parish profile worship-body sections is published. Exact repetitions within one profile are held. The private bodies explicitly shared by both Pyrgi parishes are published once with both profile sources.",
+      "sources": [
+        "https://www.imchiou.gr/index.php/el/i-mitropolis/enories"
+      ]
+    },
+    {
+      "scope": "Monasteries and pilgrimage churches",
+      "decision": "The current separate Metropolis pages control 25 monasteries, 2 dependent sketes, and 4 pilgrimage churches. The Ecumenical Patriarchate overview corroborates the named rosters and aggregate counts.",
+      "sources": [
+        "https://www.imchiou.gr/index.php/el/i-mitropolis/ierai-monai-androes",
+        "https://www.imchiou.gr/index.php/el/i-mitropolis/ierai-monai-gynaikeies",
+        "https://www.imchiou.gr/index.php/el/i-mitropolis/iera-proskynimata"
+      ]
+    },
+    {
+      "scope": "Institutional contacts",
+      "decision": "Only phone and email values assigned by the official page to the institution are published. Every line labeled as a priest or serving cleric contact is excluded. No subordinate body inherits a parent parish contact.",
+      "sources": [
+        "https://www.imchiou.gr/index.php/el/i-mitropolis/enories",
+        "https://www.imchiou.gr/index.php/el/i-mitropolis/ierai-monai-androes",
+        "https://www.imchiou.gr/index.php/el/i-mitropolis/ierai-monai-gynaikeies"
+      ]
+    },
+    {
+      "scope": "Body-owned and higher-level sites",
+      "decision": "Eight parish profiles link distinct parish-owned sites, recorded in those parish rows. The Metropolis site is recorded separately as the higher-level site and is not copied into subordinate site fields.",
+      "sources": [
+        "https://www.imchiou.gr/index.php/el/i-mitropolis/enories",
+        "https://www.imchiou.gr/"
+      ]
+    }
+  ]
+}

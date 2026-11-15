@@ -22,6 +22,7 @@ import directory_azerbaijan
 import directory_belarus
 import directory_belgium
 import directory_benin
+import directory_beroia_country
 import directory_bosnia_montenegro
 import directory_brazil
 import directory_burundi
@@ -30,6 +31,7 @@ import directory_canada
 import directory_cambodia
 import directory_cameroon
 import directory_chile
+import directory_chios_country
 import directory_congo_brazzaville
 import directory_congo_dr
 import directory_croatia
@@ -85,6 +87,7 @@ import directory_poland
 import directory_qatar
 import directory_romania
 import directory_rwanda
+import directory_serres_country
 import directory_serbia
 import directory_singapore
 import directory_slovenia
@@ -122,6 +125,7 @@ SOURCE_MODULES = (
     directory_belarus,
     directory_belgium,
     directory_benin,
+    directory_beroia_country,
     directory_bosnia_montenegro,
     directory_brazil,
     directory_burundi,
@@ -130,6 +134,7 @@ SOURCE_MODULES = (
     directory_cambodia,
     directory_cameroon,
     directory_chile,
+    directory_chios_country,
     directory_congo_brazzaville,
     directory_congo_dr,
     directory_croatia,
@@ -183,6 +188,7 @@ SOURCE_MODULES = (
     directory_qatar,
     directory_romania,
     directory_rwanda,
+    directory_serres_country,
     directory_serbia,
     directory_singapore,
     directory_slovenia,
@@ -348,9 +354,9 @@ def build():
         else:
             payload["countries"] = scope
     row_count = sum(len(p["rows"]) for p in payloads.values())
-    if len(payloads) != 367 or row_count != 25228:
+    if len(payloads) != 370 or row_count != 26664:
         raise ValueError(
-            "combined country branches must publish 367 parents and 25228 "
+            "combined country branches must publish 370 parents and 26664 "
             "rows, got %d parents and %d rows" %
             (len(payloads), row_count))
     return dict(sorted(payloads.items()))
@@ -419,7 +425,7 @@ def main():
         for error in errors:
             print(error, file=sys.stderr)
         return 1
-    print("Combined country branches: 367 parents, 25228 subordinate bodies")
+    print("Combined country branches: 370 parents, 26664 subordinate bodies")
     return 0
 
 
