@@ -1,0 +1,133 @@
+{
+  "v": 1,
+  "countries": [
+    "GR"
+  ],
+  "checked": "2026-11-15",
+  "method": "Publish all 54 exact current church bodies numbered on the official metropolis roster and all six exact current monastic institutions listed on the official monastery page. Preserve every distinct public telephone route attached to each exact body, including clergy-linked and mobile numbers, while omitting clergy names. Hold unnamed aggregate chapels and country churches rather than manufacture identities.",
+  "published_summary": {
+    "ep-hierissos": 60,
+    "total": 60,
+    "parish_kind_rows": 54,
+    "monastery_kind_rows": 6,
+    "contact_bodies": 59,
+    "phone_bodies": 59,
+    "public_phone_values": 118,
+    "email_bodies": 1,
+    "public_email_values": 1,
+    "body_owned_sites": 2,
+    "address_bodies": 60
+  },
+  "candidates": [
+    {
+      "candidate_id": "gr-ep-hierissos-unnamed-chapels",
+      "parent": "ep-hierissos",
+      "country": "GR",
+      "category": "aggregate-only",
+      "status": "held",
+      "reason": "The official administration page reports 83 chapels without a complete exact named current roster. No chapel is inferred from the aggregate.",
+      "sources": [
+        "https://web.im-ierissou.gr/dioikisi/"
+      ]
+    },
+    {
+      "candidate_id": "gr-ep-hierissos-unnamed-country-churches",
+      "parent": "ep-hierissos",
+      "country": "GR",
+      "category": "aggregate-only",
+      "status": "held",
+      "reason": "The official administration page reports 150 country churches without a complete exact named current roster. None is inferred from that count.",
+      "sources": [
+        "https://web.im-ierissou.gr/dioikisi/"
+      ]
+    },
+    {
+      "candidate_id": "gr-ep-hierissos-search-map-leads",
+      "parent": "ep-hierissos",
+      "country": "GR",
+      "category": "affiliation-unclear",
+      "status": "discovery-only",
+      "reason": "Search and map leads remain unpublished unless a competent first-party Church source establishes the exact body and its current canonical parent.",
+      "sources": [
+        "https://web.im-ierissou.gr/ieroi-naoi-efimerioi/"
+      ]
+    }
+  ],
+  "source_reconciliations": [
+    {
+      "subject": "Exact church roster and aggregate counts",
+      "decision": "The current official roster numbers 54 exact church bodies. Its numbered entries resolve to 51 parish churches and three pilgrimage churches, including the church at Loutra Neas Apollonias. That exact structure agrees with the administration page's 51 parish and three pilgrimage aggregates. All 54 exact bodies are published in official roster order.",
+      "sources": [
+        "https://web.im-ierissou.gr/ieroi-naoi-efimerioi/",
+        "https://web.im-ierissou.gr/dioikisi/"
+      ]
+    },
+    {
+      "subject": "Historic and current parish-count wording",
+      "decision": "The administration page reports 51 parish churches, while the history page and Patriarchate overview report 52. The current exact numbered roster governs publication and supports 51 parish bodies plus three pilgrimage bodies. No row is added or removed merely to force a secondary aggregate.",
+      "sources": [
+        "https://web.im-ierissou.gr/dioikisi/",
+        "https://web.im-ierissou.gr/i-istoria-tis-ieras-mitropoleos/",
+        "https://ec-patr.org/entities/iera-mitropoli-ierissoy-agioy-oroys-ardamerioy/"
+      ]
+    },
+    {
+      "subject": "Current monastic institutions",
+      "decision": "The official monastery page names six current institutions: four monasteries, one monastic house, and one hermitage. The administration page's aggregate of five monastic churches does not describe the same institutional categories. All six exact current institutions are preserved with the ranks shown by the detailed page.",
+      "sources": [
+        "https://web.im-ierissou.gr/ieres-mones/",
+        "https://web.im-ierissou.gr/dioikisi/"
+      ]
+    },
+    {
+      "subject": "Public contact routes",
+      "decision": "Every distinct telephone number displayed with a specific church or monastic institution is preserved as a public body-associated contact route, including mobile and clergy-linked numbers. Clergy names are omitted. The separately labeled fax for the monastic house is not relabeled as a telephone number.",
+      "sources": [
+        "https://web.im-ierissou.gr/ieroi-naoi-efimerioi/",
+        "https://web.im-ierissou.gr/ieres-mones/"
+      ]
+    }
+  ],
+  "official_parent_audit": [
+    {
+      "parent": "ep-hierissos",
+      "result": "60 exact current bodies published: 54 numbered churches and six monastic institutions.",
+      "roster_status": "complete official numbered church roster plus complete official monastic-institution list",
+      "sources": [
+        "https://web.im-ierissou.gr/ieroi-naoi-efimerioi/",
+        "https://web.im-ierissou.gr/ieres-mones/",
+        "https://web.im-ierissou.gr/dioikisi/"
+      ]
+    }
+  ],
+  "exclusions": [
+    {
+      "category": "aggregate-only",
+      "decision": "No chapel, country church, or other body is inferred solely from an aggregate count.",
+      "sources": [
+        "https://web.im-ierissou.gr/dioikisi/"
+      ]
+    },
+    {
+      "category": "parent-contact",
+      "decision": "Metropolis office telephone and email values are not copied onto subordinate bodies without a body-level association.",
+      "sources": [
+        "https://web.im-ierissou.gr/dioikisi/"
+      ]
+    },
+    {
+      "category": "non-phone-contact",
+      "decision": "The monastic house fax remains source evidence but is not published in the telephone field.",
+      "sources": [
+        "https://web.im-ierissou.gr/ieres-mones/"
+      ]
+    },
+    {
+      "category": "discovery-only",
+      "decision": "Search and map leads remain unpublished until a competent first-party Church source establishes identity and canonical parentage.",
+      "sources": [
+        "https://web.im-ierissou.gr/ieroi-naoi-efimerioi/"
+      ]
+    }
+  ]
+}
