@@ -1,0 +1,194 @@
+{
+  "v": 1,
+  "countries": [
+    "GR"
+  ],
+  "checked": "2026-11-15",
+  "method": "Publish all 78 exact current body rows in the official Kassandreia parish table and the seven exact current monasteries and metochia named by the official monastery page. Preserve every body-associated public phone exactly as displayed, including mobile and clergy-linked routes, while omitting clergy names. Reconcile the current table against the Patriarchate aggregate and the 2019 legal roster without manufacturing a missing body or treating a legal-only name as current.",
+  "published_summary": {
+    "ep-kassandreia": 85,
+    "total": 85,
+    "exact_current_parish_rows": 78,
+    "monastery_kind_rows": 7,
+    "parish_kind_rows": 78,
+    "contact_bodies": 84,
+    "phone_bodies": 84,
+    "public_phone_values": 84,
+    "email_bodies": 0,
+    "public_email_values": 0,
+    "body_owned_sites": 0,
+    "address_bodies": 85
+  },
+  "candidates": [
+    {
+      "candidate_id": "gr-ep-kassandreia-aggregate-and-current-roster-difference",
+      "parent": "ep-kassandreia",
+      "country": "GR",
+      "category": "aggregate-mismatch",
+      "status": "held-for-reconciliation",
+      "reason": "The Patriarchate reports 79 parish churches and the 2019 legal roster enumerates 79 parishes, while the current official Metropolis table contains 78 exact body rows. Publication follows the exact current table. No unnamed seventy-ninth body is inferred from subtraction.",
+      "patriarchate_aggregate": 79,
+      "legal_roster_count": 79,
+      "current_exact_rows": 78,
+      "sources": [
+        "https://www.imkassandreias.gr/index.php/el/ieroi-naoi/pinakas",
+        "https://ec-patr.org/entities/iera-mitropoli-kassandreias/",
+        "https://www.e-nomothesia.gr/kat-ekklesia-thriskeia/kanonismoi-ieras-sunodou/kanonismos-ieras-sunodou-ekklesias-3650-1983-2019.html"
+      ]
+    },
+    {
+      "candidate_id": "gr-ep-kassandreia-triadion-saint-george-legal-only",
+      "parent": "ep-kassandreia",
+      "country": "GR",
+      "category": "legal-roster-only",
+      "status": "held-for-current-confirmation",
+      "reason": "The 2019 legal roster names the Saint George parish at Triadion. It is absent from the current official 78-row table, so it remains held until the Metropolis confirms its present identity and status.",
+      "sources": [
+        "https://www.e-nomothesia.gr/kat-ekklesia-thriskeia/kanonismoi-ieras-sunodou/kanonismos-ieras-sunodou-ekklesias-3650-1983-2019.html",
+        "https://www.ecclesia.gr/greek/press/ekklisia/2019_decembrios.pdf",
+        "https://www.imkassandreias.gr/index.php/el/ieroi-naoi/pinakas"
+      ]
+    },
+    {
+      "candidate_id": "gr-ep-kassandreia-nea-olynthos-saint-george-legal-only",
+      "parent": "ep-kassandreia",
+      "country": "GR",
+      "category": "roster-identity-difference",
+      "status": "held-for-current-confirmation",
+      "reason": "The 2019 legal roster names Saint George at Nea Olynthos, while the current official table instead names Saint Athanasius at Olynthos. The current Saint Athanasius row is published. The older legal identity is held rather than merged, renamed, or published as a second current body without current confirmation.",
+      "sources": [
+        "https://www.e-nomothesia.gr/kat-ekklesia-thriskeia/kanonismoi-ieras-sunodou/kanonismos-ieras-sunodou-ekklesias-3650-1983-2019.html",
+        "https://www.ecclesia.gr/greek/press/ekklisia/2019_decembrios.pdf",
+        "https://www.imkassandreias.gr/index.php/el/ieroi-naoi/pinakas"
+      ]
+    },
+    {
+      "candidate_id": "gr-ep-kassandreia-unnamed-holy-pilgrimage",
+      "parent": "ep-kassandreia",
+      "country": "GR",
+      "category": "aggregate-only",
+      "status": "held",
+      "reason": "The 2019 legal roster reports one holy pilgrimage site without assigning an exact name in its parish total statement. No worship body is inferred from that aggregate.",
+      "aggregate_count": 1,
+      "sources": [
+        "https://www.e-nomothesia.gr/kat-ekklesia-thriskeia/kanonismoi-ieras-sunodou/kanonismos-ieras-sunodou-ekklesias-3650-1983-2019.html",
+        "https://www.ecclesia.gr/greek/press/ekklisia/2019_decembrios.pdf"
+      ]
+    },
+    {
+      "candidate_id": "gr-ep-kassandreia-history-and-map-leads",
+      "parent": "ep-kassandreia",
+      "country": "GR",
+      "category": "current-status-unclear",
+      "status": "discovery-only",
+      "reason": "Historic church pages, map markers, and search results outside the current table remain unpublished until a competent current first-party Church source establishes exact identity, canonical parentage, and present status.",
+      "sources": [
+        "https://www.imkassandreias.gr/index.php/el/ieroi-naoi/pinakas",
+        "https://ec-patr.org/entities/iera-mitropoli-kassandreias/"
+      ]
+    }
+  ],
+  "source_reconciliations": [
+    {
+      "subject": "Exact current parish table",
+      "decision": "The official current page contains 79 HTML table rows including its header, leaving 78 exact body rows. Every row is published once in source order. One row is the Saint Nicholas Metropolitan Church at Polygyros and 77 are parish churches.",
+      "sources": [
+        "https://www.imkassandreias.gr/index.php/el/ieroi-naoi/pinakas"
+      ]
+    },
+    {
+      "subject": "Current table and 2019 legal roster",
+      "decision": "The legal roster enumerates 79 parishes and reports the same total as the Patriarchate. Its exact names include Saint George at Triadion and Saint George at Nea Olynthos. The current 78-row table omits Triadion and instead carries Saint Athanasius at Olynthos. These exact differences are held openly, while the current table governs publication.",
+      "sources": [
+        "https://www.imkassandreias.gr/index.php/el/ieroi-naoi/pinakas",
+        "https://www.e-nomothesia.gr/kat-ekklesia-thriskeia/kanonismoi-ieras-sunodou/kanonismos-ieras-sunodou-ekklesias-3650-1983-2019.html",
+        "https://www.ecclesia.gr/greek/press/ekklisia/2019_decembrios.pdf"
+      ]
+    },
+    {
+      "subject": "Current expanded dedication labels",
+      "decision": "The current table expands three parish labels beyond the shorter 2019 legal titles: Metamorfosi includes Saint Basil the Great with the Transfiguration, Nea Moudania includes Panagia Koryfini with Saint George, and Nikiti includes the Dormition with Saint Niketas. Each remains one exact current table row and is not split into inferred additional bodies.",
+      "sources": [
+        "https://www.imkassandreias.gr/index.php/el/ieroi-naoi/pinakas",
+        "https://www.e-nomothesia.gr/kat-ekklesia-thriskeia/kanonismoi-ieras-sunodou/kanonismos-ieras-sunodou-ekklesias-3650-1983-2019.html"
+      ]
+    },
+    {
+      "subject": "Current monasteries and metochion",
+      "decision": "The official local page and current Patriarchate profile name the same seven institutions: six monasteries and the Annunciation Patriarchal and Stavropegic Metochion of Simonopetra at Ormylia. All seven are published once. Six carry a visible current telephone on the local page; the Dormition monastery at Polygyros does not.",
+      "sources": [
+        "https://www.imkassandreias.gr/index.php/el/ieresmones",
+        "https://ec-patr.org/entities/iera-mitropoli-kassandreias/"
+      ]
+    },
+    {
+      "subject": "Public body-associated phones",
+      "decision": "All 78 exact current parish rows preserve their displayed public telephone, including the New Skioni mobile and the source-displayed Trilofos number 29320-61247. Six monastic institutions preserve their visible public telephone. These routes remain body-associated even where the page places them beside clergy assignments. Clergy names are omitted and parent Metropolis office routes are not copied to subordinate bodies.",
+      "sources": [
+        "https://www.imkassandreias.gr/index.php/el/ieroi-naoi/pinakas",
+        "https://www.imkassandreias.gr/index.php/el/ieresmones"
+      ]
+    },
+    {
+      "subject": "Legal source provenance",
+      "decision": "The e-nomothesia transcription and the official December 2019 Church of Greece bulletin carry Regulation 3650/1983/2019. Both are retained as reconciliation sources, while current publication follows the later exact local roster.",
+      "sources": [
+        "https://www.e-nomothesia.gr/kat-ekklesia-thriskeia/kanonismoi-ieras-sunodou/kanonismos-ieras-sunodou-ekklesias-3650-1983-2019.html",
+        "https://www.ecclesia.gr/greek/press/ekklisia/2019_decembrios.pdf"
+      ]
+    }
+  ],
+  "official_parent_audit": [
+    {
+      "parent": "ep-kassandreia",
+      "result": "85 exact current bodies published: 78 current parish-table rows and seven current monastic institutions.",
+      "roster_status": "complete current exact parish table and complete current official monastery list, with the 79-parish aggregate and legal-roster differences held for reconciliation",
+      "sources": [
+        "https://www.imkassandreias.gr/index.php/el/ieroi-naoi/pinakas",
+        "https://www.imkassandreias.gr/index.php/el/ieresmones",
+        "https://ec-patr.org/entities/iera-mitropoli-kassandreias/"
+      ]
+    }
+  ],
+  "exclusions": [
+    {
+      "category": "aggregate-only",
+      "decision": "No parish, pilgrimage site, chapel, country church, monastery, or other body is inferred solely from an aggregate count or arithmetic difference.",
+      "sources": [
+        "https://ec-patr.org/entities/iera-mitropoli-kassandreias/",
+        "https://www.e-nomothesia.gr/kat-ekklesia-thriskeia/kanonismoi-ieras-sunodou/kanonismos-ieras-sunodou-ekklesias-3650-1983-2019.html"
+      ]
+    },
+    {
+      "category": "legal-only-current-status",
+      "decision": "A body appearing in the 2019 legal roster but absent from or contradicted by the current exact local table remains held until the Metropolis confirms its present identity and status.",
+      "sources": [
+        "https://www.e-nomothesia.gr/kat-ekklesia-thriskeia/kanonismoi-ieras-sunodou/kanonismos-ieras-sunodou-ekklesias-3650-1983-2019.html",
+        "https://www.imkassandreias.gr/index.php/el/ieroi-naoi/pinakas"
+      ]
+    },
+    {
+      "category": "clergy-personnel",
+      "decision": "Official public telephone routes tied to an exact body are retained, including mobile or clergy-linked routes, while clergy names and personnel assignments are omitted.",
+      "sources": [
+        "https://www.imkassandreias.gr/index.php/el/ieroi-naoi/pinakas",
+        "https://www.imkassandreias.gr/index.php/el/ieresmones"
+      ]
+    },
+    {
+      "category": "parent-contact",
+      "decision": "Metropolis office telephone, email, and website values are not copied onto subordinate bodies without an explicit body-level association.",
+      "sources": [
+        "https://ec-patr.org/entities/iera-mitropoli-kassandreias/",
+        "https://www.imkassandreias.gr/index.php/el/ieroi-naoi/pinakas"
+      ]
+    },
+    {
+      "category": "historic-and-map-only",
+      "decision": "Historic descriptions and map or search leads remain unpublished unless a competent current first-party Church source establishes the exact current body and parent.",
+      "sources": [
+        "https://www.imkassandreias.gr/index.php/el/ieroi-naoi/pinakas"
+      ]
+    }
+  ]
+}
