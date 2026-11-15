@@ -1,0 +1,148 @@
+{
+  "v": 1,
+  "countries": [
+    "GR"
+  ],
+  "checked": "2026-11-15",
+  "method": "The current official seven-region parish roster is transcribed exactly. The current official monastery page, official 2021 handbook, and current 2026 first-party notices supply named chapels, monasteries, the pilgrimage church, and fixed institutional contacts. Body-owned sites are accepted only where the Metropolis itself links them. Personal clergy contacts and bodies that cannot be reconciled to a current first-party identity remain held.",
+  "published_summary": {
+    "gr-larisa": 157,
+    "total": 157,
+    "parish_kind_rows": 151,
+    "monastery_kind_rows": 6,
+    "contact_bodies": 16,
+    "phone_bodies": 14,
+    "public_phone_values": 14,
+    "email_bodies": 8,
+    "public_email_values": 8,
+    "body_owned_sites": 11,
+    "address_bodies": 157
+  },
+  "candidates": [
+    {
+      "candidate_id": "gr-larisa-prophet-elijah-monastery-tyrnavos",
+      "parent": "gr-larisa",
+      "country": "GR",
+      "category": "older-official-roster-only",
+      "status": "held",
+      "reason": "The official 2021 handbook lists the Prophet Elijah Monastery at Tyrnavos, but the Metropolis's current monastery page does not list or describe it. No current first-party page was found that establishes it as a separately operating monastery.",
+      "sources": [
+        "https://imlarisis.gr/wp-content/uploads/2020/12/Egkolpio2021.pdf",
+        "https://imlarisis.gr/home/imlt/%CE%B9%CE%B5%CF%81%CE%B5%CF%82-%CE%BC%CE%BF%CE%BD%CE%B5%CF%82/"
+      ]
+    },
+    {
+      "candidate_id": "gr-larisa-annunciation-monastery-pyrgetos",
+      "parent": "gr-larisa",
+      "country": "GR",
+      "category": "older-official-roster-only",
+      "status": "held",
+      "reason": "The official 2021 handbook lists the Annunciation of the Theotokos Monastery at Pyrgetos, but the Metropolis's current monastery page does not list or describe it. The handbook publishes only a mobile contact, which is excluded as personal unless a current institutional source identifies it otherwise.",
+      "sources": [
+        "https://imlarisis.gr/wp-content/uploads/2020/12/Egkolpio2021.pdf",
+        "https://imlarisis.gr/home/imlt/%CE%B9%CE%B5%CF%81%CE%B5%CF%82-%CE%BC%CE%BF%CE%BD%CE%B5%CF%82/"
+      ]
+    },
+    {
+      "candidate_id": "gr-larisa-holy-theodores-monastery-rapsani",
+      "parent": "gr-larisa",
+      "country": "GR",
+      "category": "older-official-roster-only",
+      "status": "held",
+      "reason": "The official 2021 handbook lists the Holy Theodores Monastery at Rapsani, but the Metropolis's current monastery page does not list or describe it. No current first-party page was found that establishes it as a separately operating monastery.",
+      "sources": [
+        "https://imlarisis.gr/wp-content/uploads/2020/12/Egkolpio2021.pdf",
+        "https://imlarisis.gr/home/imlt/%CE%B9%CE%B5%CF%81%CE%B5%CF%82-%CE%BC%CE%BF%CE%BD%CE%B5%CF%82/"
+      ]
+    }
+  ],
+  "source_reconciliations": [
+    {
+      "candidate_id": "gr-larisa-current-parish-roster",
+      "status": "published",
+      "result": "The 8 June 2022 official allocation names 119 parish churches across seven archieratical regions. All 119 exact local identities are published, including the two churches explicitly marked as metropolitan.",
+      "sources": [
+        "https://imlarisis.gr/home/imlt/%CE%B1%CF%81%CF%87%CE%B9%CE%B5%CF%81%CE%B1%CF%84%CE%B9%CE%BA%CE%B5%CF%83-%CF%80%CE%B5%CF%81%CE%B9%CF%86%CE%B5%CF%81%CE%B5%CE%B9%CE%B5%CF%83-%CE%B5%CE%BD%CE%BF%CF%81%CE%B9%CE%B5%CF%83/"
+      ]
+    },
+    {
+      "candidate_id": "gr-larisa-current-monastery-page",
+      "status": "published",
+      "result": "The current official page identifies five monasteries and the Saint Paraskevi pilgrimage church. Each exact body is published. The page's statement that Saint Nikodemos is the newest of three men's monasteries agrees with the three currently described men's houses.",
+      "sources": [
+        "https://imlarisis.gr/home/imlt/%CE%B9%CE%B5%CF%81%CE%B5%CF%82-%CE%BC%CE%BF%CE%BD%CE%B5%CF%82/"
+      ]
+    },
+    {
+      "candidate_id": "gr-larisa-official-handbook-chapels",
+      "status": "published",
+      "result": "The official 2021 handbook names four metropolitan chapels, eleven parish chapels, four institution chapels, nine military chapels, one pilgrimage church, and the current monasteries with fixed landline contacts. The named bodies are published. Mobile numbers attached to clergy or monastics are excluded.",
+      "sources": [
+        "https://imlarisis.gr/wp-content/uploads/2020/12/Egkolpio2021.pdf"
+      ]
+    },
+    {
+      "candidate_id": "gr-larisa-current-2026-body-notices",
+      "status": "published",
+      "result": "Current November 2026 Metropolis notices separately identify Saint Nectarios Chapel at Nikaia, Saint John Chrysostom Chapel at Terpsithea, the Holy Archangels Church at the old cemetery, and the All Saints Monastery under establishment at Amygdalea. The Saint Nectarios notice for Eretrias Street confirms and locates the Saint Nectarios chapel already named in the handbook.",
+      "sources": [
+        "https://imlarisis.gr/prog-agiou-nektariou-nikaia-2026/",
+        "https://imlarisis.gr/i-eorti-tou-ag-ioannou-chrisostomou-terpsithea-2026/",
+        "https://imlarisis.gr/prog-pammegiston-taksiarxon-larisis-2026/"
+      ]
+    },
+    {
+      "candidate_id": "gr-larisa-body-owned-sites-and-contacts",
+      "status": "published",
+      "result": "The Metropolis homepage links eleven church-owned sites. Nine publish fixed institutional phones and eight publish institutional emails. The Saint Catherine site remains listed by the Metropolis even though its host did not answer during this audit, so the official link is preserved without inferred contact data.",
+      "sources": [
+        "https://imlarisis.gr/"
+      ]
+    }
+  ],
+  "official_parent_audit": [
+    {
+      "candidate_id": "gr-larisa-parent-authority",
+      "status": "confirmed",
+      "result": "The Church of Greece lists the Holy Metropolis of Larisa and Tyrnavos, and the existing directory parent gr-larisa records the same body and official site.",
+      "sources": [
+        "http://www.ecclesiagreece.gr/ecclesiajoomla/index.php/el/metropoleis/larises-kai-tyrnabou",
+        "https://imlarisis.gr/"
+      ]
+    }
+  ],
+  "exclusions": [
+    {
+      "candidate_id": "gr-larisa-clergy-personal-contacts",
+      "status": "excluded",
+      "reason": "Mobile numbers and contact details published beside named clergy or monastics are personal rather than fixed public institutional contacts.",
+      "sources": [
+        "https://imlarisis.gr/wp-content/uploads/2020/12/Egkolpio2021.pdf"
+      ]
+    },
+    {
+      "candidate_id": "gr-larisa-unnamed-church-aggregates",
+      "status": "excluded",
+      "reason": "General references to churches or chapels that do not name an independently identifiable body are not converted into directory rows.",
+      "sources": [
+        "https://imlarisis.gr/"
+      ]
+    },
+    {
+      "candidate_id": "gr-larisa-search-and-map-only-leads",
+      "status": "excluded",
+      "reason": "Search and map listings are discovery leads only. A body is not published without an official first-party identity tying it to the Metropolis.",
+      "sources": [
+        "https://imlarisis.gr/"
+      ]
+    },
+    {
+      "candidate_id": "gr-larisa-parent-office-contact-reuse",
+      "status": "excluded",
+      "reason": "The general Metropolis phone and email are not copied onto every subordinate body. Contacts are attached only where a body-specific official source publishes them.",
+      "sources": [
+        "https://imlarisis.gr/"
+      ]
+    }
+  ]
+}

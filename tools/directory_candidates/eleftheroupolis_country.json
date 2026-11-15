@@ -1,0 +1,126 @@
+{
+  "v": 1,
+  "countries": [
+    "GR"
+  ],
+  "checked": "2026-11-15",
+  "method": "Publish every exact named body in the current official parish roster, the three first-party monastery profiles, and additional exact bodies identified by current first-party pages. Hold aggregate-only, ambiguous, and map-only leads rather than infer them.",
+  "published_summary": {
+    "ep-eleftheroupolis": 49,
+    "total": 49,
+    "parish_kind_rows": 46,
+    "monastery_kind_rows": 3,
+    "contact_bodies": 30,
+    "phone_bodies": 30,
+    "public_phone_values": 30,
+    "email_bodies": 0,
+    "public_email_values": 0,
+    "body_owned_sites": 0,
+    "address_bodies": 3
+  },
+  "candidates": [
+    {
+      "candidate_id": "gr-ep-eleftheroupolis-unnamed-subordinate-bodies",
+      "parent": "ep-eleftheroupolis",
+      "country": "GR",
+      "category": "aggregate-only",
+      "status": "held",
+      "reason": "The official site describes additional dependent chapels and other subordinate bodies without presenting one complete exact named roster. No body is inferred from an aggregate or a general reference.",
+      "sources": [
+        "https://imelef.gr/%CE%B5%CE%BD%CE%BF%CF%81%CE%AF%CE%B5%CF%82-%CE%BA%CE%BB%CE%AE%CF%81%CE%BF%CF%82"
+      ]
+    },
+    {
+      "candidate_id": "gr-ep-eleftheroupolis-mobile-contact-values",
+      "parent": "ep-eleftheroupolis",
+      "country": "GR",
+      "category": "personal-contact",
+      "status": "held",
+      "reason": "The parish roster mixes institutional landlines with clergy mobile numbers. Mobile-only values and values explicitly marked as mobile are excluded from body contact fields.",
+      "sources": [
+        "https://imelef.gr/%CE%B5%CE%BD%CE%BF%CF%81%CE%AF%CE%B5%CF%82-%CE%BA%CE%BB%CE%AE%CF%81%CE%BF%CF%82"
+      ]
+    },
+    {
+      "candidate_id": "gr-ep-eleftheroupolis-search-map-leads",
+      "parent": "ep-eleftheroupolis",
+      "country": "GR",
+      "category": "affiliation-unclear",
+      "status": "discovery-only",
+      "reason": "Search and map results remain unpublished unless a competent first-party Church source establishes the exact body and its current canonical parent.",
+      "sources": [
+        "https://imelef.gr/"
+      ]
+    }
+  ],
+  "source_reconciliations": [
+    {
+      "subject": "Current official parish roster",
+      "decision": "The official roster names 40 exact churches across four archieratical regions. All 40 are published once with their displayed seats, dedications, and institutional landlines where present.",
+      "sources": [
+        "https://imelef.gr/%CE%B5%CE%BD%CE%BF%CF%81%CE%AF%CE%B5%CF%82-%CE%BA%CE%BB%CE%AE%CF%81%CE%BF%CF%82"
+      ]
+    },
+    {
+      "subject": "Monasteries and additional exact bodies",
+      "decision": "Three monastery profiles add three exact monasteries. Current official pages add two pilgrimage bodies, a newly consecrated church in Galipsos, a Saint Mary Magdalene chapel in Domatia, and two exact Prophet Elijah bodies. Each body is published once and no aggregate gap is manufactured.",
+      "sources": [
+        "https://imelef.gr/%CE%B9%CE%B5%CF%81%CE%B1-%CE%BC%CE%BF%CE%BD%CE%B7-%CF%84%CE%B9%CE%BC%CE%B9%CE%BF%CF%85-%CF%80%CF%81%CE%BF%CE%B4%CF%81%CE%BF%CE%BC%CE%BF%CF%85-%CE%BD%CE%B9%CE%BA%CE%B7%CF%83%CE%B9%CE%B1%CE%BD%CE%B7",
+        "https://imelef.gr/archives/17276",
+        "https://imelef.gr/archives/17319"
+      ]
+    },
+    {
+      "subject": "Body contact boundary",
+      "decision": "Twenty-seven roster bodies carry fixed institutional landlines and the three monastery profiles carry monastery telephone numbers. Clergy mobile numbers are excluded. Parent-level site details are not copied into body-owned site fields, and no unsupported email address is added.",
+      "sources": [
+        "https://imelef.gr/%CE%B5%CE%BD%CE%BF%CF%81%CE%AF%CE%B5%CF%82-%CE%BA%CE%BB%CE%AE%CF%81%CE%BF%CF%82",
+        "https://imelef.gr/%CE%B9%CE%B5%CF%81%CE%B1-%CE%BC%CE%BF%CE%BD%CE%B7-%CE%B1%CE%B3%CE%B9%CE%BF%CF%85-%CE%B4%CE%B7%CE%BC%CE%B7%CF%84%CF%81%CE%B9%CE%BF%CF%85",
+        "https://imelef.gr/%CE%B9%CE%B5%CF%81%CE%B1-%CE%BC%CE%BF%CE%BD%CE%B7-%CE%B1%CE%B3%CE%B9%CE%BF%CF%85-%CF%80%CE%B1%CE%BD%CF%84%CE%B5%CE%BB%CE%B5%CE%B7%CE%BC%CE%BF%CE%BD%CE%BF%CF%83"
+      ]
+    },
+    {
+      "subject": "Cathedral ranks",
+      "decision": "Saint Nicholas is published as the Metropolitan Cathedral from its dedicated first-party page. Saint Eleutherius is published as a cathedral using the official metropolitan publication. The remaining roster bodies retain the parish rank unless another first-party page establishes a more specific rank.",
+      "sources": [
+        "https://imelef.gr/%CE%BC%CE%B7%CF%84%CF%81%CE%BF%CF%80%CE%BF%CE%BB%CE%B9%CF%84%CE%B9%CE%BA%CF%8C%CF%82-%CE%B9%CE%B5%CF%81%CF%8C%CF%82-%CE%BD%CE%B1%CF%8C%CF%82-%CE%B1%CE%B3%CE%AF%CE%BF%CF%85-%CE%BD%CE%B9%CE%BA%CE%BF",
+        "https://imelef.gr/wp-content/uploads/2021/02/Amvon_1.pdf"
+      ]
+    }
+  ],
+  "official_parent_audit": [
+    {
+      "parent": "ep-eleftheroupolis",
+      "result": "49 exact named bodies published: 40 roster churches, three monasteries, two pilgrimage bodies, and four additional current exact churches or chapels.",
+      "roster_status": "complete displayed exact roster plus current exact first-party supplements",
+      "sources": [
+        "https://imelef.gr/%CE%B5%CE%BD%CE%BF%CF%81%CE%AF%CE%B5%CF%82-%CE%BA%CE%BB%CE%AE%CF%81%CE%BF%CF%82",
+        "https://imelef.gr/archives/17276",
+        "https://imelef.gr/archives/17533"
+      ]
+    }
+  ],
+  "exclusions": [
+    {
+      "category": "aggregate-only",
+      "decision": "No chapel, cemetery church, monastic dependency, or other body is inferred solely from an aggregate or a general statement.",
+      "sources": [
+        "https://imelef.gr/%CE%B5%CE%BD%CE%BF%CF%81%CE%AF%CE%B5%CF%82-%CE%BA%CE%BB%CE%AE%CF%81%CE%BF%CF%82"
+      ]
+    },
+    {
+      "category": "personal-contact",
+      "decision": "Clergy mobile numbers are excluded. Only fixed institutional landlines and monastery contact numbers tied to exact bodies are published.",
+      "sources": [
+        "https://imelef.gr/%CE%B5%CE%BD%CE%BF%CF%81%CE%AF%CE%B5%CF%82-%CE%BA%CE%BB%CE%AE%CF%81%CE%BF%CF%82"
+      ]
+    },
+    {
+      "category": "discovery-only",
+      "decision": "Search and map leads remain in discovery until a competent first-party Church source establishes identity and canonical parentage.",
+      "sources": [
+        "https://imelef.gr/"
+      ]
+    }
+  ]
+}
