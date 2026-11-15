@@ -1,0 +1,223 @@
+{
+  "v": 1,
+  "countries": [
+    "AT"
+  ],
+  "checked": "2026-11-14",
+  "status": "only bodies without sufficient current official classification are held here",
+  "published_summary": {
+    "an-germany": 2,
+    "bg-western-central-europe": 2,
+    "ep-austria": 19,
+    "georgia": 3,
+    "mk-europe": 4,
+    "ro-germany": 37,
+    "ru-germany-rocor": 1,
+    "ru-vienna-and-austria": 7,
+    "sr-austria-switzerland": 25,
+    "ukraine-uoc": 2,
+    "total": 102
+  },
+  "candidates": [
+    {
+      "name": "Orthodox Church of Ukraine worship activity in Austria",
+      "place": "Vienna, Austria",
+      "claimed_parent": "Orthodox Church of Ukraine",
+      "sources": [
+        "https://www.pomisna.info/uk/vsi-novyny/mytropolyt-ilarion-vidvidav-ukrayinsku-gromadu-u-vidni/",
+        "https://www.pomisna.info/uk/tserkva/synodalni-ustanovy/"
+      ],
+      "reason": "The official OCU report documents a January 2025 visit and worship with the Ecumenical Patriarchate in its Holy Trinity Cathedral in Vienna. It does not identify a separate permanent OCU parish, mission, chapel, monastery, metochion or recurring worship site. Retain until the OCU publishes a stable Austrian body."
+    },
+    {
+      "name": "Macedonian Orthodox church community in Villach",
+      "place": "Villach, Austria",
+      "claimed_parent": "European Diocese of the Macedonian Orthodox Church",
+      "sources": [
+        "https://mpee.mk/",
+        "https://mpee.mk/post/istoriski-den-za-makedoncite-vo-avstrija-gradot-salcburg-ja-dobiva-cetvrtata-makedonska-crkovna-opstina"
+      ],
+      "reason": "The current official diocese establishes Villach as one of its four Austrian church communities, so the community is published. Its dedication, address and regular schedule remain here for reconciliation because no current official page was found that publishes them."
+    },
+    {
+      "name": "Macedonian Orthodox church community in Salzburg",
+      "place": "Salzburg, Austria",
+      "claimed_parent": "European Diocese of the Macedonian Orthodox Church",
+      "sources": [
+        "https://mpee.mk/",
+        "https://mpee.mk/post/istoriski-den-za-makedoncite-vo-avstrija-gradot-salcburg-ja-dobiva-cetvrtata-makedonska-crkovna-opstina"
+      ],
+      "reason": "The current official diocese establishes Salzburg as its fourth Austrian church community, so the community is published. The founding report documents the first Liturgy but does not establish a dedication, permanent address or recurring schedule. Those details remain unresolved rather than being inferred from secondary listings."
+    },
+    {
+      "name": "Ukrainian Orthodox Church community in Maria Ellend",
+      "place": "Maria Ellend, Austria",
+      "claimed_parent": "Western European Vicariate of the Ukrainian Orthodox Church",
+      "sources": [
+        "https://vzcz.church.ua/2026/09/19/jepiskop-veniamin-vidvidav-parafiji-upc-v-avstriji-ta-ugorshhini/"
+      ],
+      "reason": "The September 2026 official vicariate report establishes the current community, so it is published under its official generic description. No current official source was found that gives its dedication, stable address or regular schedule."
+    }
+  ],
+  "superseded_or_not_current": [
+    {
+      "name": "St Demetrios Bulgarian Orthodox church community in Graz",
+      "sources": [
+        "https://bg-patriarshia.bg/old/index5131.html?file=west_eu_diocese_temples.xml",
+        "https://bg-patriarshia.bg/west-eu-diocese-temples"
+      ],
+      "reason": "An older Bulgarian Patriarchate directory listed a St Demetrios community in Graz. The current patriarchal directory lists only the St John of Rila community and Sts Cyril and Methodius episcopal chapel in Vienna. The omitted Graz body is not published without current official confirmation."
+    }
+  ],
+  "source_reconciliation": [
+    {
+      "subject": "Austrian canonical jurisdiction union",
+      "sources": [
+        "https://orthodoxe-kirche.at/site/orthodoxedioezesen",
+        "https://www.orthodoxe-kirche.at/site/orthodoxebischofskonfrenz/mitglieder"
+      ],
+      "result": "The Orthodox Bishops Conference officially identifies seven Churches with Austrian structures: the Ecumenical Patriarchate and the Patriarchates of Antioch, Moscow, Serbia, Romania, Bulgaria and Georgia. Their own current directories govern body-level coverage. Current official sources also establish ROCOR, Macedonian and UOC bodies that are preserved under their own canonical parents."
+    },
+    {
+      "subject": "Ecumenical Patriarchate coverage",
+      "sources": [
+        "https://metropolisvonaustria.at/de/metropolis-de/pfarreien-de",
+        "https://metropolisvonaustria.at/de/metropolis-de/kloster-de"
+      ],
+      "result": "The current Metropolis directory establishes eighteen parishes or church communities throughout Austria. Its current monastery page establishes the Protection of the Mother of God and St Paisios monastery at Sankt Andra am Zicksee. Nineteen rows are published."
+    },
+    {
+      "subject": "Serbian Orthodox coverage",
+      "sources": [
+        "https://www.crkva.at/de/parohije/bec/",
+        "https://www.crkva.at/de/pfarren/nord-ost-osterreich/",
+        "https://www.crkva.at/de/pfarren/sud-west-osterreich/"
+      ],
+      "result": "The current diocesan East, Central and West Austria directories establish twenty primary churches or parishes and five named filial churches. All twenty-five bodies and worship sites are preserved."
+    },
+    {
+      "subject": "Romanian Orthodox coverage",
+      "sources": [
+        "https://mitropolia-ro.de/parohii-austria/"
+      ],
+      "result": "The current Austrian parish directory, updated 15 September 2026, establishes thirty-four primary parishes or chapels and three filial churches. All thirty-seven rows are preserved under the Romanian Archdiocese of Germany, Austria and Luxembourg."
+    },
+    {
+      "subject": "Moscow Patriarchate and ROCOR coverage",
+      "sources": [
+        "https://austria-diocese.com/parishes/",
+        "https://austria-diocese.com/kafedralniy-sobor/",
+        "https://rocor.de/de/gemeinden-liste"
+      ],
+      "result": "The Vienna and Austria Diocese establishes seven current Austrian bodies. The current ROCOR German diocesan directory separately establishes the Protection church in Salzburg. The Salzburg body is preserved under ROCOR rather than duplicated under the Vienna and Austria Diocese."
+    },
+    {
+      "subject": "Antiochian, Bulgarian and Georgian coverage",
+      "sources": [
+        "https://rum-orthodox.de/gemeinden/wien/",
+        "https://rum-orthodox.de/gemeinden/innsbruck/",
+        "https://bg-patriarshia.bg/west-eu-diocese-temples"
+      ],
+      "result": "Current official directories establish two Antiochian communities in Vienna and Hall in Tirol, two Bulgarian bodies in Vienna, and three Georgian communities in Vienna, Graz and Linz. The Georgian rows are also confirmed by the Austrian Bishops Conference's current Georgian directory."
+    },
+    {
+      "subject": "Macedonian Orthodox coverage",
+      "sources": [
+        "https://mpee.mk/",
+        "https://mpee.mk/post/istoriski-den-za-makedoncite-vo-avstrija-gradot-salcburg-ja-dobiva-cetvrtata-makedonska-crkovna-opstina",
+        "https://www.mpc-evropa.de/hramovi.html"
+      ],
+      "result": "The current European Diocese identifies exactly four Austrian church communities in Vienna, Linz, Villach and Salzburg. The official older directory supplies the Vienna dedication and address. The current official sources establish the Linz dedication and the existence of the Villach and Salzburg communities. Four rows are published without inventing unresolved local details."
+    },
+    {
+      "subject": "UOC Austrian coverage",
+      "sources": [
+        "https://vzcz.church.ua/2026/09/19/jepiskop-veniamin-vidvidav-parafiji-upc-v-avstriji-ta-ugorshhini/",
+        "https://news.church.ua/2026/02/09/pro-sluzhinnya-zaxidnojevropejskogo-vikariatstva-ukrajinskoji-pravoslavnoji-cerkvi/"
+      ],
+      "result": "The current official vicariate report establishes the All Venerable Fathers of the Kyiv Caves parish in Vienna and a separate UOC community in Maria Ellend. Both are preserved under the UOC."
+    }
+  ],
+  "audited_no_current_austria_body": [
+    {
+      "authority": "Russian Tradition Archdiocese of Orthodox Churches of Russian Tradition",
+      "source": "https://archeveche.eu/lieux/",
+      "result": "The current archdiocesan directory lists no Austrian body."
+    },
+    {
+      "authority": "Orthodox Church of Ukraine",
+      "source": "https://www.pomisna.info/uk/tserkva/synodalni-ustanovy/",
+      "result": "No current official source establishes a separate permanent Austrian body. Visiting worship with the Ecumenical Patriarchate remains in candidates."
+    },
+    {
+      "authority": "Polish Autocephalous Orthodox Church",
+      "source": "https://www.orthodox.pl/administracja/",
+      "result": "The official foreign-units directory lists no Austrian body."
+    },
+    {
+      "authority": "Orthodox Church of the Czech Lands and Slovakia",
+      "source": "https://orthodox.sk/schematizmus/pravoslavna-eparchia/",
+      "result": "The official schematism lists no Austrian body."
+    },
+    {
+      "authority": "Orthodox Autocephalous Church of Albania",
+      "source": "https://orthodoxalbania.org/2026/en/church-organization-2026/",
+      "result": "The official organization lists no Austrian structure."
+    },
+    {
+      "authority": "Orthodox Church in America",
+      "source": "https://www.oca.org/parishes",
+      "result": "The official parish directory contains no Austrian body."
+    },
+    {
+      "authority": "Orthodox Church of Finland",
+      "source": "https://ort.fi/kirkon-keskusrekisteri/rekisterista-loytyvat-seurakunnat/",
+      "result": "The official parish register contains no Austrian body."
+    },
+    {
+      "authority": "Apostolic Orthodox Church of Estonia",
+      "source": "https://www.eoc.ee/fr/eglise-orthodoxe-destonie/structure/",
+      "result": "The official diocesan and parish structure contains no Austrian body."
+    },
+    {
+      "authority": "Estonian Christian Orthodox Church",
+      "source": "https://et.orthodox.ee/parishes/",
+      "result": "No separate current Austrian body was found. Moscow Patriarchate bodies in Austria are represented under their own current diocesan directories."
+    },
+    {
+      "authority": "Orthodox Church of Moldova",
+      "source": "https://mitropolia.md/resurse-ortodoxe/",
+      "result": "The official diaspora resources list no separate Austrian body. Romanian Orthodox bodies in Austria are represented under their current archdiocese."
+    },
+    {
+      "authority": "Orthodox Church in Japan",
+      "source": "https://www.orthodoxjapan.jp/",
+      "result": "The official national church directory contains no Austrian body."
+    },
+    {
+      "authority": "Greek Orthodox Patriarchate of Alexandria",
+      "source": "https://www.patriarchateofalexandria.com/archdioceses/?lang=en",
+      "result": "The official dioceses are territorial to Africa and contain no Austrian body."
+    },
+    {
+      "authority": "Greek Orthodox Patriarchate of Jerusalem",
+      "source": "https://en.jerusalem-patriarchate.info/administrative-structure/holy-bishoprics/",
+      "result": "The official administrative directory contains no Austrian body."
+    },
+    {
+      "authority": "Church of Greece",
+      "source": "https://www.ecclesia.gr/greek/dioceses/dioceses.asp",
+      "result": "The official diocesan directory contains no separate Austrian body. Austria's Greek parishes belong to the Ecumenical Patriarchate."
+    },
+    {
+      "authority": "Church of Cyprus",
+      "source": "https://churchofcyprus.org.cy/",
+      "result": "The official church structure contains no Austrian body."
+    },
+    {
+      "authority": "Church of Sinai",
+      "source": "https://sinaimonastery.com/st-catherine/index.php/en/description/shrines-dependencies",
+      "result": "The official dependencies directory contains no Austrian parish, monastery, metochion or dependency."
+    }
+  ]
+}

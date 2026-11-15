@@ -1172,6 +1172,10 @@ from directory_switzerland import ENGLISH_NAMES as _SWITZERLAND_NAMES
 NAMES.update(_SWITZERLAND_NAMES)
 del _SWITZERLAND_NAMES
 
+from directory_austria import ENGLISH_NAMES as _AUSTRIA_NAMES
+NAMES.update(_AUSTRIA_NAMES)
+del _AUSTRIA_NAMES
+
 SEATS = {
     "Istanbul": u"Istanbul",
     "Alexandria": u"Alexandria",
