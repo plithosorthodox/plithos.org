@@ -1,0 +1,65 @@
+{
+  "v": 1,
+  "countries": [
+    "MY"
+  ],
+  "checked": "2026-11-15",
+  "method": "Current official patriarchal, diocesan, and parish directories were used to establish Malaysian bodies. Search engines and maps were used only to discover first-party sources. No body was inferred from population, clergy visits, or an unofficial listing.",
+  "published_summary": {
+    "ru-singapore": 4,
+    "total": 4
+  },
+  "candidates": [
+    {
+      "candidate_id": "my-ep-current-named-roster",
+      "parent": "ep-singapore",
+      "country": "MY",
+      "name": "Current Malaysian parishes and communities of the Metropolitanate of Singapore",
+      "status": "hold for a current enumerated first-party roster",
+      "reason": "The metropolitan site states that Malaysia is within its territory and advertises Malaysian parishes and communities, but the current public parish page does not expose a linked or named Malaysian roster. No names were inferred from older news, maps, or independent listings.",
+      "sources": [
+        "https://omsgsa.org/about-us",
+        "https://omsgsa.org/parishes"
+      ]
+    }
+  ],
+  "official_jurisdiction_audit": [
+    {
+      "jurisdiction": "Ecumenical Patriarchate",
+      "sources": [
+        "https://omsgsa.org/about-us",
+        "https://omsgsa.org/parishes"
+      ],
+      "result": "Malaysia is within the Metropolitanate of Singapore, but its current site does not expose an enumerated named Malaysian roster. The unresolved roster remains held rather than inferred."
+    },
+    {
+      "jurisdiction": "Moscow Patriarchate",
+      "sources": [
+        "https://exarchate.asia/karta-prihodov/",
+        "https://exarchate.asia/en/patriarshij-ekzarhat/eparhii/"
+      ],
+      "result": "The current exarchal directory names four Malaysian parishes under the Diocese of Singapore. All four are published."
+    },
+    {
+      "jurisdiction": "Romanian Patriarchate",
+      "sources": [
+        "https://patriarhia.ro/organizarea-bisericii-ortodoxe-romane/reprezentante-si-comunitati-externe/"
+      ],
+      "result": "The current official external communities directory was checked and did not name a Malaysian body. This records the bounded audit result, not a claim that a body could never exist."
+    },
+    {
+      "jurisdiction": "Serbian Patriarchate",
+      "sources": [
+        "https://www.spc.rs/en/96.dioceses-of-the-soc.html"
+      ],
+      "result": "The current official diocesan and linked diaspora material was checked and did not name a Malaysian body. This records the bounded audit result, not a claim that a body could never exist."
+    },
+    {
+      "jurisdiction": "Russian Orthodox Church Outside of Russia",
+      "sources": [
+        "https://directory.synod.com/listings/"
+      ],
+      "result": "The current official clergy and parish directory was checked and did not name a Malaysian body. This records the bounded audit result, not a claim that a body could never exist."
+    }
+  ]
+}

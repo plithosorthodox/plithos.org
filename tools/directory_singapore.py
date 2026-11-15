@@ -1,9 +1,10 @@
 #!/usr/bin/env python3
-"""The current official parish directories for Singapore.
+"""The current official parish directories for Singapore and Malaysia.
 
 The Ecumenical Patriarchate's Metropolitanate of Singapore and the Moscow
 Patriarchate's Diocese of Singapore each publish one current congregation in
-the country. Search and map results are not source rows here.
+Singapore. The Moscow exarchate also publishes four current Malaysian
+parishes. Search and map results are not source rows here.
 
     python tools/directory_singapore.py --check
     python tools/directory_singapore.py --write
@@ -24,6 +25,7 @@ EP_CATHEDRAL = "https://orthodoxchurch.sg/"
 MP_DIRECTORY = "https://exarchate.asia/karta-prihodov/"
 MP_PARISH = "https://singapore.cerkov.ru/"
 MP_CURRENT = "https://patriarchia.ru/document/120274"
+MP_DIOCESES = "https://exarchate.asia/en/patriarshij-ekzarhat/eparhii/"
 
 ENGLISH_NAMES = {
     "sg-ep-holy-resurrection-cathedral": (
@@ -31,6 +33,18 @@ ENGLISH_NAMES = {
     ),
     "sg-ru-dormition-theotokos": (
         "Parish of the Dormition of the Theotokos in Singapore"
+    ),
+    "my-ru-kuala-lumpur-archangel-michael": (
+        "Parish of the Archangel Michael in Kuala Lumpur"
+    ),
+    "my-ru-penang-saint-george": (
+        "Parish of the Great Martyr George in Penang"
+    ),
+    "my-ru-johor-bahru-annunciation": (
+        "Parish of the Annunciation of the Most Holy Theotokos in Johor Bahru"
+    ),
+    "my-ru-lukut-saint-andrew": (
+        "Parish of the Apostle Andrew the First-Called in Lukut"
     ),
 }
 
@@ -74,10 +88,64 @@ ROWS = {
             ],
             sources=[MP_DIRECTORY, MP_PARISH, MP_CURRENT],
         ),
+        dict(
+            id="my-ru-kuala-lumpur-archangel-michael",
+            parent="ru-singapore",
+            kind="parish",
+            rank="Parish",
+            name=ENGLISH_NAMES["my-ru-kuala-lumpur-archangel-michael"],
+            local="Приход Архистратига Божия Михаила в Куала-Лумпуре",
+            country="MY",
+            dedication="The Archangel Michael",
+            address=[
+                "5 Lorong Damai 6, off Jalan Ampang",
+                "Kuala Lumpur 55000",
+                "Malaysia",
+            ],
+            sources=[MP_DIRECTORY, MP_DIOCESES],
+        ),
+        dict(
+            id="my-ru-penang-saint-george",
+            parent="ru-singapore",
+            kind="parish",
+            rank="Parish",
+            name=ENGLISH_NAMES["my-ru-penang-saint-george"],
+            local="Приход в честь вмч. Георгия Победоносца на о. Пенанг",
+            country="MY",
+            dedication="Saint George the Great Martyr",
+            sources=[MP_DIRECTORY, MP_DIOCESES],
+        ),
+        dict(
+            id="my-ru-johor-bahru-annunciation",
+            parent="ru-singapore",
+            kind="parish",
+            rank="Parish",
+            name=ENGLISH_NAMES["my-ru-johor-bahru-annunciation"],
+            local=(
+                "Приход в честь Благовещения Пресвятой Богородицы "
+                "в Джохор Бару"
+            ),
+            country="MY",
+            dedication="The Annunciation of the Most Holy Theotokos",
+            sources=[MP_DIRECTORY, MP_DIOCESES],
+        ),
+        dict(
+            id="my-ru-lukut-saint-andrew",
+            parent="ru-singapore",
+            kind="parish",
+            rank="Parish",
+            name=ENGLISH_NAMES["my-ru-lukut-saint-andrew"],
+            local=(
+                "Приход в честь Св. апостола Андрея Первозванного в Лукуте"
+            ),
+            country="MY",
+            dedication="Saint Andrew the First-Called",
+            sources=[MP_DIRECTORY, MP_DIOCESES],
+        ),
     ],
 }
 
-EXPECTED_COUNTS = {"ep-singapore": 1, "ru-singapore": 1}
+EXPECTED_COUNTS = {"ep-singapore": 1, "ru-singapore": 5}
 
 
 def clean(source):
@@ -119,8 +187,8 @@ def build():
                 raise ValueError("duplicate or missing id: %s" % row_id)
             if row.get("parent") != parent:
                 raise ValueError("%s is grouped under the wrong parent" % row_id)
-            if row.get("country") != "SG":
-                raise ValueError("%s is not a Singapore row" % row_id)
+            if row.get("country") not in {"SG", "MY"}:
+                raise ValueError("%s is outside Singapore and Malaysia" % row_id)
             if row.get("kind") != "parish" or not row.get("local"):
                 raise ValueError("%s lacks its official parish identity" % row_id)
             seen.add(row_id)
@@ -128,12 +196,16 @@ def build():
         if len(rows) != EXPECTED_COUNTS[parent]:
             raise ValueError("%s must publish exactly %d rows" %
                              (parent, EXPECTED_COUNTS[parent]))
+        countries = sorted({row["country"] for row in rows})
         payloads[parent] = {
             "v": 1,
             "parent": parent,
             "rows": rows,
-            "country": "SG",
         }
+        if len(countries) == 1:
+            payloads[parent]["country"] = countries[0]
+        else:
+            payloads[parent]["countries"] = countries
     if set(ENGLISH_NAMES) != seen - set(ROWS):
         raise ValueError("English name coverage differs from Singapore rows")
     return payloads
@@ -141,14 +213,18 @@ def build():
 
 def manifest(payloads=None):
     payloads = payloads or build()
-    return {
-        parent: {
+    answer = {}
+    for parent, payload in sorted(payloads.items()):
+        spec = {
             "url": "/data/directory/%s.v1.json" % parent,
             "count": len(payload["rows"]),
-            "country": "SG",
         }
-        for parent, payload in sorted(payloads.items())
-    }
+        if "countries" in payload:
+            spec["countries"] = payload["countries"]
+        else:
+            spec["country"] = payload["country"]
+        answer[parent] = spec
+    return answer
 
 
 def encoded(payload):
@@ -198,7 +274,7 @@ def main():
         for error in errors:
             print(error, file=sys.stderr)
         return 1
-    print("Singapore branches: 2 parents, 2 parishes")
+    print("Singapore and Malaysia branches: 2 parents, 6 parishes")
     return 0
 
 

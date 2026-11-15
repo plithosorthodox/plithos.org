@@ -126,8 +126,8 @@ def build():
             payload["country"] = scope[0]
         else:
             payload["countries"] = scope
-    if len(payloads) != 103 or sum(len(p["rows"]) for p in payloads.values()) != 6431:
-        raise ValueError("combined country branches must publish 103 parents and 6431 rows")
+    if len(payloads) != 103 or sum(len(p["rows"]) for p in payloads.values()) != 6435:
+        raise ValueError("combined country branches must publish 103 parents and 6435 rows")
     return dict(sorted(payloads.items()))
 
 
