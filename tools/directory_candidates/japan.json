@@ -1,0 +1,13 @@
+{
+  "v": 1,
+  "country": "JP",
+  "checked": "2026-11-14",
+  "status": "not published pending a current official name, stable body status, or exact canonical parent",
+  "candidates": [
+    {"name": "St Andrew's International Orthodox Center", "place": "Kita-Karuizawa", "claimed_parent": "romania", "discovery": "https://romanianorthodoxy.jp/st-andrews-international-orthodox-center-in-kita-karuizawa-japan/", "missing": "The official page documents acquired land and a proposed complex, but not an opened center or chapel."},
+    {"name": "Tokyo Orthodox worship group", "place": "Tokyo", "claimed_parent": "ep-korea", "discovery": "https://orthodoxkorea.org/new-pastoral-visit-to-japan/", "missing": "Official recurring worship is documented, but no formal body name or permanent premises are published."},
+    {"name": "Nagoya Orthodox worship group", "place": "Nagoya", "claimed_parent": "ep-korea", "discovery": "https://orthodoxkorea.org/new-pastoral-visit-to-japan/", "missing": "Official recurring worship is documented, but no formal body name or permanent premises are published."},
+    {"name": "St Nicholas Church at Camp Foster", "place": "Okinawa", "claimed_parent": "unresolved", "discovery": "https://orthodoxkorea.org/pastoral-visit-to-okinawa-japan/", "missing": "The official visit confirms the chapel, but does not establish whether it is a distinct stable body under the EP exarchate or a United States military chapel with another canonical parent."},
+    {"name": "Chapel of Hope worship group", "place": "Yokosuka", "claimed_parent": "unresolved", "discovery": "https://orthodoxkorea.org/holy-week-and-pascha-in-japan/", "missing": "The official source documents worship at the chapel, but does not establish a distinct Orthodox body or its canonical parent."}
+  ]
+}

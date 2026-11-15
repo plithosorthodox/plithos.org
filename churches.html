@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang="en">
 <head>
-<meta charset="utf-8"><meta name="plithos-build" content="2026-11-14ab"><meta name="viewport" content="width=device-width, initial-scale=1">
+<meta charset="utf-8"><meta name="plithos-build" content="2026-11-14ac"><meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="icon" type="image/svg+xml" href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48Y2lyY2xlIGN4PSI1MCIgY3k9IjUwIiByPSI0NyIgZmlsbD0iIzZlMmIzYiIvPjxnIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2YyZWNlMCIgc3Ryb2tlLXdpZHRoPSI3IiBzdHJva2UtbGluZWNhcD0iYnV0dCIgc3Ryb2tlLWxpbmVqb2luPSJtaXRlciI+PGxpbmUgeDE9IjQ1IiB5MT0iMjAiIHgyPSI0NSIgeTI9IjgyIi8+PGxpbmUgeDE9IjMwIiB5MT0iNTEiIHgyPSI2MCIgeTI9IjUxIi8+PHBhdGggZD0iTTQ1LDIwIEM2MSwyMCA2NywyNiA2NywzMyBDNjcsNDAgNjEsNDYgNDUsNDYiLz48L2c+PC9zdmc+">
 <title>Plithos: The Orthodox Churches of the World</title>
 <script>var PL_TITLE=document.title;</script>
@@ -527,8 +527,9 @@ function renderFilters(){
   var seen={}, order=[];
   DIR.rows.forEach(function(r){ if(!seen[r.country]){ seen[r.country]=1; order.push(r.country); } });
   if(DIR.branches) Object.keys(DIR.branches).forEach(function(id){
-    var cc=DIR.branches[id].country;
-    if(cc&&!seen[cc]){ seen[cc]=1; order.push(cc); }
+    branchCountries(DIR.branches[id]).forEach(function(cc){
+      if(cc&&!seen[cc]){ seen[cc]=1; order.push(cc); }
+    });
   });
   order.sort(function(a,b){ return countryName(a).localeCompare(countryName(b),lang); });
   var html='<button type="button" class="tag'+(country?"":" on")+'" data-c="" aria-pressed="'+(!country)+'">'+esc(t("all"))+"</button>";
@@ -558,6 +559,11 @@ function renderFilters(){
 
 function branchIds(){ return DIR.branches?Object.keys(DIR.branches):[]; }
 
+function branchCountries(info){
+  if(info&&Array.isArray(info.countries)) return info.countries;
+  return info&&info.country?[info.country]:[];
+}
+
 function totalRows(){
   var n=DIR.rows.length;
   branchIds().forEach(function(id){
@@ -569,17 +575,24 @@ function totalRows(){
 function relevantBranches(){
   var ids=branchIds();
   if(query||kind==="parish"||kind==="monastery") return ids;
-  if(country) return ids.filter(function(id){ return DIR.branches[id].country===country; });
+  if(country) return ids.filter(function(id){
+    return branchCountries(DIR.branches[id]).indexOf(country)>=0;
+  });
   return [];
 }
 
 function validBranch(id,d){
-  var info=DIR.branches[id], local={}, i, r;
+  var info=DIR.branches[id], countries=branchCountries(info), payloadCountries,
+      local={}, i, r;
   if(!d||d.v!==1||d.parent!==id||!Array.isArray(d.rows)||d.rows.length!==Number(info.count)) return false;
-  if(info.country&&d.country!==info.country) return false;
+  payloadCountries=Array.isArray(d.countries)?d.countries:(d.country?[d.country]:[]);
+  if(countries.length!==payloadCountries.length||countries.some(function(cc){
+    return payloadCountries.indexOf(cc)<0;
+  })) return false;
   for(i=0;i<d.rows.length;i++){
     r=d.rows[i];
-    if(!r||!r.id||local[r.id]||byId[r.id]||(info.country&&r.country!==info.country)) return false;
+    if(!r||!r.id||local[r.id]||byId[r.id]||
+       (countries.length&&countries.indexOf(r.country)<0)) return false;
     local[r.id]=r;
   }
   for(i=0;i<d.rows.length;i++){

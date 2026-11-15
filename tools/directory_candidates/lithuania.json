@@ -1,0 +1,20 @@
+{
+  "v": 1,
+  "country": "LT",
+  "checked": "2026-11-14",
+  "status": "not published pending current official parent confirmation as a distinct active body",
+  "candidates": [
+    {"name": "All Russian Saints Orthodox Chapel", "place": "Vievis", "claimed_parent": "ru-vilnius", "discovery": "https://orthodox-world.org/en/i/16650/lithuania/vilnius/vievis/chapel/all-russian-saints-orthodox-chapel"},
+    {"name": "Saint Alexander Nevsky Orthodox Church", "place": "Vilnius", "claimed_parent": "ru-vilnius", "discovery": "https://orthodox-world.org/en/i/16660/lithuania/vilnius/vilnius/church/saint-alexander-nevsky-orthodox-church"},
+    {"name": "Saint Tikhon Orthodox Church", "place": "Vilnius", "claimed_parent": "ru-vilnius", "discovery": "https://orthodox-world.org/en/i/16664/lithuania/vilnius/vilnius/church/saint-tikhon-orthodox-church"},
+    {"name": "Saint Barbara Orthodox Church", "place": "Vilnius", "claimed_parent": "ru-vilnius", "discovery": "https://orthodox-world.org/en/i/16665/lithuania/vilnius/vilnius/church/saint-barbara-orthodox-church"},
+    {"name": "Saint George the Conqueror Orthodox Chapel", "place": "Vilnius", "claimed_parent": "ru-vilnius", "discovery": "https://orthodox-world.org/en/i/16666/lithuania/vilnius/vilnius/chapel/saint-george-the-conqueror-orthodox-chapel"},
+    {"name": "Protection of the Virgin Orthodox Church", "place": "Vilnius", "claimed_parent": "ru-vilnius", "discovery": "https://orthodox-world.org/en/i/16667/lithuania/vilnius/vilnius/church/protection-of-the-virgin-orthodox-church"},
+    {"name": "Transfiguration of Our Lord Orthodox Church", "place": "Rudamina", "claimed_parent": "ru-vilnius", "discovery": "https://orthodox-world.org/en/i/16668/lithuania/vilnius/rudamina/church/transfiguration-of-our-lord-orthodox-church"},
+    {"name": "Repnin Orthodox Chapel", "place": "Vilnius", "claimed_parent": "ru-vilnius", "discovery": "https://orthodox-world.org/en/i/16670/lithuania/vilnius/vilnius/chapel/repnin-orthodox-chapel"},
+    {"name": "Saint Pokrovsky Orthodox Church", "place": "Vilnius", "claimed_parent": "ru-vilnius", "discovery": "https://orthodox-world.org/en/i/16671/lithuania/vilnius/vilnius/church/saint-pokrovsky-orthodox-church"},
+    {"name": "Saint John of Kronstadt Orthodox Chapel", "place": "Mikniškės", "claimed_parent": "ru-vilnius", "discovery": "https://orthodox-world.org/en/i/16711/lithuania/vilnius/mikni%C5%A1k%C4%97s/church/saint-john-of-kronstadt-orthodox-chapel", "official_note": "The official diocese identifies this as a burial chapel within the existing Mikniškės community, not a distinct subordinate body."},
+    {"name": "All the Afflicted Mother of God Orthodox Church", "place": "Šalčininkai", "claimed_parent": "ru-vilnius", "discovery": "https://orthodox-world.org/en/i/17626/lithuania/vilnius/%C5%A1al%C4%8Dininkai/church/all-the-afflicted-mother-of-god-orthodox-church"},
+    {"name": "Saint John of Kronstadt Orthodox Chapel", "place": "Šalčininkai", "claimed_parent": "ru-vilnius", "discovery": "https://orthodox-world.org/en/i/17627/lithuania/vilnius/%C5%A1al%C4%8Dininkai/chapel/saint-john-of-kronstadt-orthodox-chapel"}
+  ]
+}

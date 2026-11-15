@@ -1,0 +1,11 @@
+{
+  "v": 1,
+  "country": "KR",
+  "checked": "2026-11-14",
+  "status": "not published pending current official confirmation as a distinct active body",
+  "candidates": [
+    {"name": "Chapel of Saint George", "place": "Busan", "claimed_parent": "ep-korea", "discovery": "https://orthodoxkorea.org/history_en/", "missing": "No exact Korean self-name, separate address, or current standalone directory listing."},
+    {"name": "Chapel of the Dormition", "place": "Seoul", "claimed_parent": "ep-korea", "discovery": "https://orthodoxkorea.org/history_en/", "missing": "No current active-status confirmation, exact Korean self-name, address, or current directory listing."},
+    {"name": "St Helen Chapel", "place": "Chanjho village", "claimed_parent": "ru-australia-and-new-zealand-rocor", "discovery": "https://www.rocor.org.au/news10/?p=1408", "missing": "The 2009 official diocesan report is historical and the chapel is absent from the current ROCOR directory."}
+  ]
+}

@@ -23,7 +23,7 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 import directory_rows
-import directory_finland
+import directory_branches
 
 ROOT = Path(__file__).resolve().parent.parent
 OUT = ROOT / "data" / "directory.v1.json"
@@ -959,9 +959,9 @@ def build(branch_payloads=None):
             raise SystemExit("%s: site_of names nobody: %s"
                              % (r["id"], r["site_of"]))
         r.pop("mine", None)
-    branch_payloads = branch_payloads or directory_finland.build()
+    branch_payloads = branch_payloads or directory_branches.build()
     return {"v": 1, "read": READ, "countries": COUNTRIES,
-            "branches": directory_finland.manifest(branch_payloads),
+            "branches": directory_branches.manifest(branch_payloads),
             "rows": rows}
 
 
@@ -970,12 +970,12 @@ def main():
     ap.add_argument("--write", action="store_true")
     ap.add_argument("--check", action="store_true")
     a = ap.parse_args()
-    branch_payloads = directory_finland.build()
+    branch_payloads = directory_branches.build()
     d = build(branch_payloads)
     text = json.dumps(d, ensure_ascii=False, separators=(",", ":"))
     if a.write:
         OUT.write_text(text, encoding="utf-8")
-        directory_finland.write(branch_payloads)
+        directory_branches.write(branch_payloads)
         print("wrote %s  (%d rows, %d countries, %d KB)"
               % (OUT.relative_to(ROOT), len(d["rows"]), len(d["countries"]),
                  len(text.encode("utf-8")) // 1024 or 1))
@@ -984,7 +984,7 @@ def main():
     if have != text:
         print("data/directory.v1.json is out of date", file=sys.stderr)
         return 1
-    branch_errors = directory_finland.problems(branch_payloads)
+    branch_errors = directory_branches.problems(branch_payloads)
     if branch_errors:
         for error in branch_errors:
             print(error, file=sys.stderr)

@@ -576,9 +576,21 @@ def check_directory():
         if payload.get("parent") != parent:
             err("directory: branch %s declares parent %r"
                 % (parent, payload.get("parent")))
-        country = spec.get("country")
-        if payload.get("country") != country:
-            err("directory: branch %s country disagrees between manifest and payload"
+        countries = spec.get("countries")
+        if countries is None:
+            countries = [spec.get("country")] if spec.get("country") else []
+        if not isinstance(countries, list) or any(
+                not isinstance(country, str) or not country for country in countries):
+            err("directory: branch %s countries are not a list of country codes"
+                % parent)
+            countries = []
+        payload_countries = payload.get("countries")
+        if payload_countries is None:
+            payload_countries = ([payload.get("country")]
+                                 if payload.get("country") else [])
+        if (not isinstance(payload_countries, list)
+                or sorted(payload_countries) != sorted(countries)):
+            err("directory: branch %s countries disagree between manifest and payload"
                 % parent)
         rows_here = payload.get("rows") or []
         if not isinstance(rows_here, list):
@@ -597,7 +609,7 @@ def check_directory():
                 err("directory: duplicate id across directory branches: %s"
                     % row["id"])
             branch_ids.add(row["id"])
-            if country and row.get("country") != country:
+            if countries and row.get("country") not in countries:
                 err("directory: branch %s row %s has country %r"
                     % (parent, row["id"], row.get("country")))
             if row.get("parent") not in here_ids | {parent}:
