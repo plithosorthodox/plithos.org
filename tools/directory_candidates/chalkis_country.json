@@ -1,0 +1,206 @@
+{
+  "v": 1,
+  "countries": [
+    "GR"
+  ],
+  "checked": "2026-11-15",
+  "method": "Publish every exact current worship or monastic body in the ten first-party regional tables after reconciling the 145 legal parishes against Regulation 22/100/2019. Preserve every valid body-specific phone displayed in the current tables, including clergy-linked and mobile routes, without retaining clergy names. Use the current first-party monastery and pilgrimage detail pages for exact postal addresses, body email, extra public phone routes, and official detail sites. Hold the one planned church, five non-worship institutions, one duplicate source row, stale external sites, historical-only references, unnamed aggregates, and discovery-only leads rather than inventing or correcting bodies.",
+  "published_summary": {
+    "gr-chalkis": 189,
+    "total": 189,
+    "exact_current_source_rows": 196,
+    "exact_published_current_bodies": 189,
+    "exact_legal_parishes": 145,
+    "exact_current_other_churches_and_chapels": 26,
+    "exact_current_pilgrimages": 2,
+    "exact_current_monastic_bodies": 16,
+    "parish_kind_rows": 173,
+    "monastery_kind_rows": 16,
+    "contact_bodies": 151,
+    "phone_bodies": 151,
+    "public_phone_values": 161,
+    "email_bodies": 1,
+    "public_email_values": 1,
+    "body_owned_or_official_detail_sites": 16,
+    "address_bodies": 189
+  },
+  "candidates": [
+    {
+      "candidate_id": "gr-chalkis-new-hospital-church-under-construction",
+      "parent": "gr-chalkis",
+      "country": "GR",
+      "category": "planned",
+      "status": "held",
+      "reason": "The current Chalkis regional table names the church at the new Chalkis hospital but explicitly marks it as under construction. It is held until a current first-party source establishes it as an operating worship body.",
+      "sources": [
+        "https://imchalkidos.gr/Site/wSite/pListChurch.asp?Lang=1&PageRecID=25171&Rec=46"
+      ]
+    },
+    {
+      "candidate_id": "gr-chalkis-orphanage-life-giving-spring-duplicate",
+      "parent": "gr-chalkis",
+      "country": "GR",
+      "category": "duplicate-source-row",
+      "status": "merged",
+      "reason": "The Chalkis table repeats the Life-Giving Spring Church at the orphanage under a misspelled second title without a phone. One body is published from the correctly titled row with its body-specific phone; no second body is created.",
+      "sources": [
+        "https://imchalkidos.gr/Site/wSite/pListChurch.asp?Lang=1&PageRecID=25171&Rec=46"
+      ]
+    },
+    {
+      "candidate_id": "gr-chalkis-non-worship-institutions",
+      "parent": "gr-chalkis",
+      "country": "GR",
+      "category": "non-worship-institution",
+      "status": "held",
+      "reason": "The regional tables also contain the Metropolis offices, cultural and spiritual center, Chalkis ecclesiastical nursing home, Chalkis orphanage, and Vissarion ecclesiastical nursing home at Istiaia. These five institutions are not churches, chapels, pilgrimages, monasteries, or dependencies and are not published as worship bodies.",
+      "sources": [
+        "https://imchalkidos.gr/Site/wSite/pListChurch.asp?Lang=1&PageRecID=25171&Rec=46",
+        "https://imchalkidos.gr/Site/wSite/pListChurch.asp?Lang=1&PageRecID=25171&Rec=49"
+      ]
+    },
+    {
+      "candidate_id": "gr-chalkis-aggregate-only-residuals",
+      "parent": "gr-chalkis",
+      "country": "GR",
+      "category": "aggregate-only",
+      "status": "held",
+      "reason": "The Church of Greece aggregate reports 145 parishes and 12 monasteries. The parish count agrees with the exact legal roster. It does not name bodies and is not used to invent residual churches, chapels, or monasteries. The current Church of Greece profile names thirteen monastic bodies, while the current first-party tables establish 16 exact monastic bodies, including metochia and a hermitage.",
+      "sources": [
+        "https://www.ecclesiagreece.gr/greek/holysynod/commitees/relations/thesmiko_plaisio_paideias.pdf",
+        "https://ecclesiagreece.gr/ecclesiajoomla/index.php/el/metropoleis/chalkidos",
+        "https://imchalkidos.gr/Site/wSite/pListChurch.asp?Lang=1&PageRecID=25171&Rec=46"
+      ]
+    },
+    {
+      "candidate_id": "gr-chalkis-old-calendars-and-historical-bodies",
+      "parent": "gr-chalkis",
+      "country": "GR",
+      "category": "historical-or-superseded",
+      "status": "held",
+      "reason": "The 2014 and 2015 Metropolis calendars and historical narratives may support older contacts and institutional history but do not override the newer current body tables. Historic churches, former foundations, and subordinate chapels appearing only in narrative text are held unless a current exact roster establishes them independently.",
+      "sources": [
+        "https://imchalkidos.gr/"
+      ]
+    },
+    {
+      "candidate_id": "gr-chalkis-evangelistria-skiathos-stale-external-site",
+      "parent": "gr-chalkis",
+      "country": "GR",
+      "category": "stale-contact-route",
+      "status": "held",
+      "reason": "The current official detail page prints an external Evangelistria Skiathos domain that no longer resolves. The body is published with its current Metropolis-hosted detail page, phone, postal address, and body email, while the dead domain is not presented as a current site.",
+      "sources": [
+        "https://imchalkidos.gr/Site/wSite/PageUser.asp?Lang=1&Rec=32&PageRecID=8"
+      ]
+    },
+    {
+      "candidate_id": "gr-chalkis-map-search-program-leads",
+      "parent": "gr-chalkis",
+      "country": "GR",
+      "category": "discovery-only",
+      "status": "held",
+      "reason": "Map listings, search snippets, social profiles, commercial directories, event programs, and isolated announcements remain unpublished unless a competent current source establishes the exact body, canonical parent, and current identity.",
+      "sources": [
+        "https://imchalkidos.gr/",
+        "https://ecclesiagreece.gr/ecclesiajoomla/index.php/el/metropoleis/chalkidos"
+      ]
+    }
+  ],
+  "source_reconciliations": [
+    {
+      "subject": "Current regional tables and legal parish roster",
+      "decision": "The ten current first-party regional tables contain 196 rows. After holding five non-worship institutions and one planned church, and merging one duplicate orphanage chapel row, 189 exact current worship or monastic bodies remain. Regulation 22/100/2019 independently contains 145 parish rows. Those exact legal parishes are published as parishes, while 25 additional current church rows and one explicit chapel remain current non-parish worship bodies.",
+      "sources": [
+        "https://imchalkidos.gr/Site/wSite/pListChurch.asp?Lang=1&PageRecID=25171&Rec=46",
+        "https://imchalkidos.gr/Site/wSite/pListChurch.asp?Lang=1&PageRecID=25171&Rec=55",
+        "https://ecclesiagreece.gr/greek/press/ekklisia/2019_februarios.pdf"
+      ]
+    },
+    {
+      "subject": "Truncated current titles at Stavros and Patitiri",
+      "decision": "Two current title cells repeat only the location. The exact legal roster establishes Saint Demetrius Parish Church at Stavros and Saint Paraskevi Parish Church at Patitiri, Alonnisos. The current table supplies their body-specific phones.",
+      "sources": [
+        "https://imchalkidos.gr/Site/wSite/pListChurch.asp?Lang=1&PageRecID=25171&Rec=47",
+        "https://imchalkidos.gr/Site/wSite/pListChurch.asp?Lang=1&PageRecID=25171&Rec=55",
+        "https://ecclesiagreece.gr/greek/press/ekklisia/2019_februarios.pdf"
+      ]
+    },
+    {
+      "subject": "Current and legal dedication differences",
+      "decision": "The 2019 legal roster and newer current tables differ at several locations, including Theologos, Pili Kireos, and Agios Athanasios Dirfyon. The newer body-owned current table controls the published current dedication. The legal source is used to establish parish status and count, not to overwrite newer identity evidence.",
+      "sources": [
+        "https://imchalkidos.gr/Site/wSite/pListChurch.asp?Lang=1&PageRecID=25171&Rec=48",
+        "https://imchalkidos.gr/Site/wSite/pListChurch.asp?Lang=1&PageRecID=25171&Rec=52",
+        "https://ecclesiagreece.gr/greek/press/ekklisia/2019_februarios.pdf"
+      ]
+    },
+    {
+      "subject": "Current monastic and pilgrimage bodies",
+      "decision": "The current regional tables publish 16 exact monastic bodies: thirteen monasteries, one hermitage, and two metochia. Fourteen have dedicated current Metropolis pages, and the regional tables also independently name Saint Reginos Monastery and the Chiliadou metochion. The current Church of Greece profile independently names thirteen of these bodies. The same current Metropolis source names two exact pilgrimages, both with dedicated official pages. These exact bodies control over the older unnamed 12-monastery aggregate.",
+      "sources": [
+        "https://imchalkidos.gr/Site/wSite/PageUser.asp?Lang=1&Rec=30&PageRecID=6",
+        "https://imchalkidos.gr/Site/wSite/PageUser.asp?Lang=1&Rec=45&PageRecID=21",
+        "https://imchalkidos.gr/Site/wSite/pListChurch.asp?Lang=1&PageRecID=25171&Rec=48",
+        "https://imchalkidos.gr/Site/wSite/pListChurch.asp?Lang=1&PageRecID=25171&Rec=55",
+        "https://ecclesiagreece.gr/ecclesiajoomla/index.php/el/metropoleis/chalkidos",
+        "https://www.ecclesiagreece.gr/greek/holysynod/commitees/relations/thesmiko_plaisio_paideias.pdf"
+      ]
+    },
+    {
+      "subject": "Saint George Monastery at Ilia phone conflict",
+      "decision": "The current Metropolis regional table and the body detail page both publish 22260 22384 for Saint George Monastery at Ilia. The Church of Greece profile displays the same local digits under the different area prefix 22270. The matching newer body-owned sources control, so only 22260 22384 is published.",
+      "sources": [
+        "https://imchalkidos.gr/Site/wSite/pListChurch.asp?Lang=1&PageRecID=25171&Rec=49",
+        "https://imchalkidos.gr/Site/wSite/PageUser.asp?Lang=1&Rec=34&PageRecID=10",
+        "https://ecclesiagreece.gr/ecclesiajoomla/index.php/el/metropoleis/chalkidos"
+      ]
+    },
+    {
+      "subject": "Body contact provenance",
+      "decision": "Every valid phone printed in a current body row is retained, including clergy-linked and mobile routes, without the associated personal name. Current detail pages add exact postal addresses, one body email, and the additional temple, guesthouse, or office phone routes that the page explicitly ties to the pilgrimage. Metropolis footer phones and the generic parent email are not copied to subordinate bodies.",
+      "sources": [
+        "https://imchalkidos.gr/Site/wSite/pListChurch.asp?Lang=1&PageRecID=25171&Rec=46",
+        "https://imchalkidos.gr/Site/wSite/PageUser.asp?Lang=1&Rec=32&PageRecID=8",
+        "https://imchalkidos.gr/Site/wSite/PageUser.asp?Lang=1&Rec=44&PageRecID=20",
+        "https://imchalkidos.gr/Site/wSite/PageUser.asp?Lang=1&Rec=45&PageRecID=21"
+      ]
+    }
+  ],
+  "official_parent_audit": [
+    {
+      "parent": "gr-chalkis",
+      "status": "current-canonical",
+      "decision": "The Church of Greece profile and the Metropolis first-party site establish the canonical Metropolis of Chalkis. Every published body is assigned to this one canonical parent.",
+      "sources": [
+        "https://ecclesiagreece.gr/ecclesiajoomla/index.php/el/metropoleis/chalkidos",
+        "https://imchalkidos.gr/"
+      ]
+    }
+  ],
+  "exclusions": [
+    {
+      "category": "clergy-identifying-text",
+      "reason": "Clergy, abbots, abbesses, committee members, and other personal names in source tables and contact blocks are omitted. Officially published landlines and mobile numbers clearly tied to a specific body are retained without those names.",
+      "sources": [
+        "https://imchalkidos.gr/Site/wSite/pListChurch.asp?Lang=1&PageRecID=25171&Rec=46",
+        "https://imchalkidos.gr/Site/wSite/PageUser.asp?Lang=1&Rec=30&PageRecID=6"
+      ]
+    },
+    {
+      "category": "parent-and-generic-footer-contacts",
+      "reason": "Metropolis office phones, the generic parent email, and generic footer routes are not propagated to church or monastic rows. A route appears only where the official source ties it to that exact body.",
+      "sources": [
+        "https://imchalkidos.gr/"
+      ]
+    },
+    {
+      "category": "non-current-or-ambiguous-bodies",
+      "reason": "Historic-only, unnamed, map-only, search-only, event-only, planned, duplicated, superseded, and canonically unclear bodies are not published from inference.",
+      "sources": [
+        "https://imchalkidos.gr/",
+        "https://ecclesiagreece.gr/greek/press/ekklisia/2019_februarios.pdf"
+      ]
+    }
+  ]
+}
