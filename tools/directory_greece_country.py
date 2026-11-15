@@ -428,19 +428,149 @@ ATHOS_MONASTERIES = [
     ("konstamonitou", "Holy Monastery of Konstamonitou",
      "Ιερά Μονή Κωνσταμονίτου"),
 ]
-ROWS.extend({
-    "id": "gr-athos-%s" % slug,
-    "parent": "athos",
-    "kind": "monastery",
-    "rank": "Royal, Patriarchal and Stavropegic Monastery",
-    "name": name,
-    "local": local,
-    "seat": "Mount Athos",
-    "country": "GR",
-    "sources": [ATHOS_ROSTER],
-    "checked": CHECKED,
-    "cite": [ATHOS_ROSTER],
-} for slug, name, local in ATHOS_MONASTERIES)
+ATHOS_CONTACTS = {
+    "vatopedi": {
+        "address": (
+            "Holy Great Monastery of Vatopedi, Karyes 630 86, Greece"),
+        "phones": ["+30 23778 88088"],
+        "emails": ["info@vatopedi.gr"],
+        "site": "https://www.vatopedi.gr/",
+        "contact_sources": [
+            "https://www.vatopedi.gr/en/epikinonia/",
+            "https://hospitality.vatopedi.gr/public/terms_en.html",
+        ],
+        "contact_checked": CHECKED,
+    },
+    "iviron": {
+        "address": (
+            "Holy Iviron Monastery, 630 86 Karyes, Holy Mountain, Greece"),
+        "phones": ["+30 23770 23643"],
+        "emails": ["imiviron@gmail.com", "ivironfiloxenia@gmail.com"],
+        "site": "https://www.imiviron.gr/",
+        "contact_sources": [
+            "https://www.imiviron.gr/en/epikinonia-me-ti-moni/",
+        ],
+        "contact_checked": CHECKED,
+    },
+    "hilandar": {
+        "site": "https://www.hilandar.org/",
+    },
+    "koutloumousiou": {
+        "address": (
+            "Koutloumous Monastery, 63086 Karyes, Mount Athos, Greece"),
+        "phones": ["+30 23770 22532"],
+        "site": "https://koutloumous.com/",
+        "contact_sources": ["https://koutloumous.com/en/contact/"],
+        "contact_checked": CHECKED,
+    },
+    "pantokratoros": {
+        "address": "Pantokrator Monastery, 630 86, Mount Athos, Greece",
+        "phones": ["+30 23770 23253"],
+        "emails": ["info@pantokrator.gr", "filoxenia@pantokrator.gr"],
+        "site": "https://pantokrator.gr/",
+        "contact_sources": [
+            "https://pantokrator.gr/en/information/contact",
+        ],
+        "contact_checked": CHECKED,
+    },
+    "zografou": {
+        "address": "Zograf Monastery, 63087 Mount Athos, Greece",
+        "emails": ["zografergo@gmail.com"],
+        "site": "https://zograf.site/",
+        "contact_sources": [
+            "https://zograf.site/a-reservation-in-our-monastery",
+        ],
+        "contact_checked": CHECKED,
+    },
+    "karakallou": {
+        "address": (
+            "Holy Monastery of Karakallou, 63086 Karyes, Mount Athos, "
+            "Greece"),
+        "phones": ["+30 23770 23225"],
+        "emails": ["karakallou.books@gmail.com"],
+        "site": "https://eniconskarakallou.wordpress.com/",
+        "contact_sources": [
+            "https://eniconskarakallou.wordpress.com/contact/",
+        ],
+        "contact_checked": CHECKED,
+    },
+    "philotheou": {
+        "address": (
+            "Holy Monastery of Philotheou, 63086 Mount Athos, Greece"),
+        "emails": ["info@panagiaglykofilousa.com"],
+        "site": "https://www.panagiaglykofilousa.com/",
+        "contact_sources": ["https://www.panagiaglykofilousa.com/en/"],
+        "contact_checked": CHECKED,
+    },
+    "xenophontos": {
+        "address": (
+            "Holy Monastery of Xenophontos, Dafni 630 87, Mount Athos, "
+            "Greece"),
+        "phones": ["+30 23770 23249"],
+        "emails": ["imxenophontos@imxenophontos.gr"],
+        "site": "https://www.imxenophontos.eu/",
+        "contact_sources": [
+            "https://www.imxenophontos.eu/contact/",
+            "https://www.imxenophontos.eu/oroi-kai-proypotheseis-agoras/",
+        ],
+        "contact_checked": CHECKED,
+    },
+    "gregoriou": {
+        "address": "630 87 Dafni, Mount Athos, Greece",
+        "phones": [
+            "+30 23770 23218",
+            "+30 23770 23670",
+            "+30 23770 23668",
+        ],
+        "emails": ["imog@cosmotemail.gr"],
+        "site": "https://www.imgrigoriou.gr/",
+        "contact_sources": [
+            "https://www.imgrigoriou.gr/contact/contact.htm",
+        ],
+        "contact_checked": CHECKED,
+    },
+    "esphigmenou": {
+        "address": "Holy Monastery of Esphigmenou, Mount Athos 630 86, Greece",
+        "phones": ["+30 23770 23229"],
+        "emails": ["info@esphigmenou.gr"],
+        "site": "https://www.esphigmenou.gr/",
+        "contact_sources": ["https://www.esphigmenou.gr/p/contact.html"],
+        "contact_checked": CHECKED,
+    },
+}
+
+
+def athos_row(slug, name, local):
+    contact = dict(ATHOS_CONTACTS.get(slug) or {})
+    sources = [ATHOS_ROSTER]
+    contact_sources = list(contact.get("contact_sources") or [])
+    if contact.get("site") and not contact_sources and \
+            contact["site"] not in sources:
+        sources.append(contact["site"])
+    for source_url in contact_sources:
+        if source_url not in sources:
+            sources.append(source_url)
+    row = {
+        "id": "gr-athos-%s" % slug,
+        "parent": "athos",
+        "kind": "monastery",
+        "rank": "Royal, Patriarchal and Stavropegic Monastery",
+        "name": name,
+        "local": local,
+        "seat": "Mount Athos",
+        "country": "GR",
+        "sources": sources,
+        "checked": CHECKED,
+        "cite": list(sources),
+    }
+    row.update(contact)
+    return row
+
+
+ROWS.extend(
+    athos_row(slug, name, local)
+    for slug, name, local in ATHOS_MONASTERIES
+)
 
 ENGLISH_NAMES = {row["id"]: row["name"] for row in ROWS}
 ENGLISH_SEATS = {
@@ -513,10 +643,10 @@ EXPECTED_PARENT_COUNTS = {
     "je-exarch-greece": 2,
     "sinai": 1
 }
-EXPECTED_CONTACT_BODIES = 238
-EXPECTED_PHONE_BODIES = 238
-EXPECTED_EMAIL_BODIES = 4
-EXPECTED_SITE_BODIES = 4
+EXPECTED_CONTACT_BODIES = 249
+EXPECTED_PHONE_BODIES = 246
+EXPECTED_EMAIL_BODIES = 13
+EXPECTED_SITE_BODIES = 15
 EXISTING_PARENTS = {
     "gr-athens", "gr-ydra", "gr-gortys", "gr-syros", "gr-megara",
     "sinai", "je-exarch-greece", "athos",
@@ -570,7 +700,14 @@ def clean(source):
     for source_url in sources:
         validate_url(source_url, row.get("id"))
         if urlparse(source_url).netloc not in {
-                "www.iaath.gr", "iaath.gr", "site.mountathos.org"}:
+                "www.iaath.gr", "iaath.gr", "site.mountathos.org",
+                "www.vatopedi.gr", "hospitality.vatopedi.gr",
+                "www.imiviron.gr", "www.hilandar.org",
+                "koutloumous.com", "pantokrator.gr", "zograf.site",
+                "eniconskarakallou.wordpress.com",
+                "www.panagiaglykofilousa.com",
+                "www.imxenophontos.eu", "www.imgrigoriou.gr",
+                "www.esphigmenou.gr"}:
             raise ValueError(
                 "%s carries a non-competent identity source" %
                 row.get("id"))
@@ -607,6 +744,9 @@ def validate_ledger():
         "chapels": 155,
         "total": EXPECTED_COUNT,
         "contact_bodies": EXPECTED_CONTACT_BODIES,
+        "phone_bodies": EXPECTED_PHONE_BODIES,
+        "email_bodies": EXPECTED_EMAIL_BODIES,
+        "body_owned_sites": EXPECTED_SITE_BODIES,
     }
     for key, value in expected_summary.items():
         if summary.get(key) != value:

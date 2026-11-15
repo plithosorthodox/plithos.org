@@ -13,10 +13,10 @@
     "athos_ruling_monasteries": 20,
     "chapels": 155,
     "total": 363,
-    "contact_bodies": 238,
-    "phone_bodies": 238,
-    "email_bodies": 4,
-    "body_owned_sites": 4
+    "contact_bodies": 249,
+    "phone_bodies": 246,
+    "email_bodies": 13,
+    "body_owned_sites": 15
   },
   "candidates": [
     {
@@ -153,6 +153,25 @@
         "https://www.iaath.gr/index.php/dioikisi/naoi",
         "https://www.iaath.gr/index.php/dioikisi/mones",
         "https://www.iaath.gr/index.php/dioikisi/pareklisia"
+      ]
+    },
+    {
+      "subject": "Mount Athos body-level contact coverage",
+      "decision": "Eleven of the twenty ruling monasteries now carry contact data from current body-owned pages. Eight publish a telephone, nine publish an institutional email, and all eleven publish a body-owned site. The Hilandar site publishes its Belgrade foundation's contacts rather than a direct monastery contact, so only its body-owned site is carried. The nine monasteries without a current first-party contact page remain without inferred contacts. Esphigmenou uses only the recognized brotherhood's current official page and Karyes representation contact. No contact attached to the occupants of the historical complex is used.",
+      "sources": [
+        "https://www.vatopedi.gr/en/epikinonia/",
+        "https://hospitality.vatopedi.gr/public/terms_en.html",
+        "https://www.imiviron.gr/en/epikinonia-me-ti-moni/",
+        "https://www.hilandar.org/en/",
+        "https://koutloumous.com/en/contact/",
+        "https://pantokrator.gr/en/information/contact",
+        "https://zograf.site/a-reservation-in-our-monastery",
+        "https://eniconskarakallou.wordpress.com/contact/",
+        "https://www.panagiaglykofilousa.com/en/",
+        "https://www.imxenophontos.eu/contact/",
+        "https://www.imxenophontos.eu/oroi-kai-proypotheseis-agoras/",
+        "https://www.imgrigoriou.gr/contact/contact.htm",
+        "https://www.esphigmenou.gr/p/contact.html"
       ]
     },
     {
