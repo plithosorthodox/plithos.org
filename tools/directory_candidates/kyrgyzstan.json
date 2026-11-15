@@ -1,0 +1,251 @@
+{
+  "v": 1,
+  "country": "KG",
+  "checked": "2026-11-15",
+  "method": "The current five-deanery roster of the Bishkek and Kyrgyzstan Diocese was reconciled with current diocesan reports, the Moscow Patriarchate record, competent official diaspora directories, search discovery, and an independent directory used only for discovery. Only exact current named bodies supported by the competent Church are published. Search, map, and non-Church directory results never establish a row by themselves.",
+  "published_summary": {
+    "ru-bishkek": 50,
+    "parish_bodies": 48,
+    "monasteries": 2,
+    "total": 50
+  },
+  "candidates": [
+    {
+      "candidate_id": "kg-ru-unresolved-aggregate-small-churches",
+      "parent": "ru-bishkek",
+      "country": "KG",
+      "name": "Additional small churches represented only by an aggregate diocesan count",
+      "status": "hold until the diocese publishes exact current names and stable identities",
+      "reason": "A March 2026 diocesan assembly report says that there are 70 small churches outside Bishkek. The five current deanery pages enumerate 49 named bodies nationwide, and separate current reports name Holy Trinity Monastery at Ak-Bulun. The aggregate statement has a different geographic and descriptive scope, does not name its bodies, and cannot be subtracted mechanically from the roster. No identities are invented from the count.",
+      "sources": [
+        "https://pravoslavie.kg/news/4909",
+        "https://pravoslavie.kg/blagochiniya/"
+      ]
+    },
+    {
+      "candidate_id": "kg-ru-ak-bulun-hodegetria-church",
+      "parent": "ru-bishkek",
+      "country": "KG",
+      "name": "Church of the Smolensk Hodegetria Icon of the Mother of God at Holy Trinity Monastery",
+      "local": "храм Смоленской иконы Божией Матери \"Одигитрия\"",
+      "status": "nested under the published monastery row, not a separate row",
+      "reason": "Current diocesan reports name this church inside Holy Trinity Monastery at Ak-Bulun and document regular worship there. They do not establish an independent parish or administration separate from the monastery, so publishing both would duplicate one current institution.",
+      "sources": [
+        "https://pravoslavie.kg/news/5058",
+        "https://pravoslavie.kg/news/5027"
+      ]
+    },
+    {
+      "candidate_id": "kg-ru-alamedin-tikhvin-construction",
+      "parent": "ru-bishkek",
+      "country": "KG",
+      "name": "New building for the Tikhvin Icon of the Mother of God Church in Alamedin",
+      "status": "construction attached to an already published parish, not a second body",
+      "reason": "The diocese reported construction of a new church building at Almatinskaya 84 while services continued in the parish's small house church. The current roster identifies the same Tikhvin parish at Almatinskaya 82 and 84. The construction is therefore reconciled to the published Alamedin row rather than counted again.",
+      "sources": [
+        "https://pravoslavie.kg/news/4152",
+        "https://pravoslavie.kg/blagochiniya/1"
+      ]
+    },
+    {
+      "candidate_id": "kg-ru-pishpek-saint-seraphim-historical",
+      "parent": "ru-bishkek",
+      "country": "KG",
+      "name": "Church of Saint Seraphim of Sarov in Pishpek",
+      "status": "historical destroyed church",
+      "reason": "A current diocesan historical report names the former wooden church and describes its site as that of a destroyed church. It is not a current worship body and does not appear in the current roster.",
+      "sources": [
+        "https://pravoslavie.kg/news/4808"
+      ]
+    },
+    {
+      "candidate_id": "kg-ru-lebedinovka-saint-demetrius-historical",
+      "parent": "ru-bishkek",
+      "country": "KG",
+      "name": "Great Martyr Demetrius of Thessalonica Parish in Lebedinovka",
+      "status": "historical parish",
+      "reason": "A current diocesan historical report identifies the large former parish from an archival photograph. No current official roster or current worship report establishes it as a present body.",
+      "sources": [
+        "https://pravoslavie.kg/news/4808"
+      ]
+    }
+  ],
+  "exclusions": [
+    {
+      "scope": "Russian Orthodox Old-Rite Church in Bishkek",
+      "result": "The official Old-Rite Church directory names the Presentation of the Most Holy Theotokos parish in Bishkek. That Church is not a body of the canonical Eastern Orthodox communion covered by this directory, so the parish is not published here.",
+      "sources": [
+        "https://rpsc.ru/church/bishkek/"
+      ]
+    },
+    {
+      "scope": "Prince Vladimir School construction in Bishkek",
+      "result": "The diocese reports the construction project as a school, not as a parish, monastery, chapel, mission, or recurring worship body. It is outside this ecclesiastical directory.",
+      "sources": [
+        "https://pravoslavie.kg/news/4808"
+      ]
+    }
+  ],
+  "semantic_duplicate_audit": [
+    {
+      "rows": [
+        "kg-ru-bishkek-saint-vladimir-cathedral",
+        "kg-ru-bishkek-saint-olga"
+      ],
+      "result": "Both are retained. The official current roster gives them separate names at the same Asanbay address, so co-location does not make them one body.",
+      "sources": [
+        "https://pravoslavie.kg/blagochiniya/1"
+      ]
+    },
+    {
+      "rows": [
+        "kg-ru-kara-balta-kazan-icon",
+        "kg-ru-kara-balta-saint-spyridon-metochion"
+      ],
+      "result": "Both are retained. The official roster lists the Kazan church at Tsentralnaya 156 and the Saint Spyridon episcopal metochion at Tsentralnaya 164. An independent directory conflates the Kara-Balta identities, but it was not used as authority.",
+      "sources": [
+        "https://pravoslavie.kg/blagochiniya/1",
+        "https://orthodox-world.org/en/c/115/kyrgyzstan"
+      ]
+    },
+    {
+      "rows": [
+        "kg-ru-balykchy-saint-xenia",
+        "kg-ru-balykchy-iveron-monastery"
+      ],
+      "result": "Both are retained. The official roster gives the parish and convent separate names and separate addresses on Ozernaya 145 and Ozernaya 268.",
+      "sources": [
+        "https://pravoslavie.kg/blagochiniya/5"
+      ]
+    },
+    {
+      "rows": [
+        "kg-ru-ak-bulun-holy-trinity-monastery"
+      ],
+      "candidate": "kg-ru-ak-bulun-hodegetria-church",
+      "result": "The current monastery is published once. Its internal Hodegetria church is retained as a nested candidate until the diocese identifies it as a separate parish or body.",
+      "sources": [
+        "https://pravoslavie.kg/news/5058",
+        "https://pravoslavie.kg/news/5027"
+      ]
+    }
+  ],
+  "discovery_reconciliation": [
+    {
+      "source": "https://orthodox-world.org/en/c/115/kyrgyzstan",
+      "result": "The independent directory's 46 worship listings were used only as discovery leads. Every listing reconciles to an official diocesan row. It omits current official bodies and conflates the two Kara-Balta identities, so none of its names establishes publication. No unmatched map-only body remained after official-source reconciliation."
+    }
+  ],
+  "official_jurisdiction_audit": [
+    {
+      "jurisdiction": "Moscow Patriarchate, Bishkek and Kyrgyzstan Diocese",
+      "result": "The five current deanery rosters name 49 bodies. Current 2026 diocesan reports separately establish Holy Trinity Monastery at Ak-Bulun as an active monastery with resident sisters and regular worship. All 50 exact current named bodies are published. The separate aggregate count remains unresolved rather than inferred.",
+      "sources": [
+        "https://pravoslavie.kg/blagochiniya/",
+        "https://pravoslavie.kg/news/5058",
+        "https://patriarchia.ru/org/295"
+      ]
+    },
+    {
+      "jurisdiction": "Ecumenical Patriarchate",
+      "result": "The current official eparchy directory was checked and did not name a Kyrgyzstan body. This is a bounded roster result, not a country-level absence claim.",
+      "sources": [
+        "https://ec-patr.org/en/entities/"
+      ]
+    },
+    {
+      "jurisdiction": "Russian Orthodox Church Outside of Russia",
+      "result": "The current official clergy and parish directory was checked and did not name a Kyrgyzstan body separate from the Moscow Patriarchate diocese. This is a bounded roster result, not a country-level absence claim.",
+      "sources": [
+        "https://directory.synod.com/listings/"
+      ]
+    },
+    {
+      "jurisdiction": "Romanian Patriarchate",
+      "result": "The current official external communities directory was checked and did not name a Kyrgyzstan body. This is a bounded roster result, not a country-level absence claim.",
+      "sources": [
+        "https://patriarhia.ro/organizarea-bisericii-ortodoxe-romane/reprezentante-si-comunitati-externe/"
+      ]
+    },
+    {
+      "jurisdiction": "Serbian Patriarchate",
+      "result": "The current official diocesan and linked diaspora material was checked and did not name a Kyrgyzstan body. This is a bounded roster result, not a country-level absence claim.",
+      "sources": [
+        "https://www.spc.rs/en/96.dioceses-of-the-soc.html"
+      ]
+    },
+    {
+      "jurisdiction": "Antiochian Patriarchate",
+      "result": "The current official diocesan material was checked and did not name a Kyrgyzstan body. This is a bounded roster result, not a country-level absence claim.",
+      "sources": [
+        "https://www.antiochpatriarchate.org/en/category/dioceses/6/",
+        "https://www.antiochpatriarchate.org/en/category/antiochian-vicariates-and-representatives-of-his-beatitude/108/"
+      ]
+    },
+    {
+      "jurisdiction": "Georgian Patriarchate",
+      "result": "The current official synodal and diocesan structure was checked and did not name a Kyrgyzstan body. This is a bounded roster result, not a country-level absence claim.",
+      "sources": [
+        "https://patriarchate.ge/sinodi/members/all"
+      ]
+    },
+    {
+      "jurisdiction": "Bulgarian Patriarchate",
+      "result": "The current official diocesan structure, including its two diaspora dioceses, was checked and did not name a Kyrgyzstan body. This is a bounded roster result, not a country-level absence claim.",
+      "sources": [
+        "https://bg-patriarshia.bg/dioceses"
+      ]
+    },
+    {
+      "jurisdiction": "Macedonian Orthodox Church - Ohrid Archbishopric",
+      "result": "The current official eparchy and diaspora structure was checked and did not name a Kyrgyzstan body. This is a bounded roster result, not a country-level absence claim.",
+      "sources": [
+        "https://www.m-p-c.org/?page_id=17",
+        "https://mpee.mk/"
+      ]
+    },
+    {
+      "jurisdiction": "Polish Autocephalous Orthodox Church",
+      "result": "The current official administration directory was checked and did not name a Kyrgyzstan body. This is a bounded roster result, not a country-level absence claim.",
+      "sources": [
+        "https://www.orthodox.pl/administracja/"
+      ]
+    },
+    {
+      "jurisdiction": "Patriarchate of Jerusalem",
+      "result": "The current official administrative structure was checked and did not name a Kyrgyzstan body. This is a bounded roster result, not a country-level absence claim.",
+      "sources": [
+        "https://en.jerusalem-patriarchate.info/administrative-structure/holy-bishoprics/"
+      ]
+    },
+    {
+      "jurisdiction": "Orthodox Church in America",
+      "result": "The current official parish directory was checked and did not name a Kyrgyzstan body. This is a bounded roster result, not a country-level absence claim.",
+      "sources": [
+        "https://www.oca.org/parishes"
+      ]
+    },
+    {
+      "jurisdiction": "Ukrainian Orthodox Church foreign structures",
+      "result": "Current official foreign-vicariate material was checked and did not name a Kyrgyzstan body. No body is inferred from Ukrainian diaspora presence. This is a bounded roster result, not a country-level absence claim.",
+      "sources": [
+        "https://vzcz.church.ua/2026/02/09/pro-sluzhinnya-zaxidnojevropejskogo-vikariatstva-ukrajinskoji-pravoslavnoji-cerkvi/"
+      ]
+    },
+    {
+      "jurisdiction": "Orthodox Church of Ukraine",
+      "result": "Current official institutional and diaspora material was checked and did not name a separately organized Kyrgyzstan body. This is a bounded roster result, not a country-level absence claim.",
+      "sources": [
+        "https://www.pomisna.info/uk/tserkva/synodalni-ustanovy/"
+      ]
+    },
+    {
+      "jurisdiction": "Other canonical Local Churches and territorially bounded structures",
+      "result": "No additional Kyrgyzstan row is published without an exact current first-party jurisdictional citation. Churches whose official structures are territorially bounded elsewhere were not expanded into unsupported country-level absence claims.",
+      "sources": [
+        "https://pravoslavie.kg/blagochiniya/",
+        "https://ec-patr.org/en/entities/"
+      ]
+    }
+  ]
+}
