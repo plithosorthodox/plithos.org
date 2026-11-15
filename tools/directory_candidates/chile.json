@@ -1,0 +1,292 @@
+{
+  "v": 1,
+  "country": "CL",
+  "checked": "2026-11-15",
+  "method": "Current official patriarchal, diocesan, eparchial, parish, and monastery records were used to establish named Eastern Orthodox bodies in Chile. Search engines and map results were used only to discover first-party sources and possible bodies for later verification. Exact overlaps were reconciled as one physical worship body where current local and jurisdictional evidence established continuity. Historical bodies, superseded jurisdictional listings, count-only communities, outreach locations, cultural associations, construction projects, and bodies without current competent Church confirmation remain unpublished.",
+  "published_summary": {
+    "an-santiago": 6,
+    "ep-buenos-aires": 3,
+    "ru-argentina-and-south-america": 1,
+    "sr-buenos-aires": 2,
+    "ru-south-america-rocor": 2,
+    "romanian-americas": 1,
+    "worship_bodies": 15
+  },
+  "candidates": [
+    {
+      "candidate_id": "cl-an-iloca-saint-peter",
+      "parent": "an-santiago",
+      "country": "CL",
+      "name": "Saint Peter Church in Iloca",
+      "local": "Iglesia Ortodoxa San Pedro",
+      "status": "hold until the competent archdiocese confirms current parish or church status",
+      "reason": "The Antiochian parish page retains Saint Peter in Iloca, but the current home page says that Chile has six parishes and names six other bodies. The current clergy page also omits Iloca. The older listing is preserved without inferring that it remains an operating seventh body.",
+      "sources": [
+        "https://www.chileortodoxo.cl/parroquias.html",
+        "https://www.chileortodoxo.cl/",
+        "https://www.chileortodoxo.cl/estructura.html"
+      ]
+    },
+    {
+      "candidate_id": "cl-an-la-cisterna-saint-sabbas",
+      "parent": "an-santiago",
+      "country": "CL",
+      "name": "Saint Sabbas Church in La Cisterna",
+      "local": "Iglesia Ortodoxa San Sabas",
+      "status": "hold until the competent archdiocese confirms current parish or church status",
+      "reason": "The Antiochian parish page retains Saint Sabbas in La Cisterna, but the current home page says that Chile has six parishes and names six other bodies. The current clergy page also omits Saint Sabbas. The older listing is preserved without inferring that it remains an operating seventh body.",
+      "sources": [
+        "https://www.chileortodoxo.cl/parroquias.html",
+        "https://www.chileortodoxo.cl/",
+        "https://www.chileortodoxo.cl/estructura.html"
+      ]
+    },
+    {
+      "candidate_id": "cl-ep-vina-del-mar-dormition-overlap",
+      "parent": "ep-buenos-aires",
+      "country": "CL",
+      "name": "Dormition of the Most Holy Virgin Mary Church in Viña del Mar",
+      "status": "published once under the current local Antiochian placement and retained here as an unresolved roster overlap",
+      "reason": "The Ecumenical Patriarchate roster and the Antiochian roster identify the same Dormition church at 1 Poniente 420. The current local parish identity and current Antiochian Chile site place the body under Antioch. The Greek metropolis yearbook describes the canonical status as unresolved after an Antiochian appointment. A second directory row would duplicate the same church.",
+      "sources": [
+        "https://ec-patr.org/entities/iera-mitropoli-mpoyenos-aires/",
+        "https://www.chileortodoxo.cl/",
+        "https://igrejasaonicolau.org/wp-content/uploads/2023/03/Anuario-2023.pdf"
+      ]
+    },
+    {
+      "candidate_id": "cl-moscow-santiago-nikolai-overlap",
+      "parent": "ru-argentina-and-south-america",
+      "country": "CL",
+      "name": "Russian-Serbian Community of Saint Nikolai of Serbia in Santiago",
+      "status": "published once under the current Serbian diocesan directory and retained here as a Moscow roster overlap",
+      "reason": "The Moscow South America roster names the Russian-Serbian community and links pravoslavie.cl. The current Serbian diocesan directory names the same Saint Nikolai parish in Santiago and the same site. It is published once under the current Serbian parent instead of being duplicated under Moscow.",
+      "sources": [
+        "https://southamerica.cerkov.ru/xramy-eparxii/",
+        "https://www.iglesiaortodoxaserbiasca.org/_files/ugd/e8757a_bcd3fd85dc81441196589a1b3065f8bd.pdf",
+        "https://www.pravoslavie.cl/"
+      ]
+    },
+    {
+      "candidate_id": "cl-rocor-concepcion-silouan-transition",
+      "parent": "ru-south-america-rocor",
+      "country": "CL",
+      "name": "Saint Silouan the Athonite Parish in Concepción",
+      "status": "published once under the Romanian Metropolia and retained here as a superseded ROCOR directory placement",
+      "reason": "The ROCOR worldwide directory still lists the Concepción mission. Current Romanian Metropolia records state that the community was received in May 2024, later added Saint Philothea as co-patron, and had its church consecrated in September 2025. The current Romanian placement is published without a duplicate ROCOR row.",
+      "sources": [
+        "https://directory.synod.com/listing/99/mission-of-st-silouan-of-mt-athos/",
+        "https://iglesiaortodoxarumana.org/chile/",
+        "https://www.mitropolia.us/index.php/en/1921-the-historic-visit-of-his-eminence-metropolitan-nicolae-to-latin-america-the-fourth-spiritual-pilgrimage"
+      ]
+    },
+    {
+      "candidate_id": "cl-ro-southern-outreach-communities",
+      "parent": "romanian-americas",
+      "country": "CL",
+      "name": "Romanian Orthodox outreach communities in southern Chile",
+      "status": "hold until separately constituted bodies with names, dedications, and exact locations are published",
+      "reason": "Current Romanian official reporting records mission work and receptions in Lanco, Villarrica, Valdivia, Puerto Montt, and Puerto Varas, and later gives aggregate reception and preparation counts. It does not establish each place as a separately named parish, mission, or chapel. Outreach locations and count-only growth are not converted into directory rows.",
+      "sources": [
+        "https://www.mitropolia.us/index.php/en/1824-pastoral-and-missionary-activities-of-the-romanian-orthodox-church-st-siluan-athonite-in-concepcion-chile",
+        "https://mitropolia.us/index.php/en/2068-romanian-orthodoxy-takes-root-in-latin-america-50-new-faithful-received-into-the-church-between-pascha-and-pentecost"
+      ]
+    },
+    {
+      "candidate_id": "cl-rocor-dormition-convent-historical",
+      "parent": "ru-south-america-rocor",
+      "country": "CL",
+      "name": "Historical Dormition Convent near Santiago",
+      "status": "hold until current official directory confirmation",
+      "reason": "ROCOR historical material records a Dormition convent near Santiago, but the current worldwide directory does not name it. Historical existence is preserved without inferring a current monastery.",
+      "sources": [
+        "https://www.rocorstudies.org/2020/02/14/history-of-the-russian-orthodox-church-outside-russia-from-its-beginning-to-the-present-part-iv-chapter-1-6/",
+        "https://directory.synod.com/listings/"
+      ]
+    },
+    {
+      "candidate_id": "cl-unverified-puente-alto-all-saints",
+      "country": "CL",
+      "name": "All Saints Russian Orthodox Chapel in Puente Alto",
+      "status": "hold until a competent current canonical jurisdiction confirms the body",
+      "reason": "A discovery directory names this chapel, but no current first-party synodal, diocesan, or parish source was found that establishes its jurisdiction and present operation.",
+      "sources": [
+        "https://orthodox-world.org/es/c/43/chile",
+        "https://directory.synod.com/listings/"
+      ]
+    },
+    {
+      "candidate_id": "cl-unverified-talcahuano-seraphim",
+      "country": "CL",
+      "name": "Saint Seraphim Mission in Talcahuano",
+      "status": "hold until a competent current canonical jurisdiction confirms the body",
+      "reason": "A discovery directory names this mission, but no current first-party synodal, diocesan, or parish source was found that establishes its jurisdiction and present operation.",
+      "sources": [
+        "https://orthodox-world.org/es/c/43/chile",
+        "https://directory.synod.com/listings/"
+      ]
+    },
+    {
+      "candidate_id": "cl-unverified-curacavi-pochaev",
+      "country": "CL",
+      "name": "Mother of God of Pochaev Church in Curacaví",
+      "status": "hold until a competent current canonical jurisdiction confirms the body",
+      "reason": "A discovery directory names this church, but no current first-party synodal, diocesan, or parish source was found that establishes its jurisdiction and present operation.",
+      "sources": [
+        "https://orthodox-world.org/es/c/43/chile",
+        "https://directory.synod.com/listings/"
+      ]
+    },
+    {
+      "candidate_id": "cl-unverified-curacavi-diocese",
+      "country": "CL",
+      "name": "Diocese of Santiago and All Chile in Curacaví",
+      "status": "exclude as an unverified administrative claim unless a competent current canonical source establishes it",
+      "reason": "A discovery directory uses a diocesan title at Curacaví, but no current canonical synodal or diocesan source was found that establishes this administration. An administrative title is not converted into a worship-body row.",
+      "sources": [
+        "https://orthodox-world.org/es/c/43/chile",
+        "https://ec-patr.org/en/ecumenical-patriarchate/directory/"
+      ]
+    }
+  ],
+  "exclusions": [
+    {
+      "scope": "Hellenic cultural associations and community centers",
+      "result": "The Greek metropolis roster names several Hellenic associations and communities in Chile. They are not treated as churches or chapels unless the roster separately identifies a worship body. The three unique Greek worship bodies are published and the Viña del Mar overlap is retained separately.",
+      "sources": [
+        "https://ec-patr.org/entities/iera-mitropoli-mpoyenos-aires/"
+      ]
+    },
+    {
+      "scope": "Armenian Apostolic, Syriac Orthodox, and other Oriental Orthodox bodies",
+      "result": "These communities belong to the Oriental Orthodox family and are outside this Eastern Orthodox directory. Their exclusion is a scope boundary and makes no judgment about their religious identity or history.",
+      "sources": [
+        "https://www.armenianchurch.org/en/Dioceses/",
+        "https://syriacpatriarchate.org/"
+      ]
+    },
+    {
+      "scope": "Eastern Catholic bodies",
+      "result": "Byzantine and other Eastern Catholic communities are not Eastern Orthodox and are not converted into directory rows, even where search results use Orthodox terminology or share an ethnic tradition.",
+      "sources": [
+        "https://www.vatican.va/content/vatican/en.html"
+      ]
+    },
+    {
+      "scope": "Independent and self-described Orthodox bodies",
+      "result": "Search and map listings using Orthodox names are not published without a current competent canonical synodal or diocesan source that establishes jurisdictional placement. This is an evidence threshold, not a general judgment about every independently named community.",
+      "sources": [
+        "https://ec-patr.org/en/ecumenical-patriarchate/directory/",
+        "https://directory.synod.com/listings/"
+      ]
+    }
+  ],
+  "official_jurisdiction_audit": [
+    {
+      "jurisdiction": "Antiochian Orthodox Church in Chile",
+      "result": "The current official home page states that Chile has six parishes and names six. All six are published. The parish page retains two older additional names, Saint Peter in Iloca and Saint Sabbas in La Cisterna, but the current active count and clergy roster omit them, so both remain held.",
+      "sources": [
+        "https://www.chileortodoxo.cl/",
+        "https://www.chileortodoxo.cl/parroquias.html",
+        "https://www.chileortodoxo.cl/estructura.html"
+      ]
+    },
+    {
+      "jurisdiction": "Ecumenical Patriarchate, Greek Orthodox Metropolis of Buenos Aires",
+      "result": "The current official metropolis roster names four Chile bodies. Three unique bodies are published. The Dormition church in Viña del Mar is the same physical body currently listed by the Antiochian Church in Chile and is published once under its current local placement while the roster conflict remains documented.",
+      "sources": [
+        "https://ec-patr.org/entities/iera-mitropoli-mpoyenos-aires/",
+        "https://www.iglesiaortodoxagriega.cl/nuestra-parroquia",
+        "https://igrejasaonicolau.org/wp-content/uploads/2023/03/Anuario-2023.pdf"
+      ]
+    },
+    {
+      "jurisdiction": "Moscow Patriarchate, Diocese of Argentina and South America",
+      "result": "The current diocesan roster names Saint John the Theologian Church and a Russian-Serbian Saint Nikolai community in Santiago. Saint John is published under Moscow. The Saint Nikolai community is published once under the current Serbian diocesan directory and retained as an overlap rather than duplicated.",
+      "sources": [
+        "https://southamerica.cerkov.ru/xramy-eparxii/",
+        "https://southamerica.cerkov.ru/2026/09/16/v-xrame-vo-imya-svyatogo-apostola-evangelista-ioanna-bogoslova-goroda-santyago-respublika-chili-byla-sovershena-bozhestvennaya-liturgiya/"
+      ]
+    },
+    {
+      "jurisdiction": "Serbian Orthodox Eparchy of Buenos Aires and South-Central America",
+      "result": "The current official diocesan directory names the Saint Nikolai parish in Santiago and the Resurrection monastery in Chile Chico. Both are published. The Saint Nikolai listing overlaps the Russian-Serbian community in the Moscow roster and is not duplicated.",
+      "sources": [
+        "https://www.iglesiaortodoxaserbiasca.org/_files/ugd/e8757a_bcd3fd85dc81441196589a1b3065f8bd.pdf",
+        "https://www.iglesiaortodoxaserbiasca.org/diocesis"
+      ]
+    },
+    {
+      "jurisdiction": "Russian Orthodox Church Outside of Russia, Diocese of South America",
+      "result": "The current official worldwide directory names the Holy Trinity and Kazan Icon church in Santiago, Saint Nectarios parish in Valdivia, and Saint Silouan mission in Concepción. The Santiago and Valdivia bodies are published. Current Romanian records establish that Saint Silouan was received into the Romanian Metropolia in 2024, so it is published once under the Romanian parent and the lagging ROCOR placement is retained for review.",
+      "sources": [
+        "https://directory.synod.com/listings/",
+        "https://iglesiarusa.info/?p=7425",
+        "https://iglesiaortodoxarumana.org/chile/"
+      ]
+    },
+    {
+      "jurisdiction": "Romanian Orthodox Metropolia of the Americas",
+      "result": "Current official records establish the Saint Silouan the Athonite parish in Concepción, its reception in 2024, Saint Philothea as co-patron, and the church consecration in 2025. That one current parish is published. Southern outreach places and aggregate reception counts do not establish additional separate bodies.",
+      "sources": [
+        "https://iglesiaortodoxarumana.org/chile/",
+        "https://www.mitropolia.us/pdf/2025.05.15-almanah.pdf",
+        "https://www.mitropolia.us/index.php/en/1921-the-historic-visit-of-his-eminence-metropolitan-nicolae-to-latin-america-the-fourth-spiritual-pilgrimage"
+      ]
+    },
+    {
+      "jurisdiction": "Orthodox Church in America",
+      "result": "The current official parish directory was checked and did not name a Chile body. This is a bounded roster result, not a general country-level absence claim.",
+      "sources": [
+        "https://www.oca.org/parishes"
+      ]
+    },
+    {
+      "jurisdiction": "Ecumenical Patriarchate, Ukrainian Orthodox Eparchy of South America",
+      "result": "The current official roster was checked and did not name a Chile body. No Ukrainian parish is inferred from diaspora presence or search results. This is a bounded roster result, not a general historical absence claim.",
+      "sources": [
+        "https://ec-patr.org/entities/orthodoksoi-oykranoi-stis-ipa/"
+      ]
+    },
+    {
+      "jurisdiction": "Ukrainian Orthodox Church foreign parishes and Orthodox Church of Ukraine",
+      "result": "Current official foreign-vicariate reporting and available official jurisdictional directories did not establish a separate Chile body. No row is published without a current exact first-party citation. This is a bounded source result, not a country-level absence claim.",
+      "sources": [
+        "https://news.church.ua/2026/02/09/pro-sluzhinnya-zaxidnojevropejskogo-vikariatstva-ukrajinskoji-pravoslavnoji-cerkvi/",
+        "https://ec-patr.org/en/ecumenical-patriarchate/directory/"
+      ]
+    },
+    {
+      "jurisdiction": "Bulgarian Orthodox Church and Macedonian Orthodox Church - Ohrid Archbishopric",
+      "result": "The current official diaspora structures checked did not name a Chile body. Search-discovered bodies are not published without a competent current Bulgarian or Macedonian synodal or diocesan citation. This is a bounded roster result, not a country-level absence claim.",
+      "sources": [
+        "https://bg-patriarshia.bg/dioceses",
+        "https://www.m-p-c.org/?page_id=17"
+      ]
+    },
+    {
+      "jurisdiction": "Patriarchates of Alexandria and Jerusalem",
+      "result": "No additional Chile row is published without an exact current first-party jurisdictional citation. Their current territorial and institutional directories were checked for a Chile worship body. This records a bounded source result and makes no general absence claim.",
+      "sources": [
+        "https://www.patriarchateofalexandria.com/archdioceses/?lang=en",
+        "https://en.jerusalem-patriarchate.info/"
+      ]
+    },
+    {
+      "jurisdiction": "Georgian, Albanian, Polish, Czech and Slovak, Cypriot, Greek, Finnish, and Japanese canonical Churches",
+      "result": "No additional Chile row is published without an exact current first-party jurisdictional citation. This records incomplete verification for each named jurisdiction and makes no general country-level absence claim.",
+      "sources": [
+        "https://ec-patr.org/en/ecumenical-patriarchate/directory/",
+        "https://www.oca.org/parishes"
+      ]
+    },
+    {
+      "jurisdiction": "Other canonical Local Churches and diaspora structures",
+      "result": "No additional Chile row is published without an exact current first-party jurisdictional citation. This records incomplete verification for any jurisdiction not individually listed above and makes no general absence claim.",
+      "sources": [
+        "https://ec-patr.org/en/ecumenical-patriarchate/directory/",
+        "https://directory.synod.com/listings/"
+      ]
+    }
+  ]
+}
