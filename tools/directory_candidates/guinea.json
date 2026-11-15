@@ -1,0 +1,72 @@
+{
+  "v": 1,
+  "country": "GN",
+  "checked": "2026-11-15",
+  "method": "Current official patriarchal, diocesan, exarchate, and diaspora records were checked for exact current Eastern Orthodox bodies in Guinea. Search engines and maps were used only to discover competent first-party sources. The existing Holy Archdiocese of Guinea row is retained and refreshed. Periodic services, territorial scope, proposed missions, and bodies without an exact current first-party identity remain unpublished.",
+  "published_summary": {
+    "existing_ax-guinea_parent": 1,
+    "new_subordinate_bodies": 0
+  },
+  "candidates": [
+    {
+      "candidate_id": "gn-ax-body-level-roster",
+      "parent": "ax-guinea",
+      "country": "GN",
+      "name": "Named bodies of the Holy Archdiocese of Guinea",
+      "status": "hold until a current official body-level roster is available",
+      "reason": "The current patriarchal register establishes the archdiocese, its Conakry see, and its seven-country territorial scope, but it does not name a current cathedral, parish, chapel, monastery, or recurring worship site in Guinea. The administrative parent is already published. No subordinate body is inferred from the metropolitan title or see city.",
+      "sources": [
+        "https://www.patriarchateofalexandria.com/archdioceses/holy-archdiocese-of-guinea/?lang=en",
+        "https://www.patriarchateofalexandria.com/archdioceses/iera-mitropoli-goyineas/"
+      ]
+    },
+    {
+      "candidate_id": "gn-ru-conakry-periodic-services",
+      "parent": "ru-north-africa",
+      "country": "GN",
+      "name": "Periodic Russian Orthodox services in Conakry",
+      "status": "hold until the competent diocese establishes a current parish or recurring worship body",
+      "reason": "Official Moscow records establish visiting services at the Russian Embassy in 2025 and 2026. The 2025 report expressly says that Guinea had no Orthodox church and had never had one. Later reporting describes continued pastoral visits and discussion of future pastoral care, not a named parish or permanent worship body.",
+      "sources": [
+        "https://exarchate-africa.ru/en/news/orthodox-divine-services-are-celebrated-in-guinea-on-easter-for-the-first-time/",
+        "https://exarchate-africa.ru/en/news/faithful-in-the-capital-of-the-republic-of-guinea-celebrated-the-feast-of-the-resurrection-of-christ/",
+        "https://exarchate-africa.ru/novosti/v-gvinee-otkrylas-fotovystavka-mir-russkogo-pravoslaviya-i-proshla-prezentacziya-pravoslavnogo-izdaniya-evangeliya-na-franczuzskom/"
+      ]
+    }
+  ],
+  "official_jurisdiction_audit": [
+    {
+      "jurisdiction": "Patriarchate of Alexandria",
+      "result": "The current patriarchal register establishes the Holy Archdiocese of Guinea with its see in Conakry and jurisdiction over Sierra Leone, Liberia, Guinea, Guinea-Bissau, Gambia, Senegal, and Cape Verde. The existing administrative parent is published. The current register provides no exact body-level roster for Guinea.",
+      "sources": [
+        "https://www.patriarchateofalexandria.com/archdioceses/holy-archdiocese-of-guinea/?lang=en",
+        "https://www.patriarchateofalexandria.com/archdioceses/iera-mitropoli-goyineas/"
+      ]
+    },
+    {
+      "jurisdiction": "Moscow Patriarchate, Patriarchal Exarchate of Africa",
+      "result": "The North African Diocese includes Guinea in its territorial scope. Current official reports document visiting services in Conakry but do not establish a named parish, permanent church, or recurring worship body. No row is published from territorial scope or a visiting service alone.",
+      "sources": [
+        "https://exarchate-africa.ru/en/dioceses_cat/diocese-of-north-africa/",
+        "https://exarchate-africa.ru/en/news/orthodox-divine-services-are-celebrated-in-guinea-on-easter-for-the-first-time/"
+      ]
+    },
+    {
+      "jurisdiction": "Ecumenical Patriarchate, Antiochian Patriarchate, Jerusalem Patriarchate, Romanian Patriarchate, Serbian Patriarchate, Georgian Patriarchate, OCA, and ROCOR",
+      "result": "Their current official jurisdictional or diaspora directories were checked and did not name a Guinea body. This is a bounded directory result, not a general country-level absence claim.",
+      "sources": [
+        "https://ec-patr.org/en/ecumenical-patriarchate/directory/",
+        "https://www.antiochpatriarchate.org/en/category/dioceses/6/",
+        "https://directory.synod.com/listings/"
+      ]
+    },
+    {
+      "jurisdiction": "Other canonical Local Churches and diaspora structures",
+      "result": "No additional Guinea row is published without an exact current first-party jurisdictional citation. This records incomplete verification for structures not individually listed and makes no general absence claim.",
+      "sources": [
+        "https://www.patriarchateofalexandria.com/archdioceses/?lang=en",
+        "https://exarchate-africa.ru/en/dioceses_cat/diocese-of-north-africa/"
+      ]
+    }
+  ]
+}
