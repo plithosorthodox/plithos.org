@@ -1,0 +1,266 @@
+{
+  "v": 1,
+  "countries": ["GR"],
+  "checked": "2026-11-15",
+  "method": "The current official Metropolis organization page controls the exact current roster of 30 parishes, four pilgrimages, and one named monastery, and supplies every published body-specific phone route for those bodies. Regulation 71/110 supplies the 2019 legal roster of 31 parishes and two pilgrimages. Current 2026 official programs, the official monument record, and the current forty-liturgies program establish 71 additional exact named churches, chapels, cemetery or cave churches, and monastic bodies. Exact bodies are retained once at the most specific current identity established by a first-party source. No row is inferred from an aggregate, personal name, map result, or search result.",
+  "published_summary": {
+    "gr-kythira": 106,
+    "total": 106,
+    "current_parishes": 30,
+    "current_pilgrimages": 4,
+    "current_roster_monasteries": 1,
+    "other_exact_current_bodies": 71,
+    "contact_bodies": 34,
+    "phone_bodies": 34,
+    "public_phone_values": 37,
+    "email_bodies": 0,
+    "public_email_values": 0,
+    "body_owned_sites": 0,
+    "address_bodies": 106
+  },
+  "candidates": [
+    {
+      "candidate_id": "gr-kythira-unnamed-chapels",
+      "parent": "gr-kythira",
+      "country": "GR",
+      "category": "aggregate-only",
+      "status": "held",
+      "reason": "The current official organization page reports 300 chapels. Eighteen exact current chapel bodies, including one monastery chapel, are published from current first-party pages and programs. The unnamed residual is not inferred.",
+      "aggregate_counts": {"reported_chapels": 300, "exact_published_chapels": 18},
+      "sources": [
+        "https://www.imkythiron.gr/index.php/el/organosis-dioikisis-leitourgia-i-mitr-kythiron-antikythiron",
+        "https://www.imkythiron.gr/index.php/el/eidiseis/programmata-sevasmiotatou-mitropoliti/"
+      ]
+    },
+    {
+      "candidate_id": "gr-kythira-unnamed-cemetery-churches",
+      "parent": "gr-kythira",
+      "country": "GR",
+      "category": "aggregate-only",
+      "status": "held",
+      "reason": "The current official organization page reports 30 cemetery churches. The Holy Archangels Cemetery Church in Karavas is the one exact cemetery church established by a current 2026 official program. No identity is created for the unnamed residual.",
+      "aggregate_counts": {"reported_cemetery_churches": 30, "exact_published_cemetery_churches": 1},
+      "sources": [
+        "https://www.imkythiron.gr/index.php/el/organosis-dioikisis-leitourgia-i-mitr-kythiron-antikythiron",
+        "https://www.imkythiron.gr/index.php/el/eidiseis/programmata-sevasmiotatou-mitropoliti/programma-sev-mitr-kythiron-antikythiron-serafeim-a-15nthimeron-noemvriou-2026"
+      ]
+    },
+    {
+      "candidate_id": "gr-kythira-monastic-aggregate-and-style",
+      "parent": "gr-kythira",
+      "country": "GR",
+      "category": "aggregate-and-identity-reconciliation",
+      "status": "held",
+      "reason": "The current organization page reports five monastic churches but separately names four pilgrimages and only Venerable Theodore as a monastery. Current programs sometimes style the four pilgrimages and Saint Myron Parish Church as monasteries. Those are retained once under the exact current roster identity. Nativity of the Theotokos at Kakopetri, the Forerunner Monydrion at Agriolies, and the Holy Trinity monastery chapel at Myrtidia are separately published because current first-party sources identify them as exact distinct bodies. No unnamed monastic residual is inferred.",
+      "aggregate_counts": {"reported_monastic_churches": 5, "exact_published_monastic_kind_rows": 4},
+      "sources": [
+        "https://www.imkythiron.gr/index.php/el/organosis-dioikisis-leitourgia-i-mitr-kythiron-antikythiron",
+        "https://www.imkythiron.gr/index.php/el/eidiseis/programmata-sevasmiotatou-mitropoliti/programma-sev-mitr-kythiron-antikythiron-serafeim-septemvrios-2026",
+        "https://www.imkythiron.gr/index.php/el/ekklisiastika-mnimeia/perispoudasta-ekklisiastika-mnimeia-2"
+      ]
+    },
+    {
+      "candidate_id": "gr-kythira-saint-elesa-alternate-style",
+      "parent": "gr-kythira",
+      "country": "GR",
+      "category": "identity-overlap",
+      "status": "held",
+      "reason": "Current programs call Saint Elesa at Pourkon both a church and a monastery. The current roster identifies the exact Saint Elesa body at Pourkon as a parish church. The matching dedication and seat do not establish a second exact body, so it is published once and the alternate style is recorded without duplication.",
+      "sources": [
+        "https://www.imkythiron.gr/index.php/el/organosis-dioikisis-leitourgia-i-mitr-kythiron-antikythiron",
+        "https://www.imkythiron.gr/index.php/el/eidiseis/programmata-sevasmiotatou-mitropoliti/programma-sev-mitr-kythiron-a-15nthimeron-martiou-2027",
+        "https://www.imkythiron.gr/index.php/el/eidiseis/programmata-sevasmiotatou-mitropoliti/programma-sev-mitr-kythiron-ioulios-2026"
+      ]
+    },
+    {
+      "candidate_id": "gr-kythira-legal-superseded-parish-residuals",
+      "parent": "gr-kythira",
+      "country": "GR",
+      "category": "superseded-legal-rows",
+      "status": "held",
+      "reason": "Regulation 71/110 lists 31 parish rows. The current official roster has 30: the legal Saint Charalambos and Panagia Eleousa rows at Fratsia are now one combined parish dedication; current Saint Basil at Aloizianika supersedes legal Saint Theodore; current Entrance of the Theotokos at Viaradika supersedes legal Panagia Faneromeni; and current Entrance of the Theotokos at Frilingkianika supersedes legal Panagia Kipiotissa. The superseded variants are not published as separate current parishes.",
+      "aggregate_counts": {"legal_parish_rows": 31, "current_parish_rows": 30},
+      "sources": [
+        "https://ecclesiagreece.gr/greek/press/ekklisia/2019_februarios.pdf",
+        "https://www.imkythiron.gr/index.php/el/organosis-dioikisis-leitourgia-i-mitr-kythiron-antikythiron"
+      ]
+    },
+    {
+      "candidate_id": "gr-kythira-current-pilgrimage-expansion",
+      "parent": "gr-kythira",
+      "country": "GR",
+      "category": "legal-to-current-change",
+      "status": "reconciled",
+      "reason": "The 2019 regulation lists Panagia Myrtidiotissa and Agia Moni as two pilgrimages. The current official roster additionally lists Panagia Despoina in Karavas and the Holy Unmercenaries at Xeroulaki. All four exact current pilgrimages are published.",
+      "aggregate_counts": {"legal_pilgrimages": 2, "current_pilgrimages": 4},
+      "sources": [
+        "https://ecclesiagreece.gr/greek/press/ekklisia/2019_februarios.pdf",
+        "https://www.imkythiron.gr/index.php/el/organosis-dioikisis-leitourgia-i-mitr-kythiron-antikythiron"
+      ]
+    },
+    {
+      "candidate_id": "gr-kythira-ambiguous-protected-email",
+      "parent": "gr-kythira",
+      "country": "GR",
+      "category": "contact-unresolved",
+      "status": "held",
+      "reason": "The organization page protects the diocesan email through a script and does not associate it with a subordinate body. A footer or template email is not copied to any parish, pilgrimage, monastery, church, or chapel.",
+      "sources": [
+        "https://www.imkythiron.gr/index.php/el/organosis-dioikisis-leitourgia-i-mitr-kythiron-antikythiron"
+      ]
+    },
+    {
+      "candidate_id": "gr-kythira-older-program-only-leads",
+      "parent": "gr-kythira",
+      "country": "GR",
+      "category": "current-status-unclear",
+      "status": "discovery-only",
+      "reason": "Older official schedules name further bodies such as Ascension of Christ at Arachova, Saint Kyriaki at Alexandrades, Saint Dionysius Cemetery Church in Chora, and Apostle Philip at Mesa Vourgo. They remain held until a current roster, current program, or current official detail page establishes present identity and parentage.",
+      "sources": [
+        "https://www.imkythiron.gr/index.php/el/eidiseis/programmata-sevasmiotatou-mitropoliti/programma-sev-mitr-kythiron-1-13-iouniou-2022",
+        "https://www.imkythiron.gr/images/stories/MYRTIDIOTISSA/MYRTIDIOTISSA_68.pdf"
+      ]
+    },
+    {
+      "candidate_id": "gr-kythira-map-search-historic-leads",
+      "parent": "gr-kythira",
+      "country": "GR",
+      "category": "insufficient-canonical-evidence",
+      "status": "discovery-only",
+      "reason": "Map-only, search-only, historic-only, unnamed, ruined, aggregate-only, and canonically unclear leads are not published until a competent current first-party source establishes exact identity and current use under this Metropolis.",
+      "sources": [
+        "https://www.imkythiron.gr/index.php/el/organosis-dioikisis-leitourgia-i-mitr-kythiron-antikythiron",
+        "https://www.imkythiron.gr/index.php/el/ekklisiastika-mnimeia/perispoudasta-ekklisiastika-mnimeia-2"
+      ]
+    }
+  ],
+  "source_reconciliations": [
+    {
+      "subject": "Current roster controls current identity",
+      "decision": "The current Metropolis organization page supplies the exact 30 parish, four pilgrimage, and one named monastery roster. It controls current dedication and seat where the 2019 legal table differs.",
+      "sources": [
+        "https://www.imkythiron.gr/index.php/el/organosis-dioikisis-leitourgia-i-mitr-kythiron-antikythiron",
+        "https://ecclesiagreece.gr/greek/press/ekklisia/2019_februarios.pdf"
+      ]
+    },
+    {
+      "subject": "Fratsia legal rows",
+      "decision": "The legal table has separate Saint Charalambos and Panagia Eleousa parish rows at Fratsia. The current roster has one combined Dormition of the Theotokos and Saint Charalambos parish. The combined current parish is published once. Panagia Eleousa is separately retained only as a church because a current 2026 program explicitly identifies it as a current worship body.",
+      "sources": [
+        "https://ecclesiagreece.gr/greek/press/ekklisia/2019_februarios.pdf",
+        "https://www.imkythiron.gr/index.php/el/organosis-dioikisis-leitourgia-i-mitr-kythiron-antikythiron",
+        "https://www.imkythiron.gr/index.php/el/eidiseis/programmata-sevasmiotatou-mitropoliti/programma-sev-mitr-kythiron-a-15nthimeron-martiou-2027"
+      ]
+    },
+    {
+      "subject": "Aloizianika, Viaradika, and Frilingkianika",
+      "decision": "The current roster replaces the legal dedication Saint Theodore at Aloizianika with Saint Basil, Panagia Faneromeni at Viaradika with Entrance of the Theotokos, and Panagia Kipiotissa at Frilingkianika with Entrance of the Theotokos. Only the exact current parish dedications are published.",
+      "sources": [
+        "https://ecclesiagreece.gr/greek/press/ekklisia/2019_februarios.pdf",
+        "https://www.imkythiron.gr/index.php/el/organosis-dioikisis-leitourgia-i-mitr-kythiron-antikythiron"
+      ]
+    },
+    {
+      "subject": "Leivadi seat labels",
+      "decision": "The current roster labels Ascension of the Savior at Kato Leivadi and Dormition of the Theotokos at Leivadi. These correspond to the legal Leivadi and Ano Leivadi rows, respectively, and are published with the current seat labels without creating additional parishes.",
+      "sources": [
+        "https://ecclesiagreece.gr/greek/press/ekklisia/2019_februarios.pdf",
+        "https://www.imkythiron.gr/index.php/el/organosis-dioikisis-leitourgia-i-mitr-kythiron-antikythiron"
+      ]
+    },
+    {
+      "subject": "Exact current additional bodies",
+      "decision": "Current 2026 official programs establish exact churches, chapels, a cemetery church, a cave church, a monastery, and a monydrion outside the current roster. The current official monument page establishes exact historic worship bodies still presented by the Metropolis. Each exact identity is published once under the rank stated by its source.",
+      "sources": [
+        "https://www.imkythiron.gr/index.php/el/eidiseis/programmata-sevasmiotatou-mitropoliti/",
+        "https://www.imkythiron.gr/index.php/el/ekklisiastika-mnimeia/perispoudasta-ekklisiastika-mnimeia-2",
+        "https://www.imkythiron.gr/images/stories/pdf/2026/programma_sarantaleitourgou_16-31.10.2026.pdf"
+      ]
+    },
+    {
+      "subject": "Alternate monastery styling",
+      "decision": "Current programs style some current roster pilgrimages, Saint Myron Parish Church, and Saint Elesa Parish Church as monasteries. Matching dedication and seat identify the same body, so those rows remain single and are not duplicated under a second rank.",
+      "sources": [
+        "https://www.imkythiron.gr/index.php/el/organosis-dioikisis-leitourgia-i-mitr-kythiron-antikythiron",
+        "https://www.imkythiron.gr/index.php/el/eidiseis/programmata-sevasmiotatou-mitropoliti/programma-sev-mitr-kythiron-ioulios-2026",
+        "https://www.imkythiron.gr/index.php/el/eidiseis/programmata-sevasmiotatou-mitropoliti/programma-sev-mitr-kythiron-avgoustos-2026"
+      ]
+    },
+    {
+      "subject": "Public contact provenance",
+      "decision": "All 37 retained phone values are printed against the exact body by the current official roster. Public landlines and mobile routes are retained, while every personal name is omitted. Antikythira Saint Myron has no published phone in the roster. No contact is copied from the diocesan administration to a subordinate body.",
+      "sources": [
+        "https://www.imkythiron.gr/index.php/el/organosis-dioikisis-leitourgia-i-mitr-kythiron-antikythiron"
+      ]
+    },
+    {
+      "subject": "Body-owned sites",
+      "decision": "Metropolis roster, program, monument, and publication pages are recorded as official sources, not body-owned websites. No independent body-owned site was established by the reviewed first-party source set.",
+      "sources": [
+        "https://www.imkythiron.gr/index.php/el/organosis-dioikisis-leitourgia-i-mitr-kythiron-antikythiron",
+        "https://www.imkythiron.gr/index.php/el/eidiseis/programmata-sevasmiotatou-mitropoliti/"
+      ]
+    }
+  ],
+  "official_parent_audit": [
+    {
+      "body": "Holy Metropolis of Kythira and Antikythira",
+      "parent": "gr-kythira",
+      "status": "canonical-current",
+      "decision": "The Metropolis is a current canonical diocese of the Church of Greece. The official 2019 decision records its current Kythira and Antikythira name, and its current official site supplies the controlling subordinate roster.",
+      "sources": [
+        "https://www.ecclesia.gr/greek/press/ekklisia/2019_decembrios.pdf",
+        "https://www.imkythiron.gr/index.php/el/organosis-dioikisis-leitourgia-i-mitr-kythiron-antikythiron"
+      ]
+    },
+    {
+      "body": "Current parish, pilgrimage, monastic, and worship-body source set",
+      "parent": "gr-kythira",
+      "status": "first-party-current",
+      "decision": "The legal regulation, current Metropolis roster, current 2026 liturgical programs, and current official monument material establish the exact published bodies. Aggregate counts corroborate scale but do not create unnamed rows.",
+      "sources": [
+        "https://ecclesiagreece.gr/greek/press/ekklisia/2019_februarios.pdf",
+        "https://www.imkythiron.gr/index.php/el/organosis-dioikisis-leitourgia-i-mitr-kythiron-antikythiron",
+        "https://www.imkythiron.gr/index.php/el/eidiseis/programmata-sevasmiotatou-mitropoliti/"
+      ]
+    }
+  ],
+  "exclusions": [
+    {
+      "subject": "Personal names",
+      "decision": "Clergy, monastic, staff, donor, and officeholder names are omitted. Officially published landlines and mobile numbers remain only where the current official roster associates them with the exact body.",
+      "sources": [
+        "https://www.imkythiron.gr/index.php/el/organosis-dioikisis-leitourgia-i-mitr-kythiron-antikythiron"
+      ]
+    },
+    {
+      "subject": "Central office contacts",
+      "decision": "Diocesan administration phone, fax, and protected email routes are not copied to parishes, pilgrimages, monasteries, churches, or chapels.",
+      "sources": [
+        "https://www.imkythiron.gr/index.php/el/organosis-dioikisis-leitourgia-i-mitr-kythiron-antikythiron"
+      ]
+    },
+    {
+      "subject": "External schedule venues",
+      "decision": "Current programs also name churches in Athens, Piraeus, Corinth, Livadeia, Hydra, Corfu, Karditsa, and other dioceses. They are excluded because the schedule does not place them under the Metropolis of Kythira and Antikythira.",
+      "sources": [
+        "https://www.imkythiron.gr/index.php/el/eidiseis/programmata-sevasmiotatou-mitropoliti/"
+      ]
+    },
+    {
+      "subject": "Unnamed aggregate residuals",
+      "decision": "No body is created from the difference between an aggregate count and the exact named roster. Unnamed chapel, cemetery church, and monastic residuals remain held.",
+      "sources": [
+        "https://www.imkythiron.gr/index.php/el/organosis-dioikisis-leitourgia-i-mitr-kythiron-antikythiron"
+      ]
+    },
+    {
+      "subject": "Historic, ambiguous, map, and search leads",
+      "decision": "A historic mention, ruined site, map result, search result, unnamed body, ambiguous dedication, or body outside the current first-party source set is not published without competent current canonical evidence of exact identity and present parentage.",
+      "sources": [
+        "https://www.imkythiron.gr/index.php/el/organosis-dioikisis-leitourgia-i-mitr-kythiron-antikythiron",
+        "https://www.imkythiron.gr/index.php/el/ekklisiastika-mnimeia/perispoudasta-ekklisiastika-mnimeia-2"
+      ]
+    }
+  ]
+}
