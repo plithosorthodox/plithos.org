@@ -1,0 +1,43 @@
+{
+  "v": 1,
+  "country": "TM",
+  "checked": "2026-11-15",
+  "method": "The current official roster of the Patriarchal Deanery in Turkmenistan was reconciled with the Moscow Patriarchate record, recent official visitation reports, search discovery, and map discovery. The official deanery roster names twelve current churches across three districts. Search engines and map services were used only to discover possible bodies and addresses.",
+  "published_summary": {
+    "ru-turkmenistan": 12,
+    "worship_bodies": 12
+  },
+  "candidates": [
+    {
+      "candidate_id": "tm-ru-pastoral-localities-without-listed-churches",
+      "parent": "ru-turkmenistan",
+      "country": "TM",
+      "name": "Pastoral localities without separately listed churches",
+      "status": "hold until the deanery lists a constituted church or recurring worship body",
+      "reason": "The official roster says clergy serve Orthodox residents in Kaahka, Dushak, Gyzylarbat, Magtymguly, Hazar, Garabogaz, Bereket, Kerki, Kerkichi, Yoloten, Serhetabat, and Tagtabazar. It does not list a separate church or recurring worship body in those localities.",
+      "sources": [
+        "https://orthodoxy.tm/site/articles?catids%5B0%5D=8",
+        "https://orthodoxy.tm/site/articles?catids%5B0%5D=9",
+        "https://orthodoxy.tm/site/articles?catids%5B0%5D=10"
+      ]
+    }
+  ],
+  "exclusions": [
+    {
+      "scope": "Historical churches outside the current roster",
+      "result": "The official history documents many churches that closed, were destroyed, or ceased to function. They are not published as current bodies unless they also appear in the deanery's present roster.",
+      "sources": [
+        "https://orthodoxy.tm/223",
+        "https://orthodoxy.tm/"
+      ]
+    },
+    {
+      "scope": "Other canonical Eastern Orthodox jurisdictions",
+      "result": "No current first-party synodal, diocesan, parish, or monastery source found in this pass establishes another canonical Eastern Orthodox worship body in Turkmenistan.",
+      "sources": [
+        "https://orthodoxy.tm/",
+        "https://patriarchia.ru/org/262"
+      ]
+    }
+  ]
+}
