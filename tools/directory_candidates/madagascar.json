@@ -1,0 +1,161 @@
+{
+  "v": 1,
+  "country": "MG",
+  "checked": "2026-11-15",
+  "method": "Current official Patriarchate of Alexandria and Moscow Patriarchate records were reconciled body by body. Search engines and maps were used only to discover competent first-party Church sources. Both current canonical structures are recorded without deciding their competing territorial claims. Unnamed, aggregate-only, older-only, construction-only, ambiguous, and merely recurring-service identities remain unpublished.",
+  "published_summary": {
+    "ax-antananarivo": 1,
+    "ax-toliara": 1,
+    "ru-south-africa": 17,
+    "russian_roster_total": 30,
+    "russian_aggregate_only_remainder": 13,
+    "new_subordinate_bodies": 19,
+    "total": 19
+  },
+  "candidates": [
+    {
+      "candidate_id": "mg-ru-count-only-remainder",
+      "parent": "ru-south-africa",
+      "country": "MG",
+      "name": "Thirteen roster parishes not individually reconciled",
+      "status": "hold until the competent diocese publishes exact current identities",
+      "reason": "The live South African Diocese roster reports 13 parishes in the Northern Deanery and 17 in the Southern Deanery, for 30 Madagascar parishes in total. Seventeen can be tied to exact named first-party body records. The remaining 13 places are not expanded from an aggregate count.",
+      "sources": [
+        "https://exarchate-africa.ru/en/dioceses_cat/south-african-diocese/",
+        "https://exarchate-africa.ru/documents/obrazovany-yuzhnyj-i-severnyj-czerkovnye-okruga-v-predelah-yuzhno-afrikanskoj-eparhii-na-madagaskare/"
+      ]
+    },
+    {
+      "candidate_id": "mg-ru-andranonihaly-unnamed-parish",
+      "parent": "ru-south-africa",
+      "country": "MG",
+      "name": "Unnamed parish in Andranonihaly",
+      "status": "hold until the competent diocese publishes a dedication or stable official name",
+      "reason": "An official 2023 record establishes a new parish and a worshipping community of 82 people in Andranonihaly. It gives no dedication. The commemoration of Saint Sergius on the day of the service is not converted into a parish name.",
+      "sources": [
+        "https://mospat.ru/en/news/90874/"
+      ]
+    },
+    {
+      "candidate_id": "mg-ru-antananarivo-image-not-made-hands-construction",
+      "parent": "ru-south-africa",
+      "country": "MG",
+      "name": "Church of the Image of the Savior Not Made by Hands in Antananarivo",
+      "status": "hold until completion and ordinary worship in the church are established",
+      "reason": "The official October 2026 record establishes a newly formed parish and the beginning of construction for its intended church. It does not establish a completed church building or worship in that building, so the construction project is not published as a current church row.",
+      "sources": [
+        "https://exarchate-africa.ru/novosti/v-stolicze-madagaskara-nachalos-stroitelstvo-hrama-nerukotvornogo-obraza-spasitelya/"
+      ]
+    },
+    {
+      "candidate_id": "mg-ru-eastern-unnamed-parishes",
+      "parent": "ru-south-africa",
+      "country": "MG",
+      "name": "Additional unnamed current parishes in Mahanoro and Toamasina",
+      "status": "hold until each body is published by dedication and place",
+      "reason": "A September 2026 official record says that parishes of the Exarchate operate in Mahanoro municipality and Toamasina and refers to one priest as rector of parishes. The Holy Trinity parish in Toamasina is published separately from an exact body-level record. No other dedication or exact identity is inferred from the plural reference.",
+      "sources": [
+        "https://exarchate-africa.ru/novosti/okazana-gumanitarnaya-pomoshh-nuzhdayushhimsya-zhitelyam-vostochnoj-chasti-madagaskara/",
+        "https://exarchate-africa.ru/novosti/russkaya-pravoslavnaya-czerkov-peredala-pomoshh-zhitelyam-madagaskara-postradavshim-v-rezultate-cziklona-gezani/"
+      ]
+    },
+    {
+      "candidate_id": "mg-ru-womens-monastic-community",
+      "parent": "ru-south-africa",
+      "country": "MG",
+      "name": "First women's monastic community of the Exarchate in Madagascar",
+      "status": "hold until a stable dedication, proper name, and exact current parentage are published",
+      "reason": "Official 2025 and 2026 records establish a current women's monastic community associated with Mother Maria and the sisters at Ambatondrazaka. They do not publish a dedication or stable proper name. The community is not silently named after the parish where it was announced.",
+      "sources": [
+        "https://exarchate-africa.ru/novosti/patriarshij-ekzarh-afriki-sovershil-liturgiyu-na-prihode-rozhdestva-presvyatoj-bogorodiczy-na-madagaskare/",
+        "https://exarchate-africa.ru/pressa-o-nas/madagaskar-nevesty-hristovy/"
+      ]
+    },
+    {
+      "candidate_id": "mg-ru-ambanja-older-unnamed-community",
+      "parent": "ru-south-africa",
+      "country": "MG",
+      "name": "Older unnamed community in Ambanja",
+      "status": "hold until a current exact first-party body record is available",
+      "reason": "An official 2022 report records a worshipping community in Ambanja but gives no dedication. The live 30-parish roster does not individually identify it, and no later exact body record found in this pass renews its identity.",
+      "sources": [
+        "https://exarchate-africa.ru/novosti/tainstvo-kreshheniya-v-pravoslavnyh-obshhinah-madagaskara/",
+        "https://exarchate-africa.ru/en/dioceses_cat/south-african-diocese/"
+      ]
+    },
+    {
+      "candidate_id": "mg-ru-antananarivo-military-worship",
+      "parent": "ru-south-africa",
+      "country": "MG",
+      "name": "Worship for Russian military personnel in Antananarivo",
+      "status": "hold until a named chapel, parish, mission, or stable recurring worship body is published",
+      "reason": "The October 2026 official report records a Divine Liturgy and pastoral visit for military personnel at their headquarters. It does not identify the headquarters as a church body or establish a named recurring worship site.",
+      "sources": [
+        "https://exarchate-africa.ru/novosti/v-stolicze-madagaskara-nachalos-stroitelstvo-hrama-nerukotvornogo-obraza-spasitelya/"
+      ]
+    },
+    {
+      "candidate_id": "mg-ax-antananarivo-dormition-cathedral",
+      "parent": "ax-antananarivo",
+      "country": "MG",
+      "name": "Metropolitan Church or Cathedral of the Dormition of the Theotokos in Antananarivo",
+      "status": "hold until the Archdiocese reconciles this older identity with its current metropolitan church",
+      "reason": "Official reports describe the historic Dormition church as the cathedral or metropolitan church in Antananarivo. A separate 2022 official report calls the Entrance of the Theotokos church the metropolitan church at the new see. The Entrance church is published from the later exact record, while the older Dormition identity remains held rather than merged or assumed to retain cathedral rank.",
+      "sources": [
+        "https://www.patriarchateofalexandria.com/afichthi-sto-nisi-tis-magadaskaris-o-patriarchis-alexandreias-theodoros-o-v/?print=print",
+        "https://www.patriarchateofalexandria.com/egkardia-ypodochi-tis-a-th-m-apo-tin-elliniki-koinotita-madagaskaris/?print=print",
+        "https://www.patriarchateofalexandria.com/oloklirothike-i-poimantiki-episkepsi-tis-a-th-m-stin-madagaskari/?lang=en&print=print"
+      ]
+    },
+    {
+      "candidate_id": "mg-ax-toliara-annunciation-mission-centre",
+      "parent": "ax-toliara",
+      "country": "MG",
+      "name": "Church of the Annunciation of the Theotokos at the Toliara Missionary Centre",
+      "status": "hold until the Diocese publishes a current body-level identity",
+      "reason": "An official 2019 report places the first Bishop's enthronement in this church. The 2022 pastoral visit instead names Saint Andrew Church in Toliara, while the current diocesan profile publishes no subordinate roster. The older Annunciation identity is not merged with Saint Andrew or assumed current without a newer exact record.",
+      "sources": [
+        "https://www.patriarchateofalexandria.com/enthronisis-toy-theofilestatoy-episkopoy-toliaras-amp-n-madagadkaris-k-prodromoy/?print=print",
+        "https://www.patriarchateofalexandria.com/patriarchal-pastoral-visit-to-the-holy-diocese-of-toliara-and-southern-madagascar/?lang=en",
+        "https://www.patriarchateofalexandria.com/archdioceses/holy-diocese-of-toliara-and-southern-madagascar/?lang=en"
+      ]
+    }
+  ],
+  "official_jurisdiction_audit": [
+    {
+      "jurisdiction": "Patriarchate of Alexandria",
+      "result": "The current patriarchal register confirms the Holy Archdiocese of Antananarivo and North Madagascar and the Holy Diocese of Toliara and Southern Madagascar, both already present as parent rows. Official pastoral records identify the Metropolitan Church of the Entrance of the Theotokos in Antananarivo and Saint Andrew Church in Toliara, and both are published. Older Dormition and Annunciation identities remain held because the current profiles do not provide a subordinate-body roster or reconcile their rank and continuity.",
+      "sources": [
+        "https://www.patriarchateofalexandria.com/archdioceses/holy-archdiocese-of-antananarivo-and-north-madagascar/?lang=en",
+        "https://www.patriarchateofalexandria.com/archdioceses/holy-diocese-of-toliara-and-southern-madagascar/?lang=en",
+        "https://www.patriarchateofalexandria.com/oloklirothike-i-poimantiki-episkepsi-tis-a-th-m-stin-madagaskari/?lang=en&print=print"
+      ]
+    },
+    {
+      "jurisdiction": "Moscow Patriarchate, Patriarchal Exarchate of Africa",
+      "result": "The live South African Diocese roster reports 30 Madagascar parishes in two deaneries. Current and recent official body-level records identify 17 parishes or communities by dedication and place, and all 17 are published. The 13-place aggregate remainder, unnamed bodies, the women's monastic community without a proper name, a church under construction, and a military worship event remain held.",
+      "sources": [
+        "https://exarchate-africa.ru/en/dioceses_cat/south-african-diocese/",
+        "https://exarchate-africa.ru/documents/obrazovany-yuzhnyj-i-severnyj-czerkovnye-okruga-v-predelah-yuzhno-afrikanskoj-eparhii-na-madagaskare/",
+        "https://exarchate-africa.ru/novosti/patriarshij-ekzarhat-afriki-poluchil-svidetelstvo-o-gosudarstvennoj-registraczii-v-respublike-madagaskar/"
+      ]
+    },
+    {
+      "jurisdiction": "Ecumenical Patriarchate, Antiochian Patriarchate, Jerusalem Patriarchate, Romanian Patriarchate, Serbian Patriarchate, Georgian Patriarchate, OCA, and ROCOR",
+      "result": "Their current official jurisdictional or diaspora directories were checked and did not name an additional Madagascar body. This is a bounded directory result, not a general country-level absence claim.",
+      "sources": [
+        "https://ec-patr.org/en/entities/",
+        "https://antiochpatriarchate.org/en/page/3011/",
+        "https://directory.synod.com/listings/"
+      ]
+    },
+    {
+      "jurisdiction": "Other canonical Local Churches and diaspora structures",
+      "result": "No additional Madagascar row is published without an exact current first-party jurisdictional citation. This records incomplete verification for structures not individually listed and makes no general absence claim.",
+      "sources": [
+        "https://www.patriarchateofalexandria.com/archdioceses/?lang=en",
+        "https://exarchate-africa.ru/en/dioceses_cat/south-african-diocese/"
+      ]
+    }
+  ]
+}

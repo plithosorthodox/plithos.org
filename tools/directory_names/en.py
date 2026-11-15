@@ -1392,6 +1392,13 @@ from directory_kenya import (
 NAMES.update(_KENYA_NAMES)
 del _KENYA_NAMES
 
+from directory_madagascar import (
+    ENGLISH_NAMES as _MADAGASCAR_NAMES,
+    ENGLISH_SEATS as _MADAGASCAR_SEATS,
+)
+NAMES.update(_MADAGASCAR_NAMES)
+del _MADAGASCAR_NAMES
+
 from directory_rwanda import (
     ENGLISH_NAMES as _RWANDA_NAMES,
     ENGLISH_SEATS as _RWANDA_SEATS,
@@ -2217,6 +2224,8 @@ SEATS.update(_JORDAN_SEATS)
 del _JORDAN_SEATS
 SEATS.update(_KENYA_SEATS)
 del _KENYA_SEATS
+SEATS.update(_MADAGASCAR_SEATS)
+del _MADAGASCAR_SEATS
 SEATS.update(_RWANDA_SEATS)
 del _RWANDA_SEATS
 SEATS.update(_TURKMENISTAN_SEATS)
