@@ -1158,3 +1158,7 @@ ROWS = [
                EG + "stauropigion-tou-oikoumenikou-patriarheiou-en-kievo/",
                "https://www.stavropigiainua.org/"]),
 ]
+
+from directory_argentina import CONSTANTINOPLE_ROWS as _ARGENTINA_ROWS
+ROWS.extend(_ARGENTINA_ROWS)
+del _ARGENTINA_ROWS

@@ -1,0 +1,199 @@
+{
+  "v": 1,
+  "country": "AR",
+  "checked": "2026-11-15",
+  "method": "Current official patriarchal, diocesan, eparchial, and parish directories were used to establish named Eastern Orthodox bodies in Argentina. Search engines and maps were used only to discover first-party sources. Historical lists, construction-only sites, administrative offices, bodies outside Eastern Orthodox communion, and communities without current competent jurisdictional confirmation were not converted into directory rows.",
+  "published_summary": {
+    "ep-buenos-aires": 14,
+    "an-buenos-aires": 14,
+    "sr-buenos-aires": 7,
+    "ru-argentina-and-south-america": 10,
+    "ru-south-america-rocor": 12,
+    "ep-ukrainian-south-america": 6,
+    "romanian-americas": 1,
+    "constantinople-direct": 1,
+    "worship_bodies": 64,
+    "total_rows_including_eparchy": 65
+  },
+  "candidates": [
+    {
+      "candidate_id": "ar-ru-leandro-alem-saint-tikhon-construction",
+      "parent": "ru-argentina-and-south-america",
+      "country": "AR",
+      "name": "Saint Tikhon of Moscow Church in Leandro N. Alem",
+      "local": "Строящийся храм святителя Тихона патриарха Московского и всея Руси в Леандро Н. Алем",
+      "status": "hold until the competent diocese names it as a current worship body",
+      "reason": "The current diocesan roster identifies this church only as under construction. The ten current named worship bodies on the same roster are published, while a construction project is not treated as an operating parish or church.",
+      "sources": [
+        "https://southamerica.cerkov.ru/xramy-eparxii/"
+      ]
+    },
+    {
+      "candidate_id": "ar-ep-ukrainian-villa-angela-peter-mohyla",
+      "parent": "ep-ukrainian-south-america",
+      "country": "AR",
+      "name": "Saint Peter Mohyla Church in Villa Ángela",
+      "status": "hold until current eparchial confirmation",
+      "reason": "Historical Ukrainian parish material names a body in Villa Ángela, but it is absent from the Ecumenical Patriarchate's current official South America eparchy roster. The six Argentina bodies on that current roster are published without inferring continuity for an omitted historical body.",
+      "sources": [
+        "https://ec-patr.org/entities/orthodoksoi-oykranoi-stis-ipa/",
+        "https://www.uocofusa.org/news_250908_1"
+      ]
+    },
+    {
+      "candidate_id": "ar-sr-la-plata-historical-body",
+      "parent": "sr-buenos-aires",
+      "country": "AR",
+      "name": "Historical Serbian Orthodox body in La Plata",
+      "status": "hold until the competent eparchy names a current body",
+      "reason": "Older material can lead searches to La Plata, but the current official diocesan directory names exactly seven Argentina bodies and does not include a La Plata body. No current row is inferred from historical material.",
+      "sources": [
+        "https://www.iglesiaortodoxaserbiasca.org/_files/ugd/e8757a_bcd3fd85dc81441196589a1b3065f8bd.pdf",
+        "https://www.iglesiaortodoxaserbiasca.org/diocesis"
+      ]
+    }
+  ],
+  "exclusions": [
+    {
+      "scope": "ROCOR diocesan administration in Buenos Aires",
+      "result": "The official worldwide directory lists a diocesan administration at Núñez 3541. It is an administrative listing, not a separate worship body, and the South America Diocese already exists as the parent row. The cathedral at the same address is published separately.",
+      "sources": [
+        "https://directory.synod.com/listings/",
+        "https://iglesiarusa.info/"
+      ]
+    },
+    {
+      "scope": "Armenian Apostolic and Syriac Orthodox bodies",
+      "result": "These communities belong to the Oriental Orthodox family and are outside this Eastern Orthodox directory. Their exclusion is a scope boundary and makes no judgment about their religious identity or history.",
+      "sources": [
+        "https://www.armenianchurch.org/en/Dioceses/",
+        "https://syriacpatriarchate.org/"
+      ]
+    },
+    {
+      "scope": "Ukrainian Greek Catholic bodies",
+      "result": "Search results for Ukrainian churches in Argentina prominently include Eastern Catholic parishes and eparchial bodies. They are not Eastern Orthodox and are not converted into directory rows.",
+      "sources": [
+        "https://ugcc.ua/en/eparchies/eparchy-of-santa-mara-del-patrocinio-in-buenos-aires-38/"
+      ]
+    },
+    {
+      "scope": "Independent and self-described Orthodox bodies",
+      "result": "Search and map listings using Orthodox names are not published without a current competent canonical synodal or diocesan source that establishes jurisdictional placement. This is an evidence threshold, not a general judgment about every independently named community.",
+      "sources": [
+        "https://ec-patr.org/en/ecumenical-patriarchate/directory/",
+        "https://directory.synod.com/listings/"
+      ]
+    }
+  ],
+  "official_jurisdiction_audit": [
+    {
+      "jurisdiction": "Ecumenical Patriarchate, Greek Orthodox Metropolis of Buenos Aires",
+      "result": "The current official metropolis page names nine churches and five chapels in Argentina. All fourteen are published. The separately listed Holy Cross chapel in Chile is not included in the Argentina branch.",
+      "sources": [
+        "https://ec-patr.org/entities/iera-mitropoli-mpoyenos-aires/"
+      ]
+    },
+    {
+      "jurisdiction": "Ecumenical Patriarchate, Ukrainian Orthodox Eparchy of South America",
+      "result": "The current official roster names six Argentina bodies. The eparchy is exposed as one Constantinople child row in the directory spine and all six current worship bodies are published beneath it. Historical bodies absent from the roster remain held.",
+      "sources": [
+        "https://ec-patr.org/entities/orthodoksoi-oykranoi-stis-ipa/",
+        "https://www.uocofusa.org/news_250908_1"
+      ]
+    },
+    {
+      "jurisdiction": "Antiochian Orthodox Archdiocese of Argentina",
+      "result": "The current official parish page states that the archdiocese has fourteen parishes and names exactly fourteen. All fourteen are published. The former acoantioquena.com domain was not used because it no longer serves the archdiocese.",
+      "sources": [
+        "https://iglesiaortodoxa.ar/parroquias",
+        "https://www.antiochpatriarchate.org/images/pages/dalil-2025-final2024-12-18-12-31-19.pdf"
+      ]
+    },
+    {
+      "jurisdiction": "Serbian Orthodox Eparchy of Buenos Aires and South-Central America",
+      "result": "The current official diocesan directory names seven Argentina bodies: one cathedral parish, one monastery, four further parishes, and one mission. All seven are published using the current directory ranks. Older omitted locations are not inferred.",
+      "sources": [
+        "https://www.iglesiaortodoxaserbiasca.org/_files/ugd/e8757a_bcd3fd85dc81441196589a1b3065f8bd.pdf",
+        "https://www.iglesiaortodoxaserbiasca.org/diocesis"
+      ]
+    },
+    {
+      "jurisdiction": "Moscow Patriarchate, Diocese of Argentina and South America",
+      "result": "The current official diocesan roster names ten operating worship bodies in Argentina and one church under construction. The ten operating bodies are published. The construction-only Saint Tikhon site remains held.",
+      "sources": [
+        "https://southamerica.cerkov.ru/xramy-eparxii/",
+        "https://patriarchia.ru/org/141"
+      ]
+    },
+    {
+      "jurisdiction": "Russian Orthodox Church Outside of Russia, Diocese of South America",
+      "result": "The current official worldwide directory contains thirteen Argentina listings. Twelve are worship bodies and are published. The remaining listing is diocesan administration and is not duplicated as a worship body.",
+      "sources": [
+        "https://directory.synod.com/listings/",
+        "https://iglesiarusa.info/"
+      ]
+    },
+    {
+      "jurisdiction": "Romanian Orthodox Metropolia of the Americas",
+      "result": "The current official parish directory names the Saint Apostle Andrew Romanian Orthodox Mission in Buenos Aires. That one body is published. The current almanac also identifies the mission.",
+      "sources": [
+        "https://www.mitropolia.us/index.php/en/structure/parish-directory",
+        "https://www.mitropolia.us/pdf/2025.05.15-almanah.pdf"
+      ]
+    },
+    {
+      "jurisdiction": "Orthodox Church in America",
+      "result": "The current official parish directory was checked and did not name an Argentina body. This is a bounded roster result, not a country-level absence claim.",
+      "sources": [
+        "https://www.oca.org/parishes"
+      ]
+    },
+    {
+      "jurisdiction": "Ukrainian Orthodox Church foreign parishes",
+      "result": "The current official foreign-vicariate reports name communities in fifteen Western European countries and do not name Argentina. The current Argentina Ukrainian Orthodox bodies established by official sources belong to the Ecumenical Patriarchate's South America eparchy. This is a bounded roster result, not a claim about all historical Ukrainian communities.",
+      "sources": [
+        "https://news.church.ua/2023/12/26/za-kordonom-diyut-84-gromadi-ukrajinskoji-pravoslavnoji-cerkvi-zvit-keruyuchogo-spravami-za-2023-rik/",
+        "https://news.church.ua/2026/02/09/pro-sluzhinnya-zaxidnojevropejskogo-vikariatstva-ukrajinskoji-pravoslavnoji-cerkvi/"
+      ]
+    },
+    {
+      "jurisdiction": "Orthodox Church of Ukraine",
+      "result": "No separate current Argentina body is published under the OCU. The competent current source for the named Ukrainian Orthodox communities in Argentina is the Ecumenical Patriarchate's South America eparchy roster. This placement avoids duplicating the same communities under a second jurisdiction.",
+      "sources": [
+        "https://ec-patr.org/entities/orthodoksoi-oykranoi-stis-ipa/",
+        "https://www.uocofusa.org/news_250908_1"
+      ]
+    },
+    {
+      "jurisdiction": "Macedonian Orthodox Church - Ohrid Archbishopric",
+      "result": "The current official eparchy list names diaspora structures for America and Canada, Australia and New Zealand, and Western Europe, but no Argentina or South America structure. This is a bounded roster result, not a country-level absence claim.",
+      "sources": [
+        "https://www.m-p-c.org/?page_id=17"
+      ]
+    },
+    {
+      "jurisdiction": "Bulgarian Orthodox Church",
+      "result": "The current official diaspora structure checked for this audit did not name an Argentina body. Search-discovered communities were not published without a competent current Bulgarian synodal or diocesan citation. This is a bounded roster result, not a country-level absence claim.",
+      "sources": [
+        "https://bg-patriarshia.bg/dioceses"
+      ]
+    },
+    {
+      "jurisdiction": "Georgian, Jerusalem, Alexandria, Albanian, Polish, Czech and Slovak, Cypriot, Greek, Finnish, and Japanese canonical Churches",
+      "result": "No additional Argentina row is published without an exact current first-party jurisdictional citation. This records incomplete verification for each named jurisdiction and makes no general country-level absence claim.",
+      "sources": [
+        "https://ec-patr.org/en/ecumenical-patriarchate/directory/",
+        "https://www.oca.org/parishes"
+      ]
+    },
+    {
+      "jurisdiction": "Other canonical Local Churches and diaspora structures",
+      "result": "No additional Argentina row is published without an exact current first-party jurisdictional citation. This records incomplete verification for any jurisdiction not individually listed above and makes no general absence claim.",
+      "sources": [
+        "https://ec-patr.org/en/ecumenical-patriarchate/directory/",
+        "https://directory.synod.com/listings/"
+      ]
+    }
+  ]
+}
