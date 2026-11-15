@@ -1,0 +1,279 @@
+{
+  "v": 1,
+  "countries": ["GR"],
+  "checked": "2026-11-15",
+  "method": "Exact current named bodies are retained from the live Metropolis directory, its body detail pages, the current Metropolis monastery index, the current Ecumenical Patriarchate profile, current Metropolis reporting, and official legal sources. Exact rows are not removed to force inconsistent aggregates. Unnamed, aggregate-only, historic-only, ruined, ambiguous, and search or map-only leads remain held.",
+  "published_summary": {
+    "ep-ioannina": 394,
+    "total": 394,
+    "current_directory_rows": 256,
+    "detail_page_bodies": 100,
+    "current_monasteries": 10,
+    "current_monastic_dependencies": 27,
+    "current_reported_bodies": 1,
+    "parish_kind_rows": 357,
+    "monastery_kind_rows": 37,
+    "contact_bodies": 265,
+    "phone_bodies": 265,
+    "public_phone_values": 287,
+    "email_bodies": 179,
+    "public_email_values": 182,
+    "body_owned_sites": 4,
+    "address_bodies": 394
+  },
+  "candidates": [
+    {
+      "candidate_id": "gr-ep-ioannina-directory-aggregate-discrepancy",
+      "parent": "ep-ioannina",
+      "country": "GR",
+      "category": "aggregate-conflict",
+      "status": "held",
+      "reason": "The current Metropolis table contains 256 unique exact rows, while its heading and the current Patriarchate profile state 249 parish churches. The exact table is retained without deleting seven named current rows to force the aggregate.",
+      "aggregate_counts": {"exact_table_rows": 256, "stated_parishes": 249},
+      "sources": [
+        "https://imioanninon.gr/enories-efimerioi/",
+        "https://ec-patr.org/entities/iera-mitropoli-ioanninon/"
+      ]
+    },
+    {
+      "candidate_id": "gr-ep-ioannina-regional-aggregate-discrepancy",
+      "parent": "ep-ioannina",
+      "country": "GR",
+      "category": "aggregate-conflict",
+      "status": "held",
+      "reason": "The current regional overview totals 248 and gives seven bodies for the first city region, while the current exact directory assigns fifteen rows to that region. The exact current rows are retained and no arithmetic remainder is published.",
+      "aggregate_counts": {"regional_total": 248, "exact_table_rows": 256},
+      "sources": [
+        "https://imioanninon.gr/arxieratikes-perifereies/",
+        "https://imioanninon.gr/enories-efimerioi/"
+      ]
+    },
+    {
+      "candidate_id": "gr-ep-ioannina-kopani-two-unnamed-chapels",
+      "parent": "ep-ioannina",
+      "country": "GR",
+      "category": "aggregate-only",
+      "status": "held",
+      "reason": "The Kopani page says the parish has eleven chapels but names only nine current chapel bodies. The two unnamed residuals are not inferred.",
+      "aggregate_counts": {"stated_chapels": 11, "exact_named_chapels": 9},
+      "sources": ["https://imioanninon.gr/kopani-koimisi-ths-theotokou/"]
+    },
+    {
+      "candidate_id": "gr-ep-ioannina-katsikas-unnamed-guild-church",
+      "parent": "ep-ioannina",
+      "country": "GR",
+      "category": "unnamed",
+      "status": "held",
+      "reason": "The Katsikas page identifies a second current guild church but does not disclose its current dedication. It is not represented as Saint Demetrius merely because it stands on the site of a Saint Demetrius church destroyed in 1940.",
+      "sources": ["https://imioanninon.gr/katsikas-koimhsh-ths-theotokou/"]
+    },
+    {
+      "candidate_id": "gr-ep-ioannina-manassis-prophet-jeremiah-ruin",
+      "parent": "ep-ioannina",
+      "country": "GR",
+      "category": "ruined-historic",
+      "status": "held",
+      "reason": "The Manassis page says only part of the perimeter wall survives at the former Prophet Jeremiah chapel. It is held as a ruin rather than published as a current worship body.",
+      "sources": ["https://imioanninon.gr/manassis-ag-georgios/"]
+    },
+    {
+      "candidate_id": "gr-ep-ioannina-eleousa-former-dependencies",
+      "parent": "ep-ioannina",
+      "country": "GR",
+      "category": "historic-only",
+      "status": "held",
+      "reason": "The current monastery index separately labels the Transfiguration church at Klimatia, Saint George at Eleousa village, Saint George Peristera, Saint Eleutherius on the Island, and Golia Monastery in Moldavia as former dependencies. They are not published as current dependencies.",
+      "sources": ["https://imioanninon.gr/ieres-mones/"]
+    },
+    {
+      "candidate_id": "gr-ep-ioannina-pedini-wrong-detail-link",
+      "parent": "ep-ioannina",
+      "country": "GR",
+      "category": "source-error",
+      "status": "held",
+      "reason": "The current Pedini row links to the Penteli Drosia detail page. That page is not used for Pedini identity, address, or contact enrichment.",
+      "sources": ["https://imioanninon.gr/enories-efimerioi/"]
+    },
+    {
+      "candidate_id": "gr-ep-ioannina-penteli-dead-detail-link",
+      "parent": "ep-ioannina",
+      "country": "GR",
+      "category": "source-error",
+      "status": "held",
+      "reason": "The current Penteli Drosia row points to an encoded detail URL that returns 404. The current directory row remains sufficient for exact identity and contact, and the dead page is not used as provenance.",
+      "sources": ["https://imioanninon.gr/enories-efimerioi/"]
+    },
+    {
+      "candidate_id": "gr-ep-ioannina-church-of-greece-stale-contacts",
+      "parent": "ep-ioannina",
+      "country": "GR",
+      "category": "stale-source",
+      "status": "held",
+      "reason": "The Church of Greece English profile carries obsolete telephone prefixes and an older monastery roster. It is retained as historic corroboration but its contacts and classification do not override current local sources.",
+      "sources": [
+        "https://ecclesiagreece.gr/ecclesiajoomla/index.php/en/dioceses/holy-metropolis-of-ioannina"
+      ]
+    },
+    {
+      "candidate_id": "gr-ep-ioannina-legal-roster-currentness",
+      "parent": "ep-ioannina",
+      "country": "GR",
+      "category": "historic-legal",
+      "status": "held",
+      "reason": "The official local legal decision records pre-1977 parish and monastery legal bodies. It establishes legal history but is not substituted for the current directory or current monastery index.",
+      "sources": [
+        "https://imioanninon.gr/wp-content/uploads/2023/10/apof_042.pdf"
+      ]
+    },
+    {
+      "candidate_id": "gr-ep-ioannina-search-map-leads",
+      "parent": "ep-ioannina",
+      "country": "GR",
+      "category": "affiliation-unclear",
+      "status": "discovery-only",
+      "reason": "Search and map results cannot by themselves establish a current exact canonical body and parent. Such leads remain unpublished until a competent first-party Church or official legal source confirms identity and canonical parentage.",
+      "sources": [
+        "https://imioanninon.gr/enories-efimerioi/",
+        "https://imioanninon.gr/ieres-mones/"
+      ]
+    }
+  ],
+  "source_reconciliations": [
+    {
+      "subject": "Current directory completeness",
+      "decision": "All 256 unique exact rows in the current Metropolis directory are retained. The directory table was modified on 13 November 2026 and is more specific than the conflicting aggregate labels.",
+      "sources": [
+        "https://imioanninon.gr/enories-efimerioi/",
+        "https://ec-patr.org/entities/iera-mitropoli-ioanninon/"
+      ]
+    },
+    {
+      "subject": "Detail-page body reconciliation",
+      "decision": "The 43 body detail pages linked from the current directory establish 100 additional exact current named churches, chapels, country churches, cemetery churches, institutional churches, and current worship churches at former monasteries. Bodies already present in the directory or monastery index are collapsed rather than duplicated.",
+      "sources": [
+        "https://imioanninon.gr/enories-efimerioi/",
+        "https://imioanninon.gr/perivleptos-koimisi-ths-theotokoy/",
+        "https://imioanninon.gr/sistrouni-ag-basileiou/"
+      ]
+    },
+    {
+      "subject": "Current monastic classification",
+      "decision": "The current Metropolis index classifies exactly ten monasteries and twenty-seven dependencies. It classifies the Dormition body in Metsovo as a Votsa dependency, and includes Pardastani and Krapsi. This current competent local classification controls over the Patriarchate profile's eleven monasteries and twenty-four dependencies.",
+      "sources": [
+        "https://imioanninon.gr/ieres-mones/",
+        "https://ec-patr.org/entities/iera-mitropoli-ioanninon/"
+      ]
+    },
+    {
+      "subject": "Spilaiotissa dedication",
+      "decision": "The current local index calls the Aristi dependency Life-giving Spring Spilaiotissa, while the Patriarchate profile calls it Dormition. The current local exact title is retained and the conflict does not create a second body.",
+      "sources": [
+        "https://imioanninon.gr/ieres-mones/",
+        "https://ec-patr.org/entities/iera-mitropoli-ioanninon/"
+      ]
+    },
+    {
+      "subject": "Saint George pilgrimage overlap",
+      "decision": "The Saint George New Martyr pilgrimage church is already one of the 256 current directory rows and is published once. Regulation 84 of 1996 independently establishes its legal identity.",
+      "sources": [
+        "https://imioanninon.gr/enories-efimerioi/",
+        "https://ec-patr.org/entities/iera-mitropoli-ioanninon/",
+        "https://www.ecclesiagreece.gr/greek/press/ekklisia/material/1996_11_16.pdf"
+      ]
+    },
+    {
+      "subject": "Saint Paisios at Kiapha",
+      "decision": "The Patriarchate profile names a Saint Paisios metropolitan chapel not present in the parish directory. Current 2026 Metropolis reporting locates the church at Kiapha in Ioannina, so it is published once as an additional exact current body.",
+      "sources": [
+        "https://ec-patr.org/entities/iera-mitropoli-ioanninon/",
+        "https://imioanninon.gr/epikairotita/%CE%B7-%CE%B5%CE%BF%CF%81%CF%84%CE%B7-%CF%84%CE%BF%CF%85-%CE%B1%CE%B3%CE%B9%CE%BF%CF%85-%CF%80%CE%B1%CF%8A%CF%83%CE%B9%CE%BF%CF%85-%CF%84%CE%BF%CF%85-%CE%B1%CE%B3%CE%B9%CE%BF%CF%81%CE%B5%CE%B9%CF%84-2/"
+      ]
+    },
+    {
+      "subject": "Aristi parish and monastic dependency",
+      "decision": "The Dormition parish church in Aristi and the Life-giving Spring Spilaiotissa dependency are retained as distinct exact bodies because the current sources give different dedications and classifications in the same locality.",
+      "sources": [
+        "https://imioanninon.gr/enories-efimerioi/",
+        "https://imioanninon.gr/ieres-mones/"
+      ]
+    },
+    {
+      "subject": "Baptisti and Chouliarades boundary statement",
+      "decision": "The Baptisti detail page names the Holy Trinity chapel but describes a boundary and parish dispute that ended with assignment to Chouliarades. The body is published once under the common Metropolis parent with a neutral cross-locality seat, without asserting a lower-level owner not represented by this module.",
+      "sources": ["https://imioanninon.gr/baptistis-ag-ioannis/"]
+    },
+    {
+      "subject": "Former monastery worship churches",
+      "decision": "Saint Paraskevi at Ano Pedina and Saint Paraskevi at Marmara are current exact worship churches on current parish detail pages but are absent from the current active monastery index. They are published as monastic churches, not as active monastery organizations.",
+      "sources": [
+        "https://imioanninon.gr/ano-pedina-ag-dhmhtrios/",
+        "https://imioanninon.gr/marmara-ag-nikolaou/",
+        "https://imioanninon.gr/ieres-mones/"
+      ]
+    },
+    {
+      "subject": "Public contact provenance",
+      "decision": "Every phone and email in the current directory is retained as an official body-associated route, including repeated and clergy-linked mobile numbers. Detail-page routes are added only to the exact body whose official page publishes them. Parent-office contacts are not copied to unrelated bodies.",
+      "sources": [
+        "https://imioanninon.gr/enories-efimerioi/",
+        "https://imioanninon.gr/arximandreio-koimhsh-ths-theotokou/",
+        "https://imioanninon.gr/seismoplikta-apostolos-paulos/"
+      ]
+    },
+    {
+      "subject": "Votsa shared reservation route",
+      "decision": "The Votsa body-owned site explicitly associates both Votsa Monastery and its Saint Nicholas dependency in Metsovo with the same public email, site, and reservation mobile. The route is retained on both exact bodies with that limited provenance.",
+      "sources": [
+        "https://imioanninon.gr/ieres-mones/",
+        "https://im-votsas.gr/"
+      ]
+    }
+  ],
+  "official_parent_audit": [
+    {
+      "body": "Holy Metropolis of Ioannina",
+      "parent": "ep-ioannina",
+      "status": "canonical-current",
+      "decision": "The Metropolis is a current canonical diocese of the Church of Greece and is listed by the Ecumenical Patriarchate. The local Metropolis sources control exact current subordinate identity and contact detail.",
+      "sources": [
+        "https://ec-patr.org/entities/iera-mitropoli-ioanninon/",
+        "https://imioanninon.gr/enories-efimerioi/",
+        "https://imioanninon.gr/ieres-mones/"
+      ]
+    },
+    {
+      "body": "Current parish and monastic sources",
+      "parent": "ep-ioannina",
+      "status": "first-party-current",
+      "decision": "The current exact directory, its linked body pages, the current monastery index, and current Metropolis reporting form the primary exact roster. Official legal and national Church sources corroborate status without replacing newer local detail.",
+      "sources": [
+        "https://imioanninon.gr/enories-efimerioi/",
+        "https://imioanninon.gr/ieres-mones/",
+        "https://www.ecclesiagreece.gr/greek/press/ekklisia/material/1996_11_16.pdf"
+      ]
+    }
+  ],
+  "exclusions": [
+    {
+      "subject": "Personal names",
+      "decision": "Clergy and monastic personal names are omitted. Officially published landlines, mobile numbers, and emails remain when the source explicitly associates them with the exact body.",
+      "sources": [
+        "https://imioanninon.gr/enories-efimerioi/",
+        "https://imioanninon.gr/ieres-mones/"
+      ]
+    },
+    {
+      "subject": "Unnamed and arithmetic residuals",
+      "decision": "No unnamed chapel, church, monastery, or dependency is invented from an aggregate. Historic ruins and former dependencies remain held unless a current exact worship body is separately established.",
+      "sources": [
+        "https://imioanninon.gr/kopani-koimisi-ths-theotokou/",
+        "https://imioanninon.gr/ieres-mones/"
+      ]
+    },
+    {
+      "subject": "Outside-parent bodies",
+      "decision": "Current program references outside the Metropolis of Ioannina, including the Saint George church at Repetista under Konitsa, are not attached to ep-ioannina.",
+      "sources": ["https://imioanninon.gr/programma-augostos-2026/"]
+    }
+  ]
+}
