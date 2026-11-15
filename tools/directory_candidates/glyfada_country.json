@@ -1,0 +1,275 @@
+{
+  "v": 1,
+  "countries": [
+    "GR"
+  ],
+  "checked": "2026-11-15",
+  "method": "Publish the 20 exact parish rows shared by the Church of Greece legal roster and the current local directory, the two current monasteries and distinct hermitage named by the local Metropolis, the two additional chapels that the current Metropolis says operate as parishes, and only other exact dependent worship bodies whose present use is established by a first-party Church source. Retain every current body-specific public contact route, including mobile and potentially clergy-associated routes, while omitting personal names. Hold unnamed, aggregate-only, ambiguous, historic-only, planned, stale, map-only, and search-only leads.",
+  "published_summary": {
+    "gr-glyfada": 34,
+    "total": 34,
+    "regulated_parish_rows": 20,
+    "parish_kind_rows": 30,
+    "monastery_kind_rows": 4,
+    "contact_bodies": 24,
+    "phone_bodies": 24,
+    "public_phone_values": 28,
+    "email_bodies": 22,
+    "public_email_values": 23,
+    "body_owned_sites": 9,
+    "address_bodies": 34
+  },
+  "candidates": [
+    {
+      "candidate_id": "gr-glyfada-cemetery-church-roster",
+      "parent": "gr-glyfada",
+      "country": "GR",
+      "category": "current-status-unclear",
+      "status": "held",
+      "reason": "No current first-party page supplies an exact complete cemetery-church roster. A formerly indexed Holy Archangels page for the New Glyfada Cemetery now returns 404, while the Soumena cemetery reference does not name a dedication. No cemetery body is inferred from a stale or unnamed reference.",
+      "sources": [
+        "https://www.imglyfadas.gr/index.php/enories",
+        "https://www.imglyfadas.gr/"
+      ]
+    },
+    {
+      "candidate_id": "gr-glyfada-kosmas-damian-elliniko",
+      "parent": "gr-glyfada",
+      "country": "GR",
+      "category": "stale-current-evidence",
+      "status": "held",
+      "reason": "The former local page for Saints Kosmas and Damian at Elliniko now returns 404 and the body is absent from the current directory. Search and historic evidence do not establish a current independently listed worship body.",
+      "sources": [
+        "https://www.imglyfadas.gr/index.php/enories/item/585",
+        "https://www.imglyfadas.gr/index.php/enories"
+      ]
+    },
+    {
+      "candidate_id": "gr-glyfada-george-kavouri",
+      "parent": "gr-glyfada",
+      "country": "GR",
+      "category": "stale-current-evidence",
+      "status": "held",
+      "reason": "The former local Saint George at Kavouri page now returns 404 and the body is absent from the current directory. It remains held until a current competent Church source states its exact status and dependency.",
+      "sources": [
+        "https://www.imglyfadas.gr/index.php/enories/item/586",
+        "https://www.imglyfadas.gr/index.php/enories"
+      ]
+    },
+    {
+      "candidate_id": "gr-glyfada-transfiguration-unnamed-chapel",
+      "parent": "gr-glyfada",
+      "country": "GR",
+      "category": "unnamed-dependent-space",
+      "status": "held",
+      "reason": "The current Transfiguration parish page refers to a chapel without establishing an exact dedication. No unnamed residual body is created.",
+      "sources": [
+        "https://www.imglyfadas.gr/index.php/enories/item/580-eros-naos-metamorfoseos-sot-ros-lliniko"
+      ]
+    },
+    {
+      "candidate_id": "gr-glyfada-saint-savvas-chapel",
+      "parent": "gr-glyfada",
+      "country": "GR",
+      "category": "current-status-unclear",
+      "status": "held",
+      "reason": "The current Saint Tryphon body site does not presently expose a stable exact Saint Savvas chapel identity in its public directory or page content. Historic or search evidence alone is not used to create a current row.",
+      "sources": [
+        "https://agiostryfon.gr/",
+        "https://www.imglyfadas.gr/index.php/enories/item/577-eros-naos-giou-tryfonos-terpsitheas-glyfadas"
+      ]
+    },
+    {
+      "candidate_id": "gr-glyfada-private-and-dependent-chapel-remainder",
+      "parent": "gr-glyfada",
+      "country": "GR",
+      "category": "stale-or-aggregate-only",
+      "status": "held",
+      "reason": "Older cached lists and search snippets refer to additional private or dependent chapels that are not part of the current local directory and lack a current exact first-party status statement. None is published from the remainder.",
+      "sources": [
+        "https://www.imglyfadas.gr/index.php/enories",
+        "https://www.imglyfadas.gr/index.php/enories?start=17"
+      ]
+    },
+    {
+      "candidate_id": "gr-glyfada-prophet-elijah-former-site",
+      "parent": "gr-glyfada",
+      "country": "GR",
+      "category": "stale-site",
+      "status": "held",
+      "reason": "The former Prophet Elijah parish site fails current TLS access and is not published as a body-owned site. The current Metropolis detail page still establishes the parish and its body-specific telephone and email, which remain published.",
+      "sources": [
+        "https://www.imglyfadas.gr/index.php/enories/item/569-eros-naos-profitou-lio-kormpi-varis"
+      ]
+    },
+    {
+      "candidate_id": "gr-glyfada-historic-and-archaeological-worship-sites",
+      "parent": "gr-glyfada",
+      "country": "GR",
+      "category": "historic-status-unclear",
+      "status": "held",
+      "reason": "The parent history names the old Holy Unmercenaries chapel and the foundations of a paleochristian basilica, but does not establish either as a current exact subordinate worship body. They remain historic evidence only.",
+      "sources": [
+        "https://www.imglyfadas.gr/"
+      ]
+    },
+    {
+      "candidate_id": "gr-glyfada-non-worship-institutions",
+      "parent": "gr-glyfada",
+      "country": "GR",
+      "category": "outside-directory-kind",
+      "status": "held",
+      "reason": "Offices, schools, philanthropic services, youth programs, museums, archives, councils, and other non-worship institutions are not forced into church or monastery rows.",
+      "sources": [
+        "https://www.imglyfadas.gr/",
+        "https://www.ecclesiagreece.gr/ecclesiajoomla/index.php/el/metropoleis/glyphadas"
+      ]
+    },
+    {
+      "candidate_id": "gr-glyfada-search-and-map-leads",
+      "parent": "gr-glyfada",
+      "country": "GR",
+      "category": "affiliation-or-status-unclear",
+      "status": "discovery-only",
+      "reason": "Search engines and maps may identify further buildings or contact routes but cannot establish exact current identity, worship status, body ownership, or canonical parentage. Such leads remain unpublished until a current first-party Church source confirms them.",
+      "sources": [
+        "https://www.imglyfadas.gr/index.php/enories",
+        "https://www.ecclesiagreece.gr/ecclesiajoomla/index.php/el/metropoleis/glyphadas"
+      ]
+    }
+  ],
+  "source_reconciliations": [
+    {
+      "topic": "legal-and-current-parish-roster",
+      "finding": "The December 2019 Church of Greece regulation names exactly 20 parishes and states a total of 20. The current Metropolis directory contains the same 20 parish bodies, and the current Metropolis home page independently states that it has 20 parishes. All 20 exact rows are published once in legal order.",
+      "sources": [
+        "https://ecclesiagreece.gr/greek/press/ekklisia/2019_decembrios.pdf",
+        "https://www.imglyfadas.gr/index.php/enories",
+        "https://www.imglyfadas.gr/"
+      ]
+    },
+    {
+      "topic": "evryali-and-karapanou-name-reconciliation",
+      "finding": "The legal roster identifies the second Dormition parish in Glyfada by Karapanou, while the current local directory identifies it by Evryali and its public email retains Karapanou. These are treated as one parish, not two.",
+      "sources": [
+        "https://ecclesiagreece.gr/greek/press/ekklisia/2019_decembrios.pdf",
+        "https://www.imglyfadas.gr/index.php/enories/item/578-eros-naos-koimiseos-theotokou-e-ryalis-glyfadas"
+      ]
+    },
+    {
+      "topic": "monastic-institutions",
+      "finding": "The current Metropolis home page states that the jurisdiction has two monasteries. The current directory names those two monasteries and also names the distinct Rose of the Unfading Flower and Saint Spyridon Hermitage. The result is two monastery rows and one hermitage row, without treating the hermitage as a third monastery in the stated aggregate.",
+      "sources": [
+        "https://www.imglyfadas.gr/",
+        "https://www.imglyfadas.gr/index.php/enories"
+      ]
+    },
+    {
+      "topic": "additional-bodies-operating-as-parishes",
+      "finding": "The current Metropolis home page says that Saint Sophia Metropolitan Chapel at Cheroma and Saint Panteleimon at Asklipieio Hospital also operate as parishes. They remain chapel-ranked rows and are not added to the regulated total of 20 parishes.",
+      "sources": [
+        "https://www.imglyfadas.gr/",
+        "https://www.imglyfadas.gr/index.php/enories/item/565-ero-mitr-parekklisio-gias-sofias-xeromatos-varis",
+        "https://www.imglyfadas.gr/index.php/enories/item/583-eros-naos-koimiseos-theotokou-voylas"
+      ]
+    },
+    {
+      "topic": "exact-dependent-worship-spaces",
+      "finding": "Nine exact current dependent worship spaces are published from current local or body-owned first-party pages: Saint Stylianos, Saint Nektarios, Saints Paraskevi and Irene, Saint Nikodemos, Saint Catherine, Saint Phanourios, Saint John Chrysostom, Prophet Elijah, and Saints Raphael, Nicholas and Irene. Unnamed and stale dependent spaces remain held.",
+      "sources": [
+        "https://www.imglyfadas.gr/index.php/enories/item/583-eros-naos-koimiseos-theotokou-voylas",
+        "https://www.imglyfadas.gr/index.php/enories",
+        "https://enoriapavloudimitriou.blogspot.com/2026/07/"
+      ]
+    },
+    {
+      "topic": "holy-trinity-elliniko-phone-discrepancy",
+      "finding": "The current Metropolis parish page prints 2109628949 for Holy Trinity at Elliniko, while the current parish-owned contact page prints 2109624989. Both body-specific public values are retained without silently choosing one.",
+      "sources": [
+        "https://www.imglyfadas.gr/index.php/enories/item/581-eros-naos-gias-triados-lliniko",
+        "https://agiatriadaellhnikou.gr/%ce%b5%cf%80%ce%b9%ce%ba%ce%bf%ce%b9%ce%bd%cf%89%ce%bd%ce%af%ce%b1/"
+      ]
+    },
+    {
+      "topic": "body-contact-and-site-boundary",
+      "finding": "Every live public telephone, email, and body-owned site tied by a first-party source to a published body is retained. This includes mobile, fax, pastoral, and potentially clergy-associated routes. Personal names are omitted, and no route is characterized as an office line unless its source does so. Parent Metropolis contacts are not copied onto subordinate bodies.",
+      "sources": [
+        "https://www.imglyfadas.gr/index.php/enories",
+        "https://agiosnikolaosglyfadas.gr/contact/",
+        "https://www.koimisitheotokouvarkizas.gr/%CE%B5%CE%BE%CE%BF%CE%BC%CE%BF%CE%BB%CF%8C%CE%B3%CE%B7%CF%83%CE%B7"
+      ]
+    },
+    {
+      "topic": "body-owned-sites",
+      "finding": "Nine published bodies have live body-owned sites linked or established by the current Metropolis source. The former Prophet Elijah site is not counted because it is not currently reachable through valid TLS. No social profile or parent site is relabeled as a body-owned site.",
+      "sources": [
+        "https://www.imglyfadas.gr/index.php/enories",
+        "https://agiospan.gr/",
+        "https://imang.gr/"
+      ]
+    }
+  ],
+  "official_parent_audit": [
+    {
+      "topic": "canonical-parent",
+      "finding": "The Church of Greece current profile and official regulation establish the Holy Metropolis of Glyfada, Elliniko, Voula, Vouliagmeni and Vari. The current Metropolis site supplies the local exact directory and subordinate detail pages.",
+      "sources": [
+        "https://www.ecclesiagreece.gr/ecclesiajoomla/index.php/el/metropoleis/glyphadas",
+        "https://ecclesiagreece.gr/greek/press/ekklisia/2019_decembrios.pdf",
+        "https://www.imglyfadas.gr/"
+      ]
+    },
+    {
+      "topic": "current-published-coverage",
+      "finding": "The tranche publishes 34 exact current bodies: 20 regulated parish rows, two monasteries, one hermitage, two additional chapels expressly operating as parishes, Saint Stylianos institutional chapel, and eight other exact dependent worship spaces. Every row has a Greek local name, an address or competent locality, and one to three first-party sources.",
+      "sources": [
+        "https://www.imglyfadas.gr/index.php/enories",
+        "https://www.imglyfadas.gr/index.php/enories?start=17",
+        "https://www.imglyfadas.gr/"
+      ]
+    }
+  ],
+  "exclusions": [
+    {
+      "topic": "aggregate-only-and-unnamed-bodies",
+      "finding": "No parish, chapel, cemetery church, monastery, private church, institutional church, or other body is inferred solely from an aggregate, a generic reference, or a missing dedication.",
+      "sources": [
+        "https://www.imglyfadas.gr/",
+        "https://www.imglyfadas.gr/index.php/enories"
+      ]
+    },
+    {
+      "topic": "historic-planned-and-stale-bodies",
+      "finding": "Historic buildings, proposed churches, removed detail pages, dead body sites, and old cached chapel lists remain in the candidate ledger until a current competent source establishes exact present identity and worship status.",
+      "sources": [
+        "https://www.imglyfadas.gr/",
+        "https://www.imglyfadas.gr/index.php/enories"
+      ]
+    },
+    {
+      "topic": "non-worship-institutions",
+      "finding": "Administrative offices, schools, museums, archives, councils, courts, philanthropic services, and other non-worship institutions are not forced into the directory's parish or monastery kinds.",
+      "sources": [
+        "https://www.imglyfadas.gr/",
+        "https://www.ecclesiagreece.gr/ecclesiajoomla/index.php/el/metropoleis/glyphadas"
+      ]
+    },
+    {
+      "topic": "contact-provenance",
+      "finding": "Public body-associated routes are retained even when mobile, pastoral, fax, or potentially clergy-linked. Personal names are omitted, no parent contact is copied to a subordinate body, and no unrelated historical telephone found in narrative text is published as a current body contact.",
+      "sources": [
+        "https://www.imglyfadas.gr/index.php/enories",
+        "https://agiostryfon.gr/",
+        "https://www.koimisitheotokouvarkizas.gr/%CE%B5%CE%BE%CE%BF%CE%BC%CE%BF%CE%BB%CF%8C%CE%B3%CE%B7%CF%83%CE%B7"
+      ]
+    },
+    {
+      "topic": "discovery-only-sources",
+      "finding": "Search engines and maps may aid discovery but do not establish exact identity, current status, body ownership, or canonical parentage. They contribute no published row or contact value without first-party confirmation.",
+      "sources": [
+        "https://www.imglyfadas.gr/index.php/enories",
+        "https://www.ecclesiagreece.gr/ecclesiajoomla/index.php/el/metropoleis/glyphadas"
+      ]
+    }
+  ]
+}
