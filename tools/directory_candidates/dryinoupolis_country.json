@@ -1,0 +1,166 @@
+{
+  "v": 1,
+  "countries": [
+    "GR"
+  ],
+  "checked": "2026-11-15",
+  "method": "Publish the complete 97-body current parish roster, every nonduplicate exact current church or chapel in the official Delvinaki and Konitsa pages, the official pilgrimage church, and the four monasteries not listed as abandoned. Hold aggregate-only, abandoned, duplicate, ambiguous, and map-only leads rather than infer current bodies.",
+  "published_summary": {
+    "ep-dryinoupolis": 128,
+    "total": 128,
+    "parish_kind_rows": 124,
+    "monastery_kind_rows": 4,
+    "contact_bodies": 6,
+    "phone_bodies": 6,
+    "public_phone_values": 6,
+    "email_bodies": 0,
+    "public_email_values": 0,
+    "body_owned_sites": 0,
+    "address_bodies": 128
+  },
+  "candidates": [
+    {
+      "candidate_id": "gr-ep-dryinoupolis-unnamed-country-chapels",
+      "parent": "ep-dryinoupolis",
+      "country": "GR",
+      "category": "aggregate-only",
+      "status": "held",
+      "reason": "The official church overview reports 631 country chapels, but the official exact pages name only the current Delvinaki and Konitsa subsets. No additional body is inferred from the aggregate.",
+      "sources": [
+        "https://www.imdpk.gr/enories/mitropolitikoi-ieroi-naoi-2",
+        "https://www.imdpk.gr/enories/naoi-kai-eksoklisia-sto-delvinaki-4",
+        "https://www.imdpk.gr/enories/naoi-kai-eksoklisia-stin-konitsa-5"
+      ]
+    },
+    {
+      "candidate_id": "gr-ep-dryinoupolis-unnamed-cemetery-churches",
+      "parent": "ep-dryinoupolis",
+      "country": "GR",
+      "category": "aggregate-only",
+      "status": "held",
+      "reason": "The official overview reports 58 cemetery churches without one complete exact named roster. No cemetery church is manufactured from the aggregate.",
+      "sources": [
+        "https://www.imdpk.gr/enories/mitropolitikoi-ieroi-naoi-2"
+      ]
+    },
+    {
+      "candidate_id": "gr-ep-dryinoupolis-abandoned-monasteries",
+      "parent": "ep-dryinoupolis",
+      "country": "GR",
+      "category": "historic-not-current",
+      "status": "held",
+      "reason": "The official monastery page separately identifies 23 abandoned monasteries. Twenty-two overlap its 26 numbered profiles and one additional exact historic body is named only in the abandoned list. They remain held as historic bodies rather than presented as current monasteries.",
+      "sources": [
+        "https://www.imdpk.gr/enories/ieres-mones-3"
+      ]
+    },
+    {
+      "candidate_id": "gr-ep-dryinoupolis-delvinaki-saint-phanourios-pair",
+      "parent": "ep-dryinoupolis",
+      "country": "GR",
+      "category": "indistinguishable-repeat",
+      "status": "held",
+      "reason": "The Delvinaki page lists two Saint Phanourios country chapels with identical names and no displayed location or other stable differentiator. Neither ambiguous row is published until a competent source distinguishes them.",
+      "sources": [
+        "https://www.imdpk.gr/enories/naoi-kai-eksoklisia-sto-delvinaki-4"
+      ]
+    },
+    {
+      "candidate_id": "gr-ep-dryinoupolis-search-map-leads",
+      "parent": "ep-dryinoupolis",
+      "country": "GR",
+      "category": "affiliation-unclear",
+      "status": "discovery-only",
+      "reason": "Search and map leads remain unpublished unless a competent first-party Church source establishes the exact body and its current canonical parent.",
+      "sources": [
+        "https://www.imdpk.gr/enories/enories-1"
+      ]
+    }
+  ],
+  "source_reconciliations": [
+    {
+      "subject": "Complete current parish roster",
+      "decision": "The four official roster pages number exactly 97 current parishes. All 97 are published in source order, including the Delvinaki cathedral and the Ano Konitsa metropolitan church.",
+      "sources": [
+        "https://www.imdpk.gr/enories/enories-1",
+        "https://www.imdpk.gr/enories/enories-1/page:2",
+        "https://www.imdpk.gr/enories/enories-1/page:4"
+      ]
+    },
+    {
+      "subject": "Delvinaki and Konitsa exact bodies",
+      "decision": "The Delvinaki page contributes 18 nonduplicate distinguishable churches and country chapels after the cathedral duplicate and the two indistinguishable Saint Phanourios entries are held. The Konitsa page contributes eight nonduplicate bodies after the two current parish duplicates are removed.",
+      "sources": [
+        "https://www.imdpk.gr/enories/naoi-kai-eksoklisia-sto-delvinaki-4",
+        "https://www.imdpk.gr/enories/naoi-kai-eksoklisia-stin-konitsa-5"
+      ]
+    },
+    {
+      "subject": "Current monastery boundary",
+      "decision": "The numbered monastery profiles are reconciled against the page's separate abandoned list. Four exact profiles are not identified as abandoned and are published. The historic abandoned bodies remain in this ledger rather than appearing as current monasteries.",
+      "sources": [
+        "https://www.imdpk.gr/enories/ieres-mones-3"
+      ]
+    },
+    {
+      "subject": "Saint Kosmas pilgrimage church",
+      "decision": "The official church overview calls Saint Kosmas the Aetolian in Konitsa a pilgrimage church, and its dedicated first-party page confirms the exact body and fixed institutional telephone number. It is published once.",
+      "sources": [
+        "https://www.imdpk.gr/enories/mitropolitikoi-ieroi-naoi-2",
+        "https://www.imdpk.gr/enories/ieros-naos-agiou-kosma-aitolou-6"
+      ]
+    },
+    {
+      "subject": "Body contact boundary",
+      "decision": "Only fixed telephone numbers explicitly tied to the cathedral, metropolitan church, pilgrimage church, or current monastery are carried. Clergy and mobile telephone numbers are excluded. The failed Abel monastery website is not carried because the same official page identifies that monastery as abandoned.",
+      "sources": [
+        "https://www.imdpk.gr/enories/mitropolitikoi-ieroi-naoi-2",
+        "https://www.imdpk.gr/enories/ieres-mones-3",
+        "https://www.imdpk.gr/enories/ieros-naos-agiou-kosma-aitolou-6"
+      ]
+    }
+  ],
+  "official_parent_audit": [
+    {
+      "parent": "ep-dryinoupolis",
+      "result": "128 exact current bodies published: 97 parishes, 26 additional churches and chapels, one pilgrimage church, and four current monasteries.",
+      "roster_status": "complete displayed parish roster plus exact current first-party supplements",
+      "sources": [
+        "https://www.imdpk.gr/enories/enories-1",
+        "https://www.imdpk.gr/enories/mitropolitikoi-ieroi-naoi-2",
+        "https://www.imdpk.gr/enories/ieres-mones-3"
+      ]
+    }
+  ],
+  "exclusions": [
+    {
+      "category": "aggregate-only",
+      "decision": "No country chapel, cemetery church, monastery, or other body is inferred solely from an aggregate count.",
+      "sources": [
+        "https://www.imdpk.gr/enories/mitropolitikoi-ieroi-naoi-2"
+      ]
+    },
+    {
+      "category": "historic-not-current",
+      "decision": "Bodies explicitly listed as abandoned are held as historic evidence and are not represented as current monasteries.",
+      "sources": [
+        "https://www.imdpk.gr/enories/ieres-mones-3"
+      ]
+    },
+    {
+      "category": "personal-contact",
+      "decision": "Clergy names, clergy telephone numbers, and mobile numbers are excluded from body contact fields.",
+      "sources": [
+        "https://www.imdpk.gr/enories/mitropolitikoi-ieroi-naoi-2",
+        "https://www.imdpk.gr/enories/ieres-mones-3"
+      ]
+    },
+    {
+      "category": "discovery-only",
+      "decision": "Search and map leads remain unpublished until a competent first-party Church source establishes identity and canonical parentage.",
+      "sources": [
+        "https://www.imdpk.gr/enories/enories-1"
+      ]
+    }
+  ]
+}
