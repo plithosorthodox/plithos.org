@@ -10,6 +10,7 @@ public API.
 import argparse
 import sys
 
+import directory_estonia
 import directory_finland
 import directory_direct
 import directory_japan
@@ -18,6 +19,7 @@ import directory_lithuania
 
 
 MODULES = (
+    directory_estonia,
     directory_finland,
     directory_direct,
     directory_japan,
