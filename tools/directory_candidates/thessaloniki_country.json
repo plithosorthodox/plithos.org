@@ -1,0 +1,87 @@
+{
+  "v": 1,
+  "countries": [
+    "GR"
+  ],
+  "parent": "ep-thessaloniki",
+  "checked": "2026-11-15",
+  "method": "Only current competent first-party Church sources control publication. The current official metropolis roster names 46 principal churches, four monasteries or hesychasteria, and 39 chapels or other worship bodies. All exact rendered names are published. Search and map results remain leads only.",
+  "published_summary": {
+    "principal_churches": 46,
+    "monasteries": 2,
+    "hesychasteria": 2,
+    "named_chapels_and_other_worship_bodies": 39,
+    "total": 89,
+    "address_bodies": 87,
+    "contact_bodies": 84,
+    "phone_bodies": 83,
+    "email_bodies": 44,
+    "body_owned_sites": 17
+  },
+  "candidates": [
+    {
+      "candidate_id": "gr-thessaloniki-aggregate-roster-reconciliation",
+      "parent": "ep-thessaloniki",
+      "country": "GR",
+      "name": "Aggregate and named roster reconciliation for the Holy Metropolis of Thessaloniki",
+      "status": "named current roster published; aggregate discrepancy held",
+      "reason": "The Ecumenical Patriarchate aggregate reports 94 churches and chapels: 42 parish churches, four pilgrimage churches, and 48 subordinate worship bodies, including ten monastic churches or chapels. The current metropolis pages render 46 principal churches, four monastic bodies, and 39 named subordinate worship bodies. The rendered names are published without manufacturing the unnamed difference or altering the current source categories.",
+      "sources": [
+        "https://imth.gr/about/",
+        "https://imth.gr/παρεκκλήσια-ιεράς-μητροπόλεως/",
+        "https://ec-patr.org/entities/iera-mitropoli-thessalonikis/"
+      ]
+    },
+    {
+      "candidate_id": "gr-thessaloniki-monastic-worship-bodies",
+      "parent": "ep-thessaloniki",
+      "country": "GR",
+      "name": "Monastic churches and chapels not individually named by the current roster",
+      "status": "hold for exact identities from a competent current roster",
+      "reason": "The Ecumenical Patriarchate aggregate reports ten monastic churches or chapels, but the current metropolis chapel page does not enumerate that category. Narrative references inside profiles are not promoted into separate bodies without a current exact roster identity.",
+      "sources": [
+        "https://imth.gr/παρεκκλήσια-ιεράς-μητροπόλεως/",
+        "https://ec-patr.org/entities/iera-mitropoli-thessalonikis/"
+      ]
+    },
+    {
+      "candidate_id": "gr-thessaloniki-search-and-map-leads",
+      "parent": "ep-thessaloniki",
+      "country": "GR",
+      "name": "Search and map discoveries not tied to the current official roster",
+      "status": "discovery-only",
+      "reason": "Search engines and maps can identify possible worship bodies, but no body is published until the competent current Church source confirms its exact identity and canonical parentage.",
+      "sources": [
+        "https://imth.gr/about/",
+        "https://imth.gr/παρεκκλήσια-ιεράς-μητροπόλεως/"
+      ]
+    }
+  ],
+  "source_reconciliations": [
+    {
+      "scope": "Current rendered roster",
+      "decision": "Publish all 46 principal churches, four monastic bodies, and 39 subordinate worship bodies named by the current official metropolis pages. Preserve the source category and source spelling for every body.",
+      "sources": [
+        "https://imth.gr/about/",
+        "https://imth.gr/παρεκκλήσια-ιεράς-μητροπόλεως/"
+      ]
+    },
+    {
+      "scope": "Aggregate discrepancy",
+      "decision": "Hold the unnamed difference between the Ecumenical Patriarchate aggregate and the current rendered metropolis roster. Do not infer missing identities or recategorize named bodies to make the totals agree.",
+      "sources": [
+        "https://imth.gr/παρεκκλήσια-ιεράς-μητροπόλεως/",
+        "https://ec-patr.org/entities/iera-mitropoli-thessalonikis/"
+      ]
+    },
+    {
+      "scope": "Contacts and body-owned sites",
+      "decision": "Publish only institutional contact data shown by a current official Church source. Seventeen body domains were retained after a current HTTPS response check. A domain with an invalid TLS hostname, a conflicting site described as under reconstruction, and social profile links were not treated as body-owned sites. No personal clergy contact was added.",
+      "sources": [
+        "https://imth.gr/about/",
+        "https://imth.gr/παρεκκλήσια-ιεράς-μητροπόλεως/",
+        "https://ec-patr.org/entities/iera-mitropoli-thessalonikis/"
+      ]
+    }
+  ]
+}
