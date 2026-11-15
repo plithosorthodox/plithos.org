@@ -1,0 +1,124 @@
+{
+  "v": 1,
+  "country": "RW",
+  "checked": "2026-11-15",
+  "method": "Current official patriarchal, diocesan, exarchate, and mission records were used to establish named Eastern Orthodox worship bodies in Rwanda. Search engines and maps were used only to discover competent first-party sources. The Alexandrian and Moscow structures are preserved without adjudication. Aggregate counts, unnamed communities, occasional services, and uncertain identities remain held.",
+  "published_summary": {
+    "ax-kigali": 1,
+    "ru-south-africa": 4,
+    "total": 5
+  },
+  "candidates": [
+    {
+      "candidate_id": "rw-ax-two-unnamed-churches",
+      "parent": "ax-kigali",
+      "country": "RW",
+      "name": "Two additional current Alexandrian churches in Rwanda",
+      "status": "hold until each church receives an exact current first-party identity",
+      "reason": "A 2024 report by the bishop then administering Rwanda states that three churches were operating. The competent Patriarchate source names the Peter and Paul church in Rwamagana, which is published. The other two are not named in the current first-party material reviewed, so no identities are inferred.",
+      "sources": [
+        "https://orthodoxmission.org.gr/2024/06/plea-for-rwanda/",
+        "https://www.patriarchateofalexandria.com/oloklirosi-tis-poimantikis-periodeias-tis-a-th-m-stin-royanta/"
+      ]
+    },
+    {
+      "candidate_id": "rw-ax-thirteen-unnamed-communities",
+      "parent": "ax-kigali",
+      "country": "RW",
+      "name": "Thirteen Alexandrian parish communities without church buildings",
+      "status": "hold until exact stable identities and locations are published",
+      "reason": "The 2024 episcopal report records thirteen parish communities but does not name or locate each one. The aggregate is retained without converting it into invented rows.",
+      "sources": [
+        "https://orthodoxmission.org.gr/2024/06/plea-for-rwanda/"
+      ]
+    },
+    {
+      "candidate_id": "rw-ru-kigali-unnamed-community",
+      "parent": "ru-south-africa",
+      "country": "RW",
+      "name": "Unnamed Russian Orthodox community in Kigali",
+      "status": "hold until a stable dedication or official body name is published",
+      "reason": "An official 2023 mission report identifies a Kigali community led by a reader. Current 2026 reporting confirms Russian Orthodox clergy in Rwanda but does not publish a stable name or dedication for the Kigali community.",
+      "sources": [
+        "https://exarchate-africa.ru/novosti/prodolzhaetsya-poezdka-missionerskoj-gruppy-pod-rukovodstvom-iereya-georgiya-maksimova/",
+        "https://exarchate-africa.ru/novosti/ierej-georgij-maksimov-posetil-ruandu/"
+      ]
+    },
+    {
+      "candidate_id": "rw-ru-kigali-embassy-services",
+      "parent": "ru-south-africa",
+      "country": "RW",
+      "name": "Russian Embassy worship in Kigali",
+      "status": "hold until recurring worship or a stable chapel identity is established",
+      "reason": "An official report records a Paschal Divine Liturgy at the Russian Embassy in 2024. It does not establish an embassy chapel, parish, or recurring worship site, so a permanent directory row is not inferred.",
+      "sources": [
+        "https://exarchate-africa.ru/novosti/v-stolicze-ruandy-sostoyalos-pashalnoe-bogosluzhenie/"
+      ]
+    }
+  ],
+  "source_reconciliations": [
+    {
+      "candidate_id": "rw-ru-nyamata-spelling",
+      "country": "RW",
+      "result": "Current official reporting spells the Saint John Chrysostom parish locality as Nyamama, while multiple earlier official records and the real locality use Nyamata. The published row uses Nyamata and preserves both official sources rather than creating two bodies.",
+      "sources": [
+        "https://exarchate-africa.ru/novosti/v-ruande-k-czerkvi-hristovoj-prisoedinilis-eshhe-vosem-chelovek/",
+        "https://exarchate-africa.ru/novosti/na-prihode-v-nyamate-krestili-21-zhitelya-ruandy/"
+      ]
+    },
+    {
+      "candidate_id": "rw-ax-current-count-boundary",
+      "country": "RW",
+      "result": "The Alexandrian row is supported by the Patriarchate's own church inauguration and current diocesan administration records. The broader three-church and thirteen-community figures are retained only as reconciliation evidence because the report does not identify every body.",
+      "sources": [
+        "https://www.patriarchateofalexandria.com/entetalmenos-patriarchikos-epitroposeis-tin-artisystaton-ieran-episkopin-royantas/?print=print",
+        "https://www.patriarchateofalexandria.com/oloklirosi-tis-poimantikis-periodeias-tis-a-th-m-stin-royanta/",
+        "https://orthodoxmission.org.gr/2024/06/plea-for-rwanda/"
+      ]
+    }
+  ],
+  "official_jurisdiction_audit": [
+    {
+      "jurisdiction": "Patriarchate of Alexandria",
+      "result": "The current diocese and the officially inaugurated Church of the Chief Apostles Peter and Paul in Rwamagana are established by first-party Patriarchate sources. That church is published. The two other churches and thirteen communities reported without exact identities remain held.",
+      "sources": [
+        "https://www.patriarchateofalexandria.com/archdioceses/iera-episkopi-kigkali-kai-royantas/?lang=en",
+        "https://www.patriarchateofalexandria.com/entetalmenos-patriarchikos-epitroposeis-tin-artisystaton-ieran-episkopin-royantas/?print=print",
+        "https://www.patriarchateofalexandria.com/oloklirosi-tis-poimantikis-periodeias-tis-a-th-m-stin-royanta/"
+      ]
+    },
+    {
+      "jurisdiction": "Moscow Patriarchate, Patriarchal Exarchate of Africa",
+      "result": "The current South African Diocese roster establishes a Rwanda deanery, and current official reporting confirms active Rwandan clergy. Four parishes with exact official names are published. The unnamed Kigali community and an occasional embassy service remain held.",
+      "sources": [
+        "https://exarchate-africa.ru/dioceses_cat/yuzhno-afrikanskaya-eparhiya/",
+        "https://exarchate-africa.ru/novosti/ierej-georgij-maksimov-posetil-ruandu/",
+        "https://exarchate-africa.ru/novosti/prodolzhaetsya-poezdka-missionerskoj-gruppy-pod-rukovodstvom-iereya-georgiya-maksimova/"
+      ]
+    },
+    {
+      "jurisdiction": "Romanian Patriarchate",
+      "result": "Romanian support helped build three churches used by the Alexandrian mission. No separate current Romanian jurisdictional body in Rwanda is established by the official material reviewed, so the buildings are not duplicated under Romania.",
+      "sources": [
+        "https://orthodoxmission.org.gr/2024/06/plea-for-rwanda/"
+      ]
+    },
+    {
+      "jurisdiction": "Ecumenical Patriarchate, Antiochian Patriarchate, Jerusalem Patriarchate, Serbian Patriarchate, Georgian Patriarchate, OCA, and ROCOR",
+      "result": "Their current official jurisdictional or diaspora directories were checked and did not name a Rwanda body. This is a bounded directory result, not a general country-level absence claim.",
+      "sources": [
+        "https://ec-patr.org/en/ecumenical-patriarchate/directory/",
+        "https://www.antiochpatriarchate.org/en/category/dioceses/6/",
+        "https://directory.synod.com/listings/"
+      ]
+    },
+    {
+      "jurisdiction": "Other canonical Local Churches and diaspora structures",
+      "result": "No additional Rwanda row is published without an exact current first-party jurisdictional citation. This records incomplete verification for any structure not individually listed and makes no general absence claim.",
+      "sources": [
+        "https://www.patriarchateofalexandria.com/archdioceses/?lang=en",
+        "https://exarchate-africa.ru/dioceses_cat/yuzhno-afrikanskaya-eparhiya/"
+      ]
+    }
+  ]
+}
