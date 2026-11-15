@@ -1,0 +1,189 @@
+{
+  "v": 1,
+  "countries": [
+    "HU"
+  ],
+  "checked": "2026-11-15",
+  "method": "Current official patriarchal, diocesan, parish, monastery, service, and government sources were checked. Search and map results were used only for discovery. Overlapping canonical jurisdictions are preserved as separate structures. A government registration is corroborative and is not treated as a complete list of canonical Orthodox bodies.",
+  "published_summary": {
+    "bg-western-central-europe": 3,
+    "ep-austria": 11,
+    "ro-hungary": 22,
+    "ru-budapest-and-hungary": 11,
+    "sr-buda": 60,
+    "ukraine-uoc": 2,
+    "total": 109
+  },
+  "candidates": [
+    {
+      "candidate_id": "hu-ro-official-count-gap",
+      "parent": "ro-hungary",
+      "country": "HU",
+      "name": "Nineteen Romanian Orthodox bodies not yet identifiable by current name and location",
+      "status": "hold for an official named roster",
+      "reason": "The Romanian Patriarchate's current aggregate reports 41 Hungarian communities. Its published breakdown is 21 parishes, 16 filials, and 4 monastic establishments. The current named roster and other official sources establish 20 parish or chapel bodies and 2 monastic bodies sufficiently for publication. One parish, 16 filials, and 2 monastic establishments remain unresolved by current name and location. No placeholder rows are published.",
+      "sources": [
+        "https://next.basilica.ro/romania-cei-mai-multi-cetateni-stabiliti-ue/",
+        "https://basilica.ro/factbox-ortodoxia-romaneasca-in-ungaria/",
+        "https://bibliotecaromaneasca-hu.ro/biserici-romanesti-in-ungaria/",
+        "https://patriarhia.ro/en/dioceses/romanian-orthodox-diocese-of-hungary/"
+      ]
+    },
+    {
+      "candidate_id": "hu-ge-budapest-proposed-building",
+      "parent": "georgia",
+      "country": "HU",
+      "name": "Prospective Georgian Orthodox parish in Budapest",
+      "status": "hold for current Georgian Patriarchate confirmation",
+      "reason": "A Georgian government agency reported in 2024 that it raised the transfer of a Budapest building for the Georgian diaspora and a Georgian parish. The report describes a request, not an established parish, mission, chapel, monastery, or worship schedule. No current official Georgian Patriarchate body in Hungary was established by the sources reviewed.",
+      "sources": [
+        "https://religion.gov.ge/en/siaxleebi/zaza-vasaymaze-ungretis-premier-ministris-aparatis-saxelmwifo-mdivans-sexvda",
+        "https://patriarchate.ge/sinodi/members/all"
+      ]
+    }
+  ],
+  "source_reconciliations": [
+    {
+      "subject": "Dormition church at Petofi ter in Budapest",
+      "decision": "The Moscow Hungarian Diocese lists its Dormition cathedral and Holy Trinity parish at Petofi ter 2. The Ecumenical Patriarchate's current parish map separately lists the Dormition church at the same address. These are preserved as separate jurisdiction claims. The directory does not decide the property dispute.",
+      "sources": [
+        "https://magyarortodox.com/templomaink/",
+        "https://wien.metropolisvonaustria.at/de/metropolis-de/pfarreien-de/landkarte-mit-den-pfarreien",
+        "https://ec-patr.org/entities/iera-mitropoli-aystrias/"
+      ]
+    },
+    {
+      "subject": "Ecumenical Patriarchate bodies and the Great Plain parish group",
+      "decision": "The current official parish map establishes ten Hungarian church bodies after the non-church Phanarion Dialogue Center is excluded. The Hungarian Exarchate separately lists the Great Plain Greek Orthodox Parish Group above its Kecskemet, Szentes, and Karcag locations. The group and the three named churches are preserved as distinct levels.",
+      "sources": [
+        "https://patriarchatus.hu/szervezeti-felepitesunk-elerhetosegeink/",
+        "https://wien.metropolisvonaustria.at/de/metropolis-de/pfarreien-de/landkarte-mit-den-pfarreien",
+        "https://patriarchatus.hu/exarchatus/meghivo/"
+      ]
+    },
+    {
+      "subject": "Serbian served parishes without a listed standing church",
+      "decision": "The Eparchy of Buda expressly calls sixteen additional Mohacs deanery communities parishes served by its priests. They are published as parish bodies without an invented dedication, building, or address. Historical Serbian toponyms are paired with the current Hungarian place names Gorcsonydoboka, Egyhazaskozar, Hidas, and Hercegtottos.",
+      "sources": [
+        "https://www.serbdiocese.hu/eparhija/parohije/arhijerejsko-namesnistvo-mohacko/"
+      ]
+    },
+    {
+      "subject": "Orthodox bodies in the same Hungarian city",
+      "decision": "Serbian, Romanian, Bulgarian, Ecumenical Patriarchate, Moscow Patriarchate, and UOC bodies in the same city are not merged. A shared city, language, clergy contact, or street address does not make separately documented canonical bodies duplicates.",
+      "sources": [
+        "https://www.serbdiocese.hu/eparhija/parohije/arhijerejsko-namesnishtvo-segedinsko/",
+        "https://bibliotecaromaneasca-hu.ro/biserici-romanesti-in-ungaria/",
+        "https://bg-patriarshia.bg/west-eu-diocese-temples",
+        "https://wien.metropolisvonaustria.at/de/metropolis-de/pfarreien-de/landkarte-mit-den-pfarreien",
+        "https://magyarortodox.com/templomaink/",
+        "https://uoc-news.church/2026/08/21/ijerarxi-upc-vidvidali-ukrajinski-parafiji-u-shveciji-norvegiji-ta-ugorshhini/"
+      ]
+    },
+    {
+      "subject": "Hungarian legal recognition",
+      "decision": "Hungarian law independently corroborates the Serbian Eparchy of Buda, the Ecumenical Patriarchate Exarchate, the Bulgarian organization, the Romanian Diocese, and the Moscow Hungarian Diocese. The legal list is not treated as canonically exhaustive and does not exclude the separately documented UOC bodies.",
+      "source": "https://njt.jog.gov.hu/jogszabaly/en/2011-206-00-00"
+    }
+  ],
+  "official_jurisdiction_audit": [
+    {
+      "jurisdiction": "Serbian Orthodox Church",
+      "result": "The three current Eparchy of Buda deanery pages establish 58 churches, chapels, and parish bodies. The current monastery pages establish 2 monasteries. All 60 are included.",
+      "sources": [
+        "https://www.serbdiocese.hu/eparhija/parohije/arhijerejsko-namesnishtvo-budimsko/",
+        "https://www.serbdiocese.hu/eparhija/parohije/arhijerejsko-namesnistvo-mohacko/",
+        "https://www.serbdiocese.hu/eparhija/parohije/arhijerejsko-namesnishtvo-segedinsko/",
+        "https://www.serbdiocese.hu/eparhija/manastiri/manastir-srpski-kovin/",
+        "https://www.serbdiocese.hu/eparhija/manastiri/manastir-grabovac/"
+      ]
+    },
+    {
+      "jurisdiction": "Russian Orthodox Church, Hungarian Diocese",
+      "result": "The current official Hungarian Diocese directory lists 11 Hungarian churches and parish bodies. All 11 are included.",
+      "sources": [
+        "https://magyarortodox.hu/?page_id=36",
+        "https://magyarortodox.com/templomaink/"
+      ]
+    },
+    {
+      "jurisdiction": "Ecumenical Patriarchate, Exarchate of Hungary",
+      "result": "Ten current church bodies and the separately registered Great Plain parish group are included. The Phanarion Dialogue Center is an institution rather than a church body and is not included.",
+      "sources": [
+        "https://patriarchatus.hu/szervezeti-felepitesunk-elerhetosegeink/",
+        "https://wien.metropolisvonaustria.at/de/metropolis-de/pfarreien-de/landkarte-mit-den-pfarreien",
+        "https://patriarchatus.hu/category/szolgalattevok/"
+      ]
+    },
+    {
+      "jurisdiction": "Bulgarian Orthodox Church",
+      "result": "The current official Western and Central European diocesan temple directory establishes the Sts Cyril and Methodius cathedral and Holy Martyr Tryphon chapel in Budapest and the St John of Rila chapel in Pecs. All 3 are included.",
+      "source": "https://bg-patriarshia.bg/west-eu-diocese-temples"
+    },
+    {
+      "jurisdiction": "Romanian Orthodox Church",
+      "result": "Twenty named parish or chapel bodies and two named monastic bodies are included. The official total is 41 communities. Nineteen unnamed bodies remain in the candidate ledger rather than being invented.",
+      "sources": [
+        "https://patriarhia.ro/en/dioceses/romanian-orthodox-diocese-of-hungary/",
+        "https://next.basilica.ro/romania-cei-mai-multi-cetateni-stabiliti-ue/",
+        "https://bibliotecaromaneasca-hu.ro/biserici-romanesti-in-ungaria/"
+      ]
+    },
+    {
+      "jurisdiction": "Ukrainian Orthodox Church",
+      "result": "The UOC's current official sources establish the St Stephen I parish in Budapest and a missionary center in Rajka. Both are included under the UOC rather than being folded into a Russian body.",
+      "sources": [
+        "https://uoc-news.church/2026/08/21/ijerarxi-upc-vidvidali-ukrajinski-parafiji-u-shveciji-norvegiji-ta-ugorshhini/",
+        "https://vzcz.church.ua/2026/09/19/jepiskop-veniamin-vidvidav-parafiji-upc-v-avstriji-ta-ugorshhini/",
+        "https://vzcz.church.ua/2026/02/09/pro-sluzhinnya-zaxidnojevropejskogo-vikariatstva-ukrajinskoji-pravoslavnoji-cerkvi/"
+      ]
+    },
+    {
+      "jurisdiction": "Orthodox Church of Ukraine",
+      "result": "No current official OCU parish, mission, chapel, monastery, or recurring worship site in Hungary was established. The Ukrainian-speaking Annunciation community in Budapest is currently listed by the Ecumenical Patriarchate and is not duplicated as an OCU body.",
+      "sources": [
+        "https://www.pomisna.info/uk/tserkva/synodalni-ustanovy/",
+        "https://wien.metropolisvonaustria.at/de/metropolis-de/pfarreien-de/landkarte-mit-den-pfarreien"
+      ]
+    },
+    {
+      "jurisdiction": "Russian Orthodox Church Outside Russia and Russian Tradition",
+      "result": "No separate current Hungarian parish, mission, monastery, or recurring worship site was found in the current official directories checked. Moscow Hungarian Diocese bodies are not duplicated under either structure.",
+      "sources": [
+        "https://rocor.de/de/gemeinden-liste",
+        "https://orthodox-europe.org/wp-content/uploads/2025/12/2026-Diocese-of-GB-and-W-Europe-Directory-PDF.pdf",
+        "https://archeveche.eu/lieux/"
+      ]
+    },
+    {
+      "jurisdiction": "Macedonian Orthodox Church - Ohrid Archbishopric",
+      "result": "The current official European diocesan country roster contains no Hungarian church community.",
+      "sources": [
+        "https://mpee.mk/",
+        "https://mpee.mk/category/za-eparxijata"
+      ]
+    },
+    {
+      "jurisdiction": "Georgian Orthodox Church",
+      "result": "No current Georgian Patriarchate body in Hungary was established. A 2024 request for a Budapest building remains a prospective candidate.",
+      "sources": [
+        "https://religion.gov.ge/en/siaxleebi/zaza-vasaymaze-ungretis-premier-ministris-aparatis-saxelmwifo-mdivans-sexvda",
+        "https://patriarchate.ge/sinodi/members/all"
+      ]
+    },
+    {
+      "jurisdiction": "Antiochian Orthodox Church",
+      "result": "No separate current Hungarian body was found in the official Germany and Central Europe directory checked.",
+      "source": "https://rum-orthodox.de/gemeinden/"
+    },
+    {
+      "jurisdiction": "Other canonical Eastern Orthodox Churches and diaspora structures",
+      "result": "No additional current Hungarian body was established in the official structures checked. This includes Alexandria, Jerusalem, Cyprus, Greece, Poland, Albania, the Czech Lands and Slovakia, Finland, Estonia, Japan, the OCA, and Sinai.",
+      "sources": [
+        "https://ec-patr.org/en/entities/",
+        "https://www.patriarchateofalexandria.com/archdioceses/?lang=en",
+        "https://www.oca.org/parishes"
+      ]
+    }
+  ]
+}
