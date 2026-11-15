@@ -1,0 +1,201 @@
+{
+  "v": 1,
+  "countries": [
+    "HR"
+  ],
+  "checked": "2026-11-15",
+  "method": "Current official patriarchal, diocesan, parish, monastery, service-schedule, and government sources were checked. Search and map results were used only for discovery. Overlapping canonical jurisdictions are preserved as separate structures. Historical, destroyed, or currently unverified sites remain here rather than being published as current rows.",
+  "published_summary": {
+    "bg-western-central-europe": 1,
+    "mk-europe": 3,
+    "romania": 1,
+    "sr-dalmatia": 25,
+    "sr-gornji-karlovac": 26,
+    "sr-osijek-baranja": 66,
+    "sr-zagreb-ljubljana": 18,
+    "total": 140
+  },
+  "candidates": [
+    {
+      "candidate_id": "hr-sr-slavonia-current-inventory",
+      "parent": "sr-slavonia",
+      "country": "HR",
+      "name": "Current parish, church, chapel, and monastery inventory of the Serbian Orthodox Diocese of Slavonia",
+      "status": "hold for a current competent official roster",
+      "reason": "The Serbian Patriarchate establishes the Diocese of Slavonia as a current canonical eparchy. The eparchy website linked by the Patriarchate now redirects to an unrelated gambling site and cannot be used as a church source. Current Patriarchate news confirms active worship at Holy Trinity Cathedral and the Annunciation Chapel in Pakrac, but news reports do not provide a complete current diocesan roster. Historical directories and archival snapshots cannot establish which parishes, churches, chapels, monasteries, or recurring worship sites are current. No Slavonia child rows are published until a current competent roster is available.",
+      "sources": [
+        "https://www.spc.rs/sr/82.eparhije-srpske-pravoslavne-crkve.html",
+        "https://spc.rs/sr/news/15812.arhijerejska-liturgija-u-pakracu.html",
+        "https://infobiz.fina.hr/neprofitni/srpska-pravoslavna-crkva-u-hrvatskoj-eparhija-slavonska-eparhijski-upravni-odbo/OIB-22783498379"
+      ]
+    },
+    {
+      "candidate_id": "hr-mk-unnamed-fourth-community",
+      "parent": "mk-europe",
+      "country": "HR",
+      "name": "Fourth Macedonian Orthodox church community in Croatia",
+      "status": "hold for official identification",
+      "reason": "The European Diocese's current country summary reports four church communities in Croatia. Its current South European deanery directory names only three: Saint Zlata of Meglen in Zagreb, Saint Joachim of Osogovo in Pula, and Saints Constantine and Helen in Rijeka. Those three are published. A fourth row cannot be named, located, or deduplicated from the current official material reviewed, so no identity is inferred from the aggregate count.",
+      "sources": [
+        "https://mpee.mk/category/za-eparxijata",
+        "https://mpee.mk/category/juzno-evropsko-namesnistvo-2"
+      ]
+    },
+    {
+      "candidate_id": "hr-sr-ob-majar-nativity-theotokos",
+      "parent": "hr-sr-ob-dopsin",
+      "country": "HR",
+      "name": "Nativity of the Theotokos Serbian Orthodox Church in Majar",
+      "local": "Храм Рођења Пресвете Богородице у Мајару",
+      "status": "hold for current physical and worship status",
+      "reason": "The current Osijek-Polje and Baranja diocesan directory says the church was damaged in the 1964 earthquake and devastated, but does not say that it was restored or remains in worship. The same directory clearly identifies the parish's other current subordinate churches and chapel. Majar is retained as a candidate rather than being represented as a current worship site.",
+      "sources": [
+        "https://eparhijaosecka.hr/?A=G&G=66"
+      ]
+    },
+    {
+      "candidate_id": "hr-sr-gornji-karlovac-historical-sites",
+      "parent": "sr-gornji-karlovac",
+      "country": "HR",
+      "name": "Historical and destroyed subordinate church sites in the Diocese of Gornji Karlovac",
+      "status": "hold outside the current directory",
+      "reason": "The two official deanery histories document a large number of former parish churches, filial churches, chapels, ruins, foundations, crosses, removed buildings, and destroyed sites together with some surviving buildings. The current address book separately establishes twenty-two current parish administrations and the official monastery pages establish four current monasteries, all of which are published. Sites described only as destroyed, removed, reduced to foundations or walls, or otherwise lacking current worship status are not presented as current bodies.",
+      "sources": [
+        "https://www.eparhija-gornjokarlovacka.hr/архијерејско-наместништво-карловачко/",
+        "https://www.eparhija-gornjokarlovacka.hr/архијерејско-наместништво-плашчанско/",
+        "https://www.eparhija-gornjokarlovacka.hr/adresar/"
+      ]
+    },
+    {
+      "candidate_id": "hr-sr-dalmatia-historical-sites",
+      "parent": "sr-dalmatia",
+      "country": "HR",
+      "name": "Historical, destroyed, and non-rostered subordinate church sites in the Diocese of Dalmatia",
+      "status": "hold outside the current directory",
+      "reason": "The current diocesan address book establishes twenty parish administrations and five monasteries, all of which are published. Parish history pages and news reports also mention many historical, destroyed, restored, or occasionally visited church sites, but the current address book does not supply a complete present-day site roster or service schedule. Those mentions are not converted into current independent rows without current official status confirmation.",
+      "sources": [
+        "https://www.eparhija-dalmatinska.hr/Adresar-c.htm",
+        "https://www.eparhija-dalmatinska.hr/"
+      ]
+    }
+  ],
+  "source_reconciliations": [
+    {
+      "subject": "Five Serbian diocesan structures covering Croatia",
+      "decision": "The Serbian Patriarchate and current diocesan sources establish Zagreb and Ljubljana, Gornji Karlovac, Dalmatia, Osijek-Polje and Baranja, and Slavonia as separate competent structures. Current child rows are preserved under their own diocesan parents. Slavonia remains a candidate because its linked roster is compromised and no substitute complete current official roster was found.",
+      "sources": [
+        "https://www.spc.rs/sr/82.eparhije-srpske-pravoslavne-crkve.html",
+        "https://mitropolija-zagrebacka.org/kontakti/",
+        "https://eparhijaosecka.hr/?A=G&G=66"
+      ]
+    },
+    {
+      "subject": "Zagreb contacts and current service schedule",
+      "decision": "The contacts page establishes twelve churches and two monasteries in Croatia. The service schedule adds the Saint Sava school chapel, the Saints Peter and Paul chapel at Mirogoj, and recurring worship in Vojakovac and Pavljani. All eighteen are published without merging sites that share clergy or administration.",
+      "sources": [
+        "https://mitropolija-zagrebacka.org/kontakti/",
+        "https://mitropolija-zagrebacka.org/raspored-bogosluzenja/"
+      ]
+    },
+    {
+      "subject": "Gornji Karlovac current roster and historical deanery pages",
+      "decision": "The current address book supplies twenty-two parish administrations. Four current official monastery pages supply Gomirje, Komogovina, Medak, and Gorica. These twenty-six bodies are published. Historical or destroyed subordinate sites are held rather than treated as current church bodies.",
+      "sources": [
+        "https://www.eparhija-gornjokarlovacka.hr/adresar/",
+        "https://www.eparhija-gornjokarlovacka.hr/manastir-gomirje/",
+        "https://www.eparhija-gornjokarlovacka.hr/manastir-gorica/"
+      ]
+    },
+    {
+      "subject": "Dalmatia current roster",
+      "decision": "The current diocesan address book supplies twenty parish administrations and five monasteries. All twenty-five are published. The seminary at Krka Monastery is not duplicated as a church body.",
+      "sources": [
+        "https://www.eparhija-dalmatinska.hr/Adresar-c.htm"
+      ]
+    },
+    {
+      "subject": "Osijek-Polje and Baranja complete current directory",
+      "decision": "The current diocesan directory supplies forty-three parishes, twenty-two separately identified attached chapels, churches, church sites, or prayer houses with current status, and one monastery. All sixty-six are published. The devastated church in Majar remains a candidate because current physical and worship status is not stated.",
+      "sources": [
+        "https://eparhijaosecka.hr/?A=G&G=66"
+      ]
+    },
+    {
+      "subject": "Ukrainian Orthodox Church pastoral service in Croatia",
+      "decision": "The UOC's current official Western European vicariate report says it does not open its own parishes in Croatia. Earlier official UOC reporting places its Croatian pastoral service at the Serbian Saint Sava chapel in Zagreb by agreement with the Serbian Church. That ministry is not duplicated as a separate UOC parish.",
+      "sources": [
+        "https://news.church.ua/2026/02/09/pro-sluzhinnya-zaxidnojevropejskogo-vikariatstva-ukrajinskoji-pravoslavnoji-cerkvi/",
+        "https://vzcz.church.ua/2022/06/24/svyashhennik-ukrajinskoji-pravoslavnoji-cerkvi-napravlenij-dlya-duxovnoji-opiki-ukrajinskimi-bizhencyami-u-xorvatiyu/",
+        "https://mitropolija-zagrebacka.org/raspored-bogosluzenja/"
+      ]
+    }
+  ],
+  "official_jurisdiction_audit": [
+    {
+      "jurisdiction": "Serbian Orthodox Church",
+      "result": "Current rows are included under four diocesan parents. The fifth Serbian parent, the Diocese of Slavonia, remains a current canonical structure but its complete child roster is held because the linked diocesan directory is compromised.",
+      "sources": [
+        "https://www.spc.rs/sr/82.eparhije-srpske-pravoslavne-crkve.html",
+        "https://mitropolija-zagrebacka.org/kontakti/",
+        "https://eparhijaosecka.hr/?A=G&G=66"
+      ]
+    },
+    {
+      "jurisdiction": "Romanian Orthodox Church",
+      "result": "The Romanian Patriarchate's current external-community register establishes one Romanian Orthodox community in Zagreb. It is included directly under the Romanian Patriarchate.",
+      "sources": [
+        "https://patriarhia.ro/organizarea-bisericii-ortodoxe-romane/reprezentante-si-comunitati-externe/"
+      ]
+    },
+    {
+      "jurisdiction": "Bulgarian Orthodox Church",
+      "result": "The current Western and Central European diocesan register establishes the Holy Seven Saints Bulgarian Orthodox Church Community in Zagreb. It is included.",
+      "sources": [
+        "https://bg-patriarshia.bg/west-eu-diocese-temples"
+      ]
+    },
+    {
+      "jurisdiction": "Macedonian Orthodox Church - Ohrid Archbishopric",
+      "result": "The current South European deanery directory establishes communities in Zagreb, Pula, and Rijeka. All three are included. The diocese's country total of four is retained as an unresolved candidate count rather than used to invent a fourth identity.",
+      "sources": [
+        "https://mpee.mk/category/juzno-evropsko-namesnistvo-2",
+        "https://mpee.mk/category/za-eparxijata"
+      ]
+    },
+    {
+      "jurisdiction": "Ukrainian Orthodox Church and Orthodox Church of Ukraine",
+      "result": "The UOC expressly reports that it does not establish its own parishes in Croatia and serves within Serbian facilities. No current OCU official structure reviewed establishes a Croatian parish, mission, monastery, chapel, or recurring worship site. No separate Ukrainian row is published.",
+      "sources": [
+        "https://news.church.ua/2026/02/09/pro-sluzhinnya-zaxidnojevropejskogo-vikariatstva-ukrajinskoji-pravoslavnoji-cerkvi/",
+        "https://www.pomisna.info/uk/tserkva/synodalni-ustanovy/"
+      ]
+    },
+    {
+      "jurisdiction": "Russian Orthodox Church, ROCOR, and Russian Tradition",
+      "result": "No separate current Croatian body was found in the current official Russian Church, ROCOR Western European, or Russian Tradition directories reviewed. Russian-language or Russian-clergy service inside Serbian bodies is not duplicated as an independent jurisdiction row.",
+      "sources": [
+        "https://calendar.rop.ru/?inc=12",
+        "https://orthodox-europe.org/wp-content/uploads/2025/12/2026-Diocese-of-GB-and-W-Europe-Directory-PDF.pdf",
+        "https://archeveche.eu/lieux/"
+      ]
+    },
+    {
+      "jurisdiction": "Ecumenical Patriarchate, Antiochian Patriarchate, and Georgian Orthodox Church",
+      "result": "No separate current Croatian parish, mission, monastery, chapel, or recurring worship site was established by the current official directories reviewed.",
+      "sources": [
+        "https://ec-patr.org/en/entities/",
+        "https://rum-orthodox.de/gemeinden/",
+        "https://patriarchate.ge/sinodi/members/all"
+      ]
+    },
+    {
+      "jurisdiction": "Other canonical Eastern Orthodox Churches and diaspora structures",
+      "result": "No additional current Croatian body was established in the official structures checked. This includes Alexandria, Jerusalem, Cyprus, Greece, Albania, Poland, the Czech Lands and Slovakia, Finland, Estonia, Japan, the OCA, and Sinai. Search and map discoveries without a competent canonical parent were not published.",
+      "sources": [
+        "https://www.patriarchateofalexandria.com/archdioceses/?lang=en",
+        "https://www.oca.org/parishes",
+        "https://ec-patr.org/en/entities/"
+      ]
+    }
+  ]
+}
