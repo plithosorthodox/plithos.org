@@ -1,0 +1,215 @@
+{
+  "v": 1,
+  "country": "MX",
+  "checked": "2026-11-15",
+  "method": "Current official patriarchal, diocesan, eparchial, and parish directories were used to establish named Eastern Orthodox bodies in Mexico. Search engines and map directories were used only to discover first-party sources. Historical locations, count-only missions, independently claimed bodies, and bodies outside Eastern Orthodox communion were not converted into directory rows without current competent jurisdictional confirmation.",
+  "published_summary": {
+    "oca-mexico": 27,
+    "ep-mexico": 31,
+    "an-mexico": 6,
+    "mp-parishes-usa": 1,
+    "ru-western-america-rocor": 1,
+    "romanian-americas": 1,
+    "worship_bodies": 67
+  },
+  "candidates": [
+    {
+      "candidate_id": "mx-rocor-unnamed-missions-and-sketes",
+      "parent": "ru-western-america-rocor",
+      "country": "MX",
+      "name": "Unnamed ROCOR missions and sketes in Mexico",
+      "status": "hold until the competent diocese publishes stable names and locations",
+      "reason": "The current official monastery and diocesan accounts state that the Mexico deanery coordinates twelve missions and that the monastery has two sketes in Mexico. The competent sources do not name or locate those subordinate bodies. The named Holy Trinity Monastery is published, while the count-only bodies remain held.",
+      "sources": [
+        "https://www.pravoslavie.mx/o-monastyre",
+        "https://wadiocese.org/mexico_city"
+      ]
+    },
+    {
+      "candidate_id": "mx-oca-uruapan-laurence-historical",
+      "parent": "oca-mexico",
+      "country": "MX",
+      "name": "Saint Laurence the Protodeacon and Martyr of Rome Mission in Uruapan",
+      "status": "hold until current diocesan confirmation",
+      "reason": "An archived 2017 OCA pastoral change names this mission in Uruapan. It is absent from both current OCA Mexico rosters. A historical appointment does not establish a current worship body, and the separately named Ecumenical Patriarchate church in Uruapan is not treated as its continuation.",
+      "sources": [
+        "https://www.oca.org/files/PDF/NEWS/2017/2017-0512-STAT596-march2017.pdf",
+        "https://www.oca.org/parishes/mexico",
+        "https://www.ocamexico.org/parish.html"
+      ]
+    },
+    {
+      "candidate_id": "mx-mp-nepantla-historical-location",
+      "parent": "mp-parishes-usa",
+      "country": "MX",
+      "name": "Historical Nepantla location of the Protection of the Mother of God parish",
+      "status": "retain as location history, not a separate body",
+      "reason": "Older discovery sources place the Moscow Patriarchate parish in Nepantla or at a temporarily borrowed church in central Mexico City. The current competent parish directory places the one Protection parish at Los Reyes Iztacala in Tlalnepantla. The current parish is published once and older locations are not duplicated as churches.",
+      "sources": [
+        "https://mospatusa.com/parishdirectory.html",
+        "https://ocamexico.org/news_140804_1.html"
+      ]
+    }
+  ],
+  "exclusions": [
+    {
+      "scope": "Self-described Ukrainian Orthodox Eparchy of Mexico",
+      "result": "The Xalapa and Ajijic bodies identify themselves with a continuing Kyiv Patriarchate hierarchy. No current competent source of the Orthodox Church of Ukraine, the Ukrainian Orthodox Church, or the Ecumenical Patriarchate was found that places these Mexico bodies in its jurisdiction. They are not published without that link.",
+      "sources": [
+        "https://www.iglesia-ortodoxa.org/nuestra-eparquiacutea-de-meacutexico.html",
+        "https://www.pomisna.info/",
+        "https://ec-patr.org/entities/iera-mitropoli-meksikoy/"
+      ]
+    },
+    {
+      "scope": "Genuine Orthodox and independent Old Calendarist bodies",
+      "result": "Search results name a convent and missions under a self-described Genuine Orthodox structure. No current competent source of a canonical Local Eastern Orthodox Church places them in its jurisdiction, so they are not published.",
+      "sources": [
+        "https://goc.lat/mexico/",
+        "https://www.oca.org/directories/na-churches"
+      ]
+    },
+    {
+      "scope": "Armenian Apostolic, Syriac Orthodox, and Coptic Orthodox bodies",
+      "result": "These communities belong to the Oriental Orthodox family and are outside this Eastern Orthodox directory. Their exclusion is a scope boundary and makes no judgment about their religious identity or history.",
+      "sources": [
+        "https://www.armenianchurch.org/en/Dioceses/",
+        "https://syriacpatriarchate.org/",
+        "https://copticorthodox.church/en/"
+      ]
+    },
+    {
+      "scope": "Temporary Immaculate Conception church in central Mexico City",
+      "result": "The 2014 source describes a Roman Catholic building lent temporarily to the existing Moscow Patriarchate Protection parish. It does not establish a second Orthodox parish. The current official Moscow directory lists the Protection parish once at Tlalnepantla.",
+      "sources": [
+        "https://ocamexico.org/news_140804_1.html",
+        "https://mospatusa.com/parishdirectory.html"
+      ]
+    },
+    {
+      "scope": "Independent, map-only, and self-described Orthodox bodies",
+      "result": "Search and map listings using Orthodox names are not published without a current competent canonical synodal or diocesan source that establishes jurisdictional placement. This is an evidence threshold and not a general judgment about every independently named community.",
+      "sources": [
+        "https://orthodox-world.org/es/c/138/Mexico",
+        "https://www.oca.org/directories/na-churches",
+        "https://directory.synod.com/listings/"
+      ]
+    }
+  ],
+  "official_jurisdiction_audit": [
+    {
+      "jurisdiction": "Ecumenical Patriarchate, Greek Orthodox Metropolis of Mexico",
+      "result": "The current official metropolis register names four churches or chapels in its Mexico and Panama district, two monasteries in Puebla, and twenty-five parish or community bodies in Chiapas. All thirty-one Mexico bodies are published. Guatemala bodies interleaved in the same register are not included.",
+      "sources": [
+        "https://ec-patr.org/entities/iera-mitropoli-meksikoy/"
+      ]
+    },
+    {
+      "jurisdiction": "Orthodox Church in America, Diocese of Mexico",
+      "result": "The current central OCA directory names twenty-one Mexico bodies. The current diocesan roster names six additional bodies in Tultepec, Querétaro, Ojuelos, Zapote Bravo, Cruz Blanca, and León. The union of the two competent current rosters yields twenty-seven distinct bodies, all published without duplicating alternate titles for the same locations.",
+      "sources": [
+        "https://www.oca.org/parishes/mexico",
+        "https://www.ocamexico.org/parish.html",
+        "https://www.oca.org/dioceses/diocese-of-mexico"
+      ]
+    },
+    {
+      "jurisdiction": "Antiochian Orthodox Archdiocese of Mexico, Venezuela, Central America and the Caribbean",
+      "result": "The current official archdiocesan pages name four established Mexico bodies, Saint Innocent Chapel in Tijuana, and the Nativity of the Theotokos Church in Rosarito. The Rosarito church opened before its November 2026 consecration and is also listed with clergy by the archdiocese. All six are published.",
+      "sources": [
+        "https://iglesiaortodoxa.org.mx/informacion/arquidiocesis/parroquias/mexico/",
+        "https://iglesiaortodoxa.org.mx/informacion/arquidiocesis/el-clero/",
+        "https://www.projectmexico.org/save-the-date-consecration"
+      ]
+    },
+    {
+      "jurisdiction": "Moscow Patriarchate, Patriarchal Parishes in the USA",
+      "result": "The current official parish and deanery directories name one Mexico body, the Protection of the Mother of God Church in Tlalnepantla. It is published once under the Patriarchal Parishes parent. Historical and temporary locations are not treated as additional parishes.",
+      "sources": [
+        "https://mospatusa.com/parishdirectory.html",
+        "https://ruschurchusa.org/en/zapadnye-shtaty/",
+        "https://patriarchia.ru/org/286"
+      ]
+    },
+    {
+      "jurisdiction": "Russian Orthodox Church Outside of Russia, Diocese of Western America",
+      "result": "The current official worldwide directory and Western American Diocese name Holy Trinity Monastery in Mexico City. That monastery is published. Current first-party material also reports twelve missions and two sketes without stable names or locations, so those count-only bodies remain held.",
+      "sources": [
+        "https://directory.synod.com/listing/223/sacrosanto-monasterio-de-la-santisima-trinidad/",
+        "https://wadiocese.org/mexico_city",
+        "https://www.pravoslavie.mx/o-monastyre"
+      ]
+    },
+    {
+      "jurisdiction": "Romanian Orthodox Metropolia of the Americas",
+      "result": "The current official Romanian parish directory and 2026 mission reporting name the Saint Joseph the Confessor of Maramureș mission in Cancún. That one body is published.",
+      "sources": [
+        "https://www.mitropolia.us/index.php/ro/structura/director-parohii",
+        "https://mitropolia.us/index.php/ro/2052-lumina-purtata-mai-departe-si-o-lucrare-care-creste-in-cancun-mexic"
+      ]
+    },
+    {
+      "jurisdiction": "Moscow Patriarchate, Diocese of Argentina and South America",
+      "result": "The current official diocesan roster was checked and does not name a Mexico body. The current Moscow body in Mexico belongs instead to the Patriarchal Parishes in the USA. This is a bounded roster result and not a country-level absence claim.",
+      "sources": [
+        "https://southamerica.cerkov.ru/xramy-eparxii/",
+        "https://patriarchia.ru/org/141"
+      ]
+    },
+    {
+      "jurisdiction": "Serbian Orthodox Eparchy of Buenos Aires, South and Central America",
+      "result": "The current official diocesan description lists its countries with parishes and missions and does not include Mexico. Its current directory was also checked. No Mexico row is inferred from the eparchy's broader Central America title.",
+      "sources": [
+        "https://www.iglesiaortodoxaserbiasca.org/diocesis",
+        "https://www.iglesiaortodoxaserbiasca.org/_files/ugd/e8757a_bcd3fd85dc81441196589a1b3065f8bd.pdf"
+      ]
+    },
+    {
+      "jurisdiction": "Ukrainian Orthodox Church of the USA under the Ecumenical Patriarchate",
+      "result": "The current official parish directory lists United States bodies and no Mexico body. No Mexico row is inferred from historical Ukrainian communities or from similarly named independent bodies.",
+      "sources": [
+        "https://www.uocofusa.org/directories_parishes"
+      ]
+    },
+    {
+      "jurisdiction": "Ukrainian Orthodox Church and Orthodox Church of Ukraine",
+      "result": "No current official UOC or OCU source found in this audit places a Mexico body under its hierarchy. The self-described Mexico Kyiv Patriarchate group is therefore not published as either UOC or OCU. This is an exact source threshold and not a claim that Ukrainian Orthodox faithful are absent from Mexico.",
+      "sources": [
+        "https://news.church.ua/2026/02/09/pro-sluzhinnya-zaxidnojevropejskogo-vikariatstva-ukrajinskoji-pravoslavnoji-cerkvi/",
+        "https://www.pomisna.info/",
+        "https://www.iglesia-ortodoxa.org/nuestra-eparquiacutea-de-meacutexico.html"
+      ]
+    },
+    {
+      "jurisdiction": "Bulgarian Orthodox Church",
+      "result": "The current Bulgarian diaspora diocese and Holy Synod structures checked for this audit do not name a Mexico body. No row is inferred from ethnic community presence alone. This is a bounded roster result.",
+      "sources": [
+        "https://www.bulgariandiocese.org/parishdirectory",
+        "https://bg-patriarshia.bg/dioceses"
+      ]
+    },
+    {
+      "jurisdiction": "Macedonian Orthodox Church - Ohrid Archbishopric",
+      "result": "The current official eparchy list names the America and Canada diocese but no Mexico body. This is a bounded roster result and not a general country-level absence claim.",
+      "sources": [
+        "https://www.m-p-c.org/?page_id=17"
+      ]
+    },
+    {
+      "jurisdiction": "Georgian Orthodox Church and other canonical North American diaspora structures",
+      "result": "The canonical jurisdictions identified by the OCA North America reference and their available current first-party directories were checked for a Mexico listing. No additional exact Mexico body was published without a competent current jurisdictional citation. This records the source boundary and makes no broad absence claim.",
+      "sources": [
+        "https://www.oca.org/directories/na-churches",
+        "https://patriarchate.ge/foreign/bycategories/1/1"
+      ]
+    },
+    {
+      "jurisdiction": "Alexandria, Jerusalem, Cyprus, Greece, Albania, Poland, Czech Lands and Slovakia, Finland, and Japan",
+      "result": "No additional Mexico row is published without an exact current first-party jurisdictional citation. The current Mexico bodies established by competent sources are assigned to the six published branches above. This records incomplete verification for any exceptional diaspora body and makes no general absence claim.",
+      "sources": [
+        "https://www.oca.org/directories/na-churches",
+        "https://ec-patr.org/en/ecumenical-patriarchate/directory/"
+      ]
+    }
+  ]
+}
