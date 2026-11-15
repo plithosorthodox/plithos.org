@@ -1352,6 +1352,13 @@ from directory_south_sudan import (
 NAMES.update(_SOUTH_SUDAN_NAMES)
 del _SOUTH_SUDAN_NAMES
 
+from directory_congo_brazzaville import (
+    ENGLISH_NAMES as _CONGO_BRAZZAVILLE_NAMES,
+    ENGLISH_SEATS as _CONGO_BRAZZAVILLE_SEATS,
+)
+NAMES.update(_CONGO_BRAZZAVILLE_NAMES)
+del _CONGO_BRAZZAVILLE_NAMES
+
 SEATS = {
     "Istanbul": u"Istanbul",
     "Alexandria": u"Alexandria",
@@ -2063,3 +2070,5 @@ SEATS.update(_CHILE_SEATS)
 del _CHILE_SEATS
 SEATS.update(_SOUTH_SUDAN_SEATS)
 del _SOUTH_SUDAN_SEATS
+SEATS.update(_CONGO_BRAZZAVILLE_SEATS)
+del _CONGO_BRAZZAVILLE_SEATS

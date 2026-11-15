@@ -1,0 +1,69 @@
+{
+  "v": 1,
+  "country": "CG",
+  "checked": "2026-11-15",
+  "method": "Current official Alexandrian and Russian diocesan records were reconciled with body-level Church records. Search engines and map services were used only to discover possible bodies and addresses. Both current canonical structures are recorded without adjudicating their competing jurisdictional claims. Unnamed communities, count-only reports, and bodies lacking current competent Church confirmation remain unpublished.",
+  "published_summary": {
+    "ax-brazzaville": 8,
+    "ru-south-africa": 6,
+    "worship_bodies": 14
+  },
+  "candidates": [
+    {
+      "candidate_id": "cg-ax-pointe-noire-km4-community",
+      "parent": "ax-brazzaville",
+      "country": "CG",
+      "name": "Orthodox community in the KM4 district of Pointe-Noire",
+      "status": "hold until the metropolis publishes a dedication and exact institutional status",
+      "reason": "A 2020 first-person report by the then metropolitan names a local Orthodox community in the KM4 district in addition to seven parishes. It does not provide a dedication or establish whether the community is a parish, mission, chapel, or recurring worship site.",
+      "sources": [
+        "https://anespero.gr/pnevmatika/orthodoksi-ierapostoli?start=35",
+        "https://www.patriarchateofalexandria.com/archdioceses/iera-mitropolis-mprazavil-kai-gkampon/"
+      ]
+    },
+    {
+      "candidate_id": "cg-ax-northern-pygmy-worship-site",
+      "parent": "ax-brazzaville",
+      "country": "CG",
+      "name": "Northern Orthodox worship community serving Pygmy faithful",
+      "status": "hold until the metropolis publishes a stable name and exact location",
+      "reason": "A 2020 first-person report says northern faithful worshipped in a rented house, and a 2018 sister-Church report describes monthly worship in a forest camp connected with the Impfondo parish. The evidence does not establish a separately named current body or exact stable site.",
+      "sources": [
+        "https://anespero.gr/pnevmatika/orthodoksi-ierapostoli?start=35",
+        "https://arhiva.basilica.ro/mitropolitul-pantelimon-de-congo-brazzaville-si-gabon-a-efectuat-o-vizita-pastorala-in-tinutul-pigmeilor/"
+      ]
+    },
+    {
+      "candidate_id": "cg-ax-pointe-noire-saint-luke-clinic-chapel",
+      "parent": "ax-brazzaville",
+      "country": "CG",
+      "name": "Saint Luke clinic project in Pointe-Noire",
+      "status": "exclude unless a current official source identifies a distinct worship body",
+      "reason": "The Alexandrian record describes a clinic under construction and does not establish a separately constituted chapel or parish. A charitable facility is not converted into a worship-body row.",
+      "sources": [
+        "https://www.patriarchateofalexandria.com/i-athm-stis-ftochogeitonies-toy-pointe-noire-sto-kongko-mprazavil/"
+      ]
+    }
+  ],
+  "reconciliation": [
+    {
+      "scope": "Alexandrian and Russian bodies in the same cities",
+      "result": "The current official sources publish different dedications in Brazzaville, Pointe-Noire, Dolisie, Nkayi, and Nsiene. No exact physical worship-body duplicate was established, so each Church's named bodies remain separate rows. The directory reports both lists without deciding the jurisdictional dispute.",
+      "sources": [
+        "https://www.patriarchateofalexandria.com/archdioceses/iera-mitropolis-mprazavil-kai-gkampon/",
+        "https://exarchate-africa.ru/en/dioceses_cat/south-african-diocese/",
+        "https://exarchate-africa.ru/fr/actualite/lexarque-patriarcal-dafrique-en-republique-du-congo/"
+      ]
+    }
+  ],
+  "exclusions": [
+    {
+      "scope": "Other canonical Eastern Orthodox jurisdictions",
+      "result": "No current first-party synodal, diocesan, parish, or monastery source found in this pass establishes another canonical Eastern Orthodox jurisdiction or worship body in the Republic of the Congo.",
+      "sources": [
+        "https://www.patriarchateofalexandria.com/archdioceses/iera-mitropolis-mprazavil-kai-gkampon/",
+        "https://exarchate-africa.ru/en/dioceses_cat/south-african-diocese/"
+      ]
+    }
+  ]
+}
