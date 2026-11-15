@@ -1,0 +1,268 @@
+{
+  "v": 1,
+  "countries": [
+    "GR"
+  ],
+  "checked": "2026-11-15",
+  "method": "Publish exact current worship bodies established by the 2019 Church of Greece legal roster, the current Ecumenical Patriarchate and Church of Greece profiles, and current body-owned Mantamados pages. Preserve every body-specific public contact, including mobile or clergy-associated routes, without naming clergy or calling those routes office lines. Hold unnamed aggregates, dissolved bodies, historic-only monuments, ambiguous dependent spaces, military bodies without competent parent evidence, non-worship institutions, and search or map leads.",
+  "published_summary": {
+    "ep-mithymna": 46,
+    "total": 46,
+    "legal_parish_rows": 37,
+    "parish_kind_rows": 43,
+    "monastery_kind_rows": 3,
+    "current_exact_dependent_worship_rows": 6,
+    "contact_bodies": 5,
+    "phone_bodies": 5,
+    "public_phone_values": 9,
+    "email_bodies": 1,
+    "public_email_values": 1,
+    "body_owned_sites": 1,
+    "address_bodies": 46
+  },
+  "candidates": [
+    {
+      "candidate_id": "gr-ep-mithymna-unnamed-chapels",
+      "parent": "ep-mithymna",
+      "country": "GR",
+      "category": "aggregate-only",
+      "status": "held",
+      "reason": "The current Patriarchate profile reports 60 chapels without a complete exact named roster. No residual body is inferred from the aggregate.",
+      "aggregate_count": 60,
+      "sources": [
+        "https://ec-patr.org/entities/iera-mitropoli-mithimnis/"
+      ]
+    },
+    {
+      "candidate_id": "gr-ep-mithymna-unnamed-country-churches",
+      "parent": "ep-mithymna",
+      "country": "GR",
+      "category": "aggregate-only",
+      "status": "held",
+      "reason": "The current Patriarchate profile reports 300 country churches without a complete exact named roster. Five exact current country churches are published from current body-owned pages, but no unnamed residual is invented or subtracted from the aggregate.",
+      "aggregate_count": 300,
+      "sources": [
+        "https://ec-patr.org/entities/iera-mitropoli-mithimnis/",
+        "https://www.taxiarhismantamadou.gr/"
+      ]
+    },
+    {
+      "candidate_id": "gr-ep-mithymna-unnamed-monastic-churches",
+      "parent": "ep-mithymna",
+      "country": "GR",
+      "category": "aggregate-only",
+      "status": "held",
+      "reason": "The current Patriarchate profile reports four monastic churches but names three monastic institutions. A monastery institution and a monastic worship space are different grains. The three exact named monasteries are published, and no fourth institution or dependent church is invented from the aggregate.",
+      "aggregate_count": 4,
+      "sources": [
+        "https://ec-patr.org/entities/iera-mitropoli-mithimnis/",
+        "https://www.ecclesiagreece.gr/ecclesiajoomla/index.php/el/metropoleis/methymnes"
+      ]
+    },
+    {
+      "candidate_id": "gr-ep-mithymna-saint-ignatius-leimonos-pilgrimage",
+      "parent": "ep-mithymna",
+      "country": "GR",
+      "category": "dependent-space-ambiguous",
+      "status": "held",
+      "reason": "The current Patriarchate profile identifies a Saint Ignatius pilgrimage at Leimonos Monastery but does not establish a separate operating church, chapel, or shrine body distinct from the monastery. The pilgrimage is not duplicated as a separate row.",
+      "sources": [
+        "https://ec-patr.org/entities/iera-mitropoli-mithimnis/"
+      ]
+    },
+    {
+      "candidate_id": "gr-ep-mithymna-mantamados-holy-water-chapel",
+      "parent": "ep-mithymna",
+      "country": "GR",
+      "category": "formal-identity-unclear",
+      "status": "held",
+      "reason": "The official Mantamados virtual presentation mentions a chapel at the holy water. It does not provide a competent formal dedication or enough identity detail for a separate directory body.",
+      "sources": [
+        "https://www.taxiarhismantamadou.gr/",
+        "https://ec-patr.org/entities/iera-mitropoli-mithimnis/"
+      ]
+    },
+    {
+      "candidate_id": "gr-ep-mithymna-chonae-military-country-church",
+      "parent": "ep-mithymna",
+      "country": "GR",
+      "category": "canonical-parent-unclear",
+      "status": "held",
+      "reason": "A current official Mantamados page identifies the Archangel Michael at Chonae country church inside the 265th Mechanized National Guard Battalion. The page establishes current worship and exact location but does not establish whether the military body belongs to this Metropolis, a military ordinariate, or another competent authority.",
+      "sources": [
+        "https://www.taxiarhismantamadou.gr/announcement/eorte-tou-en-honais-thaymatos-6-9-2026",
+        "https://ec-patr.org/entities/iera-mitropoli-mithimnis/"
+      ]
+    },
+    {
+      "candidate_id": "gr-ep-mithymna-dissolved-monasteries",
+      "parent": "ep-mithymna",
+      "country": "GR",
+      "category": "dissolved-not-current",
+      "status": "held",
+      "reason": "The current Patriarchate profile expressly identifies Kreokopou and Parasigiou as dissolved monasteries. Neither is presented as a current monastic body.",
+      "sources": [
+        "https://ec-patr.org/entities/iera-mitropoli-mithimnis/"
+      ]
+    },
+    {
+      "candidate_id": "gr-ep-mithymna-historic-monuments",
+      "parent": "ep-mithymna",
+      "country": "GR",
+      "category": "historic-status-unclear",
+      "status": "held",
+      "reason": "The Patriarchate historic-monument list names Saint Demetrius at Ypsilometopo, Saint George Chalinados at Agia Paraskevi, Saint John at Keramio, the Transfiguration at Papiana, Saint George at Anemotia, monastic catholicons and a cemetery at Leimonos, and other monuments. Historic classification alone does not establish separately operating current worship bodies. Saint Stephen at Mantamados is published separately because a 2026 body-owned page proves current worship there.",
+      "sources": [
+        "https://ec-patr.org/entities/iera-mitropoli-mithimnis/",
+        "https://www.taxiarhismantamadou.gr/announcement/th-leitoyrgia-ieras-panigyreos-agioy-stefanoy-02-08-2026"
+      ]
+    },
+    {
+      "candidate_id": "gr-ep-mithymna-non-worship-institutions",
+      "parent": "ep-mithymna",
+      "country": "GR",
+      "category": "outside-directory-kind",
+      "status": "held",
+      "reason": "Museums, libraries, schools, camps, care homes, blood banks, foundations, councils, offices, and other non-worship institutions are not forced into church or monastery rows.",
+      "sources": [
+        "https://ec-patr.org/entities/iera-mitropoli-mithimnis/",
+        "https://www.ecclesiagreece.gr/ecclesiajoomla/index.php/el/metropoleis/methymnes"
+      ]
+    },
+    {
+      "candidate_id": "gr-ep-mithymna-search-map-historic-leads",
+      "parent": "ep-mithymna",
+      "country": "GR",
+      "category": "affiliation-or-status-unclear",
+      "status": "discovery-only",
+      "reason": "Search, map, municipal, commercial directory, tourism, and historic leads remain unpublished unless a current competent Church, legal, or body-owned source establishes exact identity, active worship status, and canonical parentage.",
+      "sources": [
+        "https://ecclesiagreece.gr/greek/press/ekklisia/2019_avgoustos_septembrios.pdf",
+        "https://ec-patr.org/entities/iera-mitropoli-mithimnis/"
+      ]
+    }
+  ],
+  "source_reconciliations": [
+    {
+      "topic": "exact-parish-roster-and-current-aggregate",
+      "finding": "Regulation 2167/1624/2019 names exactly 37 parish rows and prints a total of 37. The current Patriarchate profile independently reports 37 parish churches. All 37 exact legal bodies are published, and no parish row is added or removed to force another source total.",
+      "sources": [
+        "https://ecclesiagreece.gr/greek/press/ekklisia/2019_avgoustos_septembrios.pdf",
+        "https://ec-patr.org/entities/iera-mitropoli-mithimnis/"
+      ]
+    },
+    {
+      "topic": "parish-and-pilgrimage-overlap",
+      "finding": "The Holy Archangels church at Mantamados and the Dormition church at Petra each appear in the exact 37-row parish roster and in the current Patriarchate pilgrimage list. Each exact body is published once with a pilgrimage parish rank rather than duplicated.",
+      "sources": [
+        "https://ecclesiagreece.gr/greek/press/ekklisia/2019_avgoustos_septembrios.pdf",
+        "https://ec-patr.org/entities/iera-mitropoli-mithimnis/",
+        "https://www.taxiarhismantamadou.gr/epikoinonia"
+      ]
+    },
+    {
+      "topic": "named-monasteries-and-monastic-church-aggregate",
+      "finding": "The current Patriarchate and Church of Greece profiles name Leimonos, Myrsiniotissa, and Perivoli as current monasteries and publish body-specific phones. The Patriarchate aggregate of four monastic churches is preserved separately because it does not establish a fourth monastery or an exact unnamed worship body.",
+      "sources": [
+        "https://ec-patr.org/entities/iera-mitropoli-mithimnis/",
+        "https://www.ecclesiagreece.gr/ecclesiajoomla/index.php/el/metropoleis/methymnes"
+      ]
+    },
+    {
+      "topic": "mantamados-current-exact-worship-bodies",
+      "finding": "Current body-owned Mantamados pages separately identify Saint Basil Church and five active country churches: Saint John the Forerunner at Platania, Saint Stephen, Panagia Tricherousa at Skidia, Saint Charalambos at Chalika, and Saint Nektarios inside Mantamados. These six exact bodies are published without subtracting them from the Patriarchate chapel or country-church aggregates.",
+      "sources": [
+        "https://www.taxiarhismantamadou.gr/announcement/eorte-tes-upsoseos-tou-timioy-kai-zoopoiou-stayrou-14-9-2026",
+        "https://www.taxiarhismantamadou.gr/announcement/iera-panigyris-tes-anamnisis-tes-apotomes-tis-timias-kefales-tou-agioy-endoxoy-3",
+        "https://www.taxiarhismantamadou.gr/announcement/eorte-tou-agioy-nektarioy-9-11-2023"
+      ]
+    },
+    {
+      "topic": "mantamados-public-contact-routes",
+      "finding": "The official pilgrimage contact page publishes five distinct phone routes, one email, a postal address, and the body-owned site. All five phone values are retained because each is explicitly associated with the pilgrimage body, including the clergy or mysteries route and product-order route. No personal name is retained, and the routes are not all characterized as office lines.",
+      "sources": [
+        "https://www.taxiarhismantamadou.gr/epikoinonia",
+        "https://ec-patr.org/entities/iera-mitropoli-mithimnis/"
+      ]
+    },
+    {
+      "topic": "stypsi-associated-phone",
+      "finding": "The current Church of Greece profile associates 22530-91270 with the Holy Trinity parish at Stypsi through its blood-bank entry. The number is retained as a body-associated public route without calling it a parish office line.",
+      "sources": [
+        "https://www.ecclesiagreece.gr/ecclesiajoomla/index.php/el/metropoleis/methymnes",
+        "https://ecclesiagreece.gr/greek/press/ekklisia/2019_avgoustos_septembrios.pdf"
+      ]
+    },
+    {
+      "topic": "body-contact-boundary",
+      "finding": "Every current public phone, email, and body-owned site tied by a competent first-party source to a published body is retained. This includes clergy-associated or activity-specific routes. Clergy names are omitted, and parent Metropolis contacts are not copied onto subordinate bodies.",
+      "sources": [
+        "https://ec-patr.org/entities/iera-mitropoli-mithimnis/",
+        "https://www.ecclesiagreece.gr/ecclesiajoomla/index.php/el/metropoleis/methymnes",
+        "https://www.taxiarhismantamadou.gr/epikoinonia"
+      ]
+    }
+  ],
+  "official_parent_audit": [
+    {
+      "topic": "canonical-parent",
+      "finding": "The Ecumenical Patriarchate and Church of Greece each identify the Holy Metropolis of Mithymna. Regulation 2167/1624/2019 supplies its exact legal parish identities, and current national and patriarchal profiles establish the present canonical context.",
+      "sources": [
+        "https://ec-patr.org/entities/iera-mitropoli-mithimnis/",
+        "https://www.ecclesiagreece.gr/ecclesiajoomla/index.php/el/metropoleis/methymnes",
+        "https://ecclesiagreece.gr/greek/press/ekklisia/2019_avgoustos_septembrios.pdf"
+      ]
+    },
+    {
+      "topic": "current-published-coverage",
+      "finding": "The tranche publishes 46 exact current worship bodies: 37 legal parish bodies, three monasteries, Saint Basil Church, and five country churches. Every row has a Greek local name, a seat, an address, and exact first-party identity evidence.",
+      "sources": [
+        "https://ecclesiagreece.gr/greek/press/ekklisia/2019_avgoustos_septembrios.pdf",
+        "https://ec-patr.org/entities/iera-mitropoli-mithimnis/",
+        "https://www.taxiarhismantamadou.gr/"
+      ]
+    },
+    {
+      "topic": "contact-coverage",
+      "finding": "Five published bodies carry current body-specific public contact evidence: Holy Trinity at Stypsi, the Holy Archangels pilgrimage parish at Mantamados, and the three named monasteries. Together they carry nine phone values, one email, and one body-owned site.",
+      "sources": [
+        "https://www.ecclesiagreece.gr/ecclesiajoomla/index.php/el/metropoleis/methymnes",
+        "https://ec-patr.org/entities/iera-mitropoli-mithimnis/",
+        "https://www.taxiarhismantamadou.gr/epikoinonia"
+      ]
+    }
+  ],
+  "exclusions": [
+    {
+      "topic": "no-arithmetic-inference",
+      "finding": "No row is created by subtracting published exact bodies from the 60-chapel, 300-country-church, or four-monastic-church aggregates.",
+      "sources": [
+        "https://ec-patr.org/entities/iera-mitropoli-mithimnis/"
+      ]
+    },
+    {
+      "topic": "no-parent-contact-propagation",
+      "finding": "The Metropolis office phone, fax, email, and other central institutional contacts are not copied onto parishes, pilgrimages, monasteries, or dependent worship bodies.",
+      "sources": [
+        "https://ec-patr.org/entities/iera-mitropoli-mithimnis/",
+        "https://www.ecclesiagreece.gr/ecclesiajoomla/index.php/el/metropoleis/methymnes"
+      ]
+    },
+    {
+      "topic": "no-clergy-names",
+      "finding": "Officially published body-specific clergy or mobile routes remain eligible, but current clergy names are omitted from directory rows and the candidate ledger.",
+      "sources": [
+        "https://www.taxiarhismantamadou.gr/epikoinonia",
+        "https://ec-patr.org/entities/iera-mitropoli-mithimnis/"
+      ]
+    },
+    {
+      "topic": "no-non-worship-rows",
+      "finding": "Libraries, museums, schools, camps, care homes, foundations, blood banks, councils, offices, and similar institutions remain outside the worship-body directory.",
+      "sources": [
+        "https://ec-patr.org/entities/iera-mitropoli-mithimnis/",
+        "https://www.ecclesiagreece.gr/ecclesiajoomla/index.php/el/metropoleis/methymnes"
+      ]
+    }
+  ]
+}
