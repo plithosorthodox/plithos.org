@@ -25,6 +25,7 @@ sys.path.insert(0, str(Path(__file__).resolve().parent))
 import directory_rows
 import directory_branches
 import directory_brazil
+import directory_moldova
 
 ROOT = Path(__file__).resolve().parent.parent
 OUT = ROOT / "data" / "directory.v1.json"
@@ -776,6 +777,9 @@ def build(branch_payloads=None):
     # all.
     mod = directory_rows._mod("_churches")
     more = list(getattr(mod, "ROWS", [])) if mod else []
+    moldova_structure = directory_moldova.structural_rows()
+    more.extend(row for row in moldova_structure
+                if row.get("kind") == "autonomous")
     rows = []
     for c in sorted(CHURCHES + more, key=lambda r: r["order"]):
         r = {k: v for k, v in c.items() if v not in (None, "", [])}
@@ -783,10 +787,18 @@ def build(branch_payloads=None):
         rows.append(r)
     order = dict((r["id"], r["order"]) for r in rows)
     every = (DIOCESES + directory_rows.all_rows() +
-             list(directory_brazil.build_all()[1]))
+             list(directory_brazil.build_all()[1]) +
+             [row for row in moldova_structure
+              if row.get("kind") != "autonomous"] +
+             list(directory_moldova.EXTERNAL_ROWS))
     for c in more:
         if c["id"] not in directory_rows.CHURCHES:
             every = every + directory_rows.rows(c["id"])
+    every = [
+        dict(c, parent=directory_moldova.PARENT_CHANGES[c["id"]])
+        if c["id"] in directory_moldova.PARENT_CHANGES else c
+        for c in every
+    ]
     # A diocese hangs off a Church, and some hang off a body that is itself
     # under a Church: the Church of Russia names among its own the Patriarchal
     # Exarchate of Africa, and the eparchies in Africa are the Exarchate's

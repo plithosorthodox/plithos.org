@@ -1,0 +1,414 @@
+{
+  "v": 1,
+  "countries": [
+    "MD"
+  ],
+  "checked": "2026-11-15",
+  "method": "Verified current Eastern Orthodox jurisdiction and named bodies against official Church or diocesan sources. The Romanian Archdiocese of Chișinău publishes its own roster through an embedded map. Its official publisher page and stable export are cited together. Distinct current jurisdictions and their self-reported affiliations are preserved. A checked date records the date each online source was read. Calendar dates for dated articles and rosters remain visible in the citations.",
+  "published_summary": {
+    "moldova": 53,
+    "ro-balti": 11,
+    "ro-chisinau": 99,
+    "ro-south-bessarabia": 50,
+    "ru-balti": 19,
+    "ru-cahul": 14,
+    "ru-edinet": 137,
+    "ru-soroca": 205,
+    "ru-tiraspol": 114,
+    "ru-ungheni": 159,
+    "total": 861
+  },
+  "structure_ids": [
+    "ro-bessarabia",
+    "ru-orhei-vicar",
+    "ru-capriana-vicar",
+    "ru-ceadir-lunga-vicar",
+    "ru-donduseni-vicar",
+    "ro-bogdania-vicar",
+    "md-bom-chisinau-deanery",
+    "md-bom-straseni-deanery",
+    "md-bom-orhei-deanery",
+    "md-bom-ialoveni-deanery",
+    "md-bom-anenii-noi-deanery",
+    "md-bom-criuleni-and-dubasari-deanery",
+    "md-bom-telenesti-deanery",
+    "md-bom-rezina-deanery",
+    "md-bom-causeni-deanery",
+    "md-bom-soldanesti-deanery",
+    "md-bom-stefan-voda-deanery",
+    "md-bom-balti-deanery",
+    "md-bom-falesti-i-deanery",
+    "md-bom-falesti-ii-deanery",
+    "md-bom-glodeni-deanery",
+    "md-bom-singerei-deanery",
+    "md-bom-cahul-deanery",
+    "md-bom-gagauzia-deanery",
+    "md-bom-cantemir-deanery",
+    "md-bom-cimislia-deanery",
+    "md-bom-basarabeasca-deanery",
+    "md-bom-leova-deanery",
+    "md-bom-edinet-sector-i-deanery",
+    "md-bom-edinet-sector-ii-deanery",
+    "md-bom-edinet-sector-iii-deanery",
+    "md-bom-briceni-sector-i-deanery",
+    "md-bom-briceni-sector-ii-deanery",
+    "md-bom-ocnita-sector-i-deanery",
+    "md-bom-ocnita-sector-ii-deanery",
+    "md-bom-donduseni-sector-i-deanery",
+    "md-bom-donduseni-sector-ii-deanery",
+    "md-bom-soroca-deanery",
+    "md-bom-drochia-deanery",
+    "md-bom-floresti-deanery",
+    "md-bom-riscani-deanery",
+    "md-bom-central-deanery",
+    "md-bom-bender-deanery",
+    "md-bom-tiraspol-dubasari-deanery",
+    "md-bom-slobozia-deanery",
+    "md-bom-grigoriopol-deanery",
+    "md-bom-ribnita-deanery",
+    "md-bom-camenca-deanery",
+    "md-bom-ungheni-deanery",
+    "md-bom-nisporeni-deanery",
+    "md-bom-calarasi-deanery",
+    "md-bom-hincesti-deanery",
+    "md-basarabia-chisinau-deanery",
+    "md-basarabia-ungheni-deanery",
+    "md-basarabia-calarasi-deanery",
+    "md-basarabia-hancesti-deanery",
+    "md-basarabia-orhei-deanery",
+    "md-basarabia-criuleni-and-dubasari-deanery",
+    "md-basarabia-balti-balti-deanery",
+    "md-basarabia-balti-falesti-deanery",
+    "md-basarabia-balti-soroca-and-floresti-deanery",
+    "md-basarabia-balti-edinet-and-donduseni-deanery",
+    "md-basarabia-sud-stefan-voda-deanery",
+    "md-basarabia-sud-causeni-deanery",
+    "md-basarabia-sud-cimislia-deanery",
+    "md-basarabia-sud-cantemirului-and-tigheciului-deanery",
+    "md-basarabia-sud-cahul-deanery",
+    "md-basarabia-sud-ismail-deanery"
+  ],
+  "external_ids": [
+    "ru-moscow-moldova-representation",
+    "ua-ro-basarabia-hagi-curda-peter-paul",
+    "ua-ro-basarabia-reni-andrew"
+  ],
+  "candidates": [
+    {
+      "candidate_id": "md-bessarabia-dubasari-diocese",
+      "parent": "ro-bessarabia",
+      "country": "MD",
+      "name": "Episcopia Ortodoxă a Dubăsarilor și a toată Transnistria",
+      "status": "historical or unconfirmed current operation",
+      "reason": "The archived Romanian organizational page lists this see and the Metropolis names it among four historical dioceses. The current Patriarchate register and 2026 Patriarchal enthronement act identify only three operative eparchies. The active deanery of Criuleni and Dubăsari is separately listed under the Romanian Chișinău Archdiocese and is not evidence of the separate diocese.",
+      "sources": [
+        "https://arhiva.patriarhia.ro/organizarea-administrativa-763.html",
+        "https://patriarhia.ro/organizarea-bisericii-ortodoxe-romane/mitropolii/mitropolia-basarabiei-autonoma-si-de-stil-vechi-si-exarhat-al-plaiurilor/",
+        "https://basilica.ro/gramata-patriarhala-de-intronizare-a-mitropolitului-antonie/"
+      ]
+    },
+    {
+      "candidate_id": "md-bom-chisinau-full-roster",
+      "parent": "moldova",
+      "country": "MD",
+      "name": "Additional Chișinău Eparchy parishes, chapels and monasteries",
+      "status": "hold for a current comprehensive roster",
+      "reason": "The metropolitan protopopiate and resources pages publish district administrations and selected worship sites. The formerly linked municipal roster at protopopiatchisinau.md does not provide a usable current roster. The Strășeni deanery parish page is indexed but direct verification returned DNS or 502 failures. Parish bodies were included from current official listings and reports when directly confirmed.",
+      "sources": [
+        "https://mitropolia.md/protopopiate/",
+        "https://mitropolia.md/resurse-ortodoxe/",
+        "https://www.blagocinia-straseni.md/parohii"
+      ]
+    },
+    {
+      "candidate_id": "md-bom-balti-roster",
+      "parent": "ru-balti",
+      "country": "MD",
+      "name": "Additional Bălți and Fălești Diocese parishes",
+      "status": "hold for a current comprehensive roster",
+      "reason": "The diocesan parish menu names Bălți, Fălești I, Fălești II, Glodeni and Sîngerei. Its five links returned 404 or a challenge. Confirmed named worship sites and the metropolitan monastery roster are represented. The council and dated diocesan reports establish selected identities.",
+      "sources": [
+        "https://ephbalti.md/parohiile",
+        "https://ephbalti.md/?page_id=384",
+        "https://ephbalti.md/administratia/consiliul-eparhial"
+      ]
+    },
+    {
+      "candidate_id": "md-bom-cahul-comrat-roster",
+      "parent": "ru-cahul",
+      "country": "MD",
+      "name": "Additional Cahul and Comrat Diocese parishes and chapels",
+      "status": "hold for a current comprehensive roster",
+      "reason": "The diocese publishes six deaneries and a February 2026 roster of six named monasteries. The deanery page gives offices and contacts, without enumerating parish churches and chapels. Individual confirmed worship sites were included.",
+      "sources": [
+        "https://episcopiasud.md/ro/protopopiate/",
+        "https://episcopiasud.md/ro/manastiri/manastiri/"
+      ]
+    },
+    {
+      "candidate_id": "md-bom-edinet-summary",
+      "parent": "ru-edinet",
+      "country": "MD",
+      "name": "Unmatched aggregate totals in the Edineț and Briceni Diocese",
+      "status": "hold for reconciliation",
+      "reason": "The diocesan summary reports 137 parishes, three prayer houses and four chapels. The current published parish tables and named monasteries differ in category and coverage. Two unstaffed table entries are separately recorded for checking. Historic territorial assignments in Rîșcani must be checked against the 2024 creation of the Soroca Diocese.",
+      "sources": [
+        "https://eparhia-edinet.md/eparhia/",
+        "https://eparhia-edinet.md/parohii/",
+        "https://patriarchia.ru/church/orgs/org-ru/org/581"
+      ]
+    },
+    {
+      "candidate_id": "md-bom-ungheni-completeness",
+      "parent": "ru-ungheni",
+      "country": "MD",
+      "name": "Ungheni and Nisporeni affiliations changing after the diocesan rosters",
+      "status": "hold for reconciliation",
+      "reason": "The diocesan deanery rosters were posted in 2024 and are still linked. The Romanian archdiocese lists some churches at the same locality and dedication, including Saint Nicholas in Călărași. Only the published affiliation of each source is recorded. The current ownership and any transition affecting an individual community cannot be inferred from a shared name.",
+      "sources": [
+        "https://episcopia-ungheni.md/ro/protopopiate/",
+        "https://mitropoliabasarabiei.md/lista-parohiilor-din-arhiepiscopia-chisinaului/"
+      ]
+    },
+    {
+      "candidate_id": "md-basarabia-chisinau-additional-roster",
+      "parent": "ro-chisinau",
+      "country": "MD",
+      "name": "Additional Romanian Archdiocese of Chișinău parishes, monasteries and chapels",
+      "status": "hold for a current comprehensive roster",
+      "reason": "The official Archdiocese page embeds a first-party roster with 96 named sites across six folders. The list is still published, but 2026 Church reports identify additional current establishments. The records reflect the published roster and additional individually confirmed sites. The institution-wide count cannot be drawn from the map.",
+      "sources": [
+        "https://mitropoliabasarabiei.md/lista-parohiilor-din-arhiepiscopia-chisinaului/",
+        "https://mitropoliabasarabiei.md/protopopiate/",
+        "https://mitropoliabasarabiei.md/hramul-paraclisului-din-dereneu/"
+      ]
+    },
+    {
+      "candidate_id": "md-basarabia-balti-roster",
+      "parent": "ro-balti",
+      "country": "MD",
+      "name": "Additional Romanian Diocese of Bălți parishes and monasteries",
+      "status": "hold for a current comprehensive roster",
+      "reason": "The diocesan website has current reports but its Administration page has placeholder text and supplies no parish roster. Named worship sites and established parish communities from individual official articles are included. Additional sites in civil lists require Church confirmation.",
+      "sources": [
+        "https://episcopia.md/",
+        "https://episcopia.md/ro/administratia_episcopiei",
+        "https://episcopia.md/ro/node/1385"
+      ]
+    },
+    {
+      "candidate_id": "md-basarabia-south-summary",
+      "parent": "ro-south-bessarabia",
+      "country": "MD",
+      "name": "Additional South Bessarabia parishes and the seventh reported deanery",
+      "status": "count only or schematic",
+      "reason": "The 2025 diocesan report describes more than 90 parishes in seven deaneries. Its parish menu names six. The annual report names two parishes in Ismail Deanery, both in Ukraine. Anenii Noi appears in the activity text, but no separate current deanery roster or full exact name was verified. The report also identifies construction in progress and parishes needing a church. Unnamed bodies do not receive rows.",
+      "sources": [
+        "https://www.episcopiabasarabieidesud.md/articol/346",
+        "https://www.episcopiabasarabieidesud.md/manastiri",
+        "https://www.episcopiabasarabieidesud.md/manastiri/6/protopopiatul_ismail"
+      ]
+    },
+    {
+      "candidate_id": "ua-basarabia-prioziornoe-paraskeva",
+      "parent": "ro-south-bessarabia",
+      "country": "UA",
+      "name": "Parohia Sfânta Parascheva din satul Prioziornoe - Ciamâșir",
+      "status": "hold for current official affiliation and operation",
+      "reason": "The diocesan history describes registration in progress. Its 2025 diocesan report lists two parishes in Ismail Deanery and identifies an association in Priozeornoe, without naming a third active parish there.",
+      "sources": [
+        "https://www.episcopiabasarabieidesud.md/istoric",
+        "https://www.episcopiabasarabieidesud.md/articol/346"
+      ]
+    },
+    {
+      "candidate_id": "it-moldova-language-communities",
+      "parent": "moldova",
+      "country": "IT",
+      "name": "Moldovan-language Orthodox parishes and communities in Italy",
+      "status": "record under their current Italian jurisdiction",
+      "reason": "The Moscow Patriarchate lists the Moldovan-language parishes under its Italian patriarchal parish administration, with pastoral care assigned by the 30 May 2019 synodal act. The Moldovan metropolis lists the Italian community as a diaspora link, not as an additional Moldovan territorial branch. Country-of-worship rows belong to the Italy inventory.",
+      "sources": [
+        "https://patriarchia.ru/en/org/508",
+        "https://mitropolia.md/resurse-ortodoxe/"
+      ]
+    },
+    {
+      "candidate_id": "md-old-believers-kishinev",
+      "parent": "",
+      "country": "MD",
+      "name": "Кишиневская и всея Молдавии епархия",
+      "status": "outside the canonical Church roster scope",
+      "reason": "The Russian Orthodox Old-Rite Church publishes its own Diocese of Chișinău and All Moldova and named communities. The reviewed autocephalous Church rosters do not list this Old Believer jurisdiction among their own. Historical canonical Old-Rite worship requires a separate current Church source.",
+      "sources": [
+        "https://rpsc.ru/church/kishinev-eparhy/",
+        "https://rpsc.ru/church/kishinev/"
+      ]
+    },
+    {
+      "candidate_id": "md-church-abroad-kongaz",
+      "parent": "",
+      "country": "MD",
+      "name": "Self-described Russian Church Abroad Moldovan Diocese",
+      "status": "outside the canonical Church roster scope",
+      "reason": "The independent website lists several Moldovan communities. The Moscow-communion ROCOR official directory and Russian Church metropolitan list do not enroll that organization under those jurisdictions. The canonical Congaz Holy Trinity church is established separately by its own eparchy.",
+      "sources": [
+        "https://church-abroad.com/prihody/",
+        "https://mitropolia.md/eparhii/",
+        "https://www.synod.com/"
+      ]
+    },
+    {
+      "candidate_id": "md-other-churches-audit",
+      "parent": "",
+      "country": "MD",
+      "name": "Other potentially overlapping Orthodox jurisdictions in Moldova",
+      "status": "no current local body substantiated",
+      "reason": "The Constantinople episcopal roster and current Moldovan references, the Romanian Patriarchate foreign communities directory, and targeted searches of Bulgarian, Serbian, Georgian, Ukrainian OCU and UOC, ROCOR and other diaspora sources did not establish further Moldova bodies. Historical Constantinople jurisdiction, visiting clergy, embassies, pilgrimage, ethnic identity or civil listings do not establish a current worship body.",
+      "sources": [
+        "https://ec-patr.org/en/metropolitans-and-archbishops/",
+        "https://patriarhia.ro/organizarea-bisericii-ortodoxe-romane/reprezentante-si-comunitati-externe/",
+        "https://www.synod.com/"
+      ]
+    },
+    {
+      "candidate_id": "md-november-2026-departures",
+      "parent": "moldova",
+      "country": "MD",
+      "name": "Communities named in the 12 November 2026 clergy departures decision",
+      "status": "hold for a current receiving or retaining Church source",
+      "reason": "The Synod names clerics and former appointments in Strășeni, Malcoci, Făgureni, Rezina, Chișinău, Ghidighici, Telenești, Camencea, Ciorescu, Cricova, Roșcani, Chetrosu, Todirești and Telița. The document establishes a clergy action without deciding the present affiliation of each legal or worship body. Independently corroborated communities such as the Romanian map's Ghidighici, Telenești, Camencea, Ciorescu, Cricova and Rezina entries retain their own Church provenance.",
+      "sources": [
+        "https://mitropolia.md/deciziile-sinodului-bisericii-ortodoxe-din-moldova/",
+        "https://mitropoliabasarabiei.md/lista-parohiilor-din-arhiepiscopia-chisinaului/"
+      ]
+    },
+    {
+      "candidate_id": "md-roster-exception-1",
+      "parent": "ru-edinet",
+      "country": "MD",
+      "name": "EDINEŢ - “Sf. Împ. C-tin și Elena”",
+      "status": "hold for corroboration",
+      "reason": "The diocesan table names the site without a priest or service assignment. Current operation and affiliation remain to be corroborated.",
+      "sources": [
+        "https://eparhia-edinet.md/parohii/"
+      ]
+    },
+    {
+      "candidate_id": "md-roster-exception-2",
+      "parent": "ru-edinet",
+      "country": "MD",
+      "name": "BRÎNZENI - “Sf. Arhangheli”",
+      "status": "hold for corroboration",
+      "reason": "The diocesan table names the site without a priest or service assignment. Current operation and affiliation remain to be corroborated. The list was initially posted in 2015, and the area has had jurisdictional transfers.",
+      "sources": [
+        "https://eparhia-edinet.md/parohii/"
+      ]
+    },
+    {
+      "candidate_id": "md-roster-exception-3",
+      "parent": "ru-soroca",
+      "country": "MD",
+      "name": "Schitul „Sf. M. Mc. Gheorghe”, Chirilovca",
+      "status": "hold for corroboration",
+      "reason": "The Moscow-aligned metropolitan list describes a vacant skete here, and the present Soroca roster omits it. The Romanian metropolis documents an active 2026 monastery of the Nativity of the Mother of God and Saint George in the same village. It is published under Bălți on that current evidence. No independent current Moscow entry is established.",
+      "sources": [
+        "https://mitropolia.md/manastiri/",
+        "https://mitropoliabasarabiei.md/hram-la-manastirea-chirilovca/"
+      ]
+    },
+    {
+      "candidate_id": "md-roster-exception-4",
+      "parent": "ru-cahul",
+      "country": "MD",
+      "name": "Mănăstirea „Sf. M. Mc. Gheorghe”, Zloţi",
+      "status": "current sources differ on roster coverage",
+      "reason": "The churchwide roster expressly lists this monastery under Cahul and Comrat. The diocese's February 2026 list names six sites and omits Zloți. Because the metropolitan listing is affirmative and the metropolitan service report records active worship, the named monastery is included with direct citations while the scope of the shorter diocesan list remains unresolved.",
+      "sources": [
+        "https://mitropolia.md/manastiri/",
+        "https://episcopiasud.md/ro/manastiri/manastiri/"
+      ]
+    },
+    {
+      "candidate_id": "md-roster-exception-5",
+      "parent": "ru-ungheni",
+      "country": "MD",
+      "name": "Biserica „Sf. Arh. Mihail și Mihail” din satul Bujor",
+      "status": "hold for corroboration",
+      "reason": "The diocesan listing repeats Mihail in the dedication. The published local text is retained pending corroboration of the dedication.",
+      "sources": [
+        "https://episcopia-ungheni.md/ro/bisericile-din-cadrul-protopopiatului-hincesti/"
+      ]
+    },
+    {
+      "candidate_id": "md-roster-exception-6",
+      "parent": "moldova",
+      "country": "MD",
+      "name": "Biserica nouă de la Mănăstirea Suruceni",
+      "status": "hold for current worship opening",
+      "reason": "The report describes a foundation stone. The operating Suruceni monastery is listed separately.",
+      "sources": [
+        "https://mitropolia.md/mitropolitul-vladimir-a-savarsit-sfintirea-pietrei-de-temelie-a-noii-biserici-de-la-manastirea-suruceni/"
+      ]
+    },
+    {
+      "candidate_id": "md-roster-exception-7",
+      "parent": "moldova",
+      "country": "MD",
+      "name": "Biserica „Sfântul Cuvios Simeon Stâlpnicul” din satul Ciopleni",
+      "status": "hold for current worship opening",
+      "reason": "The report describes a foundation and does not establish that the new church is operating.",
+      "sources": [
+        "https://mitropolia.md/sfintirea-temeliei-noii-biserici-cu-hramul-sfantul-cuvios-simeon-stalpnicul-din-satul-ciopleni-raionul-criuleni/"
+      ]
+    },
+    {
+      "candidate_id": "md-roster-exception-8",
+      "parent": "ru-ungheni",
+      "country": "MD",
+      "name": "Catedrala Episcopală în construcție",
+      "status": "hold for current worship opening",
+      "reason": "The diocesan construction page concerns the new cathedral project. The operating Alexander Nevsky Cathedral is listed from the parish roster.",
+      "sources": [
+        "https://episcopia-ungheni.md/ro/catedrala-episcopala/"
+      ]
+    },
+    {
+      "candidate_id": "md-bom-capriana-parked-site",
+      "parent": "moldova",
+      "country": "MD",
+      "name": "Căpriana Monastery's former standalone website",
+      "status": "hold for a verified replacement site",
+      "reason": "The metropolitan directory's standalone monastery domain redirected to an unrelated gambling site during the current check. The monastery's own canonical identity is established by the metropolitan directory. The old domain is excluded from the published row.",
+      "sources": [
+        "https://mitropolia.md/manastiri/",
+        "https://mitropolia.md/mitropolitul-vladimir-a-condus-sfanta-liturghie-la-implinirea-a-zece-ani-de-la-canonizarea-sfantului-ierarh-gavriil-banulescu-bodoni/"
+      ]
+    },
+    {
+      "candidate_id": "md-basarabia-balti-building-projects",
+      "parent": "ro-balti",
+      "country": "MD",
+      "name": "Projects for dedicated buildings in Bălți, Sângerei, Ocnița and Edineț",
+      "status": "hold for current worship opening",
+      "reason": "The 2025 diocesan reports document ongoing construction for these named buildings. The separately established Saint Theodora parish community in Sângerei has a row without a published worship address. A project site alone is not evidence of an open worship site.",
+      "sources": [
+        "https://episcopia.md/ro/node/1273",
+        "https://episcopia.md/ro/node/1263",
+        "https://episcopia.md/ro/node/1236"
+      ]
+    },
+    {
+      "candidate_id": "md-basarabia-south-aluatu-building",
+      "parent": "ro-south-bessarabia",
+      "country": "MD",
+      "name": "Biserica în cinstea Binecredinciosului Voievod Ștefan cel Mare și Sfânt și a Sfântului Cuvios Daniil Sihastru, Aluatu",
+      "status": "hold for current worship opening",
+      "reason": "The diocese reported a foundation blessing in 2024 and project funding in November 2026. The reviewed reports did not verify a consecrated or regularly used worship space.",
+      "sources": [
+        "https://www.episcopiabasarabieidesud.md/?page=9",
+        "https://www.episcopiabasarabieidesud.md/"
+      ]
+    }
+  ]
+}
