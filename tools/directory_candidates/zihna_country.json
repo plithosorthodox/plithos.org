@@ -1,0 +1,133 @@
+{
+  "v": 1,
+  "countries": [
+    "GR"
+  ],
+  "checked": "2026-11-15",
+  "method": "Publish all 69 exact parishes in the current Church of Greece regulation and the five current monasteries named by the Ecumenical Patriarchate. Preserve the Patriarchate's monastery telephone contacts. Hold unnamed aggregate chapels, country chapels, dissolved monasteries, and search-only leads rather than infer bodies.",
+  "published_summary": {
+    "ep-zihna": 74,
+    "total": 74,
+    "parish_kind_rows": 69,
+    "monastery_kind_rows": 5,
+    "contact_bodies": 5,
+    "phone_bodies": 5,
+    "public_phone_values": 5,
+    "email_bodies": 0,
+    "public_email_values": 0,
+    "body_owned_sites": 0,
+    "address_bodies": 74
+  },
+  "candidates": [
+    {
+      "candidate_id": "gr-ep-zihna-unnamed-chapels",
+      "parent": "ep-zihna",
+      "country": "GR",
+      "category": "aggregate-only",
+      "status": "held",
+      "reason": "The current Patriarchate overview reports 30 chapels without a complete exact named roster. No chapel is inferred from the aggregate.",
+      "sources": [
+        "https://ec-patr.org/entities/iera-mitropoli-zixnon-neyrokopioy/"
+      ]
+    },
+    {
+      "candidate_id": "gr-ep-zihna-unnamed-country-chapels",
+      "parent": "ep-zihna",
+      "country": "GR",
+      "category": "aggregate-only",
+      "status": "held",
+      "reason": "The current Patriarchate overview describes the country chapels only as numerous and provides no exact complete roster. None is manufactured from that statement.",
+      "sources": [
+        "https://ec-patr.org/entities/iera-mitropoli-zixnon-neyrokopioy/"
+      ]
+    },
+    {
+      "candidate_id": "gr-ep-zihna-dissolved-monasteries",
+      "parent": "ep-zihna",
+      "country": "GR",
+      "category": "historic-not-current",
+      "status": "held",
+      "reason": "The Patriarchate separately names four dissolved monasteries. They remain held as historic evidence and are not presented as current monastic institutions.",
+      "sources": [
+        "https://ec-patr.org/entities/iera-mitropoli-zixnon-neyrokopioy/"
+      ]
+    },
+    {
+      "candidate_id": "gr-ep-zihna-search-map-leads",
+      "parent": "ep-zihna",
+      "country": "GR",
+      "category": "affiliation-unclear",
+      "status": "discovery-only",
+      "reason": "Search and map leads remain unpublished unless a competent first-party Church source establishes the exact body and its current canonical parent.",
+      "sources": [
+        "https://ecclesiagreece.gr/greek/press/ekklisia/2019_ioulios.pdf"
+      ]
+    }
+  ],
+  "source_reconciliations": [
+    {
+      "subject": "Complete regulated parish roster",
+      "decision": "The Church of Greece regulation names exactly 69 current parishes across the Zihna, Alistrati, Draviskos, Kato Nevrokopi, and Grammene regions. The Patriarchate's current aggregate independently reports 69 parish churches. All 69 exact rows are published in regulation order.",
+      "sources": [
+        "https://ecclesiagreece.gr/greek/press/ekklisia/2019_ioulios.pdf",
+        "https://ec-patr.org/entities/iera-mitropoli-zixnon-neyrokopioy/"
+      ]
+    },
+    {
+      "subject": "Current monastery boundary",
+      "decision": "The Patriarchate names five current monasteries and separately lists four dissolved bodies. The five current monasteries and their displayed telephone numbers are published; the dissolved bodies remain held.",
+      "sources": [
+        "https://ec-patr.org/entities/iera-mitropoli-zixnon-neyrokopioy/"
+      ]
+    },
+    {
+      "subject": "Parish contact boundary",
+      "decision": "The official regulation identifies parish bodies but carries no parish telephone, email, or body website fields. Parent-office contacts are not copied onto every parish. The five displayed monastery telephone routes remain attached to their exact bodies.",
+      "sources": [
+        "https://ecclesiagreece.gr/greek/press/ekklisia/2019_ioulios.pdf",
+        "https://ec-patr.org/entities/iera-mitropoli-zixnon-neyrokopioy/"
+      ]
+    }
+  ],
+  "official_parent_audit": [
+    {
+      "parent": "ep-zihna",
+      "result": "74 exact current bodies published: 69 regulated parish churches and five current monasteries.",
+      "roster_status": "complete official parish regulation plus complete current Patriarchate monastery list",
+      "sources": [
+        "https://ecclesiagreece.gr/greek/press/ekklisia/2019_ioulios.pdf",
+        "https://ec-patr.org/entities/iera-mitropoli-zixnon-neyrokopioy/"
+      ]
+    }
+  ],
+  "exclusions": [
+    {
+      "category": "aggregate-only",
+      "decision": "No chapel, country chapel, monastery, or other body is inferred solely from an aggregate count or description.",
+      "sources": [
+        "https://ec-patr.org/entities/iera-mitropoli-zixnon-neyrokopioy/"
+      ]
+    },
+    {
+      "category": "historic-not-current",
+      "decision": "Bodies explicitly listed as dissolved are held as historic evidence and are not represented as current monasteries.",
+      "sources": [
+        "https://ec-patr.org/entities/iera-mitropoli-zixnon-neyrokopioy/"
+      ]
+    },
+    {
+      "category": "parent-contact",
+      "decision": "Metropolis office telephone and email values are not copied onto subordinate bodies without a body-level association.",
+      "sources": [
+        "https://ec-patr.org/entities/iera-mitropoli-zixnon-neyrokopioy/"
+      ]
+    },
+    {
+      "category": "discovery-only",
+      "decision": "Search and map leads remain unpublished until a competent first-party Church source establishes identity and canonical parentage.",
+      "sources": [
+        "https://ecclesiagreece.gr/greek/press/ekklisia/2019_ioulios.pdf"
+      ]
+    }
+  ]
+}

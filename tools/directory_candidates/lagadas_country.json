@@ -1,0 +1,171 @@
+{
+  "v": 1,
+  "countries": [
+    "GR"
+  ],
+  "checked": "2026-11-15",
+  "method": "Publish every exact church row displayed in the eight official regional parish tables, reconcile exact pilgrimage and institutional church names against the current Patriarchate page, and publish each distinct current monastery, metochion, and hermitage named by the official Metropolis. Preserve every public telephone route associated with a specific body, including clergy-linked and mobile routes, without describing all values as office lines. Hold unnamed, historic, duplicate, ambiguous, and search-only leads.",
+  "published_summary": {
+    "ep-lagadas": 88,
+    "total": 88,
+    "parish_kind_rows": 73,
+    "monastery_kind_rows": 15,
+    "contact_bodies": 53,
+    "phone_bodies": 53,
+    "public_phone_values": 54,
+    "email_bodies": 0,
+    "public_email_values": 0,
+    "body_owned_sites": 0,
+    "address_bodies": 88
+  },
+  "candidates": [
+    {
+      "candidate_id": "gr-ep-lagadas-parish-aggregate-discrepancy",
+      "parent": "ep-lagadas",
+      "country": "GR",
+      "category": "source-count-conflict",
+      "status": "published-exact-roster",
+      "reason": "The current Patriarchate page reports 61 parish churches, while the eight official regional pages display 64 distinct church rows. All 64 exact rows are preserved; no named body is silently discarded to force the aggregate.",
+      "sources": [
+        "https://www.imlagada.gr/%CE%95%CE%BD%CE%BF%CF%81%CE%AF%CE%B5%CF%82.aspx",
+        "https://www.imlagada.gr/default.aspx?pageid=53",
+        "https://ec-patr.org/entities/iera-mitropoli-lagkada-litis-rentinis/"
+      ]
+    },
+    {
+      "candidate_id": "gr-ep-lagadas-unnamed-chapels",
+      "parent": "ep-lagadas",
+      "country": "GR",
+      "category": "unavailable-roster",
+      "status": "held",
+      "reason": "The official chapel page is marked under construction and provides no exact current names. No chapel is inferred from search or map results.",
+      "sources": [
+        "https://www.imlagada.gr/default.aspx?catid=81"
+      ]
+    },
+    {
+      "candidate_id": "gr-ep-lagadas-entry-ossa-duplicate-classification",
+      "parent": "ep-lagadas",
+      "country": "GR",
+      "category": "duplicate-classification",
+      "status": "published-once",
+      "reason": "Entry of the Theotokos at Ossa appears once among women's monasteries and again among women's hermitages on the same official page. It is published once in its stronger explicit capacity as a monastery.",
+      "sources": [
+        "https://www.imlagada.gr/%CE%9C%CE%BF%CE%BD%CE%AD%CF%82.aspx",
+        "https://ec-patr.org/entities/iera-mitropoli-lagkada-litis-rentinis/"
+      ]
+    },
+    {
+      "candidate_id": "gr-ep-lagadas-saint-theodore-gabras-seat",
+      "parent": "ep-lagadas",
+      "country": "GR",
+      "category": "location-unspecified",
+      "status": "published-with-jurisdiction-seat",
+      "reason": "The official monastery page names the current women's Monastery of Saint Theodore Gabras but does not display a locality or postal address. The directory uses Lagadas Metropolis as a jurisdiction-level seat and does not invent a settlement.",
+      "sources": [
+        "https://www.imlagada.gr/%CE%9C%CE%BF%CE%BD%CE%AD%CF%82.aspx",
+        "https://ec-patr.org/entities/iera-mitropoli-lagkada-litis-rentinis/"
+      ]
+    },
+    {
+      "candidate_id": "gr-ep-lagadas-search-map-leads",
+      "parent": "ep-lagadas",
+      "country": "GR",
+      "category": "affiliation-unclear",
+      "status": "discovery-only",
+      "reason": "Search and map leads remain unpublished unless a competent first-party Church source establishes the exact body and its current canonical parent.",
+      "sources": [
+        "https://www.imlagada.gr/%CE%95%CE%BD%CE%BF%CF%81%CE%AF%CE%B5%CF%82.aspx"
+      ]
+    }
+  ],
+  "source_reconciliations": [
+    {
+      "subject": "Complete displayed regional parish roster",
+      "decision": "The eight official regional pages display 64 exact church rows: 8 Lagadas, 7 Assyros, 7 Kolchiko, 10 Lagyna, 10 Liti, 9 Ossa, 8 Rentini, and 5 Sochos. Combined dedication cells remain one source row rather than being split into unsupported additional bodies.",
+      "sources": [
+        "https://www.imlagada.gr/default.aspx?pageid=53",
+        "https://www.imlagada.gr/default.aspx?pageid=58",
+        "https://www.imlagada.gr/default.aspx?pageid=91"
+      ]
+    },
+    {
+      "subject": "Pilgrimage reconciliation",
+      "decision": "The current Patriarchate page names nine pilgrimage churches. Life-Giving Spring at Ano Askos and the Holy Archangels at Ossa are already exact regional church rows and are upgraded rather than duplicated. The other seven are published as distinct exact bodies, including the Theophany church that the local site also classifies as institutional.",
+      "sources": [
+        "https://www.imlagada.gr/default.aspx?catid=234",
+        "https://www.imlagada.gr/default.aspx?catid=235",
+        "https://ec-patr.org/entities/iera-mitropoli-lagkada-litis-rentinis/"
+      ]
+    },
+    {
+      "subject": "Institutional church reconciliation",
+      "decision": "The official institutional page names three bodies. The Theophany, Forerunner, and Saint Anastasia church overlaps a Patriarchate pilgrimage entry and is published once with both capacities. Saint Charalambos at Melissochori and Life-Giving Spring at Chrysavgi are published as distinct institutional churches.",
+      "sources": [
+        "https://www.imlagada.gr/default.aspx?catid=235",
+        "https://ec-patr.org/entities/iera-mitropoli-lagkada-litis-rentinis/"
+      ]
+    },
+    {
+      "subject": "Current monastic roster",
+      "decision": "The official monastery page names five distinct monasteries, two metochia, and eight distinct hermitages after Entry of the Theotokos at Ossa is de-duplicated across its two classifications. All fifteen exact current bodies are published.",
+      "sources": [
+        "https://www.imlagada.gr/%CE%9C%CE%BF%CE%BD%CE%AD%CF%82.aspx",
+        "https://ec-patr.org/entities/iera-mitropoli-lagkada-litis-rentinis/"
+      ]
+    },
+    {
+      "subject": "Public body-associated contacts",
+      "decision": "Telephone values are carried when an official regional roster or monastery page associates them with a specific body. These include fixed, mobile, shared, and clergy-aligned routes, so they are represented as public body-associated contacts rather than all being characterized as office lines. Clergy names are omitted.",
+      "sources": [
+        "https://www.imlagada.gr/default.aspx?pageid=53",
+        "https://www.imlagada.gr/default.aspx?pageid=70",
+        "https://www.imlagada.gr/%CE%9C%CE%BF%CE%BD%CE%AD%CF%82.aspx"
+      ]
+    }
+  ],
+  "official_parent_audit": [
+    {
+      "parent": "ep-lagadas",
+      "result": "88 exact current bodies published: 64 regional church rows, 9 additional pilgrimage or institutional churches after overlaps are removed, and 15 distinct monastic institutions.",
+      "roster_status": "complete displayed regional roster plus exact current first-party pilgrimage, institutional, and monastic supplements",
+      "sources": [
+        "https://www.imlagada.gr/%CE%95%CE%BD%CE%BF%CF%81%CE%AF%CE%B5%CF%82.aspx",
+        "https://www.imlagada.gr/%CE%9C%CE%BF%CE%BD%CE%AD%CF%82.aspx",
+        "https://ec-patr.org/entities/iera-mitropoli-lagkada-litis-rentinis/"
+      ]
+    }
+  ],
+  "exclusions": [
+    {
+      "category": "unavailable-roster",
+      "decision": "No chapel or other body is inferred from an under-construction official page, a search result, or a map listing.",
+      "sources": [
+        "https://www.imlagada.gr/default.aspx?catid=81"
+      ]
+    },
+    {
+      "category": "duplicate-body",
+      "decision": "A body named under more than one official category is published once with all supported capacities rather than duplicated.",
+      "sources": [
+        "https://www.imlagada.gr/%CE%9C%CE%BF%CE%BD%CE%AD%CF%82.aspx",
+        "https://www.imlagada.gr/default.aspx?catid=235",
+        "https://ec-patr.org/entities/iera-mitropoli-lagkada-litis-rentinis/"
+      ]
+    },
+    {
+      "category": "parent-contact",
+      "decision": "Metropolis office telephone numbers and email addresses are not copied onto subordinate bodies. Only contact routes tied by a competent source to a specific body are carried.",
+      "sources": [
+        "https://www.imlagada.gr/%CE%95%CE%BD%CE%BF%CF%81%CE%AF%CE%B5%CF%82.aspx"
+      ]
+    },
+    {
+      "category": "personal-identity",
+      "decision": "Clergy names are not reproduced. Public telephone routes remain attached to the church rows with source provenance, including where the official table aligns the route with a clergyman.",
+      "sources": [
+        "https://www.imlagada.gr/default.aspx?pageid=53"
+      ]
+    }
+  ]
+}
