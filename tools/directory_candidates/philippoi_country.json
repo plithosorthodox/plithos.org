@@ -1,0 +1,172 @@
+{
+  "v": 1,
+  "countries": [
+    "GR"
+  ],
+  "checked": "2026-11-15",
+  "method": "Publish the 94 exact current parishes established by the complete 2019 Church of Greece legal roster, its official 2020 Chryssochorion amendment, and the matching current Patriarchate total. Reconcile the single Zarkadia row omitted by the searchable rendering against the official 2017 legal recognition. Add the four exact current monasteries and three exact current pilgrimage churches named by current first-party Church profiles. Preserve only body-associated public phones, addresses, and detail sites, including clergy-linked routes, while omitting personnel names and parent-office contacts.",
+  "published_summary": {
+    "ep-philippoi": 101,
+    "total": 101,
+    "exact_current_parishes": 94,
+    "exact_current_monasteries": 4,
+    "exact_current_pilgrimages": 3,
+    "parish_kind_rows": 97,
+    "monastery_kind_rows": 4,
+    "contact_bodies": 23,
+    "phone_bodies": 23,
+    "public_phone_values": 23,
+    "email_bodies": 0,
+    "public_email_values": 0,
+    "official_detail_sites": 20,
+    "address_bodies": 101
+  },
+  "candidates": [
+    {
+      "candidate_id": "gr-ep-philippoi-unnamed-chapels-and-country-churches",
+      "parent": "ep-philippoi",
+      "country": "GR",
+      "category": "aggregate-only",
+      "status": "held",
+      "reason": "The current Patriarchate profile reports 72 chapels and country churches without naming exact bodies. No residual body is inferred from this aggregate.",
+      "aggregate_count": 72,
+      "sources": [
+        "https://ec-patr.org/entities/iera-mitropoli-filippon-neapoleos-thasoy/"
+      ]
+    },
+    {
+      "candidate_id": "gr-ep-philippoi-unnamed-cemetery-churches",
+      "parent": "ep-philippoi",
+      "country": "GR",
+      "category": "aggregate-only",
+      "status": "held",
+      "reason": "The current Patriarchate profile reports eight cemetery churches without naming exact bodies. No residual body is inferred from this aggregate.",
+      "aggregate_count": 8,
+      "sources": [
+        "https://ec-patr.org/entities/iera-mitropoli-filippon-neapoleos-thasoy/"
+      ]
+    },
+    {
+      "candidate_id": "gr-ep-philippoi-saint-luke-contact-route",
+      "parent": "ep-philippoi",
+      "country": "GR",
+      "category": "contact-lead",
+      "status": "held-for-body-contact",
+      "reason": "The current Metropolis site confirms Saint Luke Parish Church in Kavala, but no body-owned detail page or body-associated public phone, email, or street address was found in the current official parish page set. The parish is published from the exact legal roster without copying the Metropolis office routes.",
+      "sources": [
+        "https://imfnth.gr/",
+        "https://ecclesiagreece.gr/greek/press/ekklisia/2019_avgoustos_septembrios.pdf"
+      ]
+    },
+    {
+      "candidate_id": "gr-ep-philippoi-history-and-map-leads",
+      "parent": "ep-philippoi",
+      "country": "GR",
+      "category": "current-status-unclear",
+      "status": "discovery-only",
+      "reason": "Historic monuments, church ruins, map markers, and search-only leads remain unpublished unless a current competent Church source establishes an exact worship body, its present status, and its canonical parent.",
+      "sources": [
+        "https://imfnth.gr/",
+        "https://ec-patr.org/entities/iera-mitropoli-filippon-neapoleos-thasoy/"
+      ]
+    }
+  ],
+  "source_reconciliations": [
+    {
+      "subject": "Current parish total and exact legal roster",
+      "decision": "The official 2019 Church of Greece regulation reports 93 parishes and enumerates their exact legal identities. The official 2020 amendment adds the Saint George parish at Chryssochorion. The resulting 94 exact names match the current Patriarchate report of 94 parish churches, so all 94 are published once without creating an arithmetic residual.",
+      "sources": [
+        "https://ecclesiagreece.gr/greek/press/ekklisia/2019_avgoustos_septembrios.pdf",
+        "https://ecclesiagreece.gr/greek/press/ekklisia/2020_martios.pdf",
+        "https://ec-patr.org/entities/iera-mitropoli-filippon-neapoleos-thasoy/"
+      ]
+    },
+    {
+      "subject": "Zarkadia search-rendering omission",
+      "decision": "The searchable rendering of the 2019 roster exposes 92 of its stated 93 parish rows and skips the row between Erateino and Zygos. The official 2017 legal recognition identifies that body exactly as the Life-Giving Spring parish at Zarkadia. Restoring that exact printed identity reconciles the 2019 table to its own 93-parish total without inventing a body.",
+      "sources": [
+        "https://ecclesiagreece.gr/greek/press/ekklisia/2017_iounios.pdf",
+        "https://ecclesiagreece.gr/greek/press/ekklisia/2019_avgoustos_septembrios.pdf"
+      ]
+    },
+    {
+      "subject": "Kavala parish contact pages",
+      "decision": "Sixteen of the 17 Kavala parish bodies have current official Metropolis detail pages. Their body-specific street addresses, public telephone routes, and official detail URLs are preserved. The Saint Luke parish is current-confirmed but carries no body route found in the official page set, so no parent office contact is substituted.",
+      "sources": [
+        "https://imfnth.gr/mitropoli/topiki-agiologia/2014-12-09-17-35-17/arxieratiki-epitropeia.html",
+        "https://imfnth.gr/",
+        "https://ecclesiagreece.gr/greek/press/ekklisia/2019_avgoustos_septembrios.pdf"
+      ]
+    },
+    {
+      "subject": "Current monasteries",
+      "decision": "The current Patriarchate and Church of Greece profiles name the same four monasteries and publish one telephone for each. All four institutions and all four body-associated phone routes are preserved. The current local Metropolis page also supplies body-owned detail URLs for the Apostle Silas and Dormition at Maries monasteries.",
+      "sources": [
+        "https://ec-patr.org/entities/iera-mitropoli-filippon-neapoleos-thasoy/",
+        "https://www.ecclesiagreece.gr/ecclesiajoomla/index.php/el/metropoleis/philippon-neapoleos-kai-thasou",
+        "https://imfnth.gr/mitropoli/topiki-agiologia/ieres-mones.html"
+      ]
+    },
+    {
+      "subject": "Current pilgrimage churches",
+      "decision": "The current Patriarchate profile names three pilgrimage churches and publishes one telephone for each: Saint Gregory the Theologian at Nea Karvali, Saint Nektarios at Aspri Ammos, and the Saint Lydia Baptistery near ancient Philippoi. All three are published. The current local Metropolis page supplies body-owned detail URLs for Saint Gregory and Saint Lydia.",
+      "sources": [
+        "https://ec-patr.org/entities/iera-mitropoli-filippon-neapoleos-thasoy/",
+        "https://imfnth.gr/mitropoli/topiki-agiologia/ieres-mones.html"
+      ]
+    },
+    {
+      "subject": "Contact boundaries",
+      "decision": "Official body-associated landlines and clergy-linked routes are retained while personnel names are omitted. The Metropolis office phone, email, fax, and website are not copied onto subordinate bodies. No body-specific email is published because none was found in the current exact body sources.",
+      "sources": [
+        "https://imfnth.gr/",
+        "https://ec-patr.org/entities/iera-mitropoli-filippon-neapoleos-thasoy/"
+      ]
+    }
+  ],
+  "official_parent_audit": [
+    {
+      "parent": "ep-philippoi",
+      "result": "101 exact current bodies published: 94 parish churches, four monasteries, and three pilgrimage churches.",
+      "roster_status": "complete exact legal parish roster reconciled to the current 94-parish aggregate, complete current monastery list, and complete current pilgrimage list; unnamed chapel and cemetery aggregates held",
+      "sources": [
+        "https://ecclesiagreece.gr/greek/press/ekklisia/2019_avgoustos_septembrios.pdf",
+        "https://ecclesiagreece.gr/greek/press/ekklisia/2020_martios.pdf",
+        "https://ec-patr.org/entities/iera-mitropoli-filippon-neapoleos-thasoy/"
+      ]
+    }
+  ],
+  "exclusions": [
+    {
+      "category": "aggregate-only",
+      "decision": "No chapel, country church, cemetery church, monastery, parish, or other body is inferred solely from an aggregate count or arithmetic difference.",
+      "sources": [
+        "https://ec-patr.org/entities/iera-mitropoli-filippon-neapoleos-thasoy/"
+      ]
+    },
+    {
+      "category": "parent-contact",
+      "decision": "Metropolis office telephone, email, fax, and website values are not copied onto subordinate bodies without an explicit body-level association.",
+      "sources": [
+        "https://imfnth.gr/",
+        "https://ec-patr.org/entities/iera-mitropoli-filippon-neapoleos-thasoy/"
+      ]
+    },
+    {
+      "category": "clergy-personnel",
+      "decision": "Official public telephone routes tied to an exact body are retained, including routes displayed beside clergy assignments, while clergy and monastic personnel names are omitted.",
+      "sources": [
+        "https://imfnth.gr/mitropoli/topiki-agiologia/2014-12-09-17-35-17/arxieratiki-epitropeia.html",
+        "https://ec-patr.org/entities/iera-mitropoli-filippon-neapoleos-thasoy/"
+      ]
+    },
+    {
+      "category": "historic-and-map-only",
+      "decision": "Historic descriptions, ruins, monuments, map markers, and search-only leads remain unpublished unless a current competent Church source establishes the exact present body and canonical parent.",
+      "sources": [
+        "https://imfnth.gr/",
+        "https://ec-patr.org/entities/iera-mitropoli-filippon-neapoleos-thasoy/"
+      ]
+    }
+  ]
+}
