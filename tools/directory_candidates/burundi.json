@@ -1,0 +1,84 @@
+{
+  "v": 1,
+  "country": "BI",
+  "checked": "2026-11-15",
+  "method": "Current official patriarchal, diocesan, exarchate, and mission records were used to establish named Eastern Orthodox bodies in Burundi. Search engines and maps were used only to discover competent first-party sources. Overlapping canonical jurisdictions are preserved without adjudication. Unnamed communities, construction-only records, and administrative centres not established as worship bodies remain held.",
+  "published_summary": {
+    "ax-bujumbura": 2,
+    "ru-south-africa": 1,
+    "total": 3
+  },
+  "candidates": [
+    {
+      "candidate_id": "bi-ax-gihunge-saints-athanasius-john",
+      "parent": "ax-bujumbura",
+      "country": "BI",
+      "name": "Church of Saints Athanasios the Great and John the Theologian in Gihunge",
+      "status": "hold until current completion and ordinary worship are established",
+      "reason": "An official 2023 patriarchal visit records the consecration service for this church while explicitly describing it as under completion. No later competent official source found in this pass establishes completion or current ordinary worship.",
+      "sources": [
+        "https://www.patriarchateofalexandria.com/burundi-accepts-orthodoxy/?lang=en"
+      ]
+    },
+    {
+      "candidate_id": "bi-ax-bujumbura-saint-arsenios-centre",
+      "parent": "ax-bujumbura",
+      "country": "BI",
+      "name": "Missionary Centre of Saint Arsenios Gagaras in Bujumbura",
+      "status": "hold until the competent diocese identifies it as a distinct worship body",
+      "reason": "The current diocesan profile names the Missionary Centre at the diocesan address but does not establish a separate church, chapel, parish, or recurring worship body. It is not inferred from the administrative reference.",
+      "sources": [
+        "https://www.patriarchateofalexandria.com/archdioceses/holy-diocese-of-bujumbura-and-burundi/?lang=en"
+      ]
+    },
+    {
+      "candidate_id": "bi-ru-unnamed-current-communities",
+      "parent": "ru-south-africa",
+      "country": "BI",
+      "name": "Current unnamed Russian Orthodox communities in Bujumbura, Magara, Ngozi, and Burambi",
+      "status": "hold until each body receives or publishes a stable name",
+      "reason": "Current 2026 official news establishes worshipping communities in these four places. The current diocesan roster names only the Saint Sergius parish in Rumonge and reports one parish for Burundi. No dedication or stable official name is inferred for the other communities.",
+      "sources": [
+        "https://exarchate-africa.ru/novosti/pravoslavnye-obshhiny-v-burundi-vstretili-prazdnik-voskreseniya-hristova/",
+        "https://exarchate-africa.ru/novosti/v-s-ngozi-v-burundi-k-czerkvi-hristovoj-prisoedinilsya-21-chelovek/",
+        "https://exarchate-africa.ru/novosti/v-burundi-eshhe-odna-obshhina-pereshla-v-russkuyu-pravoslavnuyu-czerkov/"
+      ]
+    }
+  ],
+  "official_jurisdiction_audit": [
+    {
+      "jurisdiction": "Patriarchate of Alexandria",
+      "result": "The current diocesan profile and official patriarchal visit records name the Dormition Cathedral in Bujumbura and the Saint Alexios church in Buramata. Both are published. The Gihunge church last described as under completion and the administrative Missionary Centre remain held.",
+      "sources": [
+        "https://www.patriarchateofalexandria.com/archdioceses/holy-diocese-of-bujumbura-and-burundi/?lang=en",
+        "https://www.patriarchateofalexandria.com/the-patriarch-supports-the-young-refugees-of-burundi/?lang=en&print=print",
+        "https://www.patriarchateofalexandria.com/burundi-accepts-orthodoxy/?lang=en"
+      ]
+    },
+    {
+      "jurisdiction": "Moscow Patriarchate, Patriarchal Exarchate of Africa",
+      "result": "The current official South African Diocese roster identifies one named Burundi parish, Saint Sergius of Radonezh in Rumonge. It is published. Current news identifies four additional unnamed communities, which remain held without invented names.",
+      "sources": [
+        "https://exarchate-africa.ru/en/dioceses_cat/south-african-diocese/",
+        "https://exarchate-africa.ru/novosti/pravoslavnye-obshhiny-v-burundi-vstretili-prazdnik-voskreseniya-hristova/"
+      ]
+    },
+    {
+      "jurisdiction": "Ecumenical Patriarchate, Antiochian Patriarchate, Jerusalem Patriarchate, Romanian Patriarchate, Serbian Patriarchate, Georgian Patriarchate, OCA, and ROCOR",
+      "result": "Their current official jurisdictional or diaspora directories were checked and did not name a Burundi body. This is a bounded directory result, not a general country-level absence claim.",
+      "sources": [
+        "https://ec-patr.org/en/ecumenical-patriarchate/directory/",
+        "https://www.antiochpatriarchate.org/en/category/dioceses/6/",
+        "https://directory.synod.com/listings/"
+      ]
+    },
+    {
+      "jurisdiction": "Other canonical Local Churches and diaspora structures",
+      "result": "No additional Burundi row is published without an exact current first-party jurisdictional citation. This records incomplete verification for any structure not individually listed and makes no general absence claim.",
+      "sources": [
+        "https://www.patriarchateofalexandria.com/archdioceses/?lang=en",
+        "https://exarchate-africa.ru/en/dioceses_cat/south-african-diocese/"
+      ]
+    }
+  ]
+}
