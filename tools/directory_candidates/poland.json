@@ -1,0 +1,286 @@
+{
+  "v": 1,
+  "country": "PL",
+  "checked": "2026-11-15",
+  "method": [
+    "Publication requires a current official first-party roster or directory.",
+    "Maps and general web search were used only to discover official sources.",
+    "Statistical totals without current names remain candidates and are not published.",
+    "Separate canonical jurisdictions were audited independently rather than inferred from the Polish Church roster."
+  ],
+  "published": {
+    "canonical_parents": {
+      "pl-warsaw-bielsk": 71,
+      "pl-bialystok-gdansk": 58,
+      "pl-lodz-poznan": 13,
+      "pl-przemysl-gorlice": 26,
+      "pl-wroclaw-szczecin": 46,
+      "pl-lublin-chelm": 30,
+      "pl-army-ordinariate": 7,
+      "poland": 12
+    },
+    "source_roster_rows": 251,
+    "monastic_institutions": 12,
+    "total_rows": 263,
+    "ordinary_roster_rows": 244,
+    "military_roster_rows": 7,
+    "roster_by_diocese": {
+      "Warsaw-Bielsk Diocese": 71,
+      "Bialystok-Gdansk Diocese": 58,
+      "Lodz-Poznan Diocese": 13,
+      "Przemysl-Gorlice Diocese": 26,
+      "Wroclaw-Szczecin Diocese": 46,
+      "Lublin-Chelm Diocese": 30,
+      "Military Ordinariate": 7
+    },
+    "monastic_by_rank": {
+      "Monastery": 7,
+      "Religious House": 4,
+      "Skete": 1
+    },
+    "sources": [
+      "https://ukraina.cerkiew.pl/pl/parafie-2/",
+      "https://stat.gov.pl/files/gfx/portalinformacyjny/en/defaultaktualnosci/3632/1/4/1/religious_denominations_in_poland_2022_2024.pdf",
+      "https://ukraina.cerkiew.pl/pl/prawoslawna-cerkiew-w-polsce/",
+      "https://lublin.cerkiew.pl/monastery/"
+    ]
+  },
+  "candidates": [
+    {
+      "id": "pl-pol-three-unnamed-nonmilitary-parishes",
+      "status": "hold",
+      "authority": "Polish Autocephalous Orthodox Church",
+      "gap": "Statistics Poland reports 254 parishes total in 2024. The six territorial dioceses sum to 247 and the Military Ordinariate adds 7. The current official name roster exposes 244 non-military bodies and all 7 military parishes, leaving three non-military names unresolved.",
+      "needed": "A current first-party name and location for each of the three bodies, with enough information to deduplicate it against the 244 named non-military roster rows.",
+      "sources": [
+        "https://stat.gov.pl/files/gfx/portalinformacyjny/en/defaultaktualnosci/3632/1/4/1/religious_denominations_in_poland_2022_2024.pdf",
+        "https://ukraina.cerkiew.pl/pl/parafie-2/"
+      ]
+    },
+    {
+      "id": "pl-pol-unnamed-subordinate-temples",
+      "status": "hold",
+      "authority": "Polish Autocephalous Orthodox Church",
+      "gap": "Statistics Poland reports 422 temples in 2024, including 7 military temples. The central roster is organized by parishes and other pastoral bodies and does not name every subordinate church or chapel.",
+      "needed": "Current first-party object rosters for each diocese, reconciled against parish pages so subordinate temples are added once and remain attached to an active canonical body.",
+      "sources": [
+        "https://stat.gov.pl/files/gfx/portalinformacyjny/en/defaultaktualnosci/3632/1/4/1/religious_denominations_in_poland_2022_2024.pdf",
+        "https://ukraina.cerkiew.pl/pl/parafie-2/"
+      ]
+    }
+  ],
+  "reconciliations": [
+    {
+      "subject": "Parish arithmetic",
+      "result": "The 2024 total is 254, not 254 plus the Military Ordinariate. The territorial dioceses total 247 and the Military Ordinariate contributes 7."
+    },
+    {
+      "subject": "Military and civilian overlaps",
+      "result": "All seven military parishes remain separate official bodies even where a civilian parish serves the same city or worship site."
+    },
+    {
+      "subject": "Monastic and parish overlaps",
+      "result": "The twelve monastic institutions remain separate from same-place parish rows because the official sources identify them as distinct institutions."
+    },
+    {
+      "subject": "Historical monastic lists",
+      "result": "Older references to Ujkowice or a Bialystok monastic community were not substituted for the 2024 official list. Only the seven monasteries, four religious houses, and one skete named in the current statistical return were published."
+    }
+  ],
+  "jurisdiction_audits": [
+    {
+      "jurisdiction": "Ukrainian Orthodox Church",
+      "result": "No separate Poland body published. The Church's current official statement says it does not open its own parishes in Poland.",
+      "sources": [
+        "https://vzcz.church.ua/2026/02/09/pro-sluzhinnya-zaxidnojevropejskogo-vikariatstva-ukrajinskoji-pravoslavnoji-cerkvi/",
+        "https://news.church.ua/2022/06/10/zavdannya-nashoji-cerkvi-pastirske-opikuvannya-virnimi-de-b-voni-ne-znaxodilisya-prot-mikolaj-danilevich-pro-rishennya-soboru-upc-organizovuvati-parafiji-zakordonom/"
+      ]
+    },
+    {
+      "jurisdiction": "Orthodox Church of Ukraine",
+      "result": "No current official first-party parish, mission, monastery, chapel, or recurring worship site in Poland was established. Official Poland references found were visits and institutional relations.",
+      "sources": [
+        "https://www.pomisna.info/el/nea/predstoyatel-ptsu-vidvidav-posolstvo-ukrayiny-v-polshhi/"
+      ]
+    },
+    {
+      "jurisdiction": "Romanian Orthodox Church",
+      "result": "The current official external communities directory does not list Poland.",
+      "sources": [
+        "https://patriarhia.ro/organizarea-bisericii-ortodoxe-romane/reprezentante-si-comunitati-externe/"
+      ]
+    },
+    {
+      "jurisdiction": "Macedonian Orthodox Church - Ohrid Archbishopric",
+      "result": "The current official European diocesan roster does not list Poland.",
+      "sources": [
+        "https://mpee.mk/",
+        "https://mpee.mk/category/za-eparxijata"
+      ]
+    },
+    {
+      "jurisdiction": "Russian Orthodox Archdiocese of Western European Parishes",
+      "result": "The current official directory does not list Poland.",
+      "sources": [
+        "https://archeveche.eu/lieux/"
+      ]
+    },
+    {
+      "jurisdiction": "Russian Orthodox Church Outside of Russia",
+      "result": "The current official German and Western European diocesan directories do not list Poland.",
+      "sources": [
+        "https://rocor.de/de/gemeinden-liste",
+        "https://orthodox-europe.org/english/parishes/"
+      ]
+    },
+    {
+      "jurisdiction": "Moscow Patriarchate direct structures",
+      "result": "The current official Patriarchal Exarchate of Western Europe structure does not establish a direct Poland body.",
+      "sources": [
+        "https://patriarchia.ru/church/orgs/exarchates/org/543"
+      ]
+    },
+    {
+      "jurisdiction": "Ecumenical Patriarchate direct structures",
+      "result": "No separate current official first-party body in Poland was established beyond recognition of the autocephalous Polish Church.",
+      "sources": [
+        "https://ec-patr.org/en/entities/"
+      ]
+    },
+    {
+      "jurisdiction": "Serbian Orthodox Church",
+      "result": "No current official first-party body in Poland was established. Official Poland references concern relations with the Polish Church.",
+      "sources": [
+        "https://www.spc.rs/en/96.dioceses-of-the-soc.html"
+      ]
+    },
+    {
+      "jurisdiction": "Bulgarian Orthodox Church",
+      "result": "No current official first-party body in Poland was established in the official diocesan structure.",
+      "sources": [
+        "https://bg-patriarshia.bg/dioceses"
+      ]
+    },
+    {
+      "jurisdiction": "Georgian Orthodox Church",
+      "result": "No current official first-party body in Poland was established in the official foreign structure.",
+      "sources": [
+        "https://patriarchate.ge/foreign/bycategories/4"
+      ]
+    },
+    {
+      "jurisdiction": "Antiochian Orthodox Church",
+      "result": "The current official patriarchal directory does not list an Antiochian body in Poland.",
+      "sources": [
+        "https://antiochpatriarchate.org/en/page/3011/"
+      ]
+    },
+    {
+      "jurisdiction": "Greek Orthodox Patriarchate of Alexandria and All Africa",
+      "result": "The current official archdioceses and bishoprics are in Africa and do not include Poland.",
+      "sources": [
+        "https://www.patriarchateofalexandria.com/archdioceses-amp-bishoprics/?lang=en"
+      ]
+    },
+    {
+      "jurisdiction": "Greek Orthodox Patriarchate of Jerusalem",
+      "result": "The current official patriarchal administrative structure does not include a body in Poland.",
+      "sources": [
+        "https://en.jerusalem-patriarchate.info/administrative-structure/patriarchal-management-committees/"
+      ]
+    },
+    {
+      "jurisdiction": "Church of Cyprus",
+      "result": "The current official administrative structure is confined to its Cypriot dioceses and does not include Poland.",
+      "sources": [
+        "https://churchofcyprus.org.cy/diikitiki_diathrosi"
+      ]
+    },
+    {
+      "jurisdiction": "Church of Greece",
+      "result": "The official Holy Synod structure does not establish a parish, mission, monastery, chapel, or recurring worship site in Poland.",
+      "sources": [
+        "https://www.ecclesia.gr/English/EnIndex.html"
+      ]
+    },
+    {
+      "jurisdiction": "Orthodox Autocephalous Church of Albania",
+      "result": "The current 2026 official organization is confined to its Albanian archdiocese and metropolises and does not include Poland.",
+      "sources": [
+        "https://orthodoxalbania.org/2026/en/church-organization-2026/"
+      ]
+    },
+    {
+      "jurisdiction": "Orthodox Church of the Czech Lands and Slovakia",
+      "result": "The current official Czech and Slovak structures do not list a body in Poland.",
+      "sources": [
+        "https://www.pravoslavnacirkev.cz/",
+        "https://www.orthodox.sk/"
+      ]
+    },
+    {
+      "jurisdiction": "Orthodox Church in America",
+      "result": "The current official parish and diocesan directories cover its American, Canadian, and Mexican structures and do not list Poland.",
+      "sources": [
+        "https://www.oca.org/parishes",
+        "https://www.oca.org/dioceses"
+      ]
+    },
+    {
+      "jurisdiction": "Autonomous Orthodox Church of Finland",
+      "result": "The current official structure lists three Finnish dioceses and ten parishes and does not include Poland.",
+      "sources": [
+        "https://ort.fi/en/finnish-orthodox-church/"
+      ]
+    },
+    {
+      "jurisdiction": "Estonian Apostolic Orthodox Church",
+      "result": "The current official diocesan structure does not list a body in Poland.",
+      "sources": [
+        "https://www.eoc.ee/"
+      ]
+    },
+    {
+      "jurisdiction": "Estonian Orthodox Christian Church",
+      "result": "The current official parish roster does not list a body in Poland.",
+      "sources": [
+        "https://ru.orthodox.ee/parishes/"
+      ]
+    },
+    {
+      "jurisdiction": "Latvian Orthodox Church",
+      "result": "The current official churches and monasteries structure does not list a body in Poland.",
+      "sources": [
+        "https://www.pravoslavie.lv/"
+      ]
+    },
+    {
+      "jurisdiction": "Orthodox Church in Japan",
+      "result": "The current official structure does not list a body in Poland.",
+      "sources": [
+        "https://www.orthodoxjapan.jp/"
+      ]
+    },
+    {
+      "jurisdiction": "Autonomous Church of Sinai",
+      "result": "The current official structure is the Holy Monastery of Sinai and does not include a body in Poland.",
+      "sources": [
+        "https://www.sinaimonastery.com/"
+      ]
+    },
+    {
+      "jurisdiction": "Belarusian Exarchate of the Moscow Patriarchate",
+      "result": "The current official structure does not list a body in Poland.",
+      "sources": [
+        "https://church.by/"
+      ]
+    },
+    {
+      "jurisdiction": "Orthodox Church of Moldova",
+      "result": "The current official structure does not list a body in Poland.",
+      "sources": [
+        "https://mitropolia.md/"
+      ]
+    }
+  ]
+}
