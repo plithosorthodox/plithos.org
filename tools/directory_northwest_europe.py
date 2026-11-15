@@ -16,6 +16,7 @@ import directory_albania
 import directory_australia
 import directory_austria
 import directory_armenia
+import directory_azerbaijan
 import directory_belgium
 import directory_bosnia_montenegro
 import directory_croatia
@@ -55,6 +56,7 @@ SOURCE_MODULES = (
     directory_albania,
     directory_austria,
     directory_armenia,
+    directory_azerbaijan,
     directory_belgium,
     directory_bosnia_montenegro,
     directory_croatia,
@@ -116,6 +118,20 @@ def build():
                     raise ValueError("duplicate or missing row id: %s" % row_id)
                 row_ids.add(row_id)
                 payload["rows"].append(row)
+    # Azerbaijan's Georgian churches belong to the existing Georgian branch.
+    # The country module keeps them separate from the local Baku Diocese so
+    # this shared branch remains the one owner of the Georgian payload.
+    parent = "georgia"
+    payload = payloads[parent]
+    countries[parent].add("AZ")
+    for row in directory_azerbaijan.DIRECT_GEORGIA_ROWS:
+        row_id = row.get("id")
+        if not row_id or row_id in row_ids:
+            raise ValueError("duplicate or missing row id: %s" % row_id)
+        if row.get("parent") != parent or row.get("country") != "AZ":
+            raise ValueError("%s is not an Azerbaijani Georgian row" % row_id)
+        row_ids.add(row_id)
+        payload["rows"].append(directory_azerbaijan.clean(row))
     # The OCU vicariate spans Europe and Australia. This module already owns
     # its shared payload, so append the Australian official-directory rows
     # here rather than creating a second branch owner in Oceania.
@@ -136,8 +152,8 @@ def build():
             payload["country"] = scope[0]
         else:
             payload["countries"] = scope
-    if len(payloads) != 124 or sum(len(p["rows"]) for p in payloads.values()) != 7086:
-        raise ValueError("combined country branches must publish 124 parents and 7086 rows")
+    if len(payloads) != 125 or sum(len(p["rows"]) for p in payloads.values()) != 7101:
+        raise ValueError("combined country branches must publish 125 parents and 7101 rows")
     return dict(sorted(payloads.items()))
 
 
@@ -204,7 +220,7 @@ def main():
         for error in errors:
             print(error, file=sys.stderr)
         return 1
-    print("European branches: 124 parents, 7086 subordinate bodies")
+    print("European branches: 125 parents, 7101 subordinate bodies")
     return 0
 
 

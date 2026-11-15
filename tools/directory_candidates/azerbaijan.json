@@ -1,0 +1,142 @@
+{
+  "v": 1,
+  "country": "AZ",
+  "checked": "2026-11-15",
+  "method": "Current official diocesan, patriarchal, government, and service records were used to establish named Eastern Orthodox bodies in Azerbaijan. Search engines and maps were used only to discover first-party or competent official sources. Unnamed rooms, communities without premises, uncertain current worship sites, noncanonical communities, and bodies outside the Eastern Orthodox communion were not converted into directory rows.",
+  "published_summary": {
+    "ru-baku": 11,
+    "georgia-direct": 4,
+    "total": 15
+  },
+  "candidates": [
+    {
+      "candidate_id": "az-ru-two-unnamed-prison-prayer-rooms",
+      "parent": "ru-baku",
+      "country": "AZ",
+      "name": "Two unnamed prison prayer rooms of the Baku Diocese",
+      "status": "hold until each body is named by the competent diocese",
+      "reason": "The current diocesan profile reports four prayer rooms at correctional institutions but names only the Saint Anastasia room at Institution No. 4 and the Saint George room at Institution No. 10. Those two named bodies are published. No names, institutions, or stable identities are inferred for the other two.",
+      "sources": [
+        "https://pravoslavie.az/eparchy/index/"
+      ]
+    },
+    {
+      "candidate_id": "az-ru-communities-without-premises",
+      "parent": "ru-baku",
+      "country": "AZ",
+      "name": "Unnamed Baku Diocese communities without worship premises",
+      "status": "hold until a named body or recurring worship site is officially identified",
+      "reason": "The diocese reports several communities without prayer premises and pastoral visits to believers on Pirallahi Island and in Sabirabad, Saatli, Qusar, and other districts. It does not name separate communities or identify recurring worship sites, so no body is inferred from the places visited.",
+      "sources": [
+        "https://pravoslavie.az/eparchy/index/"
+      ]
+    },
+    {
+      "candidate_id": "az-ge-kurmukhi-saint-george",
+      "parent": "georgia",
+      "country": "AZ",
+      "name": "Saint George Church at Kurmukhi",
+      "local": "ქურმუხის წმინდა გიორგის სახელობის ეკლესია",
+      "status": "hold until current ordinary worship and canonical administration are established",
+      "reason": "A Georgian government page describes the church as active and a 2022 official record documents a feast-day prayer service. The current four-church state roster used for publication does not include Kurmukhi, and no current competent Church roster establishes its ordinary operation or administrative placement. It remains held rather than duplicated or inferred.",
+      "sources": [
+        "https://azerbaijan.mfa.gov.ge/diaspora",
+        "https://religion.gov.ge/ge/siaxleebi/giorgoba-qurmuxis-wminda-giorgis-tazarsi",
+        "https://multikulturalizm.gov.az/az/post/1130/azerbaycanda-xristianliq.html"
+      ]
+    },
+    {
+      "candidate_id": "az-ge-qakh-alaverdi-saint-nino",
+      "parent": "georgia",
+      "country": "AZ",
+      "name": "Saint Nino Church at Qakh Alaverdi",
+      "local": "კახის ალავერდის წმინდა ნინოს სახელობის ეკლესია",
+      "status": "hold until current worship and canonical administration are established",
+      "reason": "The Georgian Embassy identifies the church as present in Qakh District, but the current official four-church operating roster does not include it and no current competent Church source establishes worship or administrative control.",
+      "sources": [
+        "https://azerbaijan.mfa.gov.ge/diaspora",
+        "https://multikulturalizm.gov.az/az/post/1130/azerbaycanda-xristianliq.html"
+      ]
+    }
+  ],
+  "exclusions": [
+    {
+      "scope": "Alban-Udi Christian religious communities",
+      "result": "The Republic of Azerbaijan registers the Alban-Udi communities as separate Christian religious communities. No competent canonical Eastern Orthodox synod identifies them as one of its dioceses, parishes, or missions. They are outside this Eastern Orthodox directory. This classification makes no judgment about their heritage or religious identity.",
+      "sources": [
+        "https://udi.az/",
+        "https://scara.gov.az/storage/postFile/qeyri-islam-dini-icmalarpdf-01-02-2024-11-30-41pdf-30-07-2024-11-43-34-2-2pdf_10-02-2025_16-09-35.pdf"
+      ]
+    },
+    {
+      "scope": "Armenian Apostolic Diocese of Azerbaijan",
+      "result": "The Mother See of Holy Etchmiadzin lists an Armenian Diocese of Azerbaijan and identifies the Armenian Apostolic Church within the Oriental Orthodox family. It is therefore outside the Eastern Orthodox scope of this directory. No claim is made here about the current use or condition of individual Armenian church buildings.",
+      "sources": [
+        "https://www.armenianchurch.org/en/Dioceses/",
+        "https://www.armenianchurch.org/en/videos/11-03-2025-churches/5374"
+      ]
+    }
+  ],
+  "official_jurisdiction_audit": [
+    {
+      "jurisdiction": "Moscow Patriarchate",
+      "result": "The current Baku and Azerbaijan Diocese profile reports seven parishes with churches, two chapels, four prison prayer rooms, and unnamed communities without premises. All eleven named bodies are published. Two unnamed prayer rooms and the unnamed communities remain held.",
+      "sources": [
+        "https://pravoslavie.az/eparchy/index/",
+        "https://patriarchia.ru/org/140"
+      ]
+    },
+    {
+      "jurisdiction": "Georgian Patriarchate",
+      "result": "The competent regional evidence and official Azerbaijani operating roster identify four Georgian Orthodox churches at Qax Ingiloy, Alibayli, Kotuklu, and Meshabash. These four are published under the existing Georgian parent. Kurmukhi and Qakh Alaverdi remain held for current worship and administrative reconciliation.",
+      "sources": [
+        "https://multikulturalizm.gov.az/az/post/1130/azerbaycanda-xristianliq.html",
+        "https://azerbaijan.mfa.gov.ge/diaspora",
+        "https://patriarchate.ge/news/3339"
+      ]
+    },
+    {
+      "jurisdiction": "Ecumenical Patriarchate",
+      "result": "The current official directory was checked and did not name an Azerbaijan body. This is a bounded roster result, not a country-level absence claim.",
+      "sources": [
+        "https://ec-patr.org/en/ecumenical-patriarchate/directory/"
+      ]
+    },
+    {
+      "jurisdiction": "Romanian Patriarchate",
+      "result": "The current official external communities directory was checked and did not name an Azerbaijan body. This is a bounded roster result, not a country-level absence claim.",
+      "sources": [
+        "https://patriarhia.ro/organizarea-bisericii-ortodoxe-romane/reprezentante-si-comunitati-externe/"
+      ]
+    },
+    {
+      "jurisdiction": "Serbian Patriarchate",
+      "result": "The current official diocesan and linked diaspora material was checked and did not name an Azerbaijan body. This is a bounded roster result, not a country-level absence claim.",
+      "sources": [
+        "https://www.spc.rs/en/96.dioceses-of-the-soc.html"
+      ]
+    },
+    {
+      "jurisdiction": "Russian Orthodox Church Outside of Russia",
+      "result": "The current official clergy and parish directory was checked and did not name a separate Azerbaijan body. This is a bounded roster result, not a country-level absence claim.",
+      "sources": [
+        "https://directory.synod.com/listings/"
+      ]
+    },
+    {
+      "jurisdiction": "Antiochian Patriarchate",
+      "result": "The current official diocesan material was checked and did not name an Azerbaijan body. This is a bounded roster result, not a country-level absence claim.",
+      "sources": [
+        "https://www.antiochpatriarchate.org/en/category/dioceses/6/"
+      ]
+    },
+    {
+      "jurisdiction": "Other canonical Local Churches and diaspora structures",
+      "result": "No additional Azerbaijan row is published without an exact current first-party jurisdictional citation. This records incomplete verification for any jurisdiction not individually listed above and makes no general absence claim.",
+      "sources": [
+        "https://pravoslavie.az/eparchy/index/",
+        "https://multikulturalizm.gov.az/az/post/1130/azerbaycanda-xristianliq.html"
+      ]
+    }
+  ]
+}
