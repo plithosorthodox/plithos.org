@@ -127,7 +127,7 @@ ROWS = [
       local=u"ΙΕΡΑ ΜΗΤΡΟΠΟΛΗ ΛΙΒΥΗΣ",
       seat="Tripoli", country="LY",
       address=["Saint Mary's Square, Old Town, Metropolitan Church of Saint George of the Slaves"],
-      checked="2026-09-14",
+      checked="2026-11-15",
       founded=[(
         u"Η Ιερά Μητρόπολη Λιβύης είναι σήμερα η έως την 15η Φεβρουαρίου "
         u"2024 Ιερά Μητρόπολη Tριπόλεως, η οποία ιδρύθη διά Πατριαρχικού και "

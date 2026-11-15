@@ -1,0 +1,73 @@
+{
+  "v": 1,
+  "country": "LY",
+  "checked": "2026-11-15",
+  "method": "Current official patriarchal, exarchate, and diaspora records were checked for exact current Eastern Orthodox bodies in Libya. Search engines and maps were used only to discover competent first-party sources. The existing Holy Metropolis of Libya parent is retained and refreshed. Historical churches, periodic visiting services, and bodies without exact current confirmation remain unpublished.",
+  "published_summary": {
+    "existing_ax-libya_parent": 1,
+    "ax-libya": 1,
+    "new_subordinate_bodies": 1
+  },
+  "candidates": [
+    {
+      "candidate_id": "ly-ax-benghazi-annunciation",
+      "parent": "ax-libya",
+      "country": "LY",
+      "name": "Annunciation Church in Benghazi",
+      "status": "hold until current worship and body identity are confirmed by the competent metropolis",
+      "reason": "Older patriarchal and church records identify an Orthodox church in Benghazi, while later official reporting described hopes to reopen the churches in Tripoli and Benghazi. Current 2026 reporting confirms the Tripoli metropolitan church but does not establish current worship at the Benghazi body. It remains held rather than treated as current from historical continuity alone.",
+      "sources": [
+        "https://www.patriarchateofalexandria.com/his-beatitude-visits-benghazi-in-libya/?lang=en&print=print",
+        "https://orthodoxtimes.com/orthodox-churches-to-reopen-in-libya-after-ceasefire-agreement/",
+        "https://www.patriarchateofalexandria.com/archdioceses/iera-mitropoli-mpotsoyanas/"
+      ]
+    },
+    {
+      "candidate_id": "ly-ru-visiting-services",
+      "parent": "ru-north-africa",
+      "country": "LY",
+      "name": "Periodic Russian Orthodox services in Libya",
+      "status": "hold until the competent diocese establishes a named current parish or recurring worship body",
+      "reason": "The current North African Diocese includes Libya in its territorial scope but does not list a Libyan parish. An official 2026 report records a visiting priest celebrating Holy Friday and Holy Saturday services in Libya without naming a permanent church, parish, or exact locality. No row is inferred from territorial scope or a visiting service alone.",
+      "sources": [
+        "https://exarchate-africa.ru/en/dioceses_cat/diocese-of-north-africa/",
+        "https://exarchate-africa.ru/en/news/divine-services-held-in-mali-and-libya-on-the-eve-of-and-on-the-feast-of-holy-easter/"
+      ]
+    }
+  ],
+  "official_jurisdiction_audit": [
+    {
+      "jurisdiction": "Patriarchate of Alexandria",
+      "result": "The current patriarchal register establishes the Holy Metropolis of Libya, its Tripoli see, and its national scope. It gives the current address as the Metropolitan Church of Saint George of the Slaves. Current 2026 church reporting confirms worship there, so the church is published. Benghazi remains held without current body-level confirmation.",
+      "sources": [
+        "https://www.patriarchateofalexandria.com/archdioceses/iera-mitropoli-mpotsoyanas/",
+        "https://vema.com.au/the-feast-of-pascha-in-tripoli-libya/"
+      ]
+    },
+    {
+      "jurisdiction": "Moscow Patriarchate, Patriarchal Exarchate of Africa",
+      "result": "The North African Diocese includes Libya in territorial scope and current official reporting documents a visiting service. The diocese does not list an exact current Libyan parish, so no Moscow row is published.",
+      "sources": [
+        "https://exarchate-africa.ru/en/dioceses_cat/diocese-of-north-africa/",
+        "https://exarchate-africa.ru/en/news/divine-services-held-in-mali-and-libya-on-the-eve-of-and-on-the-feast-of-holy-easter/"
+      ]
+    },
+    {
+      "jurisdiction": "Ecumenical Patriarchate, Antiochian Patriarchate, Jerusalem Patriarchate, Romanian Patriarchate, Serbian Patriarchate, Georgian Patriarchate, OCA, and ROCOR",
+      "result": "Their current official jurisdictional or diaspora directories were checked and did not name an additional Libya body. This is a bounded directory result, not a general country-level absence claim.",
+      "sources": [
+        "https://ec-patr.org/en/ecumenical-patriarchate/directory/",
+        "https://www.antiochpatriarchate.org/en/category/dioceses/6/",
+        "https://directory.synod.com/listings/"
+      ]
+    },
+    {
+      "jurisdiction": "Other canonical Local Churches and diaspora structures",
+      "result": "No additional Libya row is published without an exact current first-party jurisdictional citation. This records incomplete verification for structures not individually listed and makes no general absence claim.",
+      "sources": [
+        "https://www.patriarchateofalexandria.com/archdioceses/?lang=en",
+        "https://exarchate-africa.ru/en/dioceses_cat/diocese-of-north-africa/"
+      ]
+    }
+  ]
+}
