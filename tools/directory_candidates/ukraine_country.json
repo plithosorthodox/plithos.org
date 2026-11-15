@@ -1,0 +1,143 @@
+{
+  "v": 1,
+  "countries": [
+    "UA"
+  ],
+  "checked": "2026-11-15",
+  "method": "Current competent first-party Church rosters and Holy Synod acts control publication. The Ukrainian Orthodox Church and Orthodox Church of Ukraine are represented as distinct current structures and are not deduplicated against one another. The Ukrainian Orthodox Church official Monastic Herald provides a complete 316-body monastery register. Current Orthodox Church of Ukraine acts establish 16 exact current monastic bodies but do not publish a complete national body roster. Search engines, maps, registries, news, aggregators, and historical projects remain discovery-only.",
+  "published_summary": {
+    "uoc_monasteries": 316,
+    "ocu_monastic_bodies": 16,
+    "romanian_organization": 1,
+    "total": 333,
+    "contacts": 2
+  },
+  "candidates": [
+    {
+      "candidate_id": "ua-uoc-body-contact-followup",
+      "parent": "ukraine-uoc",
+      "country": "UA",
+      "name": "Remaining body-level contacts for the 316 UOC monasteries",
+      "status": "published bodies, hold remaining contact enrichment",
+      "reason": "The complete official register establishes all 316 bodies, their eparchies, names, and addresses. Individual official cards can also publish telephone numbers, email addresses, and body-owned sites. The Holy Dormition Pochaiv Lavra contact record was directly audited and published. Source throttling prevented an exhaustive card-by-card contact audit in this tranche, so no other contact is inferred.",
+      "sources": [
+        "https://live.church.ua/monasteries/?lang=en",
+        "https://live.church.ua/monasteries/",
+        "https://live.church.ua/monasteries/111/?lang=en"
+      ]
+    },
+    {
+      "candidate_id": "ua-ocu-complete-current-body-roster",
+      "parent": "ukraine-ocu",
+      "country": "UA",
+      "name": "Complete current OCU monastery, parish, and mission roster",
+      "status": "hold for a complete current competent first-party roster",
+      "reason": "Current Holy Synod acts establish 16 exact current monastic bodies and support their publication. No complete current central OCU body roster was found. The 16 published bodies are therefore a bounded documentary tranche and are not presented as the national total.",
+      "sources": [
+        "https://www.pomisna.info/uk/document-post/dokumenty-zasidannya-svyashhennogo-synodu-2-lyutogo-2026-r/",
+        "https://www.pomisna.info/uk/document-post/dokumenty-zasidannya-svyashhennogo-synodu-3-kvitnya-2026-r/",
+        "https://www.pomisna.info/uk/document-post/dokumenty-zasidannya-svyashhennogo-synodu-11-travnya-2026-r/"
+      ]
+    },
+    {
+      "candidate_id": "ua-other-jurisdiction-body-rosters",
+      "parent": "ukraine",
+      "country": "UA",
+      "name": "Additional separately administered canonical Orthodox bodies in Ukraine",
+      "status": "hold for current competent first-party body rosters",
+      "reason": "The Romanian Patriarchate's current organization in formation is published, and the Ecumenical Patriarchate's Kyiv stavropegion already exists elsewhere in the directory and is not duplicated. No further distinct current body roster in Ukraine was established from a competent first-party Church source. Discovery-only results remain unpublished.",
+      "sources": [
+        "https://patriarhia.ro/organizarea-bisericii-ortodoxe-romane/reprezentante-si-comunitati-externe/",
+        "https://ec-patr.org/en/entities/stavropegic-monastery-of-the-ecumenical-patriarchate-in-kyiv/",
+        "https://www.stavropigiainua.org/"
+      ]
+    }
+  ],
+  "source_reconciliations": [
+    {
+      "subject": "Complete Ukrainian Orthodox Church monastery register",
+      "decision": "The official Monastic Herald identifies the list as 316 of 316 monasteries. The English and Ukrainian lists contain the same 316 numeric body ids. Each body is published once under the official eparchy identifier carried by the register, with its English name and Ukrainian source name and address.",
+      "sources": [
+        "https://live.church.ua/monasteries/?lang=en",
+        "https://live.church.ua/monasteries/"
+      ]
+    },
+    {
+      "subject": "UOC and OCU parallel current structures",
+      "decision": "The two Churches are represented as separate current structures without editorial adjudication. A body name that overlaps historically across their records is not treated as a duplicate because the competent current sources assign it separately within each structure.",
+      "sources": [
+        "https://live.church.ua/monasteries/?lang=en",
+        "https://www.pomisna.info/uk/document-post/dokumenty-zasidannya-svyashhennogo-synodu-13-lypnya-2026-r/"
+      ]
+    },
+    {
+      "subject": "Orthodox Church of Ukraine evidence boundary",
+      "decision": "Six current Holy Synod records from 2025 and 2026 establish 16 exact current monastic bodies, including creations, status changes, transfers, names, and two published addresses. They are published as exact bodies, not as a complete OCU national roster.",
+      "sources": [
+        "https://www.pomisna.info/uk/document-post/dokumenty-zasidannya-svyashhennogo-synodu-12-travnya-2025-r/",
+        "https://www.pomisna.info/uk/document-post/dokumenty-zasidannya-svyashhennogo-synodu-7-lystopada-2025-r/",
+        "https://www.pomisna.info/uk/document-post/dokumenty-zasidannya-svyashhennogo-synodu-2-lyutogo-2026-r/"
+      ]
+    },
+    {
+      "subject": "Ecumenical Patriarchate Kyiv stavropegion",
+      "decision": "The existing ep-mon-kyiv row already represents the current Ecumenical Patriarchate stavropegion in Kyiv. This country tranche does not create a second row for it.",
+      "sources": [
+        "https://ec-patr.org/en/entities/stavropegic-monastery-of-the-ecumenical-patriarchate-in-kyiv/",
+        "https://www.stavropigiainua.org/"
+      ]
+    },
+    {
+      "subject": "Body-level contact coverage",
+      "decision": "Public body-level contacts are published only for the Holy Dormition Pochaiv Lavra and the Romanian Orthodox organization in formation. The UOC detail-card audit was not completed beyond Pochaiv because the source began throttling automated requests. No contact data is inferred from maps, clergy profiles, social pages, or third-party listings.",
+      "sources": [
+        "https://live.church.ua/monasteries/111/?lang=en",
+        "https://patriarhia.ro/organizarea-bisericii-ortodoxe-romane/reprezentante-si-comunitati-externe/"
+      ]
+    }
+  ],
+  "official_jurisdiction_audit": [
+    {
+      "jurisdiction": "Ukrainian Orthodox Church",
+      "result": "All 316 monasteries in the current official register are published under the existing 51 eparchy parents that have monastery records. Two existing UOC eparchies have no monastery row in that register. The source's own assignments are preserved without making a territorial or civil-border judgment.",
+      "sources": [
+        "https://live.church.ua/monasteries/?lang=en",
+        "https://live.church.ua/monasteries/"
+      ]
+    },
+    {
+      "jurisdiction": "Orthodox Church of Ukraine",
+      "result": "Six current Holy Synod records establish 16 exact current monastic bodies. They are published under the direct primatial or existing OCU eparchial parent named by the current acts. National completeness is not claimed.",
+      "sources": [
+        "https://www.pomisna.info/uk/document-post/dokumenty-zasidannya-svyashhennogo-synodu-12-travnya-2025-r/",
+        "https://www.pomisna.info/uk/document-post/dokumenty-zasidannya-svyashhennogo-synodu-7-lystopada-2025-r/",
+        "https://www.pomisna.info/uk/document-post/dokumenty-zasidannya-svyashhennogo-synodu-2-lyutogo-2026-r/"
+      ]
+    },
+    {
+      "jurisdiction": "Romanian Orthodox Church",
+      "result": "The Romanian Patriarchate currently lists the Romanian Orthodox Church in Ukraine as in formation in Chernivtsi, with an institutional address, body-owned website, and public email. It is published once under the Romanian Patriarchate.",
+      "sources": [
+        "https://patriarhia.ro/organizarea-bisericii-ortodoxe-romane/reprezentante-si-comunitati-externe/",
+        "https://www.borucraina.org/"
+      ]
+    },
+    {
+      "jurisdiction": "Ecumenical Patriarchate",
+      "result": "The current Kyiv stavropegion is already present as ep-mon-kyiv in the central Constantinople rows. It is reconciled here and not duplicated.",
+      "sources": [
+        "https://ec-patr.org/en/entities/stavropegic-monastery-of-the-ecumenical-patriarchate-in-kyiv/",
+        "https://www.stavropigiainua.org/"
+      ]
+    },
+    {
+      "jurisdiction": "Other canonical local Churches",
+      "result": "No additional separately administered current body in Ukraine was established by a competent first-party Church roster during this audit. Search, maps, media, registries, and historical references without a current competent Church parent remain unpublished.",
+      "sources": [
+        "https://live.church.ua/monasteries/?lang=en",
+        "https://www.pomisna.info/uk/tserkva/synodalni-ustanovy/",
+        "https://patriarhia.ro/organizarea-bisericii-ortodoxe-romane/reprezentante-si-comunitati-externe/"
+      ]
+    }
+  ]
+}

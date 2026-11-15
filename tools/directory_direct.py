@@ -43,6 +43,7 @@ import directory_sweden
 import directory_switzerland
 import directory_syria
 import directory_turkey
+import directory_ukraine_country
 
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -159,6 +160,9 @@ ROWS["romania"].extend(directory_syria.DIRECT_ROMANIA_ROWS)
 ROWS["romania"].extend(directory_israel.DIRECT_ROMANIA_ROWS)
 ROWS["romania"].extend(directory_palestine.DIRECT_ROMANIA_ROWS)
 ROWS["romania"].extend(directory_turkey.build()["romania"]["rows"])
+ROWS["romania"].extend(
+    directory_ukraine_country.build()["romania"]["rows"]
+)
 ROWS["serbia"].extend(directory_botswana.DIRECT_SERBIA_ROWS)
 ROWS["serbia"].extend(directory_south_africa.build()["serbia"]["rows"])
 
@@ -217,8 +221,8 @@ def build():
         }
     if len(payloads["russia"]["rows"]) != 86:
         raise ValueError("the direct Russia branch must have 86 rows")
-    if len(payloads["romania"]["rows"]) != 14:
-        raise ValueError("the direct Romania branch must have 14 rows")
+    if len(payloads["romania"]["rows"]) != 15:
+        raise ValueError("the direct Romania branch must have 15 rows")
     if len(payloads["serbia"]["rows"]) != 2:
         raise ValueError("the direct Serbia branch must have 2 rows")
     return payloads
