@@ -1,0 +1,266 @@
+{
+  "v": 1,
+  "countries": [
+    "GR"
+  ],
+  "checked": "2026-11-15",
+  "method": "Publish exact current worship bodies established by Church of Greece legal rosters, the current Ecumenical Patriarchate profile, the current Church of Greece profile, and body-owned parish pages. Preserve body-specific public contacts, including mobile or clergy-associated routes, without naming clergy or calling the routes office lines. Hold unnamed aggregates, dissolved bodies, historic-only monuments, shared institutional contacts, dead sites, and search or map leads.",
+  "published_summary": {
+    "ep-mytilene": 83,
+    "total": 83,
+    "regulated_parish_rows": 72,
+    "parish_kind_rows": 78,
+    "monastery_kind_rows": 5,
+    "contact_bodies": 8,
+    "phone_bodies": 8,
+    "public_phone_values": 10,
+    "email_bodies": 2,
+    "public_email_values": 2,
+    "body_owned_sites": 2,
+    "address_bodies": 83
+  },
+  "candidates": [
+    {
+      "candidate_id": "gr-ep-mytilene-unnamed-chapels",
+      "parent": "ep-mytilene",
+      "country": "GR",
+      "category": "aggregate-only",
+      "status": "held",
+      "reason": "The current Patriarchate profile reports 351 chapels without a complete exact named roster. Four exact current Saint John Kalyvites parish chapels are published from their body-owned pages, but no residual body is inferred from the aggregate.",
+      "aggregate_count": 351,
+      "sources": [
+        "https://ec-patr.org/entities/iera-mitropoli-mytilinis/",
+        "https://kalivitis-mitilini.gr/epikoinonia"
+      ]
+    },
+    {
+      "candidate_id": "gr-ep-mytilene-unnamed-country-churches",
+      "parent": "ep-mytilene",
+      "country": "GR",
+      "category": "aggregate-only",
+      "status": "held",
+      "reason": "The current Patriarchate profile reports 872 country churches without a complete exact named roster. None is inferred from the aggregate.",
+      "aggregate_count": 872,
+      "sources": [
+        "https://ec-patr.org/entities/iera-mitropoli-mytilinis/"
+      ]
+    },
+    {
+      "candidate_id": "gr-ep-mytilene-unnamed-cemetery-churches",
+      "parent": "ep-mytilene",
+      "country": "GR",
+      "category": "aggregate-only",
+      "status": "held",
+      "reason": "The current Patriarchate profile reports 50 cemetery churches without a complete exact named roster. None is inferred from the aggregate.",
+      "aggregate_count": 50,
+      "sources": [
+        "https://ec-patr.org/entities/iera-mitropoli-mytilinis/"
+      ]
+    },
+    {
+      "candidate_id": "gr-ep-mytilene-unnamed-monastery-churches",
+      "parent": "ep-mytilene",
+      "country": "GR",
+      "category": "aggregate-only",
+      "status": "held",
+      "reason": "The current Patriarchate profile reports five monastery churches but does not provide a complete exact roster of dependent worship spaces. The four named monasteries and named metochion are institutions and are not used as a forced substitute for this aggregate.",
+      "aggregate_count": 5,
+      "sources": [
+        "https://ec-patr.org/entities/iera-mitropoli-mytilinis/"
+      ]
+    },
+    {
+      "candidate_id": "gr-ep-mytilene-evangelistria-patou",
+      "parent": "ep-mytilene",
+      "country": "GR",
+      "category": "dissolved-not-current",
+      "status": "held",
+      "reason": "The current Patriarchate profile expressly identifies Evangelistria Patou as a dissolved monastery. It is not presented as a current body.",
+      "sources": [
+        "https://ec-patr.org/entities/iera-mitropoli-mytilinis/"
+      ]
+    },
+    {
+      "candidate_id": "gr-ep-mytilene-historic-monument-trio",
+      "parent": "ep-mytilene",
+      "country": "GR",
+      "category": "historic-status-unclear",
+      "status": "held",
+      "reason": "The Patriarchate profile names Panagia Trouloti at Pyrgoi Thermis, the Saint Andrew basilica at Skala Eressos, and the Holy Archangels monastery catholicon at Kato Tritos as historic monuments. That classification does not by itself establish three separately operating current worship bodies.",
+      "sources": [
+        "https://ec-patr.org/entities/iera-mitropoli-mytilinis/"
+      ]
+    },
+    {
+      "candidate_id": "gr-ep-mytilene-saint-therapon-heritage-contact",
+      "parent": "ep-mytilene",
+      "country": "GR",
+      "category": "contact-provenance-ambiguous",
+      "status": "held",
+      "reason": "A Ministry of Culture monument listing associates telephone 22510-22561 and the shared heritage email 14eba@culture.gr with Saint Therapon. The listing does not establish either route as belonging to the parish, so neither is published as a body contact.",
+      "held_phone": "22510-22561",
+      "held_email": "14eba@culture.gr",
+      "sources": [
+        "https://ecclesiagreece.gr/greek/press/ekklisia/2019_ioulios.pdf",
+        "https://ec-patr.org/entities/iera-mitropoli-mytilinis/"
+      ]
+    },
+    {
+      "candidate_id": "gr-ep-mytilene-shared-heritage-email",
+      "parent": "ep-mytilene",
+      "country": "GR",
+      "category": "shared-contact-not-body-specific",
+      "status": "held",
+      "reason": "The heritage email 14eba@culture.gr appears for multiple Lesvos monuments and is an administrative route rather than a body-specific church or monastery email. It is not copied onto subordinate bodies.",
+      "held_email": "14eba@culture.gr",
+      "sources": [
+        "https://www.visitgreece.gr/en/experiences/religious-tourism/monasteries/pilgrimage-trails-on-lesvos-island"
+      ]
+    },
+    {
+      "candidate_id": "gr-ep-mytilene-dead-parent-site",
+      "parent": "ep-mytilene",
+      "country": "GR",
+      "category": "stale-current-evidence",
+      "status": "held",
+      "reason": "The former parent domain immyt.gr no longer supplies a competent current Metropolis site. It is not published as a body-owned site and nothing from it is used as current evidence.",
+      "sources": [
+        "https://ec-patr.org/entities/iera-mitropoli-mytilinis/",
+        "https://www.ecclesiagreece.gr/ecclesiajoomla/index.php/el/metropoleis/mytilenes-eressou-kai-plomariou"
+      ]
+    },
+    {
+      "candidate_id": "gr-ep-mytilene-non-worship-institutions",
+      "parent": "ep-mytilene",
+      "country": "GR",
+      "category": "outside-directory-kind",
+      "status": "held",
+      "reason": "Schools, camps, care homes, museums, libraries, charitable institutions, councils, and other non-worship institutions are not forced into church or monastery rows.",
+      "sources": [
+        "https://ec-patr.org/entities/iera-mitropoli-mytilinis/",
+        "https://www.ecclesiagreece.gr/ecclesiajoomla/index.php/el/metropoleis/mytilenes-eressou-kai-plomariou"
+      ]
+    },
+    {
+      "candidate_id": "gr-ep-mytilene-search-map-historic-leads",
+      "parent": "ep-mytilene",
+      "country": "GR",
+      "category": "affiliation-or-status-unclear",
+      "status": "discovery-only",
+      "reason": "Search, map, municipal, commercial directory, and historic leads remain unpublished unless a current competent Church or legal source establishes exact identity, worship status, and canonical parentage.",
+      "sources": [
+        "https://ecclesiagreece.gr/greek/press/ekklisia/2019_ioulios.pdf",
+        "https://ec-patr.org/entities/iera-mitropoli-mytilinis/"
+      ]
+    }
+  ],
+  "source_reconciliations": [
+    {
+      "topic": "exact-parish-roster-and-current-aggregate",
+      "finding": "The 2019 Church of Greece table contains 67 exact parish rows although its printed footer says 71. The 2015 legal regulation contains 68 exact parish identities. Combining the 67 current-table identities with the five different still legally recognized identities from 2015 yields exactly the 72 parish churches reported by the current Patriarchate profile. All 72 exact legal identities are retained. No unnamed residual is invented and no row is removed to force the older footer total.",
+      "sources": [
+        "https://ecclesiagreece.gr/greek/press/ekklisia/2019_ioulios.pdf",
+        "https://ecclesiagreece.gr/greek/press/ekklisia/2015_iounios.pdf",
+        "https://ec-patr.org/entities/iera-mitropoli-mytilinis/"
+      ]
+    },
+    {
+      "topic": "agiasos-body-role",
+      "finding": "The 2015 regulation treated the Dormition church at Agiasos as a parish. The 2019 regulation lists the same exact body as a pilgrimage church, and the current Patriarchate profile also names it as a pilgrimage. It is published once under its current pilgrimage rank.",
+      "sources": [
+        "https://ecclesiagreece.gr/greek/press/ekklisia/2015_iounios.pdf",
+        "https://ecclesiagreece.gr/greek/press/ekklisia/2019_ioulios.pdf",
+        "https://ec-patr.org/entities/iera-mitropoli-mytilinis/"
+      ]
+    },
+    {
+      "topic": "current-pilgrimages",
+      "finding": "The current Patriarchate profile names Panagia Agiasos and Saint George Melanta as the two pilgrimage churches. Both exact bodies are published, and only Panagia Agiasos carries a public body-associated phone in the checked first-party sources.",
+      "sources": [
+        "https://ec-patr.org/entities/iera-mitropoli-mytilinis/",
+        "https://www.visitgreece.gr/en/experiences/religious-tourism/monasteries/pilgrimage-trails-on-lesvos-island"
+      ]
+    },
+    {
+      "topic": "current-monastic-bodies",
+      "finding": "The current Patriarchate profile names four monasteries and the Prophet Elijah metochion of Ypsilou. These five exact bodies are published. Evangelistria Patou remains held because the same source expressly calls it dissolved.",
+      "sources": [
+        "https://ec-patr.org/entities/iera-mitropoli-mytilinis/",
+        "https://www.ecclesiagreece.gr/ecclesiajoomla/index.php/el/metropoleis/mytilenes-eressou-kai-plomariou"
+      ]
+    },
+    {
+      "topic": "saint-raphael-contact-variants",
+      "finding": "The current Patriarchate profile prints 22510-71259 for the Saint Raphael monastery. Visit Greece prints 22510-71708, contact@ieramoni-agiou-rafail.gr, and the monastery site. Both public phone values, the email, and the body-owned site are retained without silently preferring one phone.",
+      "sources": [
+        "https://ec-patr.org/entities/iera-mitropoli-mytilinis/",
+        "https://www.visitgreece.gr/en/experiences/religious-tourism/monasteries/pilgrimage-trails-on-lesvos-island",
+        "https://ieramoni-agiou-rafail.gr/en/"
+      ]
+    },
+    {
+      "topic": "kalyvites-dependent-chapels",
+      "finding": "The current Saint John Kalyvites parish site names four dependent chapels on separate body-owned pages. All four exact worship bodies are published. The parish phone, mobile, email, and site are not copied onto the chapel rows because the chapel pages display shared parish chrome rather than chapel-specific contacts.",
+      "sources": [
+        "https://kalivitis-mitilini.gr/epikoinonia",
+        "https://kalivitis-mitilini.gr/pareklisia-enorias-kaliviti-mitilinis/pareklisi-agios-nektarios",
+        "https://kalivitis-mitilini.gr/pareklisia-enorias-kaliviti-mitilinis/pareklisi-panagias-kampadenas"
+      ]
+    },
+    {
+      "topic": "body-contact-boundary",
+      "finding": "Every current public phone, email, and body-owned site tied by an official or body-owned source to a published body is retained. This includes mobile and potentially clergy-associated routes. Clergy names are omitted, and no route is characterized as an office line unless its source does so. Parent Metropolis and shared heritage contacts are not copied onto subordinate bodies.",
+      "sources": [
+        "https://ec-patr.org/entities/iera-mitropoli-mytilinis/",
+        "https://www.ecclesiagreece.gr/ecclesiajoomla/index.php/el/metropoleis/mytilenes-eressou-kai-plomariou",
+        "https://kalivitis-mitilini.gr/epikoinonia"
+      ]
+    }
+  ],
+  "official_parent_audit": [
+    {
+      "topic": "canonical-parent",
+      "finding": "The Ecumenical Patriarchate and Church of Greece each identify the Holy Metropolis of Mytilene, Eressos and Plomari. The Church of Greece legal regulations supply exact parish identities, while current national and patriarchal profiles establish the present canonical context.",
+      "sources": [
+        "https://ec-patr.org/entities/iera-mitropoli-mytilinis/",
+        "https://www.ecclesiagreece.gr/ecclesiajoomla/index.php/el/metropoleis/mytilenes-eressou-kai-plomariou",
+        "https://ecclesiagreece.gr/greek/press/ekklisia/2019_ioulios.pdf"
+      ]
+    },
+    {
+      "topic": "current-published-coverage",
+      "finding": "The tranche publishes 83 exact current worship bodies: 72 parish churches, two pilgrimage churches, four monasteries, one monastery metochion, and four dependent parish chapels. Every row has a Greek local name, a seat, an address, and first-party identity evidence.",
+      "sources": [
+        "https://ecclesiagreece.gr/greek/press/ekklisia/2019_ioulios.pdf",
+        "https://ec-patr.org/entities/iera-mitropoli-mytilinis/",
+        "https://kalivitis-mitilini.gr/epikoinonia"
+      ]
+    }
+  ],
+  "exclusions": [
+    {
+      "topic": "parent-office-contacts",
+      "reason": "Metropolis office and leadership contacts belong to the parent body and are not propagated to parish, pilgrimage, monastery, metochion, or chapel rows.",
+      "sources": [
+        "https://www.ecclesiagreece.gr/ecclesiajoomla/index.php/el/metropoleis/mytilenes-eressou-kai-plomariou",
+        "https://ec-patr.org/entities/iera-mitropoli-mytilinis/"
+      ]
+    },
+    {
+      "topic": "clergy-names",
+      "reason": "Clergy names are omitted. Public body-associated phone or mobile routes remain when the checked first-party source clearly ties the route to the specific body, but the route is not labeled as an office line without source support.",
+      "sources": [
+        "https://ec-patr.org/entities/iera-mitropoli-mytilinis/",
+        "https://kalivitis-mitilini.gr/epikoinonia"
+      ]
+    },
+    {
+      "topic": "non-first-party-contact-directories",
+      "reason": "Commercial directories, map listings, social pages, search snippets, municipal tourism pages, and unattributed reposts do not establish body contacts or current canonical status for publication.",
+      "sources": [
+        "https://ecclesiagreece.gr/greek/press/ekklisia/2019_ioulios.pdf",
+        "https://ec-patr.org/entities/iera-mitropoli-mytilinis/"
+      ]
+    }
+  ]
+}
