@@ -1,0 +1,178 @@
+{
+  "v": 1,
+  "countries": [
+    "GR"
+  ],
+  "checked": "2026-11-15",
+  "method": "Publish all 112 exact current parish bodies in the official Samos and Ikaria tables, including the three Fournoi rows in the Ikaria table, and all 18 exact named institutions on the official monastery page. Preserve every body-specific public telephone route on the current monastery page, including numbers printed beside clergy roles, while omitting clergy names. Hold unnamed aggregate residuals and historic-only leads rather than manufacture identities.",
+  "published_summary": {
+    "ep-samos": 130,
+    "total": 130,
+    "parish_kind_rows": 112,
+    "monastery_kind_rows": 18,
+    "contact_bodies": 11,
+    "phone_bodies": 11,
+    "public_phone_values": 11,
+    "email_bodies": 0,
+    "public_email_values": 0,
+    "body_owned_sites": 0,
+    "address_bodies": 130
+  },
+  "candidates": [
+    {
+      "candidate_id": "gr-ep-samos-unnamed-five-parish-residual",
+      "parent": "ep-samos",
+      "country": "GR",
+      "category": "aggregate-only",
+      "status": "held",
+      "reason": "The Patriarchate reports 117 parish churches, while the two current official named tables contain 112 exact rows. The five-body difference is held because no source assigns exact current names to it.",
+      "sources": [
+        "https://www.imsamou.gr/index.php/el/mitropoli/ieroi-naoi-kai-mones/ieroi-naoi-samou",
+        "https://www.imsamou.gr/index.php/el/mitropoli/ieroi-naoi-kai-mones/ieroi-naoi-ikarias",
+        "https://ec-patr.org/entities/iera-mitropoli-samoy-ikarias/"
+      ]
+    },
+    {
+      "candidate_id": "gr-ep-samos-unnamed-chapels",
+      "parent": "ep-samos",
+      "country": "GR",
+      "category": "aggregate-only",
+      "status": "held",
+      "reason": "The Patriarchate reports 205 chapels without a complete exact named current roster. No chapel is inferred from the aggregate.",
+      "sources": [
+        "https://ec-patr.org/entities/iera-mitropoli-samoy-ikarias/"
+      ]
+    },
+    {
+      "candidate_id": "gr-ep-samos-unnamed-country-churches",
+      "parent": "ep-samos",
+      "country": "GR",
+      "category": "aggregate-only",
+      "status": "held",
+      "reason": "The Patriarchate reports 1050 country churches without a complete exact named current roster. None is inferred from that count.",
+      "sources": [
+        "https://ec-patr.org/entities/iera-mitropoli-samoy-ikarias/"
+      ]
+    },
+    {
+      "candidate_id": "gr-ep-samos-monastic-aggregate-difference",
+      "parent": "ep-samos",
+      "country": "GR",
+      "category": "aggregate-mismatch",
+      "status": "held-for-reconciliation",
+      "reason": "The current detailed official sources name 18 monastic institutions while the Patriarchate summary reports 15 monastic churches. No named institution is removed and no category equivalence is assumed merely to force the aggregate.",
+      "sources": [
+        "https://www.imsamou.gr/index.php/el/mitropoli/ieres-mones",
+        "https://ec-patr.org/entities/iera-mitropoli-samoy-ikarias/"
+      ]
+    },
+    {
+      "candidate_id": "gr-ep-samos-historic-only-leads",
+      "parent": "ep-samos",
+      "country": "GR",
+      "category": "historic-only",
+      "status": "discovery-only",
+      "reason": "Historic monuments, churches, and monastic references outside the current named rosters remain unpublished unless a competent first-party Church source establishes them as current bodies.",
+      "sources": [
+        "https://www.imsamou.gr/index.php/el/mitropoli/istorika-mnimeia",
+        "https://www.imsamou.gr/index.php/el/mitropoli/ieroi-naoi-kai-mones/ieroi-naoi-samou",
+        "https://www.imsamou.gr/index.php/el/mitropoli/ieres-mones"
+      ]
+    }
+  ],
+  "source_reconciliations": [
+    {
+      "subject": "Exact current parish rosters",
+      "decision": "The official Samos table contains 64 exact rows: 16 in the Samos region, 18 in Pythagoreio, 10 in Marathokampos, and 20 in Karlovasi. The official Ikaria table contains 48 exact rows: 19 in Agios Kirykos, 12 in Evdilos, 14 in Raches, and three in Fournoi. All 112 rows are published in source order.",
+      "sources": [
+        "https://www.imsamou.gr/index.php/el/mitropoli/ieroi-naoi-kai-mones/ieroi-naoi-samou",
+        "https://www.imsamou.gr/index.php/el/mitropoli/ieroi-naoi-kai-mones/ieroi-naoi-ikarias"
+      ]
+    },
+    {
+      "subject": "Fournoi exact roster",
+      "decision": "The official Ikaria table includes a separately labeled Fournoi region with three exact current churches at Thymaina, Fournoi, and Chrysomilia. Those three rows are published under the shared metropolis parent rather than inferred from a separate aggregate.",
+      "sources": [
+        "https://www.imsamou.gr/index.php/el/mitropoli/ieroi-naoi-kai-mones/ieroi-naoi-ikarias"
+      ]
+    },
+    {
+      "subject": "Named and aggregate parish counts",
+      "decision": "The current exact named tables total 112 bodies, while the Patriarchate overview reports 117 parish churches. Publication follows the exact named rosters. The five-body residual is held without invented names, dedications, seats, or contacts.",
+      "sources": [
+        "https://www.imsamou.gr/index.php/el/mitropoli/ieroi-naoi-kai-mones/ieroi-naoi-samou",
+        "https://www.imsamou.gr/index.php/el/mitropoli/ieroi-naoi-kai-mones/ieroi-naoi-ikarias",
+        "https://ec-patr.org/entities/iera-mitropoli-samoy-ikarias/"
+      ]
+    },
+    {
+      "subject": "Current monastic institutions",
+      "decision": "The official local monastery page and the Patriarchate detailed list both name 18 institutions: 12 on Samos, five on Ikaria, and one on Fournoi. The Patriarchate summary on the same profile reports 15 monastic churches. All 18 exact named institutions are preserved because the summary does not identify three exclusions or establish that its category is equivalent to the institutional list.",
+      "sources": [
+        "https://www.imsamou.gr/index.php/el/mitropoli/ieres-mones",
+        "https://ec-patr.org/entities/iera-mitropoli-samoy-ikarias/"
+      ]
+    },
+    {
+      "subject": "Holy Trinity monastery founding years",
+      "decision": "The local monastery page prints 1824 for the Holy Trinity monastery at Mytilinioi, while the Patriarchate profile prints 1820. Both attributed source statements are preserved rather than choosing one without supporting explanation.",
+      "sources": [
+        "https://www.imsamou.gr/index.php/el/mitropoli/ieres-mones",
+        "https://ec-patr.org/entities/iera-mitropoli-samoy-ikarias/"
+      ]
+    },
+    {
+      "subject": "Public contact routes",
+      "decision": "The current monastery page publishes one body-specific telephone route for each of 11 named monasteries. Every one is preserved exactly as printed, including the number printed with an internal space. Clergy names and roles are not copied into the directory. The parish tables publish no parish-level telephone, email, or body-owned website values.",
+      "sources": [
+        "https://www.imsamou.gr/index.php/el/mitropoli/ieres-mones",
+        "https://www.imsamou.gr/index.php/el/mitropoli/ieroi-naoi-kai-mones/ieroi-naoi-samou",
+        "https://www.imsamou.gr/index.php/el/mitropoli/ieroi-naoi-kai-mones/ieroi-naoi-ikarias"
+      ]
+    }
+  ],
+  "official_parent_audit": [
+    {
+      "parent": "ep-samos",
+      "result": "130 exact current bodies published: 112 parish-table rows and 18 named monastic institutions.",
+      "roster_status": "complete official named Samos, Ikaria, and Fournoi parish tables plus the complete official named monastery list",
+      "sources": [
+        "https://www.imsamou.gr/index.php/el/mitropoli/ieroi-naoi-kai-mones/ieroi-naoi-samou",
+        "https://www.imsamou.gr/index.php/el/mitropoli/ieroi-naoi-kai-mones/ieroi-naoi-ikarias",
+        "https://www.imsamou.gr/index.php/el/mitropoli/ieres-mones"
+      ]
+    }
+  ],
+  "exclusions": [
+    {
+      "category": "aggregate-only",
+      "decision": "No parish, chapel, country church, or monastic institution is inferred solely from an aggregate count.",
+      "sources": [
+        "https://ec-patr.org/entities/iera-mitropoli-samoy-ikarias/"
+      ]
+    },
+    {
+      "category": "historic-only",
+      "decision": "A historic reference does not create a current directory body unless it also appears in a current official named roster or another competent first-party current list.",
+      "sources": [
+        "https://www.imsamou.gr/index.php/el/mitropoli/istorika-mnimeia",
+        "https://www.imsamou.gr/index.php/el/mitropoli/ieroi-naoi-kai-mones/ieroi-naoi-samou",
+        "https://www.imsamou.gr/index.php/el/mitropoli/ieres-mones"
+      ]
+    },
+    {
+      "category": "parent-contact",
+      "decision": "Metropolis office telephone, email, and website values are not copied onto subordinate bodies without a body-level association.",
+      "sources": [
+        "https://ec-patr.org/entities/iera-mitropoli-samoy-ikarias/"
+      ]
+    },
+    {
+      "category": "clergy-personnel",
+      "decision": "Public body-associated phone routes printed beside clergy roles are retained, while clergy names and current personnel assignments are omitted.",
+      "sources": [
+        "https://www.imsamou.gr/index.php/el/mitropoli/ieres-mones"
+      ]
+    }
+  ]
+}
