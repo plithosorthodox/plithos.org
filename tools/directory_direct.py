@@ -17,8 +17,10 @@ from pathlib import Path
 import directory_australia
 import directory_denmark
 import directory_estonia
+import directory_finland
 import directory_iceland
 import directory_ireland
+import directory_liechtenstein
 import directory_norway
 import directory_sweden
 
@@ -105,11 +107,13 @@ ROWS = {
 # exceptional rows so this multi-country branch owns the single payload.
 ROWS["russia"].extend(directory_denmark.DIRECT_RUSSIA_ROWS)
 ROWS["russia"].extend(directory_estonia.DIRECT_RUSSIA_ROWS)
+ROWS["russia"].extend(directory_finland.DIRECT_RUSSIA_ROWS)
 ROWS["russia"].extend(directory_iceland.build()["russia"]["rows"])
 ROWS["russia"].extend(directory_ireland.ROWS["russia"])
 ROWS["russia"].extend(directory_australia.build()["russia"])
 ROWS["russia"].extend(directory_norway.build()["russia"]["rows"])
 ROWS["russia"].extend(directory_sweden.DIRECT_RUSSIA_ROWS)
+ROWS["romania"].extend(directory_liechtenstein.DIRECT_ROMANIA_ROWS)
 
 
 def clean(row):
@@ -164,10 +168,10 @@ def build():
             "countries": sorted(countries),
             "rows": rows,
         }
-    if len(payloads["russia"]["rows"]) != 38:
-        raise ValueError("the direct Russia branch must have 38 rows")
-    if len(payloads["romania"]["rows"]) != 3:
-        raise ValueError("the direct Romania branch must have 3 rows")
+    if len(payloads["russia"]["rows"]) != 43:
+        raise ValueError("the direct Russia branch must have 43 rows")
+    if len(payloads["romania"]["rows"]) != 4:
+        raise ValueError("the direct Romania branch must have 4 rows")
     return payloads
 
 
@@ -232,7 +236,7 @@ def main():
         for error in errors:
             print(error, file=sys.stderr)
         return 1
-    print("2 direct parents, 17 subordinate bodies")
+    print("2 direct parents, 47 subordinate bodies")
     return 0
 
 

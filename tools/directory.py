@@ -717,7 +717,7 @@ DIOCESES = [
 # The countries a row can name, written out so the page has a word to show
 # and a key to filter on. English here; the page carries the rest.
 COUNTRIES = {
-    "AM": "Armenia", "AZ": "Azerbaijan", "BY": "Belarus", "KG": "Kyrgyzstan", "KZ": "Kazakhstan", "LT": "Lithuania", "LV": "Latvia", "MT": "Malta", "NL": "Netherlands", "NZ": "New Zealand", "PH": "Philippines", "QA": "Qatar", "TH": "Thailand", "TJ": "Tajikistan", "TM": "Turkmenistan", "UZ": "Uzbekistan",
+    "AM": "Armenia", "AZ": "Azerbaijan", "BY": "Belarus", "KG": "Kyrgyzstan", "KZ": "Kazakhstan", "LI": "Liechtenstein", "LT": "Lithuania", "LU": "Luxembourg", "LV": "Latvia", "MT": "Malta", "NL": "Netherlands", "NZ": "New Zealand", "PH": "Philippines", "QA": "Qatar", "TH": "Thailand", "TJ": "Tajikistan", "TM": "Turkmenistan", "UZ": "Uzbekistan",
     "BA": "Bosnia and Herzegovina", "HR": "Croatia", "ME": "Montenegro",
     "AL": "Albania", "AT": "Austria", "MD": "Moldova", "BE": "Belgium", "BG": "Bulgaria",
     "BA": "Bosnia and Herzegovina", "CZ": "Czechia", "HR": "Croatia",
@@ -960,7 +960,12 @@ def build(branch_payloads=None):
                              % (r["id"], r["site_of"]))
         r.pop("mine", None)
     branch_payloads = branch_payloads or directory_branches.build()
+    ranks = {r["rank"] for r in rows if r.get("rank")}
+    for payload in branch_payloads.values():
+        ranks.update(r["rank"] for r in payload.get("rows", [])
+                     if r.get("rank"))
     return {"v": 1, "read": READ, "countries": COUNTRIES,
+            "ranks": sorted(ranks),
             "branches": directory_branches.manifest(branch_payloads),
             "rows": rows}
 

@@ -492,6 +492,58 @@ BRANCH_UI = {
   loadFailed="Тази част от указателя не можа да се зареди.", retry="Опитайте отново"),
 }
 
+# The compact directory controls. The size control counts published rows in
+# this directory, not members, parishes in a jurisdiction, or any other figure
+# the sources do not provide consistently.
+FILTER_UI = {
+ "en": dict(countryFilter="Country", jurisdictionFilter="Jurisdiction", rankFilter="Rank",
+  listedFilter="Directory entries", clearFilters="Clear filters"),
+ "el": dict(countryFilter="Χώρα", jurisdictionFilter="Δικαιοδοσία", rankFilter="Βαθμός",
+  listedFilter="Εγγραφές καταλόγου", clearFilters="Καθαρισμός φίλτρων"),
+ "ru": dict(countryFilter="Страна", jurisdictionFilter="Юрисдикция", rankFilter="Ранг",
+  listedFilter="Записи", clearFilters="Очистить отбор"),
+ "ro": dict(countryFilter="Țară", jurisdictionFilter="Jurisdicție", rankFilter="Rang",
+  listedFilter="Înregistrări în catalog", clearFilters="Șterge filtrele"),
+ "uk": dict(countryFilter="Країна", jurisdictionFilter="Юрисдикція", rankFilter="Ранг",
+  listedFilter="Записи в довіднику", clearFilters="Очистити"),
+ "de": dict(countryFilter="Land", jurisdictionFilter="Jurisdiktion", rankFilter="Rang",
+  listedFilter="Einträge im Verzeichnis", clearFilters="Auswahl löschen"),
+ "es": dict(countryFilter="País", jurisdictionFilter="Jurisdicción", rankFilter="Rango",
+  listedFilter="Entradas del directorio", clearFilters="Borrar filtros"),
+ "ar": dict(countryFilter="البلد", jurisdictionFilter="الولاية الكنسية", rankFilter="الرتبة",
+  listedFilter="إدخالات الدليل", clearFilters="مسح عوامل التصفية"),
+ "fr": dict(countryFilter="Pays", jurisdictionFilter="Juridiction", rankFilter="Rang",
+  listedFilter="Entrées de l'annuaire", clearFilters="Effacer les filtres"),
+ "pt": dict(countryFilter="País", jurisdictionFilter="Jurisdição", rankFilter="Categoria",
+  listedFilter="Entradas do diretório", clearFilters="Limpar filtros"),
+ "it": dict(countryFilter="Paese", jurisdictionFilter="Giurisdizione", rankFilter="Rango",
+  listedFilter="Voci dell'elenco", clearFilters="Cancella filtri"),
+ "sr": dict(countryFilter="Земља", jurisdictionFilter="Јурисдикција", rankFilter="Ранг",
+  listedFilter="Уноси у именику", clearFilters="Обриши филтере"),
+ "ka": dict(countryFilter="ქვეყანა", jurisdictionFilter="იურისდიქცია", rankFilter="რანგი",
+  listedFilter="ჩანაწერები ცნობარში", clearFilters="ფილტრების გასუფთავება"),
+ "zh": dict(countryFilter="国家或地区", jurisdictionFilter="教会管辖", rankFilter="等级",
+  listedFilter="名录条目数", clearFilters="清除筛选"),
+ "ja": dict(countryFilter="国・地域", jurisdictionFilter="管轄教会", rankFilter="位階",
+  listedFilter="名簿の掲載数", clearFilters="フィルターを解除"),
+ "ko": dict(countryFilter="국가 또는 지역", jurisdictionFilter="관할 교회", rankFilter="지위",
+  listedFilter="명부 항목 수", clearFilters="필터 지우기"),
+ "sw": dict(countryFilter="Nchi", jurisdictionFilter="Mamlaka ya kanisa", rankFilter="Cheo",
+  listedFilter="Maingizo ya orodha", clearFilters="Futa vichujio"),
+ "hy": dict(countryFilter="Երկիր", jurisdictionFilter="Իրաւասութիւն", rankFilter="Աստիճան",
+  listedFilter="Ցուցակի գրառումներ", clearFilters="Մաքրել զտիչները"),
+ "arc": dict(countryFilter="ܐܬܪܐ", jurisdictionFilter="ܫܘܠܛܢܐ ܥܕܬܢܝܐ", rankFilter="ܕܪܓܐ",
+  listedFilter="ܣܘܪ̈ܓܕܐ ܕܡܟܬܒܢܐ", clearFilters="ܕܟܐ ܡܨܦܝ̈ܢܐ"),
+ "hi": dict(countryFilter="देश", jurisdictionFilter="क्षेत्राधिकार", rankFilter="पद",
+  listedFilter="निर्देशिका प्रविष्टियाँ", clearFilters="फ़िल्टर हटाएँ"),
+ "bn": dict(countryFilter="দেশ", jurisdictionFilter="অধিক্ষেত্র", rankFilter="পদ",
+  listedFilter="নির্দেশিকার এন্ট্রি", clearFilters="ফিল্টার মুছুন"),
+ "ur": dict(countryFilter="ملک", jurisdictionFilter="دائرہ اختیار", rankFilter="رتبہ",
+  listedFilter="فہرست کے اندراجات", clearFilters="فلٹر صاف کریں"),
+ "bg": dict(countryFilter="Държава", jurisdictionFilter="Юрисдикция", rankFilter="Ранг",
+  listedFilter="Записи в указателя", clearFilters="Изчисти филтрите"),
+}
+
 BRANCH_RANKS = {
  "en": ("Parish", "Chapel Parish", "Monastery"),
  "el": ("Ενορία", "Ενορία παρεκκλησίου", "Μονή"),
@@ -534,6 +586,7 @@ def page_words(lang):
     """All words the page speaks for one language."""
     out = dict(W[lang])
     out.update(BRANCH_UI[lang])
+    out.update(FILTER_UI[lang])
     out["services"] = SERVICES[lang]
     ranks = dict(out["ranks"])
     parish, chapel, monastery = BRANCH_RANKS[lang]
@@ -573,21 +626,21 @@ COUNTRIES = {
  "ka": {  # gathered: BG EG GE RS RU SY UA
   "AL": "ალბანეთი", "AU": "ავსტრალია", "BG": "ბულგარეთი", "CY": "კვიპროსი", "EE": "ესტონეთი",
   "EG": "ეგვიპტე", "FI": "ფინეთი", "GE": "საქართველო", "GR": "საბერძნეთი",
-  "IL": "ისრაელი", "JP": "იაპონია", "MK": "ჩრდილოეთ მაკედონია",
+  "IL": "ისრაელი", "JP": "იაპონია", "LI": "ლიხტენშტაინი", "LU": "ლუქსემბურგი", "MK": "ჩრდილოეთ მაკედონია",
   "NZ": "ახალი ზელანდია", "PL": "პოლონეთი", "RO": "რუმინეთი", "RS": "სერბეთი", "RU": "რუსეთი",
   "SK": "სლოვაკეთი", "SY": "სირია", "TR": "თურქეთი", "UA": "უკრაინა",
   "US": "ამერიკის შეერთებული შტატები"},
  "hy": {  # gathered: BG EG GE RS RU UA US
   "AL": "Ալբանիա", "AU": "Աւստրալիա", "BG": "Բուլղարիա", "CY": "Կիպրոս", "EE": "Էստոնիա",
   "EG": "Եգիպտոս", "FI": "Ֆինլանդիա", "GE": "Վրաստան", "GR": "Յունաստան",
-  "IL": "Իսրայէլ", "JP": "Ճապոնիա", "MK": "Հիւսիսային Մակեդոնիա",
+  "IL": "Իսրայէլ", "JP": "Ճապոնիա", "LI": "Լիխտենշտայն", "LU": "Լիւքսամպուրկ", "MK": "Հիւսիսային Մակեդոնիա",
   "NZ": "Նոր Զելանդիա", "PL": "Լեհաստան", "RO": "Ռումինիա", "RS": "Սերբիա", "RU": "Ռուսիա",
   "SK": "Սլովակիա", "SY": "Սուրիա", "TR": "Թուրքիա", "UA": "Ուկրաինա",
   "US": "Ամերիկայի Միացեալ Նահանգներ"},
  "arc": {  # gathered: BG EG GE GR MK RS RU SY UA
   "AL": "ܐܠܒܢܝܐ", "AU": "ܐܘܣܛܪܠܝܐ", "BG": "ܒܘܠܓܪܝܐ", "CY": "ܩܘܦܪܘܣ", "EE": "ܐܣܛܘܢܝܐ",
   "EG": "ܡܨܪܝܢ", "FI": "ܦܝܢܠܢܕܝܐ", "GE": "ܓܘܪܓܝܐ", "GR": "ܝܘܢܝܐ",
-  "IL": "ܐܝܣܪܐܝܠ", "JP": "ܝܦܢ", "MK": "ܡܩܕܘܢܝܐ", "PL": "ܦܘܠܢܝܐ",
+  "IL": "ܐܝܣܪܐܝܠ", "JP": "ܝܦܢ", "LI": "ܠܝܟܛܢܫܛܝܢ", "LU": "ܠܘܟܣܡܒܘܪܓ", "MK": "ܡܩܕܘܢܝܐ", "PL": "ܦܘܠܢܝܐ",
   "NZ": "ܢܝܘ ܙܝܠܢܕ", "RO": "ܪܘܡܢܝܐ", "RS": "ܣܪܒܝܐ", "RU": "ܪܘܣܝܐ", "SK": "ܣܠܘܒܩܝܐ",
   "SY": "ܣܘܪܝܐ", "TR": "ܬܘܪܩܝܐ", "UA": "ܐܘܩܪܐܝܢܐ", "US": "ܐܡܪܝܩܐ"},
 }

@@ -1,0 +1,172 @@
+{
+  "v": 1,
+  "countries": [
+    "LU"
+  ],
+  "checked": "2026-11-14",
+  "method": "Official patriarchal, diocesan, parish, and Luxembourg church-recognition sources were checked. Current official bodies are preserved in parallel even when they fall outside the four communities named in the state convention.",
+  "published_summary": {
+    "bg-western-central-europe": 1,
+    "ep-belgium": 2,
+    "mk-europe": 1,
+    "ro-germany": 1,
+    "ru-great-britain-and-western-europe-rocor": 1,
+    "sr-western-europe": 1,
+    "total": 7
+  },
+  "candidates": [
+    {
+      "candidate_id": "lu-ep-luxembourg-saints-anargyres-separate-body",
+      "name": "Saints Anargyres Orthodox Parish in Luxembourg",
+      "status": "hold for current separate-body confirmation",
+      "reason": "Official historical and Luxembourg recognition pages describe the Saints Anargyres chapel at 3 Rue Pulvermuhl. The current Metropolis parish list instead names Saint Volodymyr Equal-to-the-Apostles as its second Luxembourg parish, and the former Saints Anargyres page now carries Saint Volodymyr's Dommeldange details. The cathedral and Saint Volodymyr parish are published; a third row waits for current confirmation that Saints Anargyres still exists as a separate body.",
+      "sources": [
+        "https://orthodoxia.be/fr/paroisses/",
+        "https://orthodoxia.be/fr/sainte-metropole-de-belgique/presence-orthodoxe-aux-pays-bas/",
+        "https://orthodoxia.be/fr/enoria/paroisse-des-saints-anargyres-a-luxembourg/"
+      ]
+    }
+  ],
+  "historical_or_superseded": [
+    {
+      "name": "Russian Orthodox house church in Wiltz",
+      "status": "historical predecessor, not a separate current body",
+      "reason": "The official ROCOR history records the house church founded in Wiltz in 1927 as the beginning of the community that later built Saints Peter and Paul Church in Luxembourg. The current 2026 diocesan directory lists only Saints Peter and Paul in Luxembourg and no separate Wiltz body.",
+      "sources": [
+        "https://www.synod.com/synod/engdocuments/enart_priestgeorgesmachtalereinterview.html",
+        "https://orthodox-europe.org/wp-content/uploads/2025/12/2026-Diocese-of-GB-and-W-Europe-Directory-PDF.pdf"
+      ]
+    }
+  ],
+  "official_jurisdiction_audit": [
+    {
+      "jurisdiction": "Ecumenical Patriarchate, Metropolis of Belgium",
+      "result": "Saint Nicholas Cathedral and Saint Volodymyr Equal-to-the-Apostles Parish published",
+      "source": "https://orthodoxia.be/fr/paroisses/"
+    },
+    {
+      "jurisdiction": "Patriarchate of Alexandria",
+      "result": "no Luxembourg body in the official territorial structure",
+      "source": "https://www.patriarchateofalexandria.com/archdioceses/?lang=en"
+    },
+    {
+      "jurisdiction": "Patriarchate of Antioch",
+      "result": "no Luxembourg parish in the official Western and Central European structure",
+      "source": "https://www.antiochpatriarchate.org/images/pages/dalil-2025-final2024-12-18-12-31-19.pdf"
+    },
+    {
+      "jurisdiction": "Patriarchate of Jerusalem",
+      "result": "no Luxembourg body in the official structure",
+      "source": "https://en.jerusalem-patriarchate.info/administrative-structure/holy-bishoprics/"
+    },
+    {
+      "jurisdiction": "Moscow Patriarchate, Brussels and Belgium Diocese",
+      "result": "no current Luxembourg body; the official diocese lists its present bodies in Belgium and separately records that Luxembourg has no Moscow Patriarchate parish",
+      "sources": [
+        "https://archiepiskopia.be/index.php?content=parishes&lang=fr",
+        "https://archiepiskopia.be/content/biblio/fr/Model/EglOrthRus.Benelux.pdf"
+      ]
+    },
+    {
+      "jurisdiction": "Russian Orthodox Church Outside Russia, Diocese of Great Britain and Western Europe",
+      "result": "Saints Peter and Paul Church published",
+      "source": "https://orthodox-europe.org/wp-content/uploads/2025/12/2026-Diocese-of-GB-and-W-Europe-Directory-PDF.pdf"
+    },
+    {
+      "jurisdiction": "Archdiocese of Orthodox Churches of Russian Tradition in Western Europe",
+      "result": "no Luxembourg body in the current official directory",
+      "source": "https://archeveche.eu/lieux/"
+    },
+    {
+      "jurisdiction": "Serbian Orthodox Diocese of Western Europe",
+      "result": "Saints Constantine and Helen Parish published",
+      "source": "https://dioceseserbe.org/fr/benelux/"
+    },
+    {
+      "jurisdiction": "Romanian Orthodox Metropolis of Germany, Central and Northern Europe",
+      "result": "Nativity of the Lord and Saint Matthew the Apostle Parish published",
+      "source": "https://mitropolia-ro.de/parohii-luxemburg/"
+    },
+    {
+      "jurisdiction": "Bulgarian Orthodox Diocese of Western and Central Europe",
+      "result": "Saint John of Rila Church Community published",
+      "source": "https://bg-patriarshia.bg/west-eu-diocese-temples"
+    },
+    {
+      "jurisdiction": "Georgian Orthodox Church",
+      "result": "no current officially documented Luxembourg body found",
+      "source": "https://patriarchate.ge/"
+    },
+    {
+      "jurisdiction": "Church of Cyprus",
+      "result": "no Luxembourg body in the official structure",
+      "source": "https://churchofcyprus.org.cy/diikitiki_diathrosi"
+    },
+    {
+      "jurisdiction": "Church of Greece",
+      "result": "no separately governed Luxembourg body; the Greek-speaking Luxembourg bodies are under the Ecumenical Patriarchate metropolis",
+      "source": "https://www.ecclesia.gr/greek/dioceses/dioceses.asp"
+    },
+    {
+      "jurisdiction": "Polish Autocephalous Orthodox Church",
+      "result": "no Luxembourg body in the official church administration",
+      "source": "https://www.orthodox.pl/administracja/"
+    },
+    {
+      "jurisdiction": "Orthodox Autocephalous Church of Albania",
+      "result": "no Luxembourg body in the official structure",
+      "source": "https://orthodoxalbania.org/2026/en/church-organization-2026/"
+    },
+    {
+      "jurisdiction": "Orthodox Church of the Czech Lands and Slovakia",
+      "result": "no Luxembourg body in the official schematism",
+      "source": "https://orthodox.sk/schematizmus/pravoslavna-eparchia/"
+    },
+    {
+      "jurisdiction": "Orthodox Church in America",
+      "result": "no Luxembourg body in the official parish directory",
+      "source": "https://www.oca.org/parishes"
+    },
+    {
+      "jurisdiction": "Orthodox Church of Finland",
+      "result": "no Luxembourg body in the official church structure",
+      "source": "https://ort.fi/en/finnish-orthodox-church/"
+    },
+    {
+      "jurisdiction": "Apostolic Orthodox Church of Estonia",
+      "result": "no Luxembourg body in the official structure",
+      "source": "https://www.eoc.ee/fr/eglise-orthodoxe-destonie/structure/"
+    },
+    {
+      "jurisdiction": "Orthodox Church in Japan",
+      "result": "no Luxembourg body in the official church directory",
+      "source": "https://www.orthodoxjapan.jp/"
+    },
+    {
+      "jurisdiction": "Macedonian Orthodox Church, European Diocese",
+      "result": "Holy Apostle Thomas Church Community published",
+      "sources": [
+        "https://mpee.mk/category/za-eparxijata",
+        "https://js.ugd.edu.mk/index.php/YFNTS/article/download/7479/5795/13678"
+      ]
+    },
+    {
+      "jurisdiction": "Ukrainian Orthodox Church, Western European Vicariate",
+      "result": "no specific current Luxembourg parish or mission found; the current official country report does not include Luxembourg among its active countries",
+      "sources": [
+        "https://uoc-news.church/2023/12/26/za-kordonom-diyut-84-gromadi-ukrajinskoji-pravoslavnoji-cerkvi-zvit-keruyuchogo-spravami-za-2023-rik/",
+        "https://uoc-news.church/2026/02/09/pro-sluzhinnya-zaxidnojevropejskogo-vikariatstva-ukrajinskoji-pravoslavnoji-cerkvi/"
+      ]
+    },
+    {
+      "jurisdiction": "Orthodox Church of Ukraine",
+      "result": "no current official OCU source establishes a Luxembourg parish, mission, chapel, monastery, or recurring worship site",
+      "source": "https://www.pomisna.info/uk/tserkva/synodalni-ustanovy/"
+    },
+    {
+      "jurisdiction": "Church of Sinai",
+      "result": "no Luxembourg body among the official dependencies",
+      "source": "https://sinaimonastery.com/st-catherine/index.php/en/description/shrines-dependencies"
+    }
+  ]
+}

@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang="en">
 <head>
-<meta charset="utf-8"><meta name="plithos-build" content="2026-11-14am"><meta name="viewport" content="width=device-width, initial-scale=1">
+<meta charset="utf-8"><meta name="plithos-build" content="2026-11-14an"><meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="icon" type="image/svg+xml" href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48Y2lyY2xlIGN4PSI1MCIgY3k9IjUwIiByPSI0NyIgZmlsbD0iIzZlMmIzYiIvPjxnIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2YyZWNlMCIgc3Ryb2tlLXdpZHRoPSI3IiBzdHJva2UtbGluZWNhcD0iYnV0dCIgc3Ryb2tlLWxpbmVqb2luPSJtaXRlciI+PGxpbmUgeDE9IjQ1IiB5MT0iMjAiIHgyPSI0NSIgeTI9IjgyIi8+PGxpbmUgeDE9IjMwIiB5MT0iNTEiIHgyPSI2MCIgeTI9IjUxIi8+PHBhdGggZD0iTTQ1LDIwIEM2MSwyMCA2NywyNiA2NywzMyBDNjcsNDAgNjEsNDYgNDUsNDYiLz48L2c+PC9zdmc+">
 <title>Plithos: The Orthodox Churches of the World</title>
 <script>var PL_TITLE=document.title;</script>
@@ -72,11 +72,18 @@ footer .cpy{font-family:var(--mono);font-size:11.5px;letter-spacing:.09em;color:
   padding:11px 14px;margin:0 0 18px;font-size:15px;color:var(--ink-soft);max-width:72ch}
 .note.plain{border-inline-start-color:var(--rule)}
 .partial{font-size:14.5px;color:var(--muted);margin:0 0 18px;max-width:72ch}
-.filterset{margin:0 0 12px}
+.filtergrid{display:grid;grid-template-columns:repeat(auto-fit,minmax(145px,1fr));gap:10px;margin:0 0 10px}
+.filtercontrol{display:block;min-width:0}
 .filterlabel{display:block;font-family:var(--mono);font-size:10.5px;letter-spacing:.09em;
   text-transform:uppercase;color:var(--muted);margin:0 0 6px}
-.filters{display:flex;flex-wrap:wrap;gap:5px;margin:0 0 16px}
-.filterset .filters{margin-bottom:0}
+.filtercontrol select{display:block;width:100%;height:44px;min-width:0;border:1px solid var(--rule);border-radius:8px;
+  background:var(--leaf);color:var(--ink);font-family:var(--serif);font-size:15px;padding:0 30px 0 10px}
+[dir=rtl] .filtercontrol select{padding:0 10px 0 30px}
+.filteractions{display:flex;align-items:center;justify-content:flex-end;margin:0 0 14px}
+.clearfilters{min-height:44px;border:1px solid var(--rule);border-radius:8px;background:var(--leaf);color:var(--porphyry);
+  font-family:var(--mono);font-size:11px;letter-spacing:.05em;text-transform:uppercase;padding:8px 13px;cursor:pointer}
+.clearfilters:hover:not(:disabled){border-color:var(--porphyry)}
+.clearfilters:disabled{color:var(--muted);cursor:default;opacity:.65}
 .grp{font-family:var(--display);font-weight:600;font-size:15px;letter-spacing:.02em;
   color:var(--muted);text-transform:none;margin:26px 0 0;padding:0 0 6px;border-bottom:1px solid var(--rule)}
 .grp:first-of-type{margin-top:4px}
@@ -196,11 +203,14 @@ footer .cpy{font-family:var(--mono);font-size:11.5px;letter-spacing:.09em;color:
     <select id="langpick"></select>
   </div>
 
-  <div class="filterset">
-    <span class="filterlabel" id="kindlabel" data-t="kindFilter">Type</span>
-    <div class="filters" id="kindfilters" role="group" aria-labelledby="kindlabel"></div>
+  <div class="filtergrid" id="directoryfilters">
+    <label class="filtercontrol"><span class="filterlabel" data-t="countryFilter">Country</span><select id="countryfilter"></select></label>
+    <label class="filtercontrol"><span class="filterlabel" data-t="jurisdictionFilter">Jurisdiction</span><select id="jurisdictionfilter"></select></label>
+    <label class="filtercontrol"><span class="filterlabel" data-t="kindFilter">Body type</span><select id="kindfilter"></select></label>
+    <label class="filtercontrol"><span class="filterlabel" data-t="rankFilter">Rank</span><select id="rankfilter"></select></label>
+    <label class="filtercontrol"><span class="filterlabel" data-t="listedFilter">Directory entries</span><select id="listedfilter"></select></label>
   </div>
-  <div class="filters" id="filters"></div>
+  <div class="filteractions"><button type="button" class="clearfilters" id="clearfilters" data-t="clearFilters">Clear filters</button></div>
   <p class="count" id="count"></p>
   <div id="rows"></div>
 </main>
@@ -210,8 +220,9 @@ footer .cpy{font-family:var(--mono);font-size:11.5px;letter-spacing:.09em;color:
 <script>
 var LANG_NAMES={en:"English",el:"Ελληνικά",ru:"Русский",ro:"Română",uk:"Українська",de:"Deutsch",es:"Español",ar:"العربية",fr:"Français",pt:"Português",it:"Italiano",sr:"Српски",ka:"ქართული",zh:"简体中文",ja:"日本語",ko:"한국어",sw:"Kiswahili",hy:"Հայերեն",arc:"ܐܪܡܝܐ",hi:"हिन्दी",bn:"বাংলা",ur:"اردو",bg:"Български"};
 var RTL={ar:1,ur:1,arc:1};
-var DIR=null, W=null, lang="en", query="", country="", kind="", byId={}, childrenByParent={};
-var branchState={}, branchPromises={}, openNodes={};
+var COLLATION={arc:"syr"};
+var DIR=null, W=null, lang="en", query="", country="", jurisdiction="", kind="", rank="", listed="", byId={}, childrenByParent={};
+var branchState={}, branchPromises={}, openNodes={}, jurisdictionTotals={};
 
 function $(id){ return document.getElementById(id); }
 function esc(s){ return String(s==null?"":s).replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;").replace(/"/g,"&quot;"); }
@@ -263,17 +274,49 @@ function theDay(iso){
 
 function hits(r){
   if(country && r.country!==country) return false;
-  if(kind && rowKind(r)!==kind) return false;
+  if(jurisdiction && jurisdictionId(r)!==jurisdiction) return false;
+  if(kind && (r.kind||"")!==kind) return false;
+  if(rank && (r.rank||"")!==rank) return false;
+  if(listed && listedBand(jurisdictionCount(jurisdictionId(r)))!==listed) return false;
   if(!query) return true;
+  var root=byId[jurisdictionId(r)];
   var hay=[r.name,rowName(r),r.styled,rowStyled(r),r.local,r.seat||"",r.seat?rowSeat(r):"",
            (r.address||[]).join(" "),countryName(r.country),rowRank(r),
-           (r.parent&&byId[r.parent])?rowName(byId[r.parent]):""].join(" ");
+           (r.parent&&byId[r.parent])?rowName(byId[r.parent]):"",root?rowName(root):""].join(" ");
   return fold(hay).indexOf(query)>=0;
 }
 
 function rowKind(r){
   return (r.kind==="church"||r.kind==="autonomous")?"church":(r.kind||"");
 }
+
+function jurisdictionId(r){
+  var seen={}, p=r;
+  while(p&&p.id&&!seen[p.id]){
+    seen[p.id]=1;
+    if(!p.parent||!byId[p.parent]) return p.id;
+    p=byId[p.parent];
+  }
+  return r&&r.id?r.id:"";
+}
+
+function jurisdictionCounts(){
+  var counts={};
+  DIR.rows.forEach(function(r){
+    var id=jurisdictionId(r);
+    if(id) counts[id]=(counts[id]||0)+1;
+  });
+  branchIds().forEach(function(id){
+    if(branchState[id]==="loaded") return;
+    var root=jurisdictionId(byId[id]), n=Number(DIR.branches[id].count)||0;
+    if(root) counts[root]=(counts[root]||0)+n;
+  });
+  return counts;
+}
+
+function jurisdictionCount(id){ return jurisdictionTotals[id]||0; }
+function listedBand(n){ return n>=50?"50":(n>=10?"10":"1"); }
+function filtersActive(){ return !!(query||country||jurisdiction||kind||rank||listed); }
 
 /* The row's name and its seat are the page's words, not the body's, so they
    read in the reader's language. The address and the site are not: one goes
@@ -336,7 +379,7 @@ function branchNotice(id){
 function childrenHtml(parent,kids,open){
   var manifest=DIR.branches&&DIR.branches[parent.id];
   if(!kids.length&&!manifest) return "";
-  var count=(manifest&&!query&&!kind)?manifest.count:kids.length;
+  var count=(manifest&&!filtersActive())?manifest.count:kids.length;
   var isOpen=open||!!openNodes[parent.id];
   var h='<details class="under" data-owner="'+esc(parent.id)+'"'+
         (manifest?' data-branch="'+esc(parent.id)+'"':"")+(isOpen?" open":"")+'><summary>'+esc(t(childWord(parent,kids)))+
@@ -498,8 +541,9 @@ function body(r,tag){
 }
 
 function render(){
+  jurisdictionTotals=jurisdictionCounts();
   var churches=DIR.rows.filter(function(r){ return !r.parent; });
-  var narrowed=!!(query||country||kind), html=branchOverview(), g="", n=0;
+  var narrowed=filtersActive(), html=branchOverview(), g="", n=0;
   DIR.rows.forEach(function(r){ if(hits(r)) n++; });
   if(!narrowed&&DIR.branches){
     Object.keys(DIR.branches).forEach(function(id){
@@ -524,38 +568,74 @@ function render(){
 }
 
 function renderFilters(){
-  var seen={}, order=[];
+  var seen={}, order=[], html, host, roots, counts=jurisdictionTotals;
   DIR.rows.forEach(function(r){ if(!seen[r.country]){ seen[r.country]=1; order.push(r.country); } });
   if(DIR.branches) Object.keys(DIR.branches).forEach(function(id){
     branchCountries(DIR.branches[id]).forEach(function(cc){
       if(cc&&!seen[cc]){ seen[cc]=1; order.push(cc); }
     });
   });
-  order.sort(function(a,b){ return countryName(a).localeCompare(countryName(b),lang); });
-  var html='<button type="button" class="tag'+(country?"":" on")+'" data-c="" aria-pressed="'+(!country)+'">'+esc(t("all"))+"</button>";
+  order.sort(function(a,b){ return compareText(countryName(a),countryName(b)); });
+  html=optionHtml("",t("all"),!country);
   order.forEach(function(cc){
-    html+='<button type="button" class="tag'+(country===cc?" on":"")+'" data-c="'+esc(cc)+'" aria-pressed="'+(country===cc)+'">'+esc(countryName(cc))+"</button>";
+    html+=optionHtml(cc,countryName(cc),country===cc);
   });
-  var host=$("filters");
-  host.innerHTML=html;
-  var b=host.querySelectorAll("[data-c]"), i;
-  for(i=0;i<b.length;i++) b[i].addEventListener("click",function(){
-    country=this.getAttribute("data-c"); refresh(); window.scrollTo(0,0);
-  });
+  host=$("countryfilter"); host.innerHTML=html;
+  host.onchange=function(){ country=this.value; refresh(); };
 
-  var kinds=[["",t("all")],["church",t("kindChurches")],["diocese",t("kindDioceses")],
+  roots=DIR.rows.filter(function(r){ return !r.parent; });
+  roots.sort(function(a,b){ return compareText(rowName(a),rowName(b)); });
+  html=optionHtml("",t("all"),!jurisdiction);
+  roots.forEach(function(r){
+    html+=optionHtml(r.id,rowName(r)+" ("+(counts[r.id]||0)+")",jurisdiction===r.id);
+  });
+  host=$("jurisdictionfilter"); host.innerHTML=html;
+  host.onchange=function(){ jurisdiction=this.value; refresh(); };
+
+  var kinds=[["",t("all")],["church",t("gauto")],["autonomous",t("gnom")],["diocese",t("kindDioceses")],
              ["parish",t("kindParishes")],["monastery",t("kindMonasteries")]];
   html="";
   kinds.forEach(function(k){
-    html+='<button type="button" class="tag'+(kind===k[0]?" on":"")+'" data-k="'+k[0]+
-          '" aria-pressed="'+(kind===k[0])+'">'+esc(k[1])+"</button>";
+    html+=optionHtml(k[0],k[1],kind===k[0]);
   });
-  host=$("kindfilters"); host.innerHTML=html;
-  b=host.querySelectorAll("[data-k]");
-  for(i=0;i<b.length;i++) b[i].addEventListener("click",function(){
-    kind=this.getAttribute("data-k"); refresh(); window.scrollTo(0,0);
+  host=$("kindfilter"); host.innerHTML=html;
+  host.onchange=function(){ kind=this.value; refresh(); };
+
+  var rankSeen={}, ranks=(DIR.ranks||[]).slice();
+  ranks.forEach(function(k){ rankSeen[k]=1; });
+  DIR.rows.forEach(function(r){
+    if(r.rank&&!rankSeen[r.rank]){ rankSeen[r.rank]=1; ranks.push(r.rank); }
   });
+  if(rank&&!rankSeen[rank]) ranks.push(rank);
+  ranks.sort(function(a,b){ return compareText(rankLabel(a),rankLabel(b)); });
+  html=optionHtml("",t("all"),!rank);
+  ranks.forEach(function(k){ html+=optionHtml(k,rankLabel(k),rank===k); });
+  host=$("rankfilter"); host.innerHTML=html;
+  host.onchange=function(){ rank=this.value; refresh(); };
+
+  html=optionHtml("",t("all"),!listed)+optionHtml("1","1-9",listed==="1")+
+       optionHtml("10","10-49",listed==="10")+optionHtml("50","50+",listed==="50");
+  host=$("listedfilter"); host.innerHTML=html;
+  host.onchange=function(){ listed=this.value; refresh(); };
+
+  var active=(query?1:0)+(country?1:0)+(jurisdiction?1:0)+(kind?1:0)+(rank?1:0)+(listed?1:0);
+  host=$("clearfilters"); host.disabled=!active;
+  host.textContent=t("clearFilters")+(active?" ("+active+")":"");
+  host.onclick=function(){
+    query=country=jurisdiction=kind=rank=listed=""; $("q").value=""; refresh();
+  };
 }
+
+function optionHtml(value,label,selected){
+  return '<option value="'+esc(value)+'"'+(selected?' selected':'')+'>'+esc(label)+"</option>";
+}
+
+function compareText(a,b){
+  try{ return String(a).localeCompare(String(b),COLLATION[lang]||lang); }
+  catch(e){ return String(a).localeCompare(String(b)); }
+}
+
+function rankLabel(k){ var m=W&&(W[lang]||{}).ranks; return (m&&m[k])||k; }
 
 function branchIds(){ return DIR.branches?Object.keys(DIR.branches):[]; }
 
@@ -574,11 +654,14 @@ function totalRows(){
 
 function relevantBranches(){
   var ids=branchIds();
-  if(query||kind==="parish"||kind==="monastery") return ids;
-  if(country) return ids.filter(function(id){
-    return branchCountries(DIR.branches[id]).indexOf(country)>=0;
+  if(!filtersActive()||kind==="church"||kind==="autonomous") return [];
+  return ids.filter(function(id){
+    var info=DIR.branches[id], root=jurisdictionId(byId[id]);
+    if(country&&branchCountries(info).indexOf(country)<0) return false;
+    if(jurisdiction&&root!==jurisdiction) return false;
+    if(listed&&listedBand(jurisdictionCount(root))!==listed) return false;
+    return true;
   });
-  return [];
 }
 
 function validBranch(id,d){
@@ -623,6 +706,7 @@ function loadBranch(id,force){
 
 function refresh(){
   var pending=[];
+  jurisdictionTotals=jurisdictionCounts();
   relevantBranches().forEach(function(id){
     if(branchState[id]!=="loaded"&&branchState[id]!=="failed") pending.push(loadBranch(id,false));
   });

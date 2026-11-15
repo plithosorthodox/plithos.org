@@ -1147,6 +1147,22 @@ from directory_sweden import ENGLISH_NAMES as _SWEDEN_NAMES
 NAMES.update(_SWEDEN_NAMES)
 del _SWEDEN_NAMES
 
+from directory_luxembourg import ENGLISH_NAMES as _LUXEMBOURG_NAMES
+NAMES.update(_LUXEMBOURG_NAMES)
+del _LUXEMBOURG_NAMES
+
+from directory_finland import ENGLISH_NAMES as _FINLAND_NAMES
+NAMES.update(_FINLAND_NAMES)
+del _FINLAND_NAMES
+
+from directory_liechtenstein import ENGLISH_NAMES as _LIECHTENSTEIN_NAMES
+NAMES.update(_LIECHTENSTEIN_NAMES)
+del _LIECHTENSTEIN_NAMES
+
+from directory_netherlands import ENGLISH_NAMES as _NETHERLANDS_NAMES
+NAMES.update(_NETHERLANDS_NAMES)
+del _NETHERLANDS_NAMES
+
 SEATS = {
     "Istanbul": u"Istanbul",
     "Alexandria": u"Alexandria",

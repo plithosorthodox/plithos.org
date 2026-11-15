@@ -199,6 +199,24 @@ dialog. Churches needs search and one searchable country or region selector,
 with filtered results immediately below it. Glossary should keep search
 prominent and move secondary tags into a filter panel or combobox.
 
+#### Churches directory controls, 14 November 2026
+
+The country cloud placed one button for every represented country before the
+results. It has been replaced by five labelled native selectors: country,
+jurisdiction, body type, rank and directory entry count. Country choices are
+sorted again whenever the page language changes, using the names displayed in
+that language. Jurisdiction choices show the exact count of published rows.
+The entry-count filter uses the explicit bands 1-9, 10-49 and 50+, and does
+not present those counts as membership or population.
+
+This is a structural result rather than a new viewport measurement. The
+number of controls above the results is now fixed as the directory grows, the
+controls have 44 px minimum height, and the grid fits two columns at an
+ordinary phone width. A translated Clear filters control reports how many
+search or filter conditions are active. Branch data remains lazy-loaded and
+is narrowed by country, jurisdiction and entry-count band before requests are
+made.
+
 ### Tap targets and accessibility
 
 Mobile counts exclude descendants of closed `details` elements.

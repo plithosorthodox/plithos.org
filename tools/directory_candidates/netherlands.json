@@ -1,0 +1,258 @@
+{
+  "v": 1,
+  "countries": [
+    "NL"
+  ],
+  "checked": "2026-11-14",
+  "status": "only bodies without sufficient current official classification are held here",
+  "published_summary": {
+    "an-germany": 2,
+    "bg-western-central-europe": 1,
+    "ep-belgium": 20,
+    "ge-belgium-holland": 2,
+    "mk-europe": 1,
+    "ro-western-europe": 7,
+    "ru-archdiocese-western-europe": 3,
+    "ru-great-britain-and-western-europe-rocor": 3,
+    "ru-hague-and-the-netherlands": 10,
+    "sr-western-europe": 10,
+    "ukraine-uoc": 2,
+    "total": 61
+  },
+  "candidates": [
+    {
+      "name": "St Procopius Parish or community",
+      "place": "Wateringen, Netherlands",
+      "claimed_parent": "Unresolved",
+      "sources": [
+        "https://orthodoxconnect.be/kerkkaart"
+      ],
+      "reason": "The current Orthodox Benelux map names a St Procopius body in Wateringen, but no patriarchal, diocesan, parish or monastery source was found that identifies its jurisdiction, exact institutional name, address or current status. A map may discover an address but cannot be the only evidence that the body exists or establish its canonical parent."
+    },
+    {
+      "name": "St Barbara Parish",
+      "place": "Zaandam, Netherlands",
+      "claimed_parent": "Unresolved",
+      "sources": [
+        "https://orthodoxconnect.be/kerkkaart"
+      ],
+      "reason": "The current Orthodox Benelux map names a St Barbara parish in Zaandam, but no current patriarchal, diocesan or parish source was found that identifies its canonical parent or confirms it as a separate active body. It is not the Ecumenical Patriarchate's St Catherine parish or the Serbian St Nicholas parish in the same city. Withhold until its parent Church publishes it."
+    },
+    {
+      "name": "Orthodox Church of Ukraine worship activity in the Netherlands",
+      "place": "Netherlands",
+      "claimed_parent": "Orthodox Church of Ukraine",
+      "sources": [
+        "https://www.pomisna.info/uk/tserkva/synodalni-ustanovy/",
+        "https://help-ukraine.nl/refugee/daily-issues"
+      ],
+      "reason": "Official OCU structures and secondary Netherlands information were checked. They establish visiting clergy and holiday services, but no current official source identifies a permanent Netherlands parish, mission, chapel, monastery, metochion or recurring worship site. Retain until an OCU source publishes a stable body."
+    },
+    {
+      "name": "UOC worship activity in Wijhe",
+      "place": "Wijhe, Netherlands",
+      "claimed_parent": "Transfiguration of the Lord Parish in Rotterdam, Ukrainian Orthodox Church",
+      "sources": [
+        "https://thetransfiguration.church/2024/02/08/bozhestvenna-liturgiya-u-m-wijhe/",
+        "https://thetransfiguration.church/"
+      ],
+      "reason": "The parish documents one Divine Liturgy in Wijhe in February 2024 at the invitation of a local Catholic community. Its current schedule does not establish a permanent or recurring Wijhe worship site."
+    }
+  ],
+  "superseded_or_not_current": [
+    {
+      "name": "Mother of God Parish at Amersfoort",
+      "sources": [
+        "https://rum-orthodox.de/gemeinden/utrecht/",
+        "https://orthodoxekerk.net/parochies/patriarchaat-van-antiochie/"
+      ],
+      "reason": "Older Netherlands sources call this Antiochian body the Amersfoort parish. The current official Metropolis page names the same parish and clergy at Kerklaan 31 in De Bilt. The current De Bilt row is published without duplicating the moved body."
+    },
+    {
+      "name": "Holy Myrrhbearers Parish under the Russian Tradition Archdiocese",
+      "sources": [
+        "https://archeveche.eu/en/lieu_type/deanery-of-the-benelux/",
+        "https://www.orthodoxekerkbreda.nl/",
+        "https://orthodoxia.be/nl/parochies/"
+      ],
+      "reason": "The Russian Tradition directory still lists the Breda parish. The parish's current own site and the Ecumenical Patriarchate's current parish pages identify it with the Archdiocese of Belgium. It is published once under ep-belgium and the stale parallel listing is retained here."
+    },
+    {
+      "name": "Romanian Saints Constantine and Helena Parish in Utrecht",
+      "sources": [
+        "https://orthodoxekerk.net/parochies/patriarchaat-van-roemenie/",
+        "https://www.mitropolia.eu/fr/site/177/"
+      ],
+      "reason": "The Netherlands directory marks the body inactive and the current Romanian Metropolis list no longer includes it."
+    },
+    {
+      "name": "Romanian Saints Catherine and Theodora Parish in Zwolle",
+      "sources": [
+        "https://orthodoxekerk.net/parochies/patriarchaat-van-roemenie/",
+        "https://www.mitropolia.eu/fr/site/177/"
+      ],
+      "reason": "The Netherlands directory marks the body inactive and the current Romanian Metropolis list no longer includes it."
+    },
+    {
+      "name": "Romanian Entry of the Mother of God and St Servatius Parish in Maastricht",
+      "sources": [
+        "https://orthodoxekerk.net/parochies/patriarchaat-van-roemenie/",
+        "https://www.mitropolia.eu/fr/site/177/"
+      ],
+      "reason": "The Netherlands directory marks the body inactive and the current Romanian Metropolis list no longer includes it."
+    },
+    {
+      "name": "Georgian Exaltation of the Holy Cross Parish at Amsterdam-Slotervaart",
+      "sources": [
+        "https://orthodoxekerk.net/parochies/patriarchaat-van-georgie/",
+        "https://aalsmeer.oudkatholiek.nl/kerkdiensten/",
+        "https://orthodoxconnect.be/kerkkaart"
+      ],
+      "reason": "The Netherlands Georgian page retains the older Amsterdam-Slotervaart address. The current host church schedule and Orthodox Benelux map place the same parish at Oosteinderweg 394 in Aalsmeer. The current Aalsmeer row is published without duplicating the moved parish."
+    }
+  ],
+  "source_reconciliation": [
+    {
+      "subject": "Ecumenical Patriarchate coverage",
+      "sources": [
+        "https://orthodoxia.be/nl/parochies/%CE%B9n-nederland/",
+        "https://orthodoxia.be/nl/parochies/",
+        "https://orthodoxia.be/nl/2026/03/10/eerste-goddelijke-liturgie-in-de-nieuw-opgerichte-parochie-van-de-heilige-gordel-van-de-moeder-gods-in-maastricht-nederland/"
+      ],
+      "result": "The official parish pages are not identical. Their union, together with the official March 2026 foundation notice for the Maastricht Holy Girdle parish, establishes seventeen current parishes or communities in the Netherlands."
+    },
+    {
+      "subject": "Ecumenical Patriarchate monastery coverage",
+      "sources": [
+        "https://orthodoxia.be/nl/parochies/40326-2/",
+        "https://orthodoxekerk.net/parochies/oecumenisch-patriarchaat/"
+      ],
+      "result": "The official monastery directory and current Netherlands directory establish three current monasteries under the Archdiocese of Belgium."
+    },
+    {
+      "subject": "Serbian Western Europe coverage",
+      "sources": [
+        "https://dioceseserbe.org/eparhija/",
+        "https://dioceseserbe.org/beneluks/",
+        "https://orthodoxekerk.net/parochies/servisch-orthodoxe-kerk/"
+      ],
+      "result": "The diocesan overview says there are nine Netherlands worship places, but its summary and detailed page omit different bodies. The official-source union establishes nine parishes. The detailed diocesan page also lists St Anna Chapel under the Breda parish, producing ten directory rows."
+    },
+    {
+      "subject": "St Boniface and St Xenia community location",
+      "sources": [
+        "https://archeveche.eu/en/lieux/saint-boniface-and-saint-xenia-community-of-saint-petersburg/",
+        "https://archeveche.eu/en/lieu_type/deanery-of-the-benelux/"
+      ],
+      "result": "The current specific English page and deanery index place the community at Metzelaarplein 3 in Deventer. A French index label that places it in The Hague is treated as a directory error, not a second community."
+    },
+    {
+      "subject": "Georgian Netherlands coverage",
+      "sources": [
+        "https://orthodoxekerk.net/parochies/patriarchaat-van-georgie/",
+        "https://orthodoxconnect.be/kerkkaart",
+        "https://aalsmeer.oudkatholiek.nl/kerkdiensten/"
+      ],
+      "result": "The dedicated current parish page and current schedules establish Aalsmeer and The Hague parishes. An OKIN governance page saying the Georgian bishop has no Netherlands parishes is contradicted by the site's own dedicated parish directory and current worship evidence. Both parish rows are preserved."
+    },
+    {
+      "subject": "Serbian St Demetrius address",
+      "sources": [
+        "https://dioceseserbe.org/beneluks/",
+        "https://orthodoxekerk.net/parochies/servisch-orthodoxe-kerk/"
+      ],
+      "result": "The diocesan page gives Boschdijk 354 in Eindhoven while the current Netherlands directory gives Hornestraat 1 in Helmond. The Netherlands directory's Helmond address and local current listing are used; the body is not duplicated."
+    },
+    {
+      "subject": "UOC Rotterdam and Vlaardingen",
+      "sources": [
+        "https://thetransfiguration.church/",
+        "https://thetransfiguration.church/rozklad-podij/",
+        "https://news.church.ua/2026/02/09/pro-sluzhinnya-zaxidnojevropejskogo-vikariatstva-ukrajinskoji-pravoslavnoji-cerkvi/"
+      ],
+      "result": "The official parish and vicariate sources establish the Rotterdam parish. Its current recurring schedule separately establishes the Hoflaankerk worship site in Vlaardingen as a child row."
+    }
+  ],
+  "audited_no_current_netherlands_body": [
+    {
+      "authority": "Orthodox Church of Ukraine",
+      "source": "https://www.pomisna.info/uk/tserkva/synodalni-ustanovy/",
+      "result": "No current official source establishes a permanent Netherlands body. Visiting services remain in candidates."
+    },
+    {
+      "authority": "Ukrainian diaspora structures under the Ecumenical Patriarchate",
+      "source": "https://orthodoxekerk.net/stichting-okin/",
+      "result": "The current Netherlands jurisdiction union identifies no additional Ukrainian diaspora parish, mission, chapel, monastery, metochion or recurring worship site."
+    },
+    {
+      "authority": "Polish Autocephalous Orthodox Church",
+      "source": "https://www.orthodox.pl/administracja/",
+      "result": "The official church administration and foreign units directory lists no Netherlands body."
+    },
+    {
+      "authority": "Orthodox Church of the Czech Lands and Slovakia",
+      "source": "https://orthodox.sk/schematizmus/pravoslavna-eparchia/",
+      "result": "The official schematism lists no Netherlands body."
+    },
+    {
+      "authority": "Orthodox Autocephalous Church of Albania",
+      "source": "https://orthodoxalbania.org/2026/en/church-organization-2026/",
+      "result": "The official organization lists no Netherlands structure."
+    },
+    {
+      "authority": "Orthodox Church in America",
+      "source": "https://www.oca.org/parishes",
+      "result": "The official parish directory contains no Netherlands body."
+    },
+    {
+      "authority": "Orthodox Church of Finland",
+      "source": "https://ort.fi/kirkon-keskusrekisteri/rekisterista-loytyvat-seurakunnat/",
+      "result": "The official parish register contains no Netherlands body."
+    },
+    {
+      "authority": "Apostolic Orthodox Church of Estonia",
+      "source": "https://www.eoc.ee/fr/eglise-orthodoxe-destonie/structure/",
+      "result": "The official diocesan and parish structure contains no Netherlands body."
+    },
+    {
+      "authority": "Estonian Christian Orthodox Church",
+      "source": "https://et.orthodox.ee/parishes/",
+      "result": "No separate current official Netherlands body was found; the published Moscow Patriarchate Netherlands structures are already represented under their own current diocesan directories."
+    },
+    {
+      "authority": "Orthodox Church in Japan",
+      "source": "https://www.orthodoxjapan.jp/",
+      "result": "The official national church directory contains no Netherlands body."
+    },
+    {
+      "authority": "Orthodox Church of Moldova",
+      "source": "https://mitropolia.md/resurse-ortodoxe/",
+      "result": "The official diaspora resources list no Netherlands body."
+    },
+    {
+      "authority": "Greek Orthodox Patriarchate of Alexandria",
+      "source": "https://www.patriarchateofalexandria.com/archdioceses/?lang=en",
+      "result": "The official dioceses are territorial to Africa and contain no Netherlands body."
+    },
+    {
+      "authority": "Greek Orthodox Patriarchate of Jerusalem",
+      "source": "https://en.jerusalem-patriarchate.info/administrative-structure/holy-bishoprics/",
+      "result": "The official administrative directory contains no Netherlands body."
+    },
+    {
+      "authority": "Church of Greece",
+      "source": "https://www.ecclesia.gr/greek/dioceses/dioceses.asp",
+      "result": "The official diocesan directory contains no Netherlands body. The Greek parishes verified in the Netherlands belong to the Ecumenical Patriarchate."
+    },
+    {
+      "authority": "Church of Cyprus",
+      "source": "https://churchofcyprus.org.cy/",
+      "result": "The official church structure contains no Netherlands body."
+    },
+    {
+      "authority": "Church of Sinai",
+      "source": "https://sinaimonastery.com/st-catherine/index.php/en/description/shrines-dependencies",
+      "result": "The official dependencies directory contains no Netherlands parish or dependency."
+    }
+  ]
+}

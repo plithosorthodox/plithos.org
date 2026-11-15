@@ -1,0 +1,148 @@
+{
+  "v": 1,
+  "country": "LI",
+  "checked": "2026-11-14",
+  "method": "Current official patriarchal, diocesan, parish, mission, and Liechtenstein Orthodox association sources were checked. Search and map results were used only for discovery and were not accepted as proof of canonical parentage.",
+  "published_summary": {
+    "ecumenical-patriarchate": 1,
+    "serbian-patriarchate": 1,
+    "romanian-patriarchate": 1,
+    "rocor": 1,
+    "total": 4
+  },
+  "official_jurisdiction_audit": [
+    {
+      "jurisdiction": "Ecumenical Patriarchate, Metropolis of Switzerland",
+      "result": "one Liechtenstein Greek worship community included; the Ecumenical Patriarchate officially names the St Gallen parish as serving Eastern Switzerland and the Principality of Liechtenstein",
+      "sources": [
+        "https://orthodoxie.li/liechtenstein-orthodox-Orthodoxe-Kirche/griechische-gemeinde",
+        "https://ec-patr.org/entities/iera-mitropoli-elvetias/"
+      ]
+    },
+    {
+      "jurisdiction": "Patriarchate of Alexandria",
+      "result": "no separate Liechtenstein parish, mission, chapel, monastery, metochion, or officially named community was found in the official territorial structure",
+      "source": "https://www.patriarchateofalexandria.com/archdioceses/?lang=en"
+    },
+    {
+      "jurisdiction": "Patriarchate of Antioch",
+      "result": "no separate Liechtenstein body was found in the official Western and Southern Europe structure checked",
+      "source": "https://antiochpatriarchate.org/en/page/3011/"
+    },
+    {
+      "jurisdiction": "Patriarchate of Jerusalem",
+      "result": "no Liechtenstein body appears in the official administrative structure",
+      "source": "https://en.jerusalem-patriarchate.info/administrative-structure/holy-bishoprics/"
+    },
+    {
+      "jurisdiction": "Russian Orthodox Church, direct Moscow structure",
+      "result": "the existing Korsun Diocese officially includes Liechtenstein in its territory, but no separate current Liechtenstein parish or mission was located; the already published diocesan row is not duplicated",
+      "source": "https://patriarchia.ru/org/150"
+    },
+    {
+      "jurisdiction": "Russian Orthodox Church Outside Russia, Diocese of Great Britain and Western Europe",
+      "result": "one Liechtenstein mission founded by episcopal decree in May 2025 included",
+      "sources": [
+        "https://orthodox-europe.org/content/first-liturgy-in-lichtenstein/",
+        "https://orthodox-europe.org/wp-content/uploads/2025/12/2026-Diocese-of-GB-and-W-Europe-Directory-PDF.pdf"
+      ]
+    },
+    {
+      "jurisdiction": "Archdiocese of Orthodox Churches of Russian Tradition in Western Europe",
+      "result": "no Liechtenstein body appears in the current official parish directory",
+      "source": "https://archeveche.eu/en/lieux/"
+    },
+    {
+      "jurisdiction": "Serbian Orthodox Church, Eparchy of Switzerland",
+      "result": "one Liechtenstein Serbian worship community included; the current local church source identifies Bishop Andrej and the Diocese of Switzerland and Liechtenstein, and the Serbian Church confirms its serving priest at Mels",
+      "sources": [
+        "https://orthodoxie.li/liechtenstein-orthodox-Orthodoxe-Kirche/serbische-gemeinde",
+        "https://spc.rs/sr/news/13965.slava-parohije-svetog-vladike-nikolaja-u-melsu.html"
+      ]
+    },
+    {
+      "jurisdiction": "Romanian Orthodox Church",
+      "result": "one recurring pastoral ministry for Orthodox refugees included directly under the Romanian Patriarchate; the current local source identifies the patriarchate but no immediate eparchy, and describes monthly worship in Vaduz plus another site in Grabs",
+      "sources": [
+        "https://orthodoxie.li/liechtenstein-orthodox-Orthodoxe-Kirche/fluechtlingsseelsorge",
+        "https://orthodoxie.li/download_file/view/198/1"
+      ]
+    },
+    {
+      "jurisdiction": "Bulgarian Orthodox Church",
+      "result": "no Liechtenstein body appears in the official Western and Central Europe temple directory",
+      "source": "https://bg-patriarshia.bg/west-eu-diocese-temples"
+    },
+    {
+      "jurisdiction": "Georgian Orthodox Church",
+      "result": "no current officially documented Liechtenstein body was found",
+      "source": "https://patriarchate.ge/"
+    },
+    {
+      "jurisdiction": "Church of Cyprus",
+      "result": "no Liechtenstein body appears in the official structure",
+      "source": "https://churchofcyprus.org.cy/diikitiki_diathrosi"
+    },
+    {
+      "jurisdiction": "Church of Greece",
+      "result": "no separately governed Liechtenstein body was found; the Greek community in Liechtenstein is under the Ecumenical Patriarchate",
+      "source": "https://www.ecclesia.gr/"
+    },
+    {
+      "jurisdiction": "Polish Autocephalous Orthodox Church",
+      "result": "no Liechtenstein body appears in the official administration directory",
+      "source": "https://www.orthodox.pl/administracja/"
+    },
+    {
+      "jurisdiction": "Orthodox Autocephalous Church of Albania",
+      "result": "no Liechtenstein body appears in the official organization",
+      "source": "https://orthodoxalbania.org/2026/en/church-organization-2026/"
+    },
+    {
+      "jurisdiction": "Orthodox Church of the Czech Lands and Slovakia",
+      "result": "no Liechtenstein body appears in the official schematism",
+      "source": "https://orthodox.sk/schematizmus/pravoslavna-eparchia/"
+    },
+    {
+      "jurisdiction": "Orthodox Church in America",
+      "result": "no Liechtenstein body appears in the official parish directory",
+      "source": "https://www.oca.org/parishes/search"
+    },
+    {
+      "jurisdiction": "Orthodox Church of Finland",
+      "result": "no Liechtenstein body appears in the official parish structure",
+      "source": "https://ort.fi/suomen-ortodoksinen-kirkko/seurakunnat/"
+    },
+    {
+      "jurisdiction": "Apostolic Orthodox Church of Estonia",
+      "result": "no Liechtenstein body appears in the official church structure",
+      "source": "https://www.eoc.ee/fr/eglise-orthodoxe-destonie/structure/"
+    },
+    {
+      "jurisdiction": "Orthodox Church in Japan",
+      "result": "no Liechtenstein body appears in the official national church material checked",
+      "source": "https://www.orthodoxjapan.jp/"
+    },
+    {
+      "jurisdiction": "Macedonian Orthodox Church, Archdiocese of Ohrid",
+      "result": "no current officially documented Liechtenstein body was found",
+      "source": "http://www.mpc.org.mk/"
+    },
+    {
+      "jurisdiction": "Ukrainian Orthodox Church",
+      "result": "the official foreign mission list does not document a Liechtenstein community; Ukrainian-language pastoral care in Liechtenstein is provided by the included Romanian Patriarchate ministry",
+      "source": "https://vzcz.church.ua/2023/12/28/za-kordonom-diyut-84-gromadi-ukrajinskoji-pravoslavnoji-cerkvi/"
+    },
+    {
+      "jurisdiction": "Orthodox Church of Ukraine",
+      "result": "no current officially documented Liechtenstein body was found",
+      "source": "https://www.pomisna.info/uk/"
+    },
+    {
+      "jurisdiction": "Church of Sinai",
+      "result": "no Liechtenstein dependency or body appears in the official monastery material",
+      "source": "https://www.sinaimonastery.com/"
+    }
+  ],
+  "candidates": []
+}

@@ -1,0 +1,232 @@
+{
+  "v": 1,
+  "country": "FI",
+  "checked": "2026-11-14",
+  "method": "Official patriarchal, diocesan, parish, monastery, and governmental sources were checked. Search and map results were used only to discover candidates and were not accepted as proof of canonical parentage.",
+  "published_summary": {
+    "orthodox-church-of-finland": 208,
+    "moscow-patriarchate": 5,
+    "total": 213
+  },
+  "official_jurisdiction_audit": [
+    {
+      "jurisdiction": "Orthodox Church of Finland under the Ecumenical Patriarchate",
+      "result": "three diocesan branches, every current parish and chapel parish, both monasteries, and 191 officially listed subordinate sacred places or recurring worship sites were published",
+      "source": "https://ort.fi/suomen-ortodoksinen-kirkko/seurakunnat/"
+    },
+    {
+      "jurisdiction": "Ecumenical Patriarchate, Metropolis of Sweden and All Scandinavia",
+      "result": "no separate Finland body appears in the metropolis parish directory; Finland is served through its autonomous Church",
+      "source": "https://gomos.se/en/about-the-metropolis/parishes/"
+    },
+    {
+      "jurisdiction": "Patriarchate of Alexandria",
+      "result": "no Finland body appears in the official territorial structure",
+      "source": "https://www.patriarchateofalexandria.com/archdioceses/?lang=en"
+    },
+    {
+      "jurisdiction": "Patriarchate of Antioch",
+      "result": "no separate Finland parish, mission, chapel, monastery, metochion, or worship site was found in the official structure checked",
+      "source": "https://antiochpatriarchate.org/en/page/3011/"
+    },
+    {
+      "jurisdiction": "Patriarchate of Jerusalem",
+      "result": "no Finland body appears in the official administrative structure",
+      "source": "https://en.jerusalem-patriarchate.info/administrative-structure/holy-bishoprics/"
+    },
+    {
+      "jurisdiction": "Russian Orthodox Church, Patriarchal Parishes in Finland",
+      "result": "the patriarchal administration, current Helsinki Pokrov and Saint Nicholas parishes, Saint Nicholas parish's second Helsinki temple, and the Turku Dormition church were published",
+      "source": "https://calendar.rop.ru/index.php?inc=12"
+    },
+    {
+      "jurisdiction": "Russian Orthodox Church Outside Russia, Diocese of Great Britain and Western Europe",
+      "result": "no Finland body appears in the current official directory",
+      "source": "https://orthodox-europe.org/wp-content/uploads/2025/12/2026-Diocese-of-GB-and-W-Europe-Directory-PDF.pdf"
+    },
+    {
+      "jurisdiction": "Archdiocese of Orthodox Churches of Russian Tradition in Western Europe",
+      "result": "no Finland body appears in the current official parish directory",
+      "source": "https://archeveche.eu/en/lieux/"
+    },
+    {
+      "jurisdiction": "Romanian Orthodox Diocese of Northern Europe",
+      "result": "Romanian communities in Helsinki, Tampere, Turku, and Mariehamn are documented, but the official page places them in the autonomous Finnish Church rather than identifying separate Romanian diocesan parishes or sites",
+      "source": "https://episcopiascandinavia.se/parohiile-ortodoxe-romanesti-din-finlanda/"
+    },
+    {
+      "jurisdiction": "Serbian Orthodox Diocese of Britain and Scandinavia",
+      "result": "official Serbian listings show no Finland parish; a governmental church report documents monthly Helsinki services with permission of the Finnish Church but no separate parish",
+      "sources": [
+        "https://spc.rs/sr/82.eparhije-srpske-pravoslavne-crkve.html",
+        "https://www.mucf.se/sites/default/files/2025/11/serbisk-ort.2024.master.pdf"
+      ]
+    },
+    {
+      "jurisdiction": "Bulgarian Orthodox Diocese of Western and Central Europe",
+      "result": "no Finland body appears in the official diocesan structure and temple directory",
+      "sources": [
+        "https://bg-patriarshia.bg/west-eu-diocese",
+        "https://bg-patriarshia.bg/west-eu-diocese-temples"
+      ]
+    },
+    {
+      "jurisdiction": "Georgian Orthodox Church",
+      "result": "no current officially documented Finland body was found",
+      "source": "https://patriarchate.ge/"
+    },
+    {
+      "jurisdiction": "Church of Cyprus",
+      "result": "no Finland body appears in the official structure",
+      "source": "https://churchofcyprus.org.cy/diikitiki_diathrosi"
+    },
+    {
+      "jurisdiction": "Church of Greece",
+      "result": "no separately governed Finland body was found; Greek language worship in Finland is provided within the Finnish Church",
+      "source": "https://www.ecclesia.gr/"
+    },
+    {
+      "jurisdiction": "Polish Autocephalous Orthodox Church",
+      "result": "no Finland body appears in the official foreign units directory",
+      "source": "https://www.orthodox.pl/administracja/"
+    },
+    {
+      "jurisdiction": "Orthodox Autocephalous Church of Albania",
+      "result": "no Finland body appears in the official organization",
+      "source": "https://orthodoxalbania.org/2026/en/church-organization-2026/"
+    },
+    {
+      "jurisdiction": "Orthodox Church of the Czech Lands and Slovakia",
+      "result": "no Finland body appears in the official schematism",
+      "source": "https://orthodox.sk/schematizmus/pravoslavna-eparchia/"
+    },
+    {
+      "jurisdiction": "Orthodox Church in America",
+      "result": "no Finland body appears in the official parish search",
+      "source": "https://www.oca.org/parishes/search"
+    },
+    {
+      "jurisdiction": "Apostolic Orthodox Church of Estonia",
+      "result": "no Finland body appears in the official church structure",
+      "source": "https://www.eoc.ee/fr/eglise-orthodoxe-destonie/structure/"
+    },
+    {
+      "jurisdiction": "Estonian Orthodox Christian Church",
+      "result": "no Finland body was found in the official church material checked",
+      "source": "https://orthodox.ee/"
+    },
+    {
+      "jurisdiction": "Orthodox Church in Japan",
+      "result": "no Finland body appears in the official national church directory",
+      "source": "https://www.orthodoxjapan.jp/"
+    },
+    {
+      "jurisdiction": "Church of Sinai",
+      "result": "no Finland parish, mission, monastery, metochion, or dependency appears in the official material checked",
+      "source": "https://www.sinaimonastery.com/index.php/en/"
+    },
+    {
+      "jurisdiction": "Macedonian Orthodox Church, European Diocese",
+      "result": "the official church documents its European Diocese but no Finland body was found",
+      "source": "https://www.m-p-c.org/?page_id=17"
+    },
+    {
+      "jurisdiction": "Ukrainian Orthodox Church, Western European Vicariate",
+      "result": "current official Scandinavian reporting identifies parishes in Sweden and Norway but no Finland parish or mission",
+      "source": "https://vzcz.church.ua/2026/08/20/jepiskop-veniamin-vidvidav-parafiji-upc-v-krajinax-skandinaviji/"
+    },
+    {
+      "jurisdiction": "Orthodox Church of Ukraine",
+      "result": "Ukrainian worship in Helsinki is officially documented within the Finnish Orthodox Church and is already represented by the Finnish parish and church rows rather than as a separate OCU body",
+      "sources": [
+        "https://www.pomisna.info/uk/vsi-novyny/arhiyepyskop-agapit-ocholyv-bozhestvennu-liturgiyu-u-svyato-troyitskomu-hrami-m-gelsinki/",
+        "https://hos.fi/uk/"
+      ]
+    }
+  ],
+  "candidates": [
+    {
+      "candidate_id": "fi-jyvaskyla-private-chapels",
+      "name": "Three privately owned chapels in the Jyväskylä parish area",
+      "status": "hold for exact identification",
+      "reason": "The official parish page says privately owned chapels exist in Hankasalmi, Keuruu, and Konnevesi, but it gives no names, patrons, addresses, stable service schedules, or separate pages from which reliable rows can be formed.",
+      "sources": [
+        "https://jklort.fi/tietoja/pyhakot/"
+      ]
+    },
+    {
+      "candidate_id": "fi-utajarvi-orthodox-worship-site",
+      "name": "Orthodox worship activity in Utajärvi",
+      "status": "hold for a stable current venue",
+      "reason": "The Northern Finland parish says services are held in Utajärvi but directs readers to check the venue for each service. No stable current worship address is published.",
+      "sources": [
+        "https://pohjoissuomenortodoksinenseurakunta.fi/JUMALANPALVELUKSET/MUHOS/"
+      ]
+    },
+    {
+      "candidate_id": "fi-juva-orthodox-worship-site",
+      "name": "Former recurring Orthodox worship site at Juva parish center",
+      "status": "hold while services are suspended",
+      "reason": "The Saimaa parish names the Juva parish center at Virastotie 2 but says services there are suspended during the building renovation. It is retained until the parish resumes a current recurring venue.",
+      "sources": [
+        "https://www.ortsaimaa.net/muualla-palvelukset"
+      ]
+    },
+    {
+      "candidate_id": "fi-mp-pori-kazan-church",
+      "name": "Church of the Kazan Icon of the Mother of God in Pori",
+      "status": "hold for current Moscow Patriarchate confirmation",
+      "reason": "An official 2008 Moscow Patriarchate source documents the church's consecration, but the current official external institutions calendar lists the Helsinki and Turku bodies without Pori. Current activity and administrative status could not be established.",
+      "sources": [
+        "https://old.mospat.ru/archive/2008/09/42580/",
+        "https://calendar.rop.ru/index.php?inc=12"
+      ]
+    },
+    {
+      "candidate_id": "fi-romanian-language-communities",
+      "name": "Romanian Orthodox communities in Helsinki, Tampere, Turku, and Mariehamn",
+      "status": "not published as separate ecclesial bodies",
+      "reason": "The Romanian diocesan page names the four communities but explicitly places them in the autonomous Finnish Church. It supplies no distinct parish names, dedications, canonical subordination, or permanent sites beyond the Finnish Church locations already published.",
+      "sources": [
+        "https://episcopiascandinavia.se/parohiile-ortodoxe-romanesti-din-finlanda/",
+        "https://episcopiascandinavia.se/harta-interactiva-a-parohiilor-si-manastirilor-din-episcopia-ortodoxa-romana-a-europei-de-nord/"
+      ]
+    },
+    {
+      "candidate_id": "fi-serbian-monthly-helsinki-services",
+      "name": "Serbian Orthodox monthly services in Helsinki",
+      "status": "not published as a separate ecclesial body",
+      "reason": "The current governmental church report says there are no Serbian parishes in Finland and that monthly Helsinki services occur with permission of the Finnish Church. No distinct parish, mission, chapel, or stable worship site is officially identified.",
+      "sources": [
+        "https://www.mucf.se/sites/default/files/2025/11/serbisk-ort.2024.master.pdf",
+        "https://spc.rs/sr/82.eparhije-srpske-pravoslavne-crkve.html"
+      ]
+    },
+    {
+      "candidate_id": "fi-ukrainian-helsinki-community",
+      "name": "Ukrainian Orthodox community in Helsinki",
+      "status": "represented within the published Finnish Church rows",
+      "reason": "Official Ukrainian and Finnish Church sources place the community and its regular bilingual services at the Prophet Elijah church of the Helsinki parish. It is not published a second time as an independent jurisdictional body.",
+      "sources": [
+        "https://www.pomisna.info/uk/vsi-novyny/arhiyepyskop-agapit-ocholyv-bozhestvennu-liturgiyu-u-svyato-troyitskomu-hrami-m-gelsinki/",
+        "https://hos.fi/uk/"
+      ]
+    }
+  ],
+  "superseded_or_not_current": [
+    {
+      "name": "Former Orthodox prayer room in Raahe",
+      "reason": "The parish closed the Brahenkatu 2 prayer room in June 2026 because of indoor air problems. Current services are held at Pattijoki Rectory, which is published instead.",
+      "sources": [
+        "https://pohjoissuomenortodoksinenseurakunta.fi/JUMALANPALVELUKSET/RAAHE/"
+      ]
+    },
+    {
+      "name": "Former Orthodox chapel in Paltamo",
+      "reason": "The official Kainuu sacred places page says the Paltamo chapel has been removed from use, so it is not published as a current worship site.",
+      "sources": [
+        "https://ort.fi/kajaani/pyhakot/"
+      ]
+    }
+  ]
+}
