@@ -1,0 +1,182 @@
+{
+  "v": 1,
+  "countries": [
+    "GR"
+  ],
+  "checked": "2026-11-15",
+  "method": "Publish the 21 exact current parish churches and eight exact current chapels linked by the official Metropolis roster, plus the exact current Saint Catherine monastery named by the Ecumenical Patriarchate. Preserve each body detail page, visible location, and every public route in its page-specific contact block, including mobile or clergy-linked routes, while omitting clergy names. Hold unnamed aggregate residuals, history-only leads, and unverified search or map leads rather than infer identities.",
+  "published_summary": {
+    "ep-nea-krini": 30,
+    "total": 30,
+    "exact_parish_pages": 21,
+    "exact_chapel_pages": 8,
+    "parish_kind_rows": 29,
+    "monastery_kind_rows": 1,
+    "contact_bodies": 29,
+    "phone_bodies": 25,
+    "public_phone_values": 25,
+    "email_bodies": 28,
+    "public_email_values": 28,
+    "official_detail_sites": 29,
+    "address_bodies": 30
+  },
+  "candidates": [
+    {
+      "candidate_id": "gr-ep-nea-krini-unnamed-chapel-and-cemetery-aggregates",
+      "parent": "ep-nea-krini",
+      "country": "GR",
+      "category": "aggregate-only",
+      "status": "held",
+      "reason": "The Patriarchate reports 17 chapels and three cemetery churches. The current local roster links eight exact chapel pages, one of which is explicitly the Saint Lazarus chapel at the Kalamaria Municipal Cemetery. The sources do not establish whether their categories overlap, so no arithmetic residual or unnamed body is manufactured.",
+      "aggregate_chapels": 17,
+      "aggregate_cemetery_churches": 3,
+      "published_exact_chapel_pages": 8,
+      "sources": [
+        "https://imkal.gr/churches/",
+        "https://ec-patr.org/entities/iera-mitropoli-neas-krinis-kalamarias/"
+      ]
+    },
+    {
+      "candidate_id": "gr-ep-nea-krini-unnamed-country-churches",
+      "parent": "ep-nea-krini",
+      "country": "GR",
+      "category": "aggregate-only",
+      "status": "held",
+      "reason": "The Patriarchate reports 23 country churches without a complete exact named current roster. None is inferred from the aggregate.",
+      "aggregate_count": 23,
+      "sources": [
+        "https://ec-patr.org/entities/iera-mitropoli-neas-krinis-kalamarias/"
+      ]
+    },
+    {
+      "candidate_id": "gr-ep-nea-krini-history-only-chapel-leads",
+      "parent": "ep-nea-krini",
+      "country": "GR",
+      "category": "historic-only",
+      "status": "discovery-only",
+      "reason": "The Metropolis history says chapels of Saint David of Evia, Venerable Paisios of Athos, and Prophet Elijah were inaugurated, but the current exact chapel roster does not link pages for them. They remain held until a competent current source establishes their exact identity, location, and status.",
+      "sources": [
+        "https://imkal.gr/istoriko/",
+        "https://imkal.gr/churches/"
+      ]
+    },
+    {
+      "candidate_id": "gr-ep-nea-krini-search-and-map-leads",
+      "parent": "ep-nea-krini",
+      "country": "GR",
+      "category": "affiliation-unclear",
+      "status": "discovery-only",
+      "reason": "Search and map results alone cannot establish an exact current canonical body and parent. Such leads remain unpublished until a competent first-party Church source confirms them.",
+      "sources": [
+        "https://imkal.gr/churches/",
+        "https://ecclesiagreece.gr/ecclesiajoomla/index.php/el/metropoleis/neas-krenes-kai-kalamarias"
+      ]
+    }
+  ],
+  "source_reconciliations": [
+    {
+      "subject": "Exact current parish roster",
+      "decision": "The local official roster links 21 exact parish detail pages. The Patriarchate reports 21 parish churches. All 21 are published once in local source order, with the Metropolitan Church and Cathedral ranks preserved.",
+      "sources": [
+        "https://imkal.gr/churches/",
+        "https://ec-patr.org/entities/iera-mitropoli-neas-krinis-kalamarias/"
+      ]
+    },
+    {
+      "subject": "Exact current chapel roster",
+      "decision": "The local official roster links eight exact chapel pages. The roster links for the Transfiguration chapel at Epanomi and the Saint Lazarus chapel begin outside the churches path but currently redirect to canonical detail pages within it. The final canonical URLs are preserved as each body's site and source.",
+      "sources": [
+        "https://imkal.gr/churches/",
+        "https://imkal.gr/churches/parekklisi-metamorfoseos-tou-sotitos-epanomi/",
+        "https://imkal.gr/churches/parekklisi-agiou-lazarou/"
+      ]
+    },
+    {
+      "subject": "Aggregate chapel categories",
+      "decision": "The Patriarchate's 17 chapels and three cemetery churches are not forced into a residual against the eight exact local chapel pages because the sources do not establish equivalent categories or disjoint membership. Only exact named current pages are published.",
+      "sources": [
+        "https://imkal.gr/churches/",
+        "https://ec-patr.org/entities/iera-mitropoli-neas-krinis-kalamarias/"
+      ]
+    },
+    {
+      "subject": "Saint Catherine monastery",
+      "decision": "The current Patriarchate profile names the women's Holy Monastery of Saint Catherine at Epanomi. It is published as one exact monastic institution. The local history also records the monastery's foundation, but no subordinate worship space or contact is inferred from that historical statement.",
+      "sources": [
+        "https://ec-patr.org/entities/iera-mitropoli-neas-krinis-kalamarias/",
+        "https://imkal.gr/istoriko/"
+      ]
+    },
+    {
+      "subject": "Current canonical parent",
+      "decision": "The current Church of Greece profile and the Ecumenical Patriarchate profile both identify the Holy Metropolis of Nea Krini and Kalamaria. The local roster bodies and the named monastery are therefore assigned to the existing ep-nea-krini parent.",
+      "sources": [
+        "https://ecclesiagreece.gr/ecclesiajoomla/index.php/el/metropoleis/neas-krenes-kai-kalamarias",
+        "https://ec-patr.org/entities/iera-mitropoli-neas-krinis-kalamarias/"
+      ]
+    },
+    {
+      "subject": "Public contact routes",
+      "decision": "Each exact local body preserves its canonical detail page and visible location. All 25 visible body phones and 28 visible body emails are retained. The Saint Paul hospital chapel's clergy-linked email and Saint Nicholas at Nea Michaniona's mobile number are retained as public body-associated routes, while clergy names are omitted. The generic Metropolis footer routes are not copied except where the Saint Lazarus page-specific contact block itself prints them.",
+      "sources": [
+        "https://imkal.gr/churches/",
+        "https://imkal.gr/churches/agios-nikolaos-mhxaniona/",
+        "https://imkal.gr/churches/parekklisi-agiou-pavlou/"
+      ]
+    },
+    {
+      "subject": "Visible contact values govern",
+      "decision": "The Saint Kyriaki chapel visibly prints no phone even though its hidden telephone link contains a copied number, so no phone is published. The Saint Lazarus page visibly prints 2310481810 extension 2 while its hidden telephone link points elsewhere, so the visible page-specific value is preserved.",
+      "sources": [
+        "https://imkal.gr/churches/parekklisi-agias-kyriakis-mhxaniona/",
+        "https://imkal.gr/churches/parekklisi-agiou-lazarou/"
+      ]
+    }
+  ],
+  "official_parent_audit": [
+    {
+      "parent": "ep-nea-krini",
+      "result": "30 exact current bodies published: 21 parish churches, eight chapels, and one monastery.",
+      "roster_status": "complete current local parish and chapel roster plus the exact current monastery named by the Patriarchate; unnamed aggregate and history-only leads held",
+      "sources": [
+        "https://imkal.gr/churches/",
+        "https://ec-patr.org/entities/iera-mitropoli-neas-krinis-kalamarias/",
+        "https://ecclesiagreece.gr/ecclesiajoomla/index.php/el/metropoleis/neas-krenes-kai-kalamarias"
+      ]
+    }
+  ],
+  "exclusions": [
+    {
+      "category": "aggregate-only",
+      "decision": "No chapel, cemetery church, country church, or other body is inferred solely from an aggregate count.",
+      "sources": [
+        "https://ec-patr.org/entities/iera-mitropoli-neas-krinis-kalamarias/"
+      ]
+    },
+    {
+      "category": "parent-contact",
+      "decision": "The generic Metropolis footer telephone and email are not copied onto every subordinate body. They are retained only when a body's own contact block explicitly publishes them, as the Saint Lazarus chapel page does.",
+      "sources": [
+        "https://imkal.gr/churches/",
+        "https://imkal.gr/churches/parekklisi-agiou-lazarou/"
+      ]
+    },
+    {
+      "category": "contact-provenance",
+      "decision": "Visible page-specific contact values control over contradictory hidden telephone links or copied template values. Public body-associated mobile and clergy-linked routes are retained, while clergy names are omitted.",
+      "sources": [
+        "https://imkal.gr/churches/parekklisi-agias-kyriakis-mhxaniona/",
+        "https://imkal.gr/churches/parekklisi-agiou-lazarou/",
+        "https://imkal.gr/churches/parekklisi-agiou-pavlou/"
+      ]
+    },
+    {
+      "category": "historic-only",
+      "decision": "A historic construction or inauguration reference does not establish a separately publishable current body unless it also appears in a current exact roster or another competent current first-party source.",
+      "sources": [
+        "https://imkal.gr/istoriko/",
+        "https://imkal.gr/churches/"
+      ]
+    }
+  ]
+}
