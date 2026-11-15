@@ -1,0 +1,80 @@
+{
+  "v": 1,
+  "country": "TN",
+  "checked": "2026-11-15",
+  "method": "Current official patriarchal, diocesan, exarchate, and diaspora records were used to establish exact current Eastern Orthodox bodies in Tunisia. Search engines and maps were used only to discover competent first-party sources. Overlapping canonical jurisdictions are preserved without adjudication. Historical churches and sites without current body-level confirmation remain unpublished.",
+  "published_summary": {
+    "existing_ax-carthage_parent": 1,
+    "ax-carthage": 1,
+    "ru-north-africa": 2,
+    "new_subordinate_bodies": 3
+  },
+  "candidates": [
+    {
+      "candidate_id": "tn-ax-sfax-three-hierarchs",
+      "parent": "ax-carthage",
+      "country": "TN",
+      "name": "Church of the Three Hierarchs in Sfax",
+      "status": "hold until current worship and body identity are confirmed by the competent archdiocese",
+      "reason": "An official 2014 patriarchal report discusses restoration of the historic church as a monument. The available current archdiocesan register does not identify it as a current worship body, so historical existence and restoration are not converted into a current row.",
+      "sources": [
+        "https://www.patriarchateofalexandria.com/page/59/?m=&print=print-search",
+        "https://www.patriarchateofalexandria.com/archdioceses/holy-archdiocese-of-carthage/?lang=en"
+      ]
+    },
+    {
+      "candidate_id": "tn-ax-sousse-djerba-reports",
+      "parent": "ax-carthage",
+      "country": "TN",
+      "name": "Reported Greek Orthodox bodies in Sousse and Djerba",
+      "status": "hold until exact current names and worship status are confirmed by the competent archdiocese",
+      "reason": "Secondary sources report additional Greek Orthodox presence in Sousse and Djerba, but the current patriarchal register does not provide exact body names or current worship status. No rows are inferred from a secondary aggregate.",
+      "sources": [
+        "https://www.patriarchateofalexandria.com/archdioceses/holy-archdiocese-of-carthage/?lang=en"
+      ]
+    }
+  ],
+  "official_jurisdiction_audit": [
+    {
+      "jurisdiction": "Patriarchate of Alexandria",
+      "result": "The current patriarchal register establishes the Holy Archdiocese of Carthage, its Tunis see, and its four-country scope. Official patriarchal reporting identifies the Metropolitan Church of Saint George in Tunis, which is published. Other historical Tunisian sites remain held without current body-level confirmation.",
+      "sources": [
+        "https://www.patriarchateofalexandria.com/archdioceses/holy-archdiocese-of-carthage/?lang=en",
+        "https://www.patriarchateofalexandria.com/his-beatitude-pays-a-pastoral-visit-to-tunisia/?lang=en"
+      ]
+    },
+    {
+      "jurisdiction": "Moscow Patriarchate, Patriarchal Exarchate of Africa",
+      "result": "The current North African Diocese roster names the Church of the Resurrection of Christ in Tunis and the Church of Saint Alexander Nevsky in Bizerte with current contacts. Both are published.",
+      "sources": [
+        "https://exarchate-africa.ru/en/dioceses_cat/diocese-of-north-africa/",
+        "https://mospat.ru/en/news/94365/"
+      ]
+    },
+    {
+      "jurisdiction": "ROCOR",
+      "result": "The current official ROCOR report confirms worship at the Tunis Resurrection church but does not establish a separate ROCOR parish. The church remains one body under the Moscow North African Diocese and is not duplicated.",
+      "sources": [
+        "https://www.synod.com/synod/eng2026/20260609_print_entunisia.html",
+        "https://exarchate-africa.ru/en/dioceses_cat/diocese-of-north-africa/"
+      ]
+    },
+    {
+      "jurisdiction": "Ecumenical Patriarchate, Antiochian Patriarchate, Jerusalem Patriarchate, Romanian Patriarchate, Serbian Patriarchate, Georgian Patriarchate, and OCA",
+      "result": "Their current official jurisdictional or diaspora directories were checked and did not name an additional Tunisia body. This is a bounded directory result, not a general country-level absence claim.",
+      "sources": [
+        "https://ec-patr.org/en/ecumenical-patriarchate/directory/",
+        "https://www.antiochpatriarchate.org/en/category/dioceses/6/",
+        "https://www.oca.org/directories/parishes"
+      ]
+    },
+    {
+      "jurisdiction": "Other canonical Local Churches and diaspora structures",
+      "result": "No additional Tunisia row is published without an exact current first-party jurisdictional citation. This records incomplete verification for structures not individually listed and makes no general absence claim.",
+      "sources": [
+        "https://www.patriarchateofalexandria.com/archdioceses/?lang=en",
+        "https://exarchate-africa.ru/en/dioceses_cat/diocese-of-north-africa/"
+      ]
+    }
+  ]
+}

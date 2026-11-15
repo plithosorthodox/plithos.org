@@ -155,8 +155,8 @@ ROWS = [
       rank="Archdiocese",
       local=u"ΙΕΡΑ ΜΗΤΡΟΠΟΛΗ ΚΑΡΘΑΓΕΝΗΣ",
       seat="Tunis", country="TN",
-      address=["5 Rue de Rome, Tunnis 1000. Tunisie"],
-      checked="2026-09-14",
+      address=["5 Rue de Rome, 1000 Tunis, Tunisie"],
+      checked="2026-11-15",
       founded=(
         u"Η ιστορική Ιερά Μητρόπολη Καρθαγένης απετέλεσε τους πρώτους "
         u"χριστιανικούς αιώνες ισχυρό πνευματικό κέντρο και αυτόνομη "
