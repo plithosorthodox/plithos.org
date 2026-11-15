@@ -1,0 +1,182 @@
+{
+  "v": 1,
+  "countries": ["GR"],
+  "checked": "2026-11-15",
+  "method": "Exact named bodies are preserved from the current nine-page parish roster, current Metropolis articles and monastery pages, the current Ecumenical Patriarchate profile, and the official Church of Greece regulation. Aggregate-only, historic, unnamed, older current-status-unclear, and search or map-only leads remain held rather than inferred.",
+  "published_summary": {
+    "ep-maroneia": 117,
+    "total": 117,
+    "current_parish_cards": 71,
+    "parish_kind_rows": 113,
+    "monastery_kind_rows": 4,
+    "exact_current_chapel_bodies": 38,
+    "exact_current_cemetery_churches": 1,
+    "exact_current_institutional_churches": 1,
+    "pilgrimage_churches": 2,
+    "monasteries": 4,
+    "contact_bodies": 41,
+    "phone_bodies": 41,
+    "public_phone_values": 42,
+    "email_bodies": 0,
+    "public_email_values": 0,
+    "body_owned_sites": 0,
+    "address_bodies": 117
+  },
+  "candidates": [
+    {
+      "candidate_id": "gr-ep-maroneia-aggregate-only-worship-space-gaps",
+      "parent": "ep-maroneia",
+      "country": "GR",
+      "category": "aggregate-only",
+      "status": "held",
+      "reason": "The current Patriarchate profile reports 37 chapels, 69 country churches, six cemetery churches and two monastic churches but does not publish a complete exact mapping. Exact currently named bodies found on first-party pages are published under the source terminology. No unnamed remainder is inferred, and no subtraction is attempted across categories whose official classification is not exposed.",
+      "aggregate_counts": {
+        "chapels": 37,
+        "country_churches": 69,
+        "cemetery_churches": 6,
+        "monastic_churches": 2
+      },
+      "sources": ["https://ec-patr.org/entities/iera-mitropoli-maroneias-komotinis/"]
+    },
+    {
+      "candidate_id": "gr-ep-maroneia-pandrosos-unnamed-temporary-chapel",
+      "parent": "ep-maroneia",
+      "country": "GR",
+      "category": "unnamed",
+      "status": "held",
+      "reason": "The current monastery page describes a ground-floor hall used temporarily as a chapel but gives no exact dedication. The separately named Archangels Michael and Gabriel chapel on the upper floor is published. The unnamed temporary chapel remains held.",
+      "sources": ["https://immaroniaskomotinis.gr/index.php/component/sppagebuilder/page/485"]
+    },
+    {
+      "candidate_id": "gr-ep-maroneia-kassitera-dormition-chapel",
+      "parent": "ep-maroneia",
+      "country": "GR",
+      "category": "current-status-unclear",
+      "status": "held",
+      "reason": "A 2023 official article names the Dormition of the Theotokos chapel at Kassitera. No sufficiently current first-party status statement was found during this audit, so it remains held rather than being treated as a current body.",
+      "sources": ["https://immaroniaskomotinis.gr/index.php/all-content/item/2857-iera-paraklisi-sto-iero-parekklisio-koimiseos-tis-theotokou-kassiteron"]
+    },
+    {
+      "candidate_id": "gr-ep-maroneia-historic-monastic-sites",
+      "parent": "ep-maroneia",
+      "country": "GR",
+      "category": "historic",
+      "status": "held",
+      "reason": "The Metropolis history pages describe the dissolved former Saint Demetrius monastery at Kassitera, the abandoned medieval monastery at Synaxi of Maroneia, and ruined monasteries of Papikion Oros. The current Saint Demetrius pilgrimage church at Kassitera is published separately. Historic or ruined monastic sites are not represented as current institutions.",
+      "sources": [
+        "https://immaroniaskomotinis.gr/index.php/component/sppagebuilder/page/481",
+        "https://immaroniaskomotinis.gr/index.php/component/sppagebuilder/page/484",
+        "https://immaroniaskomotinis.gr/index.php/component/sppagebuilder/page/473"
+      ]
+    },
+    {
+      "candidate_id": "gr-ep-maroneia-search-map-leads",
+      "parent": "ep-maroneia",
+      "country": "GR",
+      "category": "affiliation-unclear",
+      "status": "discovery-only",
+      "reason": "Search and map results cannot establish a current exact canonical body and parent. Such leads remain unpublished until a competent first-party Church source confirms exact identity and canonical parentage.",
+      "sources": [
+        "https://immaroniaskomotinis.gr/index.php/sports/soccer",
+        "https://ec-patr.org/entities/iera-mitropoli-maroneias-komotinis/"
+      ]
+    }
+  ],
+  "source_reconciliations": [
+    {
+      "subject": "Current parish roster completeness",
+      "decision": "The Metropolis parish directory links nine current roster pages, with page identifiers 16 and 28 through 35. Those pages contain exactly 71 distinct parish cards. This agrees with the current Patriarchate aggregate of 71 parish churches and the official Church of Greece regulation. The live cards govern current exact names, locality spellings, postal information and public telephone routes.",
+      "sources": [
+        "https://immaroniaskomotinis.gr/index.php/sports/soccer",
+        "https://ec-patr.org/entities/iera-mitropoli-maroneias-komotinis/",
+        "https://ecclesiagreece.gr/greek/press/ekklisia/2018_december.pdf"
+      ]
+    },
+    {
+      "subject": "Parish contact boundary",
+      "decision": "Every public telephone route printed on a current parish card is retained on that body, including the mobile route printed for Asomatoi. Clergy names are omitted. Shared numbers appearing on more than one exact parish card remain associated with each body exactly as displayed. Blank and dash-only telephone fields are not converted into contacts.",
+      "sources": [
+        "https://immaroniaskomotinis.gr/index.php/sports/soccer",
+        "https://immaroniaskomotinis.gr/index.php/component/sppagebuilder/?view=page&id=29",
+        "https://immaroniaskomotinis.gr/index.php/component/sppagebuilder/?view=page&id=35"
+      ]
+    },
+    {
+      "subject": "Current monasteries and contact provenance",
+      "decision": "The four monastery institutions named by the current Patriarchate profile are published once each and reconciled with the current Metropolis monastery pages. All five public telephone values printed by the Patriarchate are retained. Clergy and monastic personal names are omitted, and the numbers are described only as public body-associated routes.",
+      "sources": [
+        "https://ec-patr.org/entities/iera-mitropoli-maroneias-komotinis/",
+        "https://immaroniaskomotinis.gr/index.php/ierai-monai"
+      ]
+    },
+    {
+      "subject": "Pilgrimage churches",
+      "decision": "The official regulation names two pilgrimage churches, Saint Demetrius at Kassitera and Saint Eugene at Nea Romania. Current 2026 Metropolis articles confirm both as operating exact bodies. The dissolved former Saint Demetrius monastery is not duplicated as a current monastery.",
+      "sources": [
+        "https://ecclesiagreece.gr/greek/press/ekklisia/2018_december.pdf",
+        "https://immaroniaskomotinis.gr/index.php/all-content/item/4198-esperinos-eortis-agiou-partheniou-kai-monaxiki-koura-stin-iera-mitropoli",
+        "https://immaroniaskomotinis.gr/index.php/all-content/item/4447-panigyrikos-esperinos-agiou-evgeniou-tou-trapezountiou-stin-iera-mitropoli"
+      ]
+    },
+    {
+      "subject": "Exact chapel and institutional supplement",
+      "decision": "Current Metropolis pages from 2025 and 2026 establish 38 exact named chapels, one cemetery church and one institutional church beyond the parish roster, including municipal, hospital, school, police, fire service, military, prison and monastic settings. Each is published only where the official page names the dedication and location or exact host institution. The current aggregate counts are not used to invent unnamed bodies or to force the event-based rows into undisclosed official categories.",
+      "sources": [
+        "https://immaroniaskomotinis.gr/index.php/component/search/",
+        "https://ec-patr.org/entities/iera-mitropoli-maroneias-komotinis/"
+      ]
+    },
+    {
+      "subject": "Repeated event pages and same-dedication overlaps",
+      "decision": "Repeated event and program references to the same exact dedication and host or locality are collapsed into one body. The Saint George chapel at Parcharia is published once after the January article supplied its full title and the August article supplied its parish relationship. Same-dedication bodies remain separate where the official pages establish distinct hosts or localities, including the two Saint Nectarius chapels, two Saint Kyriaki chapels, two Holy Unmercenaries chapels, two Holy Apostles chapels, and two Nativity of the Forerunner chapels.",
+      "sources": [
+        "https://immaroniaskomotinis.gr/index.php/all-content/item/4165-theofaneia-sto-iero-eksokklisio-agiou-georgiou-argyroupoleos-sta-parxaria-nymfaias",
+        "https://immaroniaskomotinis.gr/index.php/all-content/item/4533-eorti-tis-koimiseos-tis-theotokou-me-to-iouliano-imerologio-stin-iera-mitropoli",
+        "https://immaroniaskomotinis.gr/index.php/component/search/"
+      ]
+    }
+  ],
+  "official_parent_audit": [
+    {
+      "parent": "ep-maroneia",
+      "result": "117 exact named bodies published: 71 parish churches, two pilgrimage churches, four monasteries, 38 exact chapels, one cemetery church and one institutional church.",
+      "roster_status": "complete current parish roster plus every exact currently evidenced subordinate body found on the audited first-party pages, with aggregate-only and current-status-unclear gaps held",
+      "sources": [
+        "https://immaroniaskomotinis.gr/index.php/sports/soccer",
+        "https://ec-patr.org/entities/iera-mitropoli-maroneias-komotinis/",
+        "https://ecclesiagreece.gr/greek/press/ekklisia/2018_december.pdf"
+      ]
+    }
+  ],
+  "exclusions": [
+    {
+      "category": "aggregate-only",
+      "decision": "No chapel, country church, cemetery church, monastic church or other body is inferred solely from an aggregate count.",
+      "sources": ["https://ec-patr.org/entities/iera-mitropoli-maroneias-komotinis/"]
+    },
+    {
+      "category": "contact-provenance",
+      "decision": "Public routes associated by an official source with an exact body are published, including clergy-linked or mobile routes. Clergy names are omitted. Parent Metropolis telephone and email routes are not copied to subordinate bodies, and no contact is inferred from a locality.",
+      "sources": [
+        "https://immaroniaskomotinis.gr/index.php/sports/soccer",
+        "https://ec-patr.org/entities/iera-mitropoli-maroneias-komotinis/"
+      ]
+    },
+    {
+      "category": "historic-unnamed-ambiguous",
+      "decision": "Historic, ruined, dissolved, unnamed, or insufficiently current bodies remain held until a competent current official source establishes exact present identity and status.",
+      "sources": [
+        "https://immaroniaskomotinis.gr/index.php/ierai-monai",
+        "https://immaroniaskomotinis.gr/index.php/component/sppagebuilder/page/485"
+      ]
+    },
+    {
+      "category": "discovery-only",
+      "decision": "Search and map leads remain unpublished until a competent first-party Church source establishes exact identity and canonical parentage.",
+      "sources": [
+        "https://immaroniaskomotinis.gr/index.php/sports/soccer",
+        "https://ec-patr.org/entities/iera-mitropoli-maroneias-komotinis/"
+      ]
+    }
+  ]
+}
