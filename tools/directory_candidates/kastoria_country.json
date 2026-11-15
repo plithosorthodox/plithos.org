@@ -1,0 +1,179 @@
+{
+  "v": 1,
+  "countries": [
+    "GR"
+  ],
+  "checked": "2026-11-15",
+  "method": "Publish every exact church entry displayed in the twelve official regional parish tables, every exact chapel named on the official Byzantine and institutional chapel page, and all eight current monasteries on the official monastery page. Preserve public telephone routes associated by the official roster with a specific body, including clergy-linked and mobile routes, without describing every number as an office line. Hold aggregate-only, dissolved, ambiguous, and search-only bodies rather than infer them.",
+  "published_summary": {
+    "ep-kastoria": 198,
+    "total": 198,
+    "parish_kind_rows": 190,
+    "monastery_kind_rows": 8,
+    "contact_bodies": 72,
+    "phone_bodies": 72,
+    "public_phone_values": 80,
+    "email_bodies": 0,
+    "public_email_values": 0,
+    "body_owned_sites": 1,
+    "address_bodies": 198
+  },
+  "candidates": [
+    {
+      "candidate_id": "gr-ep-kastoria-parish-aggregate-discrepancy",
+      "parent": "ep-kastoria",
+      "country": "GR",
+      "category": "source-count-conflict",
+      "status": "published-exact-roster",
+      "reason": "The current administrative page and Patriarchate overview each report 122 parish churches, but the twelve official regional tables display 123 distinct exact church entries. All 123 exact entries are preserved; no named row is silently discarded to force the aggregate.",
+      "sources": [
+        "https://www.imkastorias.gr/dioikitiki-diarthrosi/",
+        "https://www.imkastorias.gr/arxeio-arthron/arxieratikes-perifereies/01-arxieratiki-perifereia-kastorias/",
+        "https://ec-patr.org/entities/iera-mitropoli-kastorias/"
+      ]
+    },
+    {
+      "candidate_id": "gr-ep-kastoria-unnamed-chapels",
+      "parent": "ep-kastoria",
+      "country": "GR",
+      "category": "aggregate-only",
+      "status": "held",
+      "reason": "The current administrative page reports 100 chapels. The official named chapel page identifies 67 exact bodies. No additional chapel is inferred from the aggregate.",
+      "sources": [
+        "https://www.imkastorias.gr/dioikitiki-diarthrosi/",
+        "https://www.imkastorias.gr/parekklisia-byzantini-kai-metabyzantina/"
+      ]
+    },
+    {
+      "candidate_id": "gr-ep-kastoria-unnamed-country-chapels",
+      "parent": "ep-kastoria",
+      "country": "GR",
+      "category": "aggregate-only",
+      "status": "held",
+      "reason": "The current administrative page reports 130 country chapels without a complete exact named roster. None is manufactured from the aggregate.",
+      "sources": [
+        "https://www.imkastorias.gr/dioikitiki-diarthrosi/",
+        "https://ec-patr.org/entities/iera-mitropoli-kastorias/"
+      ]
+    },
+    {
+      "candidate_id": "gr-ep-kastoria-unnamed-cemetery-churches",
+      "parent": "ep-kastoria",
+      "country": "GR",
+      "category": "aggregate-only",
+      "status": "held",
+      "reason": "The current administrative page reports 21 cemetery churches without a complete exact named roster. None is manufactured from the aggregate.",
+      "sources": [
+        "https://www.imkastorias.gr/dioikitiki-diarthrosi/",
+        "https://ec-patr.org/entities/iera-mitropoli-kastorias/"
+      ]
+    },
+    {
+      "candidate_id": "gr-ep-kastoria-dissolved-monasteries",
+      "parent": "ep-kastoria",
+      "country": "GR",
+      "category": "historic-not-current",
+      "status": "held",
+      "reason": "The official monastery page separately names dissolved monasteries. They remain held as historic evidence rather than being represented as current monastic institutions.",
+      "sources": [
+        "https://www.imkastorias.gr/ieres-mones/"
+      ]
+    },
+    {
+      "candidate_id": "gr-ep-kastoria-search-map-leads",
+      "parent": "ep-kastoria",
+      "country": "GR",
+      "category": "affiliation-unclear",
+      "status": "discovery-only",
+      "reason": "Search and map leads remain unpublished unless a competent first-party Church source establishes the exact body and its current canonical parent.",
+      "sources": [
+        "https://www.imkastorias.gr/dioikitiki-diarthrosi/"
+      ]
+    }
+  ],
+  "source_reconciliations": [
+    {
+      "subject": "Regional parish tables",
+      "decision": "The twelve official regional tables contain 123 distinct exact church entries. The exact rows are published in source order even though the current aggregate reports 122 parish churches.",
+      "sources": [
+        "https://www.imkastorias.gr/arxeio-arthron/arxieratikes-perifereies/01-arxieratiki-perifereia-kastorias/",
+        "https://www.imkastorias.gr/arxeio-arthron/arxieratikes-perifereies/06-arxieratiki-perifereia-pentavrysou/",
+        "https://www.imkastorias.gr/arxeio-arthron/arxieratikes-perifereies/12-arxieratiki-perifereia-eptaxoriou/"
+      ]
+    },
+    {
+      "subject": "Named chapel boundary",
+      "decision": "The official chapel page names 67 exact bodies: 60 Byzantine or post-Byzantine chapels grouped under two Kastoria parishes, three General Philanthropic Fund chapels, one institutional chapel without a priest, and three military chapels. All are published with their source context so same-named bodies remain distinguishable.",
+      "sources": [
+        "https://www.imkastorias.gr/parekklisia-byzantini-kai-metabyzantina/"
+      ]
+    },
+    {
+      "subject": "Current monastery boundary",
+      "decision": "The official monastery page names eight current monastic institutions and separately identifies dissolved bodies. The eight current monasteries are published and the dissolved names remain held.",
+      "sources": [
+        "https://www.imkastorias.gr/ieres-mones/",
+        "https://ec-patr.org/entities/iera-mitropoli-kastorias/"
+      ]
+    },
+    {
+      "subject": "Public body-associated contacts",
+      "decision": "Telephone values are carried when an official regional roster or body page associates them with a specific church. Some regional values align with clergy rows and some are mobile numbers, so they are treated as public contact routes associated with the body rather than all being characterized as office lines. The source-displayed 26470 prefix is preserved without an unsupported correction.",
+      "sources": [
+        "https://www.imkastorias.gr/arxeio-arthron/arxieratikes-perifereies/01-arxieratiki-perifereia-kastorias/",
+        "https://www.imkastorias.gr/arxeio-arthron/arxieratikes-perifereies/03-arxieratiki-perifereia-korissou/",
+        "https://www.imkastorias.gr/ieres-mones/"
+      ]
+    },
+    {
+      "subject": "Saint Paraskevi body website",
+      "decision": "The Argos Orestiko regional roster explicitly identifies a website for the Saint Paraskevi church. The live HTTPS site is carried as a body-owned website, separate from the Metropolis roster source.",
+      "sources": [
+        "https://www.imkastorias.gr/arxeio-arthron/arxieratikes-perifereies/02-arxieratiki-perifereia-argous-orestikou/"
+      ]
+    }
+  ],
+  "official_parent_audit": [
+    {
+      "parent": "ep-kastoria",
+      "result": "198 exact current bodies published: 123 regional parish-table churches, 67 named chapels, and 8 current monasteries.",
+      "roster_status": "complete displayed regional tables plus exact current first-party chapel and monastery rosters",
+      "sources": [
+        "https://www.imkastorias.gr/dioikitiki-diarthrosi/",
+        "https://www.imkastorias.gr/parekklisia-byzantini-kai-metabyzantina/",
+        "https://www.imkastorias.gr/ieres-mones/"
+      ]
+    }
+  ],
+  "exclusions": [
+    {
+      "category": "aggregate-only",
+      "decision": "No chapel, country chapel, cemetery church, monastery, or other body is inferred solely from an aggregate count.",
+      "sources": [
+        "https://www.imkastorias.gr/dioikitiki-diarthrosi/",
+        "https://ec-patr.org/entities/iera-mitropoli-kastorias/"
+      ]
+    },
+    {
+      "category": "historic-not-current",
+      "decision": "Bodies explicitly listed as dissolved are held as historic evidence and are not represented as current monasteries.",
+      "sources": [
+        "https://www.imkastorias.gr/ieres-mones/"
+      ]
+    },
+    {
+      "category": "personal-identity",
+      "decision": "Clergy names are not reproduced. Public telephone routes remain attached to the church rows with source provenance, including where the official table aligns the route with a clergyman.",
+      "sources": [
+        "https://www.imkastorias.gr/arxeio-arthron/arxieratikes-perifereies/01-arxieratiki-perifereia-kastorias/"
+      ]
+    },
+    {
+      "category": "discovery-only",
+      "decision": "Search and map leads remain unpublished until a competent first-party Church source establishes identity and canonical parentage.",
+      "sources": [
+        "https://www.imkastorias.gr/dioikitiki-diarthrosi/"
+      ]
+    }
+  ]
+}

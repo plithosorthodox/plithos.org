@@ -1,0 +1,194 @@
+{
+  "v": 1,
+  "countries": [
+    "GR"
+  ],
+  "checked": "2026-11-15",
+  "parent": "ep-edessa",
+  "published_summary": {
+    "ep-edessa": 151,
+    "total": 151,
+    "parish_kind_rows": 142,
+    "monastery_kind_rows": 9,
+    "contact_bodies": 108,
+    "phone_bodies": 108,
+    "public_phone_values": 126,
+    "email_bodies": 0,
+    "public_email_values": 0,
+    "body_owned_sites": 0,
+    "address_bodies": 151
+  },
+  "candidates": [
+    {
+      "candidate_id": "gr-ep-edessa-unnamed-subordinate-church-aggregates",
+      "status": "held-aggregate-only",
+      "reason": "The current official statistics name 40 chapels, 71 country churches, and 5 private churches only as aggregates. The five official regional rosters name the 140 parish churches but do not identify those 116 subordinate buildings individually. No synthetic bodies are created.",
+      "sources": [
+        "https://www.imepa.gr/sigmataualphatauiotasigmatauiotakappa940.html",
+        "https://ec-patr.org/entities/iera-mitropoli-edessis-pellis/"
+      ]
+    },
+    {
+      "candidate_id": "gr-ep-edessa-tenth-monastic-church",
+      "status": "held-aggregate-only",
+      "reason": "The statistics report 10 monastic churches, while the current monastery roster identifies 8 monasteries and 1 hesychasterion. The extra count may be another church building within one institution, but no competent source on the current roster gives a tenth exact identity.",
+      "sources": [
+        "https://www.imepa.gr/sigmataualphatauiotasigmatauiotakappa940.html",
+        "https://www.imepa.gr/muomicronnuepsilonsigma.html",
+        "https://ec-patr.org/entities/iera-mitropoli-edessis-pellis/"
+      ]
+    },
+    {
+      "candidate_id": "gr-ep-edessa-holy-unmercenaries-metropolitan-reference",
+      "status": "held-ambiguous",
+      "reason": "The patriarchal overview refers to a Metropolitan Church of the Holy Unmercenaries in Edessa, while the current local parish roster and a current first-party episcopal account identify Holy Protection as the cathedral. Contemporary reports place the Holy Unmercenaries feast in the Holy Protection cathedral. No second Edessa body is inferred from this conflicting reference.",
+      "sources": [
+        "https://ec-patr.org/entities/iera-mitropoli-edessis-pellis/",
+        "https://www.imepa.gr/7960delta941sigmasigmaetasigmaf.html",
+        "https://www.parembasis.gr/index.php/el/menu-teyxos-363/8792-2026-363-03"
+      ]
+    },
+    {
+      "candidate_id": "gr-ep-edessa-prophet-elijah-classification",
+      "status": "held-as-one-body",
+      "reason": "The current local monastery roster and the Church of Greece list Prophet Elijah of Edessa among the male monasteries. The patriarchal overview lists the same identity among the female monasteries. One current monastery body is retained under the local classification and is not duplicated.",
+      "sources": [
+        "https://www.imepa.gr/muomicronnuepsilonsigma.html",
+        "https://ec-patr.org/entities/iera-mitropoli-edessis-pellis/",
+        "https://www.ecclesiagreece.gr/ecclesiajoomla/index.php/el/metropoleis/edesses-pelles-kai-almopias"
+      ]
+    },
+    {
+      "candidate_id": "gr-ep-edessa-map-and-search-leads",
+      "status": "held-for-first-party-verification",
+      "reason": "Search and map results may expose further subordinate buildings. A result remains held unless a competent current first-party source confirms both its exact identity and its parent jurisdiction.",
+      "sources": [
+        "https://www.imepa.gr/",
+        "https://ec-patr.org/entities/iera-mitropoli-edessis-pellis/"
+      ]
+    }
+  ],
+  "source_reconciliations": [
+    {
+      "topic": "parish-count",
+      "finding": "The five current official regional rosters name exactly 140 parish churches. They reconcile to the current Metropolis and patriarchal aggregate: Edessa 23, Aridaia 39, Skydra 27, Giannitsa 39, and Koufalia 12.",
+      "sources": [
+        "https://www.imepa.gr/epsilonnuomicronrhoiotaepsilonsigma.html",
+        "https://www.imepa.gr/sigmataualphatauiotasigmatauiotakappa940.html",
+        "https://ec-patr.org/entities/iera-mitropoli-edessis-pellis/"
+      ]
+    },
+    {
+      "topic": "subordinate-body-counts",
+      "finding": "The official aggregate gives 40 chapels, 71 country churches, and 5 private churches. None is individually enumerated on the current regional rosters, so the exact publication contains no inferred subordinate rows.",
+      "sources": [
+        "https://www.imepa.gr/sigmataualphatauiotasigmatauiotakappa940.html",
+        "https://ec-patr.org/entities/iera-mitropoli-edessis-pellis/"
+      ]
+    },
+    {
+      "topic": "monastery-count",
+      "finding": "The current local monastery roster names 8 monasteries and 1 hesychasterion. The Church of Greece confirms the same nine institutions. The aggregate of 10 monastic churches is a building count and is not forced into a tenth unnamed institution.",
+      "sources": [
+        "https://www.imepa.gr/muomicronnuepsilonsigma.html",
+        "https://www.imepa.gr/sigmataualphatauiotasigmatauiotakappa940.html",
+        "https://www.ecclesiagreece.gr/ecclesiajoomla/index.php/el/metropoleis/edesses-pelles-kai-almopias"
+      ]
+    },
+    {
+      "topic": "institutional-church-count",
+      "finding": "The patriarchal overview names two institutional churches: Saint George Peristereota at Rodochori in Imathia and Holy Trinity at Leivaditsa in Pella. Both exact bodies are represented separately from the parish roster.",
+      "sources": [
+        "https://ec-patr.org/entities/iera-mitropoli-edessis-pellis/"
+      ]
+    },
+    {
+      "topic": "metochia-and-pilgrimages",
+      "finding": "The current local, patriarchal, and Church of Greece rosters do not identify a distinct current metochion or pilgrimage church. None is inferred from a monastery name, feast reference, or map result.",
+      "sources": [
+        "https://www.imepa.gr/",
+        "https://ec-patr.org/entities/iera-mitropoli-edessis-pellis/",
+        "https://www.ecclesiagreece.gr/ecclesiajoomla/index.php/el/metropoleis/edesses-pelles-kai-almopias"
+      ]
+    },
+    {
+      "topic": "current-source-state",
+      "finding": "The Metropolis sitemap records the regional, monastery, and statistics pages as modified on 2026-05-07. The exact rows and live source availability were observed again on 2026-11-15.",
+      "sources": [
+        "https://www.imepa.gr/sitemap.xml",
+        "https://www.imepa.gr/"
+      ]
+    },
+    {
+      "topic": "archangel-michael-phone",
+      "finding": "The current local monastery page and the patriarchal overview agree on 23840-73499 for Archangel Michael Monastery. The Church of Greece page displays 23840-73449, so the agreeing current local and patriarchal value is retained.",
+      "sources": [
+        "https://www.imepa.gr/muomicronnuepsilonsigma.html",
+        "https://ec-patr.org/entities/iera-mitropoli-edessis-pellis/",
+        "https://www.ecclesiagreece.gr/ecclesiajoomla/index.php/el/metropoleis/edesses-pelles-kai-almopias"
+      ]
+    },
+    {
+      "topic": "parish-contact-provenance",
+      "finding": "The five current official regional tables associate 118 public phone values with 100 of the 140 parish churches. Every displayed value is retained, including local short numbers, extensions, and mobile numbers. Because the same table rows also name serving clergy, these are described only as church-associated public contacts and not as church-office or body-owned numbers.",
+      "sources": [
+        "https://www.imepa.gr/epsilonnuomicronrhoiotaepsilonsigma.html",
+        "https://www.imepa.gr/7960delta941sigmasigmaetasigmaf.html",
+        "https://www.imepa.gr/gammaiotaalphanunuiotatausigma8182nu.html"
+      ]
+    }
+  ],
+  "official_parent_audit": [
+    {
+      "topic": "canonical-parent",
+      "finding": "The Ecumenical Patriarchate and the Church of Greece identify the Holy Metropolis of Edessa, Pella, and Almopia. The local Metropolis site supplies the current parish and monastery rosters.",
+      "sources": [
+        "https://ec-patr.org/entities/iera-mitropoli-edessis-pellis/",
+        "https://www.ecclesiagreece.gr/ecclesiajoomla/index.php/el/metropoleis/edesses-pelles-kai-almopias",
+        "https://www.imepa.gr/"
+      ]
+    },
+    {
+      "topic": "cathedral-identity",
+      "finding": "The current local roster names Holy Protection first among the Edessa city parishes. A current first-party episcopal account explicitly identifies it as the Metropolitan Cathedral of Edessa.",
+      "sources": [
+        "https://www.imepa.gr/7960delta941sigmasigmaetasigmaf.html",
+        "https://www.parembasis.gr/index.php/el/menu-teyxos-363/8792-2026-363-03"
+      ]
+    },
+    {
+      "topic": "body-owned-sites",
+      "finding": "No separately verified body-owned parish or monastery site is published in this tranche. The Metropolis site is retained only as the parent source and is not represented as an individual body site.",
+      "sources": [
+        "https://www.imepa.gr/",
+        "https://ec-patr.org/entities/iera-mitropoli-edessis-pellis/"
+      ]
+    }
+  ],
+  "exclusions": [
+    {
+      "topic": "clergy-and-monastic-identities",
+      "finding": "Clergy, abbot, abbess, and monastic names are not directory contact fields. Public numbers associated with a specific church or monastery are retained even where the official table also names the person serving it. No number is characterized as an office line unless the source says so.",
+      "sources": [
+        "https://www.imepa.gr/epsilonnuomicronrhoiotaepsilonsigma.html",
+        "https://www.imepa.gr/muomicronnuepsilonsigma.html",
+        "https://ec-patr.org/entities/iera-mitropoli-edessis-pellis/"
+      ]
+    },
+    {
+      "topic": "parent-administration-contacts",
+      "finding": "The Metropolis central switchboard, office extensions, parent email addresses, and parent website were not copied onto individual worship bodies.",
+      "sources": [
+        "https://ec-patr.org/entities/iera-mitropoli-edessis-pellis/",
+        "https://www.imepa.gr/deltaiotaomicroniotakappaetasigmaeta.html"
+      ]
+    },
+    {
+      "topic": "unnamed-aggregates",
+      "finding": "No synthetic rows were created to make the named exact roster equal the aggregate counts for chapels, country churches, private churches, or monastic church buildings.",
+      "sources": [
+        "https://www.imepa.gr/sigmataualphatauiotasigmatauiotakappa940.html"
+      ]
+    }
+  ]
+}

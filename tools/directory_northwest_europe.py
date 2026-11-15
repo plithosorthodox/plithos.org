@@ -43,13 +43,16 @@ import directory_didymoteichon_country
 import directory_dodecanese_country
 import directory_drama_country
 import directory_dryinoupolis_country
+import directory_edessa_country
 import directory_egypt
 import directory_eleftheroupolis_country
 import directory_ethiopia
 import directory_france
 import directory_germany
 import directory_georgia_country
+import directory_goumenissa_country
 import directory_greece_country
+import directory_grevena_country
 import directory_ghana
 import directory_hungary
 import directory_hong_kong
@@ -63,6 +66,7 @@ import directory_jordan
 import directory_italy
 import directory_kazakhstan
 import directory_kenya
+import directory_kastoria_country
 import directory_kyrgyzstan
 import directory_laos
 import directory_lebanon
@@ -146,13 +150,16 @@ SOURCE_MODULES = (
     directory_dodecanese_country,
     directory_drama_country,
     directory_dryinoupolis_country,
+    directory_edessa_country,
     directory_egypt,
     directory_eleftheroupolis_country,
     directory_ethiopia,
     directory_france,
     directory_germany,
     directory_georgia_country,
+    directory_goumenissa_country,
     directory_greece_country,
+    directory_grevena_country,
     directory_ghana,
     directory_hungary,
     directory_hong_kong,
@@ -165,6 +172,7 @@ SOURCE_MODULES = (
     directory_italy,
     directory_kazakhstan,
     directory_kenya,
+    directory_kastoria_country,
     directory_kyrgyzstan,
     directory_laos,
     directory_lebanon,
@@ -354,9 +362,9 @@ def build():
         else:
             payload["countries"] = scope
     row_count = sum(len(p["rows"]) for p in payloads.values())
-    if len(payloads) != 370 or row_count != 26664:
+    if len(payloads) != 374 or row_count != 27195:
         raise ValueError(
-            "combined country branches must publish 370 parents and 26664 "
+            "combined country branches must publish 374 parents and 27195 "
             "rows, got %d parents and %d rows" %
             (len(payloads), row_count))
     return dict(sorted(payloads.items()))
@@ -425,7 +433,7 @@ def main():
         for error in errors:
             print(error, file=sys.stderr)
         return 1
-    print("Combined country branches: 370 parents, 26664 subordinate bodies")
+    print("Combined country branches: 374 parents, 27195 subordinate bodies")
     return 0
 
 

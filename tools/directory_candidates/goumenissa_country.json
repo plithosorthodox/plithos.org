@@ -1,0 +1,163 @@
+{
+  "v": 1,
+  "countries": [
+    "GR"
+  ],
+  "checked": "2026-11-15",
+  "method": "Exact named bodies are preserved from the official Goumenissa roster, the current Ecumenical Patriarchate overview, the Church of Greece profile, the Metropolis monastery pages and the body-owned Saint Raphael monastery site. Aggregate-only, planned and current-status-unclear bodies remain held rather than inferred.",
+  "published_summary": {
+    "ep-goumenissa": 63,
+    "total": 63,
+    "displayed_parish_roster_lines": 49,
+    "exact_parish_church_bodies": 52,
+    "parish_kind_rows": 60,
+    "monastery_kind_rows": 3,
+    "contact_bodies": 55,
+    "phone_bodies": 55,
+    "public_phone_values": 123,
+    "email_bodies": 1,
+    "public_email_values": 1,
+    "body_owned_sites": 1,
+    "address_bodies": 62
+  },
+  "candidates": [
+    {
+      "candidate_id": "gr-ep-goumenissa-country-churches-aggregate",
+      "parent": "ep-goumenissa",
+      "country": "GR",
+      "category": "aggregate-only",
+      "status": "held",
+      "reason": "The current Patriarchate overview reports 30 country churches but supplies no exact complete named roster. No body is inferred from the aggregate.",
+      "aggregate_count": 30,
+      "sources": [
+        "https://ec-patr.org/entities/iera-mitropoli-goymenissis-aksioypoleos-polykastrou/"
+      ]
+    },
+    {
+      "candidate_id": "gr-ep-goumenissa-monastic-churches-aggregate-gap",
+      "parent": "ep-goumenissa",
+      "country": "GR",
+      "category": "aggregate-only",
+      "status": "held",
+      "reason": "The current Patriarchate overview reports 30 monastic churches, described as four principal churches and 26 chapels. Seven exact named monastic church bodies are published from current official pages. The remaining 23 are held because no competent complete exact roster was found.",
+      "aggregate_count": 30,
+      "published_exact_count": 7,
+      "held_count": 23,
+      "sources": [
+        "https://ec-patr.org/entities/iera-mitropoli-goymenissis-aksioypoleos-polykastrou/",
+        "https://www.imgap.gr/file1/anydhro.html",
+        "https://www.moni-agiou-rafail.gr/the-monastery/parekklisia-ksenones-topothesia"
+      ]
+    },
+    {
+      "candidate_id": "gr-ep-goumenissa-saint-raphael-planned-unclear-chapels",
+      "parent": "ep-goumenissa",
+      "country": "GR",
+      "category": "current-status-unclear",
+      "status": "held",
+      "reason": "The monastery history names planned chapels of the Holy Protection and Saint Theodore the Byzantine, incomplete chapels of the Holy Trinity and Saint Charalambos, and churches of Panagia Hodegetria and Christ Pantokrator without a sufficiently current completion or operational statement. They remain held until the monastery confirms current exact status.",
+      "sources": [
+        "https://www.moni-agiou-rafail.gr/the-monastery/parekklisia-ksenones-topothesia"
+      ]
+    },
+    {
+      "candidate_id": "gr-ep-goumenissa-search-map-leads",
+      "parent": "ep-goumenissa",
+      "country": "GR",
+      "category": "affiliation-unclear",
+      "status": "discovery-only",
+      "reason": "Search and map results cannot establish a current exact canonical body and parent. Such leads remain unpublished until a competent first-party Church source confirms them.",
+      "sources": [
+        "https://www.imgap.gr/file1/dhioik.html",
+        "https://ec-patr.org/entities/iera-mitropoli-goymenissis-aksioypoleos-polykastrou/"
+      ]
+    }
+  ],
+  "source_reconciliations": [
+    {
+      "subject": "Parish aggregate and displayed exact roster",
+      "decision": "The local official page and the current Patriarchate overview each report 48 parish churches. The local page itself displays 49 parish roster lines. Three of those lines explicitly use the plural word for churches and name two dedications, yielding 52 exact named church bodies. All 52 exact bodies are preserved and the unresolved 48 versus 49 roster-unit difference is recorded rather than manufacturing a deletion.",
+      "sources": [
+        "https://www.imgap.gr/file1/dhioik.html",
+        "https://ec-patr.org/entities/iera-mitropoli-goymenissis-aksioypoleos-polykastrou/"
+      ]
+    },
+    {
+      "subject": "Plural roster lines",
+      "decision": "The Valtotopi, Toumba and Filyria lines each name two churches in the plural. Each exact dedication is published as its own body. The single fixed telephone printed on the combined Toumba line is preserved as the shared institutional contact for both exact bodies.",
+      "sources": [
+        "https://www.imgap.gr/file1/dhioik.html"
+      ]
+    },
+    {
+      "subject": "Monastery institutions and their churches",
+      "decision": "The three monastery or hermitage institutions are published separately from seven exact named churches and chapels operating within them. The institution and its worship spaces are distinct bodies, not duplicates. Short and full title forms across the Metropolis, Patriarchate and monastery-owned pages are reconciled to one institution each.",
+      "sources": [
+        "https://www.imgap.gr/file1/mones.html",
+        "https://ec-patr.org/entities/iera-mitropoli-goymenissis-aksioypoleos-polykastrou/",
+        "https://www.moni-agiou-rafail.gr/the-monastery/parekklisia-ksenones-topothesia"
+      ]
+    },
+    {
+      "subject": "Saint Sabbas Hospital Church",
+      "decision": "The current Patriarchate profile names the Hospital Church of Saint Sabbas among the Metropolitan's constructed churches. It is published once as an institutional church under this Metropolis and is not counted as a parish roster body.",
+      "sources": [
+        "https://ec-patr.org/entities/iera-mitropoli-goymenissis-aksioypoleos-polykastrou/"
+      ]
+    },
+    {
+      "subject": "Institutional contact boundary",
+      "decision": "Every public telephone number that an official roster associates with a specific body is carried, including fixed church lines and clergy-linked mobile routes. Clergy names are not copied, and the numbers are not characterized as office lines unless the source does so. Shared locality or plural-church groups retain the shared public routes on each exact body. The newer Saint Raphael body-owned contact and the older fixed number still printed by the Patriarchate are both retained with their provenance. Parent Metropolis email addresses and office contacts are not copied to subordinate bodies.",
+      "sources": [
+        "https://www.imgap.gr/file1/dhioik.html",
+        "https://www.ecclesiagreece.gr/ecclesiajoomla/index.php/el/metropoleis/goumenisses-axioupoleos-kai-polykastrou",
+        "https://www.moni-agiou-rafail.gr/en/contact-en"
+      ]
+    }
+  ],
+  "official_parent_audit": [
+    {
+      "parent": "ep-goumenissa",
+      "result": "63 exact named bodies published: 52 parish church bodies from the displayed roster, three monastic institutions, seven exact named monastic churches or chapels, and one hospital church.",
+      "roster_status": "complete displayed exact parish roster with unresolved aggregate difference and aggregate-only country and monastic gaps held",
+      "sources": [
+        "https://www.imgap.gr/file1/dhioik.html",
+        "https://www.imgap.gr/file1/mones.html",
+        "https://ec-patr.org/entities/iera-mitropoli-goymenissis-aksioypoleos-polykastrou/"
+      ]
+    }
+  ],
+  "exclusions": [
+    {
+      "category": "aggregate-only",
+      "decision": "No parish, country church, monastic church, chapel or other body is inferred solely from an aggregate count.",
+      "sources": [
+        "https://ec-patr.org/entities/iera-mitropoli-goymenissis-aksioypoleos-polykastrou/"
+      ]
+    },
+    {
+      "category": "contact-provenance",
+      "decision": "Public directory numbers associated by an official roster with an exact body are published, including clergy-linked mobile routes. Clergy names are omitted. Numbers without a clear body association and fax numbers remain excluded.",
+      "sources": [
+        "https://www.imgap.gr/file1/dhioik.html",
+        "https://ec-patr.org/entities/iera-mitropoli-goymenissis-aksioypoleos-polykastrou/",
+        "https://www.ecclesiagreece.gr/ecclesiajoomla/index.php/el/metropoleis/goumenisses-axioupoleos-kai-polykastrou"
+      ]
+    },
+    {
+      "category": "historic-planned-ambiguous",
+      "decision": "A body described only as planned, incomplete or without a sufficiently current operational statement is held until a competent official source confirms present exact status.",
+      "sources": [
+        "https://www.moni-agiou-rafail.gr/the-monastery/parekklisia-ksenones-topothesia"
+      ]
+    },
+    {
+      "category": "discovery-only",
+      "decision": "Search and map leads are held until a competent first-party Church source establishes exact identity and canonical parentage.",
+      "sources": [
+        "https://www.imgap.gr/file1/dhioik.html",
+        "https://ec-patr.org/entities/iera-mitropoli-goymenissis-aksioypoleos-polykastrou/"
+      ]
+    }
+  ]
+}

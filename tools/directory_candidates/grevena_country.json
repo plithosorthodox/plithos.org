@@ -1,0 +1,207 @@
+{
+  "v": 1,
+  "countries": [
+    "GR"
+  ],
+  "checked": "2026-11-15",
+  "parent": "ep-grevena",
+  "method": "Publish the complete 98-parish regulation, the one current monastery named by the Ecumenical Patriarchate, and only additional chapels, country churches, monastic churches, metochia, and hermitage that the current Metropolis site identifies exactly. Hold unnamed aggregates, dissolved independent bodies, historic profiles, ambiguous statuses, and discovery-only search or map leads.",
+  "published_summary": {
+    "ep-grevena": 119,
+    "total": 119,
+    "parish_kind_rows": 113,
+    "monastery_kind_rows": 6,
+    "contact_bodies": 1,
+    "phone_bodies": 1,
+    "public_phone_values": 1,
+    "email_bodies": 0,
+    "public_email_values": 0,
+    "body_owned_sites": 0,
+    "address_bodies": 119
+  },
+  "candidates": [
+    {
+      "candidate_id": "gr-ep-grevena-unnamed-chapels",
+      "parent": "ep-grevena",
+      "country": "GR",
+      "category": "aggregate-only",
+      "status": "held",
+      "reason": "The Ecumenical Patriarchate reports 71 chapels. Thirteen exact current chapel bodies found on the official Metropolis site are published, but no synthetic rows are created for the unnamed aggregate remainder.",
+      "sources": [
+        "https://ec-patr.org/entities/iera-mitropoli-grevenon/",
+        "https://imgre.gr/"
+      ]
+    },
+    {
+      "candidate_id": "gr-ep-grevena-unnamed-country-churches",
+      "parent": "ep-grevena",
+      "country": "GR",
+      "category": "aggregate-only",
+      "status": "held",
+      "reason": "The Ecumenical Patriarchate reports 187 country churches without a complete current exact named roster. Two exact current country churches found on the official Metropolis site are published, but no other body is inferred from the aggregate.",
+      "sources": [
+        "https://ec-patr.org/entities/iera-mitropoli-grevenon/"
+      ]
+    },
+    {
+      "candidate_id": "gr-ep-grevena-unnamed-monastic-churches",
+      "parent": "ep-grevena",
+      "country": "GR",
+      "category": "aggregate-only",
+      "status": "held",
+      "reason": "The Ecumenical Patriarchate reports five monastic churches but supplies no complete exact current building roster. The official monastery profile names the Transfiguration katholikon and Saint Athanasius chapel, and current posts name two dependent metochia. Those exact bodies are published, while no unnamed remainder is invented.",
+      "sources": [
+        "https://ec-patr.org/entities/iera-mitropoli-grevenon/",
+        "https://imgre.gr/%CE%B9%CE%B5%CF%81%CE%B5%CF%83-%CE%BC%CE%BF%CE%BD%CE%B5%CF%83/"
+      ]
+    },
+    {
+      "candidate_id": "gr-ep-grevena-five-dissolved-monasteries",
+      "parent": "ep-grevena",
+      "country": "GR",
+      "category": "historic-not-current",
+      "status": "held",
+      "reason": "The Ecumenical Patriarchate identifies five dissolved independent monasteries: Saint Paraskevi at Samarina, Dormition of the Theotokos at Spilaio, Annunciation of the Theotokos at Vounasia, Holy Archangels at Taxiarchis, and Entry of the Theotokos at Tourniki. Their former independent status remains historic evidence. The Spilaio site is published once in its separately confirmed current capacity as a dependent metochion of Zavorada.",
+      "sources": [
+        "https://ec-patr.org/entities/iera-mitropoli-grevenon/",
+        "https://imgre.gr/%CE%B9%CE%B5%CF%81%CE%B5%CF%83-%CE%BC%CE%BF%CE%BD%CE%B5%CF%83/"
+      ]
+    },
+    {
+      "candidate_id": "gr-ep-grevena-saint-nicholas-perivoli-monastery",
+      "parent": "ep-grevena",
+      "country": "GR",
+      "category": "current-status-unclear",
+      "status": "held",
+      "reason": "A 2018 official post calls Saint Nicholas at Perivoli a Holy Monastery and records its consecration. The current Ecumenical Patriarchate roster still reports only one active monastery and does not name this body. It remains held until a competent current source confirms an active monastic institution rather than a church carrying a monastic title.",
+      "sources": [
+        "https://imgre.gr/%CE%B5%CE%B3%CE%BA%CE%B1%CE%AF%CE%BD%CE%B9%CE%B1-%CE%B9%CE%B5%CF%81%CE%AC%CF%82-%CE%BC%CE%BF%CE%BD%CE%AE%CF%82-%CE%B1%CE%B3%CE%AF%CE%BF%CF%85-%CE%BD%CE%B9%CE%BA%CE%BF%CE%BB%CE%AC%CE%BF%CF%85-%CF%80/",
+        "https://ec-patr.org/entities/iera-mitropoli-grevenon/"
+      ]
+    },
+    {
+      "candidate_id": "gr-ep-grevena-historic-monument-profiles",
+      "parent": "ep-grevena",
+      "country": "GR",
+      "category": "historic-status-unclear",
+      "status": "held",
+      "reason": "The Metropolis monument menu names historic churches at Sarakina, Noumpenitsa, Palaiochori, and Diporo plus one post-Byzantine Saint Nicholas church. These profiles do not by themselves establish independent current worship bodies, and several may overlap present parish identities.",
+      "sources": [
+        "https://imgre.gr/%CE%B9%CE%B5%CF%81%CE%B5%CF%83-%CE%BC%CE%BF%CE%BD%CE%B5%CF%83/"
+      ]
+    },
+    {
+      "candidate_id": "gr-ep-grevena-search-map-leads",
+      "parent": "ep-grevena",
+      "country": "GR",
+      "category": "affiliation-unclear",
+      "status": "discovery-only",
+      "reason": "Search and map leads remain unpublished unless a competent first-party Church source establishes the exact identity, current status, and Grevena parentage.",
+      "sources": [
+        "https://imgre.gr/",
+        "https://ec-patr.org/entities/iera-mitropoli-grevenon/"
+      ]
+    }
+  ],
+  "source_reconciliations": [
+    {
+      "topic": "complete-current-parish-roster",
+      "finding": "The official 2019 Church of Greece regulation contains four archieratiki regions totaling exactly 98 parishes. All 98 are published in source order. Kentro repeats across a page break in the displayed table and is counted once, as required by the regulation's own total.",
+      "sources": [
+        "https://ecclesiagreece.gr/greek/press/ekklisia/2019_iounios.pdf",
+        "https://ec-patr.org/entities/iera-mitropoli-grevenon/"
+      ]
+    },
+    {
+      "topic": "cathedral-current-name",
+      "finding": "The parish regulation identifies the Annunciation parish at Grevena. The current Metropolis contact page gives the fuller metropolitan cathedral identity, including Saint Achillios, and the address at Evangelistrias 19. The current form is published once and no duplicate Saint Achillios parish is created.",
+      "sources": [
+        "https://ecclesiagreece.gr/greek/press/ekklisia/2019_iounios.pdf",
+        "https://imgre.gr/%CE%B5%CF%80%CE%B9%CE%BA%CE%BF%CE%B9%CE%BD%CF%89%CE%BD%CE%B9%CE%B1/"
+      ]
+    },
+    {
+      "topic": "chapel-aggregate-and-exact-subset",
+      "finding": "The patriarchal overview reports 71 chapels. Thirteen exact chapel bodies are independently named by current first-party Metropolis posts and are published. The remaining aggregate is held rather than filled with map names or inferred buildings.",
+      "sources": [
+        "https://ec-patr.org/entities/iera-mitropoli-grevenon/",
+        "https://imgre.gr/"
+      ]
+    },
+    {
+      "topic": "country-church-aggregate",
+      "finding": "The patriarchal overview reports 187 country churches but provides no complete exact names. The current Metropolis site explicitly identifies Saint Paisios at Kentro and the Nativity of the Forerunner at Kalochi as country churches. Those two are published, while no other body is manufactured from the count.",
+      "sources": [
+        "https://ec-patr.org/entities/iera-mitropoli-grevenon/"
+      ]
+    },
+    {
+      "topic": "current-monastery-boundary",
+      "finding": "The Ecumenical Patriarchate names one active male monastery, the Patriarchal and Stavropegic Monastery of Venerable Nikanor at Zavorada, and separately identifies five dissolved independent monasteries. The active monastery is published together with its exact Transfiguration katholikon, Saint Athanasius chapel, Venerable Nikanor hermitage, Saint Demetrius metochion, and the Spilaio site in its separately confirmed current capacity as a dependent metochion. The former independent Spilaio monastery remains dissolved and is not represented as active in its own right.",
+      "sources": [
+        "https://ec-patr.org/entities/iera-mitropoli-grevenon/",
+        "https://imgre.gr/%CE%B9%CE%B5%CF%81%CE%B5%CF%83-%CE%BC%CE%BF%CE%BD%CE%B5%CF%83/",
+        "https://imgre.gr/%CE%B9%CE%B5%CF%81%CE%B5%CF%83-%CE%BC%CE%BF%CE%BD%CE%B5%CF%83/%CE%B9-%CE%BC-%CE%BF%CF%83%CE%B9%CE%BF%CF%85-%CE%BD%CE%B9%CE%BA%CE%B1%CE%BD%CF%89%CF%81%CE%B1/"
+      ]
+    },
+    {
+      "topic": "body-contact-boundary",
+      "finding": "The fixed monastery telephone that the Ecumenical Patriarchate assigns to Zavorada is carried. The current Metropolis clergy page exposes no clergy roster or body-associated clergy contact mapping, while its displayed telephone, fax, and email belong to the parent office. No parent-owned profile is represented as a body-owned website.",
+      "sources": [
+        "https://ec-patr.org/entities/iera-mitropoli-grevenon/",
+        "https://imgre.gr/%CE%B5%CF%80%CE%B9%CE%BA%CE%BF%CE%B9%CE%BD%CF%89%CE%BD%CE%B9%CE%B1/",
+        "https://imgre.gr/%CE%BF-%CE%BA%CE%BB%CE%B7%CF%81%CE%BF%CF%83/"
+      ]
+    }
+  ],
+  "official_parent_audit": [
+    {
+      "topic": "canonical-parent",
+      "finding": "The Ecumenical Patriarchate identifies the Holy Metropolis of Grevena and supplies the competent current aggregate counts, active monastery identity, monastery telephone and address, and dissolved monastery boundary.",
+      "sources": [
+        "https://ec-patr.org/entities/iera-mitropoli-grevenon/"
+      ]
+    },
+    {
+      "topic": "current-published-coverage",
+      "finding": "The tranche publishes 119 exact bodies: 98 regulated parishes, 13 additional exact chapels, two exact country churches, two exact metochia, one active monastery, one monastic church, one monastic chapel, and one hermitage. Every published row carries an official locality or address and one to three first-party sources.",
+      "sources": [
+        "https://ecclesiagreece.gr/greek/press/ekklisia/2019_iounios.pdf",
+        "https://ec-patr.org/entities/iera-mitropoli-grevenon/",
+        "https://imgre.gr/"
+      ]
+    }
+  ],
+  "exclusions": [
+    {
+      "topic": "clergy-contact-audit",
+      "finding": "Public clergy-linked telephone numbers or emails would be carried when an official roster associates them with a specific body. The current Metropolis clergy page contains no displayed clergy roster or body association, so it contributes no additional body contact values.",
+      "sources": [
+        "https://imgre.gr/%CE%BF-%CE%BA%CE%BB%CE%B7%CF%81%CE%BF%CF%83/"
+      ]
+    },
+    {
+      "topic": "parent-office-contacts",
+      "finding": "The central Metropolis office telephone, fax, email, and website are not copied onto subordinate bodies. The cathedral address is retained because the contact page explicitly assigns it to the cathedral.",
+      "sources": [
+        "https://imgre.gr/%CE%B5%CF%80%CE%B9%CE%BA%CE%BF%CE%B9%CE%BD%CF%89%CE%BD%CE%B9%CE%B1/"
+      ]
+    },
+    {
+      "topic": "historic-and-dissolved-bodies",
+      "finding": "Dissolved monasteries and monument profiles lacking an independent current institutional status remain in this ledger rather than appearing as current directory bodies.",
+      "sources": [
+        "https://ec-patr.org/entities/iera-mitropoli-grevenon/",
+        "https://imgre.gr/%CE%B9%CE%B5%CF%81%CE%B5%CF%83-%CE%BC%CE%BF%CE%BD%CE%B5%CF%83/"
+      ]
+    },
+    {
+      "topic": "discovery-only-sources",
+      "finding": "Search engines and maps may suggest further names but are used only for discovery. No such lead is published without current competent first-party confirmation of identity and parentage.",
+      "sources": [
+        "https://imgre.gr/",
+        "https://ec-patr.org/entities/iera-mitropoli-grevenon/"
+      ]
+    }
+  ]
+}
