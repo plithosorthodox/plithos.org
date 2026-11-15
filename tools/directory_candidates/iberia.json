@@ -1,0 +1,373 @@
+{
+  "v": 1,
+  "countries": [
+    "ES",
+    "PT"
+  ],
+  "checked": "2026-11-14",
+  "method": "Current official patriarchal, diocesan, parish, mission, and monastery sources establish published rows. Search results and maps were used only for discovery. Unclear, historical, omitted, and outside-scope bodies are retained here rather than silently merged or published. Overlapping canonical jurisdictions are preserved neutrally.",
+  "published_summary": {
+    "bg-western-central-europe": {
+      "ES": 5,
+      "PT": 1,
+      "total": 6
+    },
+    "ep-spain": {
+      "ES": 30,
+      "PT": 24,
+      "total": 54
+    },
+    "ge-western-europe": {
+      "ES": 3,
+      "PT": 0,
+      "total": 3
+    },
+    "ro-spain": {
+      "ES": 154,
+      "PT": 15,
+      "total": 169
+    },
+    "ru-archdiocese-western-europe": {
+      "ES": 2,
+      "PT": 0,
+      "total": 2
+    },
+    "ru-great-britain-and-western-europe-rocor": {
+      "ES": 1,
+      "PT": 1,
+      "total": 2
+    },
+    "ru-spain-and-portugal": {
+      "ES": 23,
+      "PT": 19,
+      "total": 42
+    },
+    "sr-western-europe": {
+      "ES": 17,
+      "PT": 1,
+      "total": 18
+    },
+    "ukraine-uoc": {
+      "ES": 2,
+      "PT": 1,
+      "total": 3
+    },
+    "ES": 237,
+    "PT": 62,
+    "total": 299
+  },
+  "candidates": [
+    {
+      "candidate_id": "es-bg-malaga-mission",
+      "parent": "bg-western-central-europe",
+      "country": "ES",
+      "name": "Bulgarian Orthodox Mission in Málaga",
+      "status": "hold for current official confirmation",
+      "reason": "The Bulgarian Patriarchate's official 2013-2023 diocesan review says a mission was established in Málaga, but the current official diocesan temple register omits it and no later official parish record was located.",
+      "sources": [
+        "https://bg-patriarshia.bg/news/tarzhestva-po-povod-desetgodishninata-ot-izbiraneto-i-intron",
+        "https://bg-patriarshia.bg/west-eu-diocese-temples"
+      ]
+    },
+    {
+      "candidate_id": "es-bg-madrid-saint-petka",
+      "parent": "bg-western-central-europe",
+      "country": "ES",
+      "name": "Saint Petka of Tarnovo Bulgarian Orthodox Community in Madrid",
+      "status": "hold for current official confirmation",
+      "reason": "The Bulgarian Patriarchate's 2013-2023 diocesan review names a Saint Petka body in Madrid, while the current official temple register lists Segovia and gives a Madrid-region clergy contact address but does not list a separate Madrid community. The records are not merged without current confirmation.",
+      "sources": [
+        "https://bg-patriarshia.bg/news/tarzhestva-po-povod-desetgodishninata-ot-izbiraneto-i-intron",
+        "https://bg-patriarshia.bg/west-eu-diocese-temples"
+      ]
+    },
+    {
+      "candidate_id": "pt-ge-lisbon-community",
+      "parent": "ge-western-europe",
+      "country": "PT",
+      "name": "Georgian Orthodox Community in Lisbon",
+      "status": "hold for current official Georgian confirmation",
+      "reason": "The Catholic Patriarchate of Lisbon's 2021-2022 official yearbook lists a Georgian Orthodox community, but the current directory published by an official Georgian parish does not list a Portuguese body and no current Georgian diocesan or parish source was located.",
+      "sources": [
+        "https://www.patriarcado-lisboa.pt/site/docs/2022311anuario_21_22b.pdf",
+        "https://www.eklesia.us/georgian-orthodox-churches/"
+      ]
+    },
+    {
+      "candidate_id": "es-an-barcelona-antiochian-apostolic-community",
+      "parent": "an-france",
+      "country": "ES",
+      "name": "Antiochian Apostolic Orthodox Community in Barcelona",
+      "status": "hold for canonical parent confirmation",
+      "reason": "The community's public pages alternate Antiochian Apostolic and Syrian Orthodox descriptions. It is absent from the current official Greek Orthodox Patriarchate of Antioch material located during this audit, so it is not assigned to the Eastern Orthodox Antiochian archdiocese without official confirmation.",
+      "sources": [
+        "https://ioantioq.blogspot.com/",
+        "https://ioantioq.wixsite.com/ortodoxiasiriana",
+        "https://www.antiochpatriarchate.org/images/pages/dalil-20242023-12-19-07-53-37.pdf"
+      ]
+    },
+    {
+      "candidate_id": "es-sr-navata-unidentified",
+      "parent": "sr-western-europe",
+      "country": "ES",
+      "name": "Unidentified Serbian Orthodox body in Navata",
+      "status": "hold for separate-body confirmation",
+      "reason": "The official Serbian directory prints NAVATA (GIRONA) as a heading immediately before ESTANA (GIRONA) and the Saint George Chapel. It supplies no dedication, contact, address, or separate body beneath Navata, so the heading is not counted as a current body.",
+      "sources": [
+        "https://dioceseserbe.org/spanija-i-portugal/"
+      ]
+    }
+  ],
+  "outside_scope": [
+    {
+      "name": "Holy Apostles Bartholomew and Barnabas Orthodox Mission in Gibraltar",
+      "parent": "ep-spain",
+      "country": "GI",
+      "status": "official and current, outside Spain and Portugal module scope",
+      "sources": [
+        "https://www.metropoliespo.com/p/comunidades.html"
+      ]
+    },
+    {
+      "name": "Great Martyr George Parish in Gibraltar",
+      "parent": "ru-spain-and-portugal",
+      "country": "GI",
+      "status": "official and current, outside Spain and Portugal module scope",
+      "sources": [
+        "https://orthodoxspain.com/obektyi/",
+        "https://orthodoxspain.com/prixod-v-chest-svyatogo-velikomuchenika-georgiya-pobedonoscza"
+      ]
+    },
+    {
+      "name": "Saint Frideswide Parish in Gibraltar",
+      "parent": "ru-great-britain-and-western-europe-rocor",
+      "country": "GI",
+      "status": "official and current, outside Spain and Portugal module scope",
+      "sources": [
+        "https://orthodox-europe.org/wp-content/uploads/2025/12/2026-Diocese-of-GB-and-W-Europe-Directory-PDF.pdf"
+      ]
+    }
+  ],
+  "historical_or_reconciled": [
+    {
+      "name": "All Saints of the Ukrainian Land Parish in Braga",
+      "status": "current body represented under the Ecumenical Patriarchate",
+      "reason": "An official 2019 OCU delegation served at the Braga parish with the Metropolitan of Spain and Portugal. The current official Metropolis register lists the Braga body as All Saints of Ukraine. It is not duplicated as a direct OCU row.",
+      "sources": [
+        "https://www.pomisna.info/uk/vsi-novyny/vizyt-ofitsijnoyi-delegatsiyi-pravoslavnoyi-tserkvy-ukrayiny-do-portugaliyi/",
+        "https://www.metropoliespo.com/p/comunidades.html"
+      ]
+    },
+    {
+      "name": "Saint Nicholas Community in San Sebastián",
+      "status": "historically official, absent from current directory",
+      "reason": "The Russian-tradition archdiocese documented the community as a filial of Biarritz in 2018. It is absent from the current official parish directory and is therefore not published as current.",
+      "sources": [
+        "https://archeveche.eu/visite-pastorale-de-mgr-jean-a-san-sebastian/",
+        "https://archeveche.eu/lieux/"
+      ]
+    },
+    {
+      "name": "Russian-tradition community in Pamplona",
+      "status": "historically official, absent from current directory",
+      "reason": "A 2016 official pastoral report described Pamplona as a filial of Biarritz. It is absent from the current official parish directory and is not treated as current.",
+      "sources": [
+        "https://archeveche.eu/visite-pastorale-de-larcheveque-jean-de-charioupolis-a-biarritz-et-saint-sebastien/",
+        "https://archeveche.eu/lieux/"
+      ]
+    },
+    {
+      "name": "Faith, Hope, Love, and Sophia Ukrainian parish in Braga",
+      "status": "historically official, current status unresolved",
+      "reason": "UOC sources documented the parish in 2017 and 2019 under the then Moscow Spain-Portugal structure. No current UOC vicariate source was found, and the body is not conflated with the current Ecumenical Patriarchate parish in Braga.",
+      "sources": [
+        "https://vzcz.church.ua/2017/11/13/v-portugalskomu-misti-braga-rozpochalisya-regulyarni-bogosluzhinnya-v-novoutvorenij-ukrajinskij-pravoslavnij-parafiji/",
+        "https://uoc-news.church/2019/09/30/ukrajinska-pravoslavna-parafiya-u-portugaliji-vidsvyatkuvala-prestolne-svyato/"
+      ]
+    }
+  ],
+  "source_reconciliations": [
+    {
+      "subject": "Romanian live register controls current scope",
+      "decision": "The current diocesan registers produce 154 rows in Spain and 15 in Portugal, including 14 explicit filials, 4 additional recurring worship sites, and 5 monasteries. The Romanian Patriarchate 2023 aggregate was lower, so it is retained as historical context rather than used to truncate the live 2026 register.",
+      "sources": [
+        "https://www.obispadoortodoxo.es/index.php/parohii/parohii-din-spania",
+        "https://www.obispadoortodoxo.es/index.php/parohii/parohii-din-portugalia",
+        "https://arhiva.patriarhia.ro/comunitaile-bisericesti-externe-in-anul-2023-2871.html"
+      ]
+    },
+    {
+      "subject": "Serbian Navata and Estana headings",
+      "decision": "Saint George Chapel is assigned to Estana exactly as the official directory presents it. Navata remains a candidate heading without a separately documented body.",
+      "source": "https://dioceseserbe.org/spanija-i-portugal/"
+    },
+    {
+      "subject": "Moscow Gibraltar classification",
+      "decision": "The official directory labels Gibraltar within its Spain grouping, but Gibraltar is not Spain. The parish is retained outside scope and not counted among the 23 Spanish rows.",
+      "source": "https://orthodoxspain.com/obektyi/"
+    },
+    {
+      "subject": "Barcelona Bulgarian dedication",
+      "decision": "Use Nativity of the Mother of God from the official January 2026 patriarchal report rather than the generic Holy Mother wording in the temple register.",
+      "sources": [
+        "https://bg-patriarshia.bg/news/duhovna-radost-za-sanarodnitsite-ni-v-barselona-ispania",
+        "https://bg-patriarshia.bg/west-eu-diocese-temples"
+      ]
+    },
+    {
+      "subject": "Bulgarian address fields",
+      "decision": "The Valencia, Segovia, Barcelona, and Palma register blocks print clergy contact locations or no worship address. Those values are not presented as church addresses. Lisbon explicitly labels Rua da Lapa 100 as the worship place and retains it.",
+      "source": "https://bg-patriarshia.bg/west-eu-diocese-temples"
+    },
+    {
+      "subject": "OCU diaspora structure",
+      "decision": "The OCU's official 2022 synodal act directs its diaspora mission to work with the competent local Orthodox hierarchy. Iberian Ukrainian parishes confirmed in the current Ecumenical Patriarchate register remain under that parent unless an official OCU source separately establishes a current mission body.",
+      "sources": [
+        "https://www.pomisna.info/uk/document-post/dokumenty-zasidannya-svyashhennogo-synodu-18-zhovtnya-2022-r/",
+        "https://www.metropoliespo.com/p/comunidades.html"
+      ]
+    }
+  ],
+  "official_jurisdiction_audit": [
+    {
+      "jurisdiction": "Ecumenical Patriarchate, Holy Metropolis of Spain and Portugal",
+      "result": "Thirty current Spanish bodies and twenty-four current Portuguese bodies published. The Gibraltar mission is retained outside scope. The official territory includes Andorra, but the current register names no Andorran body.",
+      "sources": [
+        "https://www.metropoliespo.com/p/comunidades.html",
+        "https://ec-patr.org/en/entities/holy-metropolis-of-spain-and-portugal/"
+      ]
+    },
+    {
+      "jurisdiction": "Romanian Orthodox Diocese of Spain and Portugal",
+      "result": "One hundred fifty-four current Spanish rows and fifteen current Portuguese rows published from the live diocesan registers, with filial and recurring worship-site hierarchy preserved.",
+      "sources": [
+        "https://www.obispadoortodoxo.es/index.php/parohii/parohii-din-spania",
+        "https://www.obispadoortodoxo.es/index.php/parohii/parohii-din-portugalia"
+      ]
+    },
+    {
+      "jurisdiction": "Russian Orthodox Church, Diocese of Spain and Portugal",
+      "result": "Twenty-three current Spanish bodies and nineteen current Portuguese bodies published. The current Gibraltar parish is retained outside scope.",
+      "source": "https://orthodoxspain.com/obektyi/"
+    },
+    {
+      "jurisdiction": "Russian Orthodox Church Outside Russia, Diocese of Great Britain and Western Europe",
+      "result": "One current Spanish church and one current Portuguese diocesan mission published. The current Gibraltar parish is retained outside scope.",
+      "source": "https://orthodox-europe.org/wp-content/uploads/2025/12/2026-Diocese-of-GB-and-W-Europe-Directory-PDF.pdf"
+    },
+    {
+      "jurisdiction": "Serbian Orthodox Church, Eparchy of Western Europe",
+      "result": "Seventeen current Spanish bodies and one current Portuguese body published. Navata remains a candidate heading because the official directory gives no separate body beneath it.",
+      "source": "https://dioceseserbe.org/spanija-i-portugal/"
+    },
+    {
+      "jurisdiction": "Bulgarian Orthodox Diocese of Western and Central Europe",
+      "result": "Five current Spanish bodies and one current Portuguese body published. Málaga and a separately named Madrid body are held because current official sources conflict or omit them.",
+      "sources": [
+        "https://bg-patriarshia.bg/west-eu-diocese-temples",
+        "https://bg-patriarshia.bg/news/duhovna-radost-za-sanarodnitsite-ni-v-barselona-ispania",
+        "https://bg-patriarshia.bg/orthodox-thought/mitropolit-antoniy-da-ne-gubim-vyarata-v-boga-i-da-obichame"
+      ]
+    },
+    {
+      "jurisdiction": "Georgian Orthodox Church, Diocese of Western Europe",
+      "result": "Three Spanish parishes published from the current worldwide directory of an official Georgian Orthodox parish, which links the official Western Europe diocesan page. A Lisbon community remains a candidate because no current Georgian source confirms it.",
+      "sources": [
+        "https://www.eklesia.us/georgian-orthodox-churches/",
+        "https://www.facebook.com/weudiocese.georgia"
+      ]
+    },
+    {
+      "jurisdiction": "Macedonian Orthodox Church - Ohrid Archbishopric, European Diocese",
+      "result": "No Spanish or Portuguese church community appears in the official September 2026 country table, whose listed national counts sum exactly to the published European total of 47.",
+      "source": "https://mpee.mk/post/crkovni-opstini-na-mpc-oa-eparxija-za-evropa"
+    },
+    {
+      "jurisdiction": "Ukrainian Orthodox Church, Western European Vicariate",
+      "result": "Two Spanish parishes and one Portuguese parish published from official synodal-department reports. Older Braga material is retained as historical because its current status is not established.",
+      "sources": [
+        "https://vzcz.church.ua/2026/02/09/pro-sluzhinnya-zaxidnojevropejskogo-vikariatstva-ukrajinskoji-pravoslavnoji-cerkvi/",
+        "https://uoc-news.church/2025/07/22/v-ispaniji-projshla-iii-zustrich-ukrajinskoji-pravoslavnoji-molodi-zaxidnoji-jevropi/",
+        "https://vzcz.church.ua/2025/12/27/parafiya-upc-u-lisaboni-urochisto-vidznachila-svoje-5-richchya-z-dnya-zasnuvannya/"
+      ]
+    },
+    {
+      "jurisdiction": "Orthodox Church of Ukraine",
+      "result": "No separate current Spanish or Portuguese OCU parish or chaplain mission was found in official OCU sources. The Braga parish visited by an OCU delegation is current in the Ecumenical Patriarchate register and is not duplicated.",
+      "sources": [
+        "https://www.pomisna.info/uk/document-post/dokumenty-zasidannya-svyashhennogo-synodu-18-zhovtnya-2022-r/",
+        "https://www.pomisna.info/uk/vsi-novyny/vizyt-ofitsijnoyi-delegatsiyi-pravoslavnoyi-tserkvy-ukrayiny-do-portugaliyi/"
+      ]
+    },
+    {
+      "jurisdiction": "Antiochian Orthodox Archdiocese of France, Western and Southern Europe",
+      "result": "The official patriarchal directory confirms the parent archdiocese and its Iberian territory, but no current individually documented Spanish or Portuguese parish, mission, monastery, chapel, or recurring worship site was found in the official patriarchal material available during this audit.",
+      "source": "https://www.antiochpatriarchate.org/images/pages/dalil-20242023-12-19-07-53-37.pdf"
+    },
+    {
+      "jurisdiction": "Archdiocese of Orthodox Churches of Russian Tradition in Western Europe",
+      "result": "Two current Spanish communities published from the official directory. No current Portuguese body appears. Older San Sebastián and Pamplona filials are retained as historical because the current directory omits them.",
+      "source": "https://archeveche.eu/lieux/"
+    },
+    {
+      "jurisdiction": "Patriarchate of Alexandria",
+      "result": "No Spanish or Portuguese parish, mission, monastery, chapel, metochion, or recurring worship site appears in the official territorial structure.",
+      "source": "https://www.patriarchateofalexandria.com/archdioceses/?lang=en"
+    },
+    {
+      "jurisdiction": "Patriarchate of Jerusalem",
+      "result": "No Spanish or Portuguese body appears in the official administrative structure.",
+      "source": "https://en.jerusalem-patriarchate.info/administrative-structure/holy-bishoprics/"
+    },
+    {
+      "jurisdiction": "Church of Cyprus",
+      "result": "No Spanish or Portuguese body appears in the official administrative structure.",
+      "source": "https://churchofcyprus.org.cy/diikitiki_diathrosi"
+    },
+    {
+      "jurisdiction": "Church of Greece",
+      "result": "No separately governed Spanish or Portuguese body appears in the official diocesan structure. Greek-speaking Iberian bodies found in current sources are represented under the Ecumenical Patriarchate.",
+      "source": "https://www.ecclesia.gr/greek/dioceses/dioceses.asp"
+    },
+    {
+      "jurisdiction": "Polish Autocephalous Orthodox Church",
+      "result": "No Spanish or Portuguese body appears in the official administration directory.",
+      "source": "https://www.orthodox.pl/administracja/"
+    },
+    {
+      "jurisdiction": "Orthodox Autocephalous Church of Albania",
+      "result": "No Spanish or Portuguese body appears in the official organization.",
+      "source": "https://orthodoxalbania.org/2026/en/church-organization-2026/"
+    },
+    {
+      "jurisdiction": "Orthodox Church of the Czech Lands and Slovakia",
+      "result": "No Spanish or Portuguese body appears in the official schematism.",
+      "source": "https://orthodox.sk/schematizmus/pravoslavna-eparchia/"
+    },
+    {
+      "jurisdiction": "Orthodox Church in America",
+      "result": "No Spanish or Portuguese diocese, parish, mission, monastery, chapel, or recurring worship site appears in the official directory.",
+      "source": "https://www.oca.org/parishes"
+    },
+    {
+      "jurisdiction": "Orthodox Church of Finland",
+      "result": "No Spanish or Portuguese body appears in the official diocesan and parish structure.",
+      "source": "https://ort.fi/en/our-church/dioceses-and-parishes/"
+    },
+    {
+      "jurisdiction": "Estonian Apostolic Orthodox Church",
+      "result": "No Spanish or Portuguese body appears in the official structure.",
+      "source": "https://www.eoc.ee/"
+    },
+    {
+      "jurisdiction": "Autonomous Orthodox Church of Japan",
+      "result": "No Spanish or Portuguese body appears in the official domestic diocesan structure.",
+      "source": "https://www.orthodoxjapan.jp/"
+    },
+    {
+      "jurisdiction": "Chinese Orthodox Church",
+      "result": "No current Spanish or Portuguese body was found in the official structures of its Moscow Patriarchate parent.",
+      "source": "https://patriarchia.ru/en/"
+    }
+  ]
+}
