@@ -1107,6 +1107,10 @@ NAMES = {
 
 # Parish-scale country modules keep the English display name beside the
 # official local form so source and interface validation share one key list.
+from directory_denmark import ENGLISH_NAMES as _DENMARK_NAMES
+NAMES.update(_DENMARK_NAMES)
+del _DENMARK_NAMES
+
 from directory_estonia import ENGLISH_NAMES as _ESTONIA_NAMES
 NAMES.update(_ESTONIA_NAMES)
 del _ESTONIA_NAMES

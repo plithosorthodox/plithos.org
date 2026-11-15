@@ -12,13 +12,14 @@ import json
 import sys
 from pathlib import Path
 
+import directory_denmark
 import directory_iceland
 import directory_ireland
 
 
 ROOT = Path(__file__).resolve().parent.parent
 OUT = ROOT / "data" / "directory"
-SOURCE_MODULES = (directory_iceland, directory_ireland)
+SOURCE_MODULES = (directory_denmark, directory_iceland, directory_ireland)
 DIRECT_PARENTS = {"russia"}
 
 
@@ -54,8 +55,8 @@ def build():
             payload["country"] = scope[0]
         else:
             payload["countries"] = scope
-    if len(payloads) != 11 or sum(len(p["rows"]) for p in payloads.values()) != 54:
-        raise ValueError("north-west Europe must publish 11 parents and 54 rows")
+    if len(payloads) != 15 or sum(len(p["rows"]) for p in payloads.values()) != 102:
+        raise ValueError("north-west Europe must publish 15 parents and 102 rows")
     return dict(sorted(payloads.items()))
 
 
@@ -122,7 +123,7 @@ def main():
         for error in errors:
             print(error, file=sys.stderr)
         return 1
-    print("North-west Europe branches: 11 parents, 54 subordinate bodies")
+    print("North-west Europe branches: 15 parents, 102 subordinate bodies")
     return 0
 
 

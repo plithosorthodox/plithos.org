@@ -14,6 +14,7 @@ import json
 import sys
 from pathlib import Path
 
+import directory_denmark
 import directory_estonia
 import directory_iceland
 import directory_ireland
@@ -99,6 +100,7 @@ ROWS = {
 # Stauropegial bodies remain under their direct patriarchal parent even when
 # a country also has a locally governed Church. Country modules export these
 # exceptional rows so this multi-country branch owns the single payload.
+ROWS["russia"].extend(directory_denmark.DIRECT_RUSSIA_ROWS)
 ROWS["russia"].extend(directory_estonia.DIRECT_RUSSIA_ROWS)
 ROWS["russia"].extend(directory_iceland.build()["russia"]["rows"])
 ROWS["russia"].extend(directory_ireland.ROWS["russia"])
@@ -154,8 +156,8 @@ def build():
             "countries": sorted(countries),
             "rows": rows,
         }
-    if len(payloads["russia"]["rows"]) != 6:
-        raise ValueError("the direct Russia branch must have 6 rows")
+    if len(payloads["russia"]["rows"]) != 11:
+        raise ValueError("the direct Russia branch must have 11 rows")
     if len(payloads["romania"]["rows"]) != 3:
         raise ValueError("the direct Romania branch must have 3 rows")
     return payloads
@@ -222,7 +224,7 @@ def main():
         for error in errors:
             print(error, file=sys.stderr)
         return 1
-    print("2 direct parents, 9 subordinate bodies")
+    print("2 direct parents, 14 subordinate bodies")
     return 0
 
 

@@ -1,0 +1,158 @@
+{
+  "v": 1,
+  "countries": [
+    "DK"
+  ],
+  "checked": "2026-11-14",
+  "status": "only bodies without sufficient current official classification are held here",
+  "published_summary": {
+    "ep-sweden": 1,
+    "mk-europe": 1,
+    "ro-northern-europe": 33,
+    "ru-germany-rocor": 2,
+    "russia": 5,
+    "sr-scandinavia": 3,
+    "ukraine-ocu": 5,
+    "ukraine-uoc": 3,
+    "total": 53
+  },
+  "candidates": [
+    {
+      "name": "Proposed Russian Tradition community in Denmark",
+      "place": "Fredericia, Denmark",
+      "claimed_parent": "Archdiocese of Orthodox Churches of Russian Tradition in Western Europe, Moscow Patriarchate",
+      "sources": [
+        "https://archeveche.eu/en/annuaires/ilya-larikov-en/",
+        "https://archeveche.eu/lieux/"
+      ],
+      "reason": "The official clergy directory says Hieromonk Ilya Larikov is in Denmark with the mission of founding a community. The official parish directory does not yet list a Denmark community, so this is an active foundation effort rather than a publishable church body."
+    },
+    {
+      "name": "Moscow Patriarchate worship activity in Aarhus",
+      "place": "Aarhus, Denmark",
+      "claimed_parent": "Russian Orthodox Church, Moscow Patriarchate",
+      "sources": [
+        "https://ortodoxy.dk/beta/RU/news/show?id=1039",
+        "https://ortodoxy.dk/beta/US/site/about"
+      ],
+      "reason": "The official Denmark site documents a 2026 memorial service in Aarhus, but its current contacts page does not identify an Aarhus parish, mission or recurring worship site. A single event is insufficient to create a permanent directory row."
+    },
+    {
+      "name": "Moscow Patriarchate worship activity near Aabenraa",
+      "place": "Aabenraa and Bedsted, Denmark",
+      "claimed_parent": "Russian Orthodox Church, Moscow Patriarchate",
+      "sources": [
+        "https://ortodoxy.dk/beta/RU/news?page=4",
+        "https://ortodoxy.dk/beta/US/site/about"
+      ],
+      "reason": "The official Denmark news archive documents services in 2025, but no current 2026 service schedule or permanent body appears in the official contacts page. Retain pending evidence that the worship location remains active."
+    }
+  ],
+  "superseded_or_not_current": [
+    {
+      "name": "Bulgarian Orthodox Protection of the Mother of God Parish in Copenhagen",
+      "sources": [
+        "https://bg-patriarshia.bg/west-eu-diocese-temples",
+        "https://ortodoks.dk/om-menigheden/about-the-parish",
+        "https://episcopiascandinavia.se/parohiile-ortodoxe-romanesti-din-regatul-danemarcei/"
+      ],
+      "reason": "Older accounts describe a Bulgarian affiliation. The current parish and Romanian diocesan sources place the Danish Orthodox Protection parish under the Romanian Orthodox Diocese of Northern Europe, while the current Bulgarian diocesan temple directory lists no Denmark parish. The current Romanian row is published instead."
+    }
+  ],
+  "audited_no_current_denmark_body": [
+    {
+      "authority": "Antiochian Orthodox Church",
+      "source": "https://www.antiochpatriarchate.org/ar/category/antiochian-vicariates-and-representatives-of-his-beatitude/108/",
+      "result": "The official Scandinavian vicariate source identifies its seat and church in Sweden and no Denmark parish."
+    },
+    {
+      "authority": "Bulgarian Orthodox Church",
+      "source": "https://bg-patriarshia.bg/west-eu-diocese-temples",
+      "result": "The official Western and Central Europe temple directory lists bodies in Sweden and Norway but none in Denmark."
+    },
+    {
+      "authority": "Georgian Orthodox Church",
+      "source": "https://patriarchate.ge/?action=eparchy11",
+      "result": "The official Patriarchate hierarchy was checked, but no current official parish source established a Denmark body."
+    },
+    {
+      "authority": "Polish Autocephalous Orthodox Church",
+      "source": "https://www.orthodox.pl/administracja/",
+      "result": "The official foreign church units directory lists no Denmark body."
+    },
+    {
+      "authority": "Orthodox Church of the Czech Lands and Slovakia",
+      "sources": [
+        "https://orthodox.sk/schematizmus/pravoslavna-eparchia/",
+        "https://orthodox.sk/pravoslavna-cirkev/ustava/"
+      ],
+      "result": "The official schematism and church structure list no Denmark body."
+    },
+    {
+      "authority": "Orthodox Autocephalous Church of Albania",
+      "source": "https://orthodoxalbania.org/2026/en/church-organization-2026/",
+      "result": "The official organization lists Albanian metropolises and vicariates and no Denmark structure."
+    },
+    {
+      "authority": "Orthodox Church in America",
+      "source": "https://www.oca.org/parishes",
+      "result": "The official parish directory contains no Denmark body."
+    },
+    {
+      "authority": "Orthodox Church of Finland",
+      "sources": [
+        "https://ort.fi/en/finnish-orthodox-church/",
+        "https://ort.fi/kirkon-keskusrekisteri/rekisterista-loytyvat-seurakunnat/"
+      ],
+      "result": "The official church and parish directories contain no Denmark body."
+    },
+    {
+      "authority": "Apostolic Orthodox Church of Estonia",
+      "sources": [
+        "https://www.eoc.ee/fr/eglise-orthodoxe-destonie/structure/",
+        "https://www.eoc.ee/piiskopkond/tallinna-peapiiskopkond/"
+      ],
+      "result": "The official diocesan and parish structure contains no Denmark body."
+    },
+    {
+      "authority": "Orthodox Church in Japan",
+      "source": "https://www.orthodoxjapan.jp/",
+      "result": "The official national church directory contains no Denmark body."
+    },
+    {
+      "authority": "Greek Orthodox Patriarchate of Alexandria",
+      "source": "https://www.patriarchateofalexandria.com/archdioceses/?lang=en",
+      "result": "The official dioceses are territorial to Africa and contain no Denmark body."
+    },
+    {
+      "authority": "Greek Orthodox Patriarchate of Jerusalem",
+      "sources": [
+        "https://en.jerusalem-patriarchate.info/administrative-structure/holy-bishoprics/",
+        "https://en.jerusalem-patriarchate.info/administrative-structure/churches-in-the-east-bank-jordan/"
+      ],
+      "result": "The official administrative directories contain no Denmark body."
+    },
+    {
+      "authority": "Church of Greece and Church of Cyprus",
+      "sources": [
+        "https://www.ecclesia.gr/",
+        "https://churchofcyprus.org.cy/diikitiki_diathrosi"
+      ],
+      "result": "No separate Denmark body was found. The verified Greek parish in Denmark belongs to the Ecumenical Patriarchate's Metropolis of Sweden."
+    },
+    {
+      "authority": "Church of Sinai",
+      "source": "https://sinaimonastery.com/st-catherine/index.php/en/description/shrines-dependencies",
+      "result": "No official external Denmark parish or dependency was found."
+    },
+    {
+      "authority": "Orthodox Church of Moldova",
+      "source": "https://mitropolia.md/resurse-ortodoxe/",
+      "result": "The official diaspora resources list no Denmark body."
+    }
+  ],
+  "government_corroboration": {
+    "source": "https://tsreg.blkm.dk/",
+    "note": "The Danish government register corroborates Romanian, ROCOR, Moscow Patriarchate, Serbian, and Greek bodies. It is corroborative only because unregistered missions and communities may exist."
+  }
+}
