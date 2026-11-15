@@ -1,0 +1,185 @@
+{
+  "v": 1,
+  "countries": [
+    "GR"
+  ],
+  "checked": "2026-11-15",
+  "method": "Publish exact current worship bodies established by the 2019 Church of Greece legal roster, the current body-owned Metropolis of Kaisariani, Vyron and Ymittos church and monastery directories, current body-owned contact pages, and the current Church of Greece profile. Preserve every public phone, fax, email, and live independent site clearly tied to a specific body, including clergy-associated, monastery, and parish social-ministry routes, without naming people or describing every route as an office line. Do not copy central Metropolis contacts to subordinate bodies. Hold external-parent metochia, stale sites, malformed contact fragments, unnamed aggregates, historic-only references, map-only leads, and program-only leads.",
+  "published_summary": {
+    "gr-kaisariani": 19,
+    "total": 19,
+    "regulated_parish_rows": 9,
+    "regulated_pilgrimage_rows": 1,
+    "parish_kind_rows": 16,
+    "monastery_kind_rows": 3,
+    "exact_chapel_rows": 6,
+    "contact_bodies": 13,
+    "phone_bodies": 13,
+    "public_phone_values": 31,
+    "email_bodies": 3,
+    "public_email_values": 3,
+    "body_owned_sites": 3,
+    "address_bodies": 19
+  },
+  "candidates": [
+    {
+      "candidate_id": "gr-kaisariani-ascension-simonopetra-metochion",
+      "parent": "gr-kaisariani",
+      "country": "GR",
+      "category": "external-parent-routing",
+      "status": "held",
+      "reason": "The current Church of Greece profile names the Ascension body on Myraktis Street and identifies it as a metochion of Simonopetra Monastery, with public phone 7641986. The current local body-owned directory excludes it from the three monasteries directly presented by this Metropolis. It is held rather than assigned to gr-kaisariani because its exact current canonical parent is external and no current first-party Simonopetra directory page was found during this audit.",
+      "sources": [
+        "https://www.ecclesiagreece.gr/ecclesiajoomla/index.php/el/metropoleis/kaisarianes-byronos-kai-ymettou",
+        "https://imkby.gr/ieres-mones"
+      ]
+    },
+    {
+      "candidate_id": "gr-kaisariani-saint-george-koutala-petraki-metochion",
+      "parent": "gr-kaisariani",
+      "country": "GR",
+      "category": "external-parent-routing",
+      "status": "held",
+      "reason": "The current Church of Greece profile and the body-owned Petraki Monastery metochia directory both establish Saint George Koutala in Ymittos with public phone 2107664255. The local Metropolis directory excludes it from its three directly presented monasteries, while the Petraki source establishes its external canonical parent. It is retained for later routing under that parent and is not forced into the gr-kaisariani child roster.",
+      "sources": [
+        "https://www.ecclesiagreece.gr/ecclesiajoomla/index.php/el/metropoleis/kaisarianes-byronos-kai-ymettou",
+        "https://www.monipetraki.gr/metohia.html",
+        "https://imkby.gr/ieres-mones"
+      ]
+    },
+    {
+      "candidate_id": "gr-kaisariani-stale-linked-body-sites",
+      "parent": "gr-kaisariani",
+      "country": "GR",
+      "category": "stale-site",
+      "status": "held",
+      "reason": "The current Metropolis church directory links independent sites for the Annunciation and Saint Photini parish, Saint George Kareas parish, and the Apostle Paul pilgrimage church. The first two hosts did not resolve and the linked Blogspot address returned not found on 2026-11-15. The bodies remain published from current official directory evidence, but these three failed links are not exposed as current body sites.",
+      "sources": [
+        "https://imkby.gr/ieroi-naoi",
+        "https://evaggelismostheotokou.gr/",
+        "https://agiosgeorgioskarea.gr/",
+        "https://appauloskarea.blogspot.com/"
+      ]
+    },
+    {
+      "candidate_id": "gr-kaisariani-kareas-malformed-phone-fragment",
+      "parent": "gr-kaisariani",
+      "country": "GR",
+      "category": "malformed-contact",
+      "status": "held",
+      "reason": "The Saint John the Forerunner Monastery contact page prints a second telephone fragment as +210 76 08 27- with missing digits. The complete telephone and fax values on the same page are published, but the incomplete fragment is not guessed or repaired.",
+      "sources": [
+        "https://www.imaik.gr/?page_id=949"
+      ]
+    },
+    {
+      "candidate_id": "gr-kaisariani-aggregate-historic-map-program-leads",
+      "parent": "gr-kaisariani",
+      "country": "GR",
+      "category": "insufficient-current-authority",
+      "status": "discovery-only",
+      "reason": "Unnamed churches, unlisted chapels, historic monuments, feast programs, weekly service listings, map results, tourism pages, news items, and search snippets can show worship at a place without establishing a distinct current subordinate body. No residual body is inferred from aggregates, and no program-only or map-only lead is published.",
+      "sources": [
+        "https://imkby.gr/ieroi-naoi",
+        "https://imkby.gr/ieres-mones",
+        "https://ecclesiagreece.gr/greek/press/ekklisia/2019_ioulios.pdf"
+      ]
+    },
+    {
+      "candidate_id": "gr-kaisariani-central-template-and-non-worship-routes",
+      "parent": "gr-kaisariani",
+      "country": "GR",
+      "category": "outside-worship-roster",
+      "status": "held",
+      "reason": "Central Metropolis office contacts, template placeholder telephone and email strings, care and feeding institutions, blood-donation offices, administrative offices, publications, councils, libraries, and other non-worship institutions are not separate worship rows. A parish social-ministry number is retained only as a public route associated with that already established parish body, not as a new institution or an office-line claim.",
+      "sources": [
+        "https://imkby.gr/",
+        "https://www.ecclesiagreece.gr/ecclesiajoomla/index.php/el/metropoleis/kaisarianes-byronos-kai-ymettou"
+      ]
+    }
+  ],
+  "source_reconciliations": [
+    {
+      "topic": "legal-roster-and-current-ten-body-directory",
+      "finding": "Regulation 1468/1180/2019 names exactly nine parishes and one pilgrimage church. The current body-owned directory presents ten main worship bodies, using a broad parish-facing label. Its ten exact names reconcile one for one with the legal nine parish rows plus the separately regulated Saint Paul pilgrimage church. The legal rank controls, and no tenth parish is invented.",
+      "sources": [
+        "https://ecclesiagreece.gr/greek/press/ekklisia/2019_ioulios.pdf",
+        "https://imkby.gr/ieroi-naoi"
+      ]
+    },
+    {
+      "topic": "current-local-monastery-roster",
+      "finding": "The current body-owned monastery directory expressly presents three local monasteries: Entrance of the Theotokos and Life-Giving Spring in Vyron, Saint John the Forerunner at Kareas, and Saint John the Forerunner at Kaisariani. The Church of Greece profile also names two metochia with external canonical parents. The three direct local monasteries are published under gr-kaisariani, while the two external-parent bodies are held for correct parent routing.",
+      "sources": [
+        "https://imkby.gr/ieres-mones",
+        "https://www.ecclesiagreece.gr/ecclesiajoomla/index.php/el/metropoleis/kaisarianes-byronos-kai-ymettou",
+        "https://www.monipetraki.gr/metohia.html"
+      ]
+    },
+    {
+      "topic": "exact-current-chapels",
+      "finding": "The current body-owned directory reports six chapels and names all six with addresses and parent relationships. One is expressly a Metropolitan chapel and five are parish chapels. All six are published once, and no unnamed chapel is inferred.",
+      "sources": [
+        "https://imkby.gr/ieroi-naoi"
+      ]
+    },
+    {
+      "topic": "contact-provenance",
+      "finding": "Thirteen bodies carry 31 distinct public telephone or fax values, three bodies carry three public emails, and three bodies carry live independent sites. The values come from the current Metropolis directory, current Church of Greece profile, or the body's own live contact page. Parish social-ministry routes and monastery fax routes are retained when the official source ties them to the specific body. They are associated public routes and are not all asserted to be office lines.",
+      "sources": [
+        "https://imkby.gr/ieroi-naoi",
+        "https://www.ecclesiagreece.gr/ecclesiajoomla/index.php/el/metropoleis/kaisarianes-byronos-kai-ymettou",
+        "https://www.imaik.gr/?page_id=949"
+      ]
+    },
+    {
+      "topic": "live-independent-sites",
+      "finding": "The independent Saint Nicholas, Holy Trinity, and Saint John the Forerunner at Kareas sites answered live and supplied current body identity or contacts. Three other links printed by the current Metropolis directory failed live verification and remain recorded only as held stale-site evidence.",
+      "sources": [
+        "https://in-agiosnikolaos.gr/?page_id=2",
+        "https://www.agiatriadavyrona.gr/contact/",
+        "https://www.imaik.gr/?page_id=949"
+      ]
+    }
+  ],
+  "official_parent_audit": [
+    {
+      "finding": "The Church of Greece legal regulation is the exact authority for nine parish legal persons and one separately ranked pilgrimage church. The current body-owned church page supplies matching current names, addresses, contact routes, and six exact chapels.",
+      "sources": [
+        "https://ecclesiagreece.gr/greek/press/ekklisia/2019_ioulios.pdf",
+        "https://imkby.gr/ieroi-naoi"
+      ]
+    },
+    {
+      "finding": "The current body-owned monastery page establishes the three bodies directly presented by the local Metropolis. The current Church of Greece profile independently supplies their public telephone routes and preserves the two external-parent metochion leads without changing their parentage.",
+      "sources": [
+        "https://imkby.gr/ieres-mones",
+        "https://www.ecclesiagreece.gr/ecclesiajoomla/index.php/el/metropoleis/kaisarianes-byronos-kai-ymettou"
+      ]
+    }
+  ],
+  "exclusions": [
+    {
+      "finding": "Central Metropolis telephone, fax, and email routes are excluded from subordinate rows. A central or district route is never copied across bodies.",
+      "sources": [
+        "https://imkby.gr/",
+        "https://www.ecclesiagreece.gr/ecclesiajoomla/index.php/el/metropoleis/kaisarianes-byronos-kai-ymettou"
+      ]
+    },
+    {
+      "finding": "Officially published clergy-associated, mobile, fax, monastery, and parish social-ministry routes are retained only when tied to the specific body. Names of clergy, monastics, office holders, and other people are omitted.",
+      "sources": [
+        "https://imkby.gr/ieroi-naoi",
+        "https://in-agiosnikolaos.gr/?page_id=2",
+        "https://www.imaik.gr/?page_id=949"
+      ]
+    },
+    {
+      "finding": "The current directory aggregate is never used to infer unnamed residual bodies. Non-worship institutions and bodies with unresolved direct parentage remain outside the published branch.",
+      "sources": [
+        "https://imkby.gr/ieroi-naoi",
+        "https://imkby.gr/ieres-mones"
+      ]
+    }
+  ]
+}
