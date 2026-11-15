@@ -13,6 +13,7 @@ import sys
 from pathlib import Path
 
 import directory_australia
+import directory_belgium
 import directory_denmark
 import directory_iceland
 import directory_ireland
@@ -27,6 +28,7 @@ import directory_sweden
 ROOT = Path(__file__).resolve().parent.parent
 OUT = ROOT / "data" / "directory"
 SOURCE_MODULES = (
+    directory_belgium,
     directory_denmark,
     directory_iceland,
     directory_ireland,
@@ -37,7 +39,7 @@ SOURCE_MODULES = (
     directory_norway,
     directory_sweden,
 )
-DIRECT_PARENTS = {"russia"}
+DIRECT_PARENTS = {"romania", "russia"}
 
 
 def payload_countries(payload):
@@ -86,8 +88,8 @@ def build():
             payload["country"] = scope[0]
         else:
             payload["countries"] = scope
-    if len(payloads) != 29 or sum(len(p["rows"]) for p in payloads.values()) != 344:
-        raise ValueError("north-west Europe must publish 29 parents and 344 rows")
+    if len(payloads) != 30 or sum(len(p["rows"]) for p in payloads.values()) != 439:
+        raise ValueError("north-west Europe must publish 30 parents and 439 rows")
     return dict(sorted(payloads.items()))
 
 
@@ -154,7 +156,7 @@ def main():
         for error in errors:
             print(error, file=sys.stderr)
         return 1
-    print("North-west Europe branches: 29 parents, 344 subordinate bodies")
+    print("North-west Europe branches: 30 parents, 439 subordinate bodies")
     return 0
 
 

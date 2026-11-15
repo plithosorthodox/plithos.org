@@ -1,0 +1,219 @@
+{
+  "v": 1,
+  "countries": [
+    "BE"
+  ],
+  "checked": "2026-11-14",
+  "status": "only bodies without sufficient current official classification are held here",
+  "published_summary": {
+    "bg-western-central-europe": 2,
+    "ep-belgium": 35,
+    "ge-belgium-holland": 2,
+    "mk-europe": 1,
+    "ro-western-europe": 23,
+    "romania": 1,
+    "ru-archdiocese-western-europe": 4,
+    "ru-brussels-and-belgium": 18,
+    "ru-great-britain-and-western-europe-rocor": 2,
+    "sr-western-europe": 6,
+    "ukraine-uoc": 2,
+    "total": 96
+  },
+  "candidates": [
+    {
+      "name": "St John the Theologian Georgian Orthodox church in Liege",
+      "place": "Liege, Belgium",
+      "claimed_parent": "Georgian Orthodox Eparchy of Belgium and the Netherlands",
+      "sources": [
+        "https://belgium.mfa.gov.ge/ka/news/196939-saqartvelos-sapatriarqos-delegatsiis-viziti-belgiis-samephoshi",
+        "https://orthodoxia.be/fr/paroisses/presences-orthodoxes/"
+      ],
+      "reason": "The Georgian Embassy's current report names a St John the Theologian church in Liege where the Georgian Patriarchate delegation celebrated in June 2026. The current diocesan parish directory available through the Belgian Archdiocese names only the Brussels and Antwerp Georgian parishes. Retain until a patriarchal, diocesan, or parish source publishes the Liege body and its stable address."
+    },
+    {
+      "name": "St George Georgian Orthodox church in Ghent",
+      "place": "Ghent, Belgium",
+      "claimed_parent": "Georgian Orthodox Eparchy of Belgium and the Netherlands",
+      "sources": [
+        "https://belgium.mfa.gov.ge/ka/news/196939-saqartvelos-sapatriarqos-delegatsiis-viziti-belgiis-samephoshi",
+        "https://orthodoxia.be/fr/paroisses/presences-orthodoxes/"
+      ],
+      "reason": "The Georgian Embassy's current report names a St George church in Ghent where the Georgian Patriarchate delegation celebrated in June 2026. The current diocesan parish directory available through the Belgian Archdiocese names only the Brussels and Antwerp Georgian parishes. Retain until a patriarchal, diocesan, or parish source publishes the Ghent body and its stable address."
+    },
+    {
+      "name": "Orthodox Church of Ukraine worship activity in Belgium",
+      "place": "Brussels, Belgium",
+      "claimed_parent": "Orthodox Church of Ukraine",
+      "sources": [
+        "https://www.pomisna.info/uk/tserkva/synodalni-ustanovy/",
+        "https://www.pomisna.info/uk/document-post/dopovid-predstoyatelya-na-arhiyerejskomu-sobori-14-lypnya-2026-r/"
+      ],
+      "reason": "Current official OCU sources document visits and institutional activity in Brussels, but no permanent Belgian parish, mission, chapel, monastery, metochion, or recurring worship site was identified. Retain until an OCU source publishes a stable body."
+    }
+  ],
+  "superseded_or_not_current": [
+    {
+      "name": "St James the Apostle ROCOR parish in Uccle",
+      "sources": [
+        "https://orthodoxia.be/fr/paroisses/presences-orthodoxes/",
+        "https://orthodox-europe.org/wp-content/uploads/2025/12/2026-Diocese-of-GB-and-W-Europe-Directory-PDF.pdf"
+      ],
+      "reason": "The Belgian inter-Orthodox page retains the older St James listing in Uccle. The current 2026 ROCOR diocesan directory identifies the body at the same Uccle address as St Job Memorial Church. The current St Job row is published without duplicating the older name."
+    },
+    {
+      "name": "All Saints Romanian Orthodox parish in Namur",
+      "sources": [
+        "https://belgia.biserica.be/862-2/",
+        "https://www.mitropolia.eu/fr/site/185/paroisses-de-belgique.htm",
+        "https://enoria.ro/"
+      ],
+      "reason": "The older Belgium directory places All Saints in Namur. The parish moved to Huldenberg in 2017, its own current site identifies Huldenberg, and the current Metropolis list publishes the Huldenberg parish. The Huldenberg row is published once."
+    }
+  ],
+  "source_reconciliation": [
+    {
+      "subject": "Ecumenical Patriarchate coverage",
+      "sources": [
+        "https://orthodoxia.be/fr/paroisses/",
+        "https://orthodoxia.be/fr/paroisses/presences-orthodoxes/",
+        "https://orthodoxia.be/fr/enoria/paroisse-saint-archange-michel-genk/"
+      ],
+      "result": "The current archdiocesan parish list establishes 34 Belgium bodies. Its current other-presences page and parish page establish the Ukrainian St Michael parish in Genk, producing 35 rows. The Polish-expression Nativity parish and Arabic-expression St Ignatius parish remain under the Ecumenical Patriarchate and are not duplicated as Polish or Antiochian jurisdictions."
+    },
+    {
+      "subject": "Moscow Patriarchate Belgium coverage",
+      "sources": [
+        "https://archiepiskopia.be/index.php?content=parishes&lang=fr",
+        "https://orthodoxia.be/fr/paroisses/presences-orthodoxes/"
+      ],
+      "result": "The current Moscow diocesan directory lists 18 churches, parishes, chapels, and monasteries. The Belgian inter-Orthodox page is shorter and omits the current Kortrijk body. The parent diocese's current 18-item directory governs."
+    },
+    {
+      "subject": "Russian Tradition coverage",
+      "sources": [
+        "https://archeveche.eu/lieux/",
+        "https://orthodoxia.be/fr/paroisses/presences-orthodoxes/"
+      ],
+      "result": "The current archdiocesan directory establishes four Belgium bodies, including Antwerp and Banneux. The shorter Belgian inter-Orthodox page lists only Brussels and Liege. The current parent directory's four-body union governs."
+    },
+    {
+      "subject": "Serbian Western Europe coverage",
+      "sources": [
+        "https://dioceseserbe.org/fr/benelux/",
+        "https://orthodoxia.be/fr/paroisses/presences-orthodoxes/"
+      ],
+      "result": "The current Serbian Benelux directory establishes six Belgium bodies. The Belgian inter-Orthodox page names only Brussels and Antwerp. All six current diocesan bodies are preserved."
+    },
+    {
+      "subject": "Romanian Orthodox coverage",
+      "sources": [
+        "https://www.mitropolia.eu/fr/site/185/paroisses-de-belgique.htm",
+        "https://belgia.biserica.be/862-2/",
+        "https://manastirea.be/program-liturgic/",
+        "https://sfantaparascheva.be/"
+      ],
+      "result": "The current Metropolis page establishes 22 archdiocesan parishes and missions. The official Belgium directory and current monastery schedule establish the Protection monastery in Namur. The official Belgium directory and the chapel's current site establish the directly patriarchal St Parascheva chapel, which is published under the Church of Romania rather than the western archdiocese."
+    },
+    {
+      "subject": "Bulgarian Orthodox coverage",
+      "sources": [
+        "https://bg-patriarshia.bg/west-eu-diocese-temples",
+        "https://www.izvor.be/bg/church"
+      ],
+      "result": "The Bulgarian Patriarchate directory establishes the Brussels St Clement community. The Antwerp community's own current site records its official conversion from a mission into the St Zlata church community in May 2026 and publishes its 2026 schedule. Both are current bodies under the same diocese."
+    },
+    {
+      "subject": "Macedonian Orthodox coverage",
+      "sources": [
+        "https://mpee.mk/category/za-eparxijata",
+        "https://minisel.gov.mk/%D0%BC%D0%B0%D0%BA%D0%B5%D0%B4%D0%BE%D0%BD%D1%86%D0%B8%D1%82%D0%B5-%D0%B2%D0%BE-%D0%B1%D1%80%D0%B8%D1%81%D0%B5%D0%BB-%D1%98%D0%B0-%D0%BF%D1%80%D0%BE%D1%81%D0%BB%D0%B0%D0%B2%D0%B8%D1%98%D0%B0-%D1%85/"
+      ],
+      "result": "The current European Diocese page establishes exactly one Belgium church community. The current state diaspora report identifies it as the Holy Prophet Elijah and Archangel Michael community in Brussels and documents worship there in November 2025. One row is published."
+    },
+    {
+      "subject": "UOC Brussels parish and worship sites",
+      "sources": [
+        "https://news.church.ua/2022/08/12/v-novostvorenij-parafiji-upc-u-bryusseli-vzhe-zvershili-dvanadcyat-tajinstv-xreshhennya/",
+        "https://news.church.ua/2026/03/09/v-bryusseli-tisyachi-viruyuchix-upc-vidsvyatkuvali-prestolne-svyato-u-den-soboru-usix-prepodobnix-kijevo-pecherskix/"
+      ],
+      "result": "The 2026 official report confirms the All Venerable Fathers of the Kyiv Caves parish as current. The official foundation report establishes regular worship at Anderlecht and Kraainem. The parish row and its second recurring worship site are both preserved."
+    }
+  ],
+  "audited_no_current_belgium_body": [
+    {
+      "authority": "Greek Orthodox Patriarchate of Antioch",
+      "source": "https://rum-orthodox.de/gemeinden/",
+      "result": "The current metropolitan parish directory lists no Belgium body. Belgium's Arabic-expression St Ignatius parish belongs to the Ecumenical Patriarchate and is already published there."
+    },
+    {
+      "authority": "Polish Autocephalous Orthodox Church",
+      "source": "https://www.orthodox.pl/administracja/",
+      "result": "The official foreign-units directory lists no direct Belgium body. Belgium's Polish-expression Nativity parish belongs administratively to the Ecumenical Patriarchate and is already published there."
+    },
+    {
+      "authority": "Orthodox Church of the Czech Lands and Slovakia",
+      "source": "https://orthodox.sk/schematizmus/pravoslavna-eparchia/",
+      "result": "The official schematism lists no Belgium body."
+    },
+    {
+      "authority": "Orthodox Autocephalous Church of Albania",
+      "source": "https://orthodoxalbania.org/2026/en/church-organization-2026/",
+      "result": "The official organization lists no Belgium structure."
+    },
+    {
+      "authority": "Orthodox Church in America",
+      "source": "https://www.oca.org/parishes",
+      "result": "The official parish directory contains no Belgium body."
+    },
+    {
+      "authority": "Orthodox Church of Finland",
+      "source": "https://ort.fi/kirkon-keskusrekisteri/rekisterista-loytyvat-seurakunnat/",
+      "result": "The official parish register contains no Belgium body."
+    },
+    {
+      "authority": "Apostolic Orthodox Church of Estonia",
+      "source": "https://www.eoc.ee/fr/eglise-orthodoxe-destonie/structure/",
+      "result": "The official diocesan and parish structure contains no Belgium body."
+    },
+    {
+      "authority": "Estonian Christian Orthodox Church",
+      "source": "https://et.orthodox.ee/parishes/",
+      "result": "No separate current Belgium body was found. Moscow Patriarchate bodies in Belgium are already represented under their current diocese."
+    },
+    {
+      "authority": "Orthodox Church of Moldova",
+      "source": "https://mitropolia.md/resurse-ortodoxe/",
+      "result": "The official diaspora resources list no separate Belgium body."
+    },
+    {
+      "authority": "Orthodox Church in Japan",
+      "source": "https://www.orthodoxjapan.jp/",
+      "result": "The official national church directory contains no Belgium body."
+    },
+    {
+      "authority": "Greek Orthodox Patriarchate of Alexandria",
+      "source": "https://www.patriarchateofalexandria.com/archdioceses/?lang=en",
+      "result": "The official dioceses are territorial to Africa and contain no Belgium body."
+    },
+    {
+      "authority": "Greek Orthodox Patriarchate of Jerusalem",
+      "source": "https://en.jerusalem-patriarchate.info/administrative-structure/holy-bishoprics/",
+      "result": "The official administrative directory contains no Belgium body."
+    },
+    {
+      "authority": "Church of Greece",
+      "source": "https://www.ecclesia.gr/greek/dioceses/dioceses.asp",
+      "result": "The official diocesan directory contains no separate Belgium body. Belgium's Greek parishes belong to the Ecumenical Patriarchate."
+    },
+    {
+      "authority": "Church of Cyprus",
+      "source": "https://churchofcyprus.org.cy/",
+      "result": "The official church structure contains no Belgium body."
+    },
+    {
+      "authority": "Church of Sinai",
+      "source": "https://sinaimonastery.com/st-catherine/index.php/en/description/shrines-dependencies",
+      "result": "The official dependencies directory contains no Belgium parish, monastery, metochion, or dependency."
+    }
+  ]
+}
