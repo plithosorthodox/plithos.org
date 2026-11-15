@@ -1,0 +1,97 @@
+{
+  "v": 1,
+  "countries": [
+    "TH"
+  ],
+  "checked": "2026-11-15",
+  "method": "Current official patriarchal, diocesan, and parish directories were used to establish Thai bodies. Search engines and maps were used only to discover first-party sources. No body was inferred from aggregate counts, clergy visits, or an unofficial listing.",
+  "published_summary": {
+    "ru-thailand": 10,
+    "total": 10
+  },
+  "candidates": [
+    {
+      "candidate_id": "th-ru-unresolved-tenth-parish",
+      "parent": "ru-thailand",
+      "country": "TH",
+      "name": "Unresolved tenth parish of the Diocese of Thailand",
+      "status": "hold for a current named first-party record",
+      "reason": "The current diocesan overview reports ten parishes in Thailand, while the current parish map names nine parishes and one monastic community. The additional parish is not identified and was not inferred.",
+      "sources": [
+        "https://exarchate.asia/en/patriarshij-ekzarhat/eparhii/",
+        "https://exarchate.asia/en/category/map-of-parishes/thailand-diocese-en/"
+      ]
+    },
+    {
+      "candidate_id": "th-ru-unresolved-religious-school",
+      "parent": "ru-thailand",
+      "country": "TH",
+      "name": "Religious school or educational centre of the Diocese of Thailand",
+      "status": "hold for a current named first-party record",
+      "reason": "Official exarchal material reports a religious school in Thailand and current educational activity, but does not provide a current independently named institution and address suitable for a directory row.",
+      "sources": [
+        "https://exarchate.asia/en/patriarshij-ekzarhat/eparhii/",
+        "https://exarchate.asia/en/education/"
+      ]
+    },
+    {
+      "candidate_id": "th-ep-current-named-roster",
+      "parent": "ep-hongkong",
+      "country": "TH",
+      "name": "Current Thai parishes and communities of the Metropolitanate of Hong Kong",
+      "status": "hold for a current enumerated first-party roster",
+      "reason": "The metropolitan site confirms that Thailand is within its jurisdiction, but its public country and community material does not expose a current named Thai roster. No names were inferred from older news, maps, or independent listings.",
+      "sources": [
+        "https://omhksea.org/metropolis-of-hong-kong",
+        "https://omhksea.org/"
+      ]
+    }
+  ],
+  "official_jurisdiction_audit": [
+    {
+      "jurisdiction": "Ecumenical Patriarchate",
+      "sources": [
+        "https://omhksea.org/metropolis-of-hong-kong",
+        "https://omhksea.org/"
+      ],
+      "result": "Thailand is within the Metropolitanate of Hong Kong, but its current site does not expose an enumerated named Thai roster. The unresolved roster remains held rather than inferred."
+    },
+    {
+      "jurisdiction": "Moscow Patriarchate",
+      "sources": [
+        "https://exarchate.asia/en/karta-prihodov/",
+        "https://exarchate.asia/en/category/map-of-parishes/thailand-diocese-en/",
+        "https://exarchate.asia/en/patriarshij-ekzarhat/eparhii/"
+      ],
+      "result": "The current exarchal directory names nine parishes and one monastic community in Thailand. All ten named bodies are published, while the aggregate count discrepancy and unnamed school remain held."
+    },
+    {
+      "jurisdiction": "Romanian Patriarchate",
+      "sources": [
+        "https://patriarhia.ro/organizarea-bisericii-ortodoxe-romane/reprezentante-si-comunitati-externe/"
+      ],
+      "result": "The current official external communities directory was checked and did not name a Thai body. This records the bounded audit result, not a claim that a body could never exist."
+    },
+    {
+      "jurisdiction": "Serbian Patriarchate",
+      "sources": [
+        "https://www.spc.rs/en/96.dioceses-of-the-soc.html"
+      ],
+      "result": "The current official diocesan and linked diaspora material was checked and did not name a Thai body. This records the bounded audit result, not a claim that a body could never exist."
+    },
+    {
+      "jurisdiction": "Russian Orthodox Church Outside of Russia",
+      "sources": [
+        "https://directory.synod.com/listings/"
+      ],
+      "result": "The current official clergy and parish directory was checked and did not name a Thai body. This records the bounded audit result, not a claim that a body could never exist."
+    },
+    {
+      "jurisdiction": "Antiochian Patriarchate",
+      "sources": [
+        "https://www.antiochpatriarchate.org/en/category/dioceses/6/"
+      ],
+      "result": "The current official diocesan material was checked and did not name a Thai body. This records the bounded audit result, not a claim that a body could never exist."
+    }
+  ]
+}
