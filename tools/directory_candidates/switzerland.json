@@ -1,0 +1,267 @@
+{
+  "v": 1,
+  "countries": [
+    "CH"
+  ],
+  "checked": "2026-11-14",
+  "method": "Current official patriarchal, diocesan, parish, mission, and monastery sources were checked. The authorized private Swiss directory and search results were used for discovery and current practical details, but not as the sole proof of a body's canonical parent. Overlapping jurisdictions were preserved neutrally.",
+  "published_summary": {
+    "bg-western-central-europe": 2,
+    "ep-switzerland": 14,
+    "ge-western-europe": 2,
+    "mk-europe": 3,
+    "ro-western-europe": 17,
+    "ru-great-britain-and-western-europe-rocor": 11,
+    "ru-korsun": 7,
+    "russia": 1,
+    "sr-switzerland": 13,
+    "ukraine-uoc": 5,
+    "total": 75
+  },
+  "spine_row_proposals": [
+    {
+      "id": "ge-western-europe",
+      "parent": "georgia",
+      "kind": "diocese",
+      "rank": "Eparchy",
+      "name": "Eparchy of Western Europe",
+      "local": "დასავლეთ ევროპის ეპარქია",
+      "seat": "Paris",
+      "country": "FR",
+      "site": "https://www.facebook.com/weudiocese.georgia",
+      "checked": "2026-11-14",
+      "sources": [
+        "https://patriarchate.ge/sinodi/members/all",
+        "https://www.facebook.com/weudiocese.georgia",
+        "https://orthodoxcanada.ca/Patriarch_Ilia_II_%28Ghudushauri-Shiolashvili%29"
+      ],
+      "cite": [
+        "https://patriarchate.ge/sinodi/members/all",
+        "https://www.facebook.com/weudiocese.georgia",
+        "https://orthodoxcanada.ca/Patriarch_Ilia_II_%28Ghudushauri-Shiolashvili%29"
+      ],
+      "reason": "The Georgian Patriarchate's current Holy Synod member record names the Eparchy of Western Europe and explicitly includes Switzerland in its territory. The official eparchy page supplies the current eparchy name and public presence. This parent is required to preserve the official immediate hierarchy of the Bern and Zurich Saint Nino parishes."
+    }
+  ],
+  "candidates": [
+    {
+      "candidate_id": "ch-an-bellevue-resurrection",
+      "name": "Arabic-Speaking Resurrection Orthodox Parish in Bellevue",
+      "status": "hold for official Antiochian confirmation",
+      "reason": "The current authorized Swiss directory identifies the parish, its Bellevue worship site, and its Antiochian metropolitan. No current official patriarchal, diocesan, or parish source establishing the body was located, so the directory page is retained for verification rather than used alone for publication.",
+      "sources": [
+        "https://orthodoxie.ch/p/geneve-arabe/",
+        "https://antiochpatriarchate.org/en/page/3011/"
+      ]
+    },
+    {
+      "candidate_id": "ch-ep-lausanne-francophone-group",
+      "name": "Lausanne Francophone Orthodox Group",
+      "status": "hold for current separate-body confirmation",
+      "reason": "The authorized Swiss directory gives a current worship location, but the Ecumenical Patriarchate's official Metropolis of Switzerland list does not name the group as a parish, mission, chapel, or separate worship site. Saint Gerasimos Parish is published; this group waits for official confirmation of its current status.",
+      "sources": [
+        "https://orthodoxie.ch/p/lausanne-groupe-orthodoxe-francophone/",
+        "https://ec-patr.org/entities/iera-mitropoli-elvetias/"
+      ]
+    },
+    {
+      "candidate_id": "ch-ep-zurich-romanian-language-community",
+      "name": "Romanian-Language Orthodox Community in Zurich",
+      "status": "hold for current separate-body confirmation",
+      "reason": "The authorized Swiss directory lists the community under the Ecumenical Patriarchate, but it does not appear in the current official Metropolis of Switzerland parish list. The official Magenwil Romanian-speaking parish and Romanian Patriarchate parish in Zurich are separately published and are not treated as substitutes.",
+      "sources": [
+        "https://orthodoxie.ch/de/deutsch/verzeichnis/zurich-orthodoxe-gemeinde-rumaenische-sprache/",
+        "https://ec-patr.org/entities/iera-mitropoli-elvetias/"
+      ]
+    },
+    {
+      "candidate_id": "ch-ru-biel-all-swiss-saints",
+      "name": "All Saints of Helvetia Orthodox Community in Biel",
+      "status": "hold for current official diocesan confirmation and worship location",
+      "reason": "The current authorized Swiss directory identifies the Korsun community but reports that it is seeking a new worship location. It is absent from the current official Korsun worship-place pages located during this audit. It remains a candidate until the diocese or community publishes its present status.",
+      "sources": [
+        "https://orthodoxie.ch/p/bienne-orthodoxe-russe/",
+        "https://www.egliserusse.eu/Paroisses-et-communautes-en-Suisse_r30.html"
+      ]
+    },
+    {
+      "candidate_id": "ch-uoc-laufen-joy-consolation",
+      "name": "Joy and Consolation Icon of the Mother of God Ukrainian Orthodox Parish in Laufen",
+      "status": "hold for current official UOC confirmation",
+      "reason": "The authorized Swiss directory lists the Laufen parish, but it was not found in the official UOC Switzerland reports or the current official Swiss UOC parish pages. It is not merged into the Bern parish without evidence.",
+      "sources": [
+        "https://orthodoxie.ch/de/deutsch/verzeichnis/laufen-pfarrei-zu-ehren-der-gottesmutter-freude-und-trost/",
+        "https://uoc-news.church/2023/05/03/keruyuchij-parafiyami-upc-zakordonom-vidvidav-ukrajinski-cerkovni-gromadi-u-shvejcariji/"
+      ]
+    },
+    {
+      "candidate_id": "ch-uoc-neuchatel-mission-centre",
+      "name": "Ukrainian Orthodox Missionary Centre in Neuchatel",
+      "status": "hold for current confirmation",
+      "reason": "An official 2023 UOC report names a missionary centre in Neuchatel. The current Swiss UOC parish page now names Bern, Biel, Thun, Fribourg, and Zurich, but not Neuchatel. The historical report is preserved without presenting the centre as current.",
+      "sources": [
+        "https://uoc-news.church/2023/05/03/keruyuchij-parafiyami-upc-zakordonom-vidvidav-ukrajinski-cerkovni-gromadi-u-shvejcariji/",
+        "https://www.ukraine-orthodox.ch/en/"
+      ]
+    }
+  ],
+  "historical_or_superseded": [
+    {
+      "name": "Earlier Zurich Resurrection Church address",
+      "status": "address superseded",
+      "reason": "The older official Korsun page records Narzissenstrasse 10. The parish remains current and is published, but its own current site should be checked before any future address revision.",
+      "sources": [
+        "https://www.egliserusse.eu/Paroisses-et-communautes-en-Suisse_r30.html",
+        "https://patriarchia.ru/en/document/120725"
+      ]
+    },
+    {
+      "name": "Neuchatel Ukrainian Orthodox missionary centre",
+      "status": "officially reported in 2023 but absent from the current parish location list",
+      "reason": "Retained as a candidate rather than published as a current body.",
+      "sources": [
+        "https://uoc-news.church/2023/05/03/keruyuchij-parafiyami-upc-zakordonom-vidvidav-ukrajinski-cerkovni-gromadi-u-shvejcariji/",
+        "https://www.ukraine-orthodox.ch/en/"
+      ]
+    }
+  ],
+  "official_jurisdiction_audit": [
+    {
+      "jurisdiction": "Ecumenical Patriarchate, Metropolis of Switzerland",
+      "result": "thirteen current Swiss parishes plus one recurring winter worship site published; the Liechtenstein community already assigned to this parent is not duplicated",
+      "source": "https://ec-patr.org/entities/iera-mitropoli-elvetias/"
+    },
+    {
+      "jurisdiction": "Patriarchate of Alexandria",
+      "result": "no Swiss parish, mission, monastery, chapel, metochion, or recurring worship site found in the official territorial structure",
+      "source": "https://www.patriarchateofalexandria.com/archdioceses/?lang=en"
+    },
+    {
+      "jurisdiction": "Patriarchate of Antioch",
+      "result": "the Bellevue Resurrection parish remains a candidate because only the authorized private Swiss directory was located",
+      "source": "https://antiochpatriarchate.org/en/page/3011/"
+    },
+    {
+      "jurisdiction": "Patriarchate of Jerusalem",
+      "result": "no Swiss body appears in the official administrative structure",
+      "source": "https://en.jerusalem-patriarchate.info/administrative-structure/holy-bishoprics/"
+    },
+    {
+      "jurisdiction": "Russian Orthodox Church, Korsun Diocese and patriarchal stavropegion",
+      "result": "seven Korsun parishes, communities, chapels, and monasteries plus the Geneva patriarchal stavropegion published; Biel held for current confirmation",
+      "sources": [
+        "https://patriarchia.ru/ua/church/orgs/eparchy/org/150",
+        "https://patriarchia.ru/church/orgs/exarchates/org/543",
+        "https://www.egliserusse.eu/Lieux-de-culte_r2.html"
+      ]
+    },
+    {
+      "jurisdiction": "Russian Orthodox Church Outside Russia, Diocese of Great Britain and Western Europe",
+      "result": "eleven current Swiss churches, missions, and recurring worship sites published from the 2026 official diocesan directory",
+      "source": "https://orthodox-europe.org/wp-content/uploads/2025/12/2026-Diocese-of-GB-and-W-Europe-Directory-PDF.pdf"
+    },
+    {
+      "jurisdiction": "Archdiocese of Orthodox Churches of Russian Tradition in Western Europe",
+      "result": "no Swiss body appears in the current official parish directory",
+      "source": "https://archeveche.eu/lieux/"
+    },
+    {
+      "jurisdiction": "Serbian Orthodox Church, Eparchy of Switzerland",
+      "result": "thirteen Swiss parishes, communities, and recurring worship sites published; Liechtenstein bodies are not duplicated",
+      "source": "https://spc.rs/sr/news/iz-zivota-crkve/-/14168.bratski-sastanak-svestenstva-eparhije-svajcarske.html"
+    },
+    {
+      "jurisdiction": "Romanian Orthodox Metropolis of Western and Southern Europe",
+      "result": "fifteen parishes, one monastery, and one separately documented recurring chapel published",
+      "sources": [
+        "https://www.mitropolia.eu/ro/site/172/",
+        "https://www.mitropolia.eu/ro/site/351/"
+      ]
+    },
+    {
+      "jurisdiction": "Bulgarian Orthodox Diocese of Western and Central Europe",
+      "result": "Geneva and Zurich church communities published from current official patriarchal reports",
+      "source": "https://bg-patriarshia.bg/west-eu-diocese-temples"
+    },
+    {
+      "jurisdiction": "Georgian Orthodox Church, Diocese of Western Europe",
+      "result": "a ge-western-europe spine-row proposal is supplied and the current Bern and Zurich Saint Nino parishes are published beneath it",
+      "sources": [
+        "https://patriarchate.ge/sinodi/members/all",
+        "https://www.facebook.com/weudiocese.georgia"
+      ]
+    },
+    {
+      "jurisdiction": "Church of Cyprus",
+      "result": "no Swiss body appears in the official structure",
+      "source": "https://churchofcyprus.org.cy/diikitiki_diathrosi"
+    },
+    {
+      "jurisdiction": "Church of Greece",
+      "result": "no separately governed Swiss body found; Greek-speaking Swiss parishes are published under the Ecumenical Patriarchate",
+      "source": "https://www.ecclesia.gr/greek/dioceses/dioceses.asp"
+    },
+    {
+      "jurisdiction": "Polish Autocephalous Orthodox Church",
+      "result": "no Swiss body appears in the official administration directory",
+      "source": "https://www.orthodox.pl/administracja/"
+    },
+    {
+      "jurisdiction": "Orthodox Autocephalous Church of Albania",
+      "result": "no Swiss body appears in the official organization",
+      "source": "https://orthodoxalbania.org/2026/en/church-organization-2026/"
+    },
+    {
+      "jurisdiction": "Orthodox Church of the Czech Lands and Slovakia",
+      "result": "no Swiss body appears in the official schematism",
+      "source": "https://orthodox.sk/schematizmus/pravoslavna-eparchia/"
+    },
+    {
+      "jurisdiction": "Orthodox Church in America",
+      "result": "no Swiss body appears in the official parish directory",
+      "source": "https://www.oca.org/parishes"
+    },
+    {
+      "jurisdiction": "Orthodox Church of Finland",
+      "result": "no Swiss body appears in the official church structure",
+      "source": "https://ort.fi/en/finnish-orthodox-church/"
+    },
+    {
+      "jurisdiction": "Apostolic Orthodox Church of Estonia",
+      "result": "no Swiss body appears in the official structure",
+      "source": "https://www.eoc.ee/fr/eglise-orthodoxe-destonie/structure/"
+    },
+    {
+      "jurisdiction": "Orthodox Church in Japan",
+      "result": "no Swiss body appears in the official national church material checked",
+      "source": "https://www.orthodoxjapan.jp/"
+    },
+    {
+      "jurisdiction": "Macedonian Orthodox Church, European Diocese",
+      "result": "Lausanne, Triengen, and Locarno church communities published",
+      "sources": [
+        "https://mpee.mk/category/juzno-evropsko-namesnistvo-2",
+        "https://mpee.mk/?page=9"
+      ]
+    },
+    {
+      "jurisdiction": "Ukrainian Orthodox Church, Western European Vicariate",
+      "result": "Bern and Zurich parishes plus current Bern parish worship sites in Biel, Thun, and Fribourg published; Laufen and Neuchatel retained for verification",
+      "sources": [
+        "https://www.ukraine-orthodox.ch/en/",
+        "https://www.ukrhram.com/",
+        "https://uoc-news.church/2023/05/03/keruyuchij-parafiyami-upc-zakordonom-vidvidav-ukrajinski-cerkovni-gromadi-u-shvejcariji/"
+      ]
+    },
+    {
+      "jurisdiction": "Orthodox Church of Ukraine",
+      "result": "no current official OCU source establishes a Swiss parish, mission, monastery, chapel, metochion, or recurring worship site",
+      "source": "https://www.pomisna.info/uk/tserkva/synodalni-ustanovy/"
+    },
+    {
+      "jurisdiction": "Church of Sinai",
+      "result": "no Swiss dependency or body appears in the official monastery material",
+      "source": "https://sinaimonastery.com/st-catherine/index.php/en/description/shrines-dependencies"
+    }
+  ]
+}

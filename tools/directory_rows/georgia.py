@@ -48,7 +48,7 @@ reads the other way about, as do Ninotsminda and Sagarejo, Kutais-Gaenati is
 now Kutaisi and Gaenati, and Khujabi is now Hujabi. The Patriarchate's
 spelling is the one written.
 
-TWO EPARCHIES ABROAD ARE HERE NOW, and the third is not. The Patriarchate's
+THREE EPARCHIES ABROAD ARE HERE NOW. The Patriarchate's
 list of eparchies holds only the forty-two in Georgia, but the page of the
 Holy Synod carries, under each hierarch, the address he answers at and the
 territory his eparchy covers, and for two of the three abroad it gives a
@@ -56,14 +56,10 @@ street. Belgium and Holland answers at Rue Gendebien in Brussels and covers
 Belgium and Holland; North America is styled an exarchate there rather than
 an eparchy, covers the United States and Canada, and answers at Ashley in
 Pennsylvania. Both are written, and the name each carries is the Synod
-page's own. This fills the gap docs/DIRECTORY.md left open for the Georgian
-body in North America, which was deferred for want of an address.
-
-The Western European eparchy is still deferred, and now for a reason that
-can be stated exactly: the Synod page gives its territory - Spain, Italy,
-Portugal, Malta, France and Switzerland - and no street in any of them, and
-the telephones beside it are Georgian. A row needs a country, and a see
-spread over six with no seat published cannot name one.
+page's own. A later Switzerland audit located the Western European eparchy's
+current public page and history beside the Synod record that names its
+territory, so its Paris seat and the Swiss parishes beneath it can now be
+published without inventing a country for the eparchy.
 
 WHAT ELSE THAT SYNOD PAGE HOLDS, and what it would cost to use it. It prints
 under each hierarch the postal address, the territory in municipalities, the
@@ -91,11 +87,11 @@ Dmanisi and Agarak-Tashiri eparchy also holds Great Britain and Ireland,
 with a cathedra in London, and the Akhalkalaki metropolitan is given Kars as
 well. The list is what is published as the list, and the rows follow it.
 
-ONE EPARCHY HAS A SITE OF ITS OWN that answered here, Kutaisi and Gaenati,
-and it carries the link. The addresses orthodoxy.ge lists for diocesan sites
-are of 2019 and most of the domains are gone: Batumi, Khoni, Ruisi and
-Urbnisi, Poti and the Western European eparchy all fail to resolve, and the
-one at shemoqmedi.ge answers with an empty page. None of them is published.
+TWO EPARCHIES HAVE A CURRENT PUBLIC PAGE that answered here: Kutaisi and
+Gaenati, and Western Europe. Both carry the link. The addresses orthodoxy.ge
+lists for other diocesan sites are of 2019 and most of the domains are gone:
+Batumi, Khoni, Ruisi and Urbnisi, and Poti all fail to resolve, and the one
+at shemoqmedi.ge answers with an empty page. None of them is published.
 
 
 RANK, ADDED 14 SEPTEMBER 2026. Every row here already carried the Church's own
@@ -408,10 +404,20 @@ ROWS = [
       sources=[GE, ORTH]),
 
 
- # The two abroad, from the Patriarchate's page of its Holy Synod, which is
- # where it publishes the address of each. Neither is on the list of
- # eparchies, which holds only the sees in Georgia, and neither publishes a
- # site of its own that answered here.
+ # The three abroad, from the Patriarchate's page of its Holy Synod. The
+ # Western European eparchy's own public page supplies its current name and
+ # public presence, and the Synod record identifies its territory.
+ dict(id="ge-western-europe", parent="georgia",
+      name="Eparchy of Western Europe",
+      rank="Eparchy",
+      local=u"დასავლეთ ევროპის ეპარქია",
+      seat="Paris", country="FR",
+      site="https://www.facebook.com/weudiocese.georgia",
+      checked="2026-11-14",
+      sources=[SYNOD,
+               "https://www.facebook.com/weudiocese.georgia",
+               "https://orthodoxcanada.ca/Patriarch_Ilia_II_%28Ghudushauri-Shiolashvili%29"]),
+
  dict(id="ge-belgium-holland", parent="georgia",
       name="Eparchy of Belgium and Holland",
       rank="Eparchy",

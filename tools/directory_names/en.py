@@ -930,6 +930,7 @@ NAMES = {
     "ru-jerusalem-mission-rocor": u"Russian Ecclesiastical Mission in Jerusalem (ROCOR)",
     # -- names: georgia-uoc
     "ge-belgium-holland": u"Eparchy of Belgium and Holland",
+    "ge-western-europe": u"Eparchy of Western Europe",
     "ge-north-america": u"Exarchate of North America",
     # -- names: smaller
     "mk-america-canada": u"Diocese of America and Canada",
@@ -1166,6 +1167,10 @@ del _NETHERLANDS_NAMES
 from directory_belgium import ENGLISH_NAMES as _BELGIUM_NAMES
 NAMES.update(_BELGIUM_NAMES)
 del _BELGIUM_NAMES
+
+from directory_switzerland import ENGLISH_NAMES as _SWITZERLAND_NAMES
+NAMES.update(_SWITZERLAND_NAMES)
+del _SWITZERLAND_NAMES
 
 SEATS = {
     "Istanbul": u"Istanbul",
