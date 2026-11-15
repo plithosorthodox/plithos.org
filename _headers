@@ -382,6 +382,9 @@
 /data/directory.v1.json
   Cache-Control: public, max-age=3600, must-revalidate
 
+/data/directory/*
+  Cache-Control: public, max-age=3600, must-revalidate
+
 /data/directory-i18n.v1.json
   Cache-Control: public, max-age=3600, must-revalidate
 

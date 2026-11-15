@@ -23,6 +23,7 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 import directory_rows
+import directory_finland
 
 ROOT = Path(__file__).resolve().parent.parent
 OUT = ROOT / "data" / "directory.v1.json"
@@ -758,7 +759,7 @@ def sources_of(r):
     return v
 
 
-def build():
+def build(branch_payloads=None):
     # The Churches read after the spine live in directory_rows/_churches.py,
     # and their dioceses in a file named for each, the same as every other
     # Church. A row that carries its own reading date keeps it: rows read
@@ -794,7 +795,7 @@ def build():
     for c in sorted(every, key=lambda r: (order.get(church_of(r["id"]), 99),
                                           r["name"])):
         r = {k: v for k, v in c.items() if v not in (None, "", [])}
-        r["kind"] = "diocese"
+        r.setdefault("kind", "diocese")
         r.setdefault("checked", READ)
         if r["parent"] not in order and r["parent"] not in kin:
             raise SystemExit("%s hangs off nobody: %s"
@@ -958,7 +959,10 @@ def build():
             raise SystemExit("%s: site_of names nobody: %s"
                              % (r["id"], r["site_of"]))
         r.pop("mine", None)
-    return {"v": 1, "read": READ, "countries": COUNTRIES, "rows": rows}
+    branch_payloads = branch_payloads or directory_finland.build()
+    return {"v": 1, "read": READ, "countries": COUNTRIES,
+            "branches": directory_finland.manifest(branch_payloads),
+            "rows": rows}
 
 
 def main():
@@ -966,10 +970,12 @@ def main():
     ap.add_argument("--write", action="store_true")
     ap.add_argument("--check", action="store_true")
     a = ap.parse_args()
-    d = build()
+    branch_payloads = directory_finland.build()
+    d = build(branch_payloads)
     text = json.dumps(d, ensure_ascii=False, separators=(",", ":"))
     if a.write:
         OUT.write_text(text, encoding="utf-8")
+        directory_finland.write(branch_payloads)
         print("wrote %s  (%d rows, %d countries, %d KB)"
               % (OUT.relative_to(ROOT), len(d["rows"]), len(d["countries"]),
                  len(text.encode("utf-8")) // 1024 or 1))
@@ -977,6 +983,11 @@ def main():
     have = OUT.read_text(encoding="utf-8") if OUT.exists() else ""
     if have != text:
         print("data/directory.v1.json is out of date", file=sys.stderr)
+        return 1
+    branch_errors = directory_finland.problems(branch_payloads)
+    if branch_errors:
+        for error in branch_errors:
+            print(error, file=sys.stderr)
         return 1
     print("%d rows, %d countries, all sourced and dated"
           % (len(d["rows"]), len(d["countries"])))
