@@ -1,0 +1,186 @@
+{
+  "v": 1,
+  "countries": [
+    "GR"
+  ],
+  "checked": "2026-11-15",
+  "method": "Publish the exact 97 legal parish bodies, reconcile them against the 96 parish rows in the current first-party clergy and telephone roster, and retain the newer current parish dedication where that roster differs. Add the five bodies explicitly listed by the current Metropolis as active monasteries, exact current dependencies from the Metropolis and Church of Greece, and separately established current churches and chapels from exact first-party pages. Preserve every public body-associated phone, including clergy-linked and mobile routes, without retaining clergy names or propagating central Metropolis contacts. Hold former monasteries, historical-only bodies, blank or map-only leads, unnamed aggregates, and canonically or currently ambiguous bodies.",
+  "published_summary": {
+    "gr-karpenision": 111,
+    "total": 111,
+    "exact_current_parishes": 97,
+    "exact_current_monasteries": 5,
+    "exact_current_monastic_dependencies": 4,
+    "exact_current_other_churches_and_chapels": 5,
+    "parish_kind_rows": 102,
+    "monastery_kind_rows": 9,
+    "contact_bodies": 82,
+    "phone_bodies": 79,
+    "public_phone_values": 124,
+    "email_bodies": 0,
+    "public_email_values": 0,
+    "official_detail_sites": 7,
+    "address_bodies": 111
+  },
+  "candidates": [
+    {
+      "candidate_id": "gr-karpenision-former-monasteries",
+      "parent": "gr-karpenision",
+      "country": "GR",
+      "category": "historical-non-current",
+      "status": "held",
+      "reason": "The current Metropolis site separately labels seven bodies as former monasteries: Saint Paraskevi at Vrangiana, Holy Trinity at Parkio, Holy Trinity at Petralona, Saint Athanasius at Vasilesi Prasias, Saint Demetrius at Lepiana, Saint John the Forerunner at Prodromos Prasias, and Saint John the Forerunner at Neo Argyri. None is published as a current monastic institution solely from its historical page.",
+      "sources": [
+        "https://imkarpenisiou.gr/cms/%ce%bc%ce%bf%ce%bd%ce%b1%cf%83%cf%84%ce%ae%cf%81%ce%b9%ce%b1-%ce%b5%ce%bd%ce%b5%cf%81%ce%b3%ce%b5%ce%af%ce%b1-2/"
+      ]
+    },
+    {
+      "candidate_id": "gr-karpenision-faneromeni-tatarnis-historical-body",
+      "parent": "gr-karpenision",
+      "country": "GR",
+      "category": "historical-current-status-unclear",
+      "status": "held",
+      "reason": "The Metropolis publishes a historical page for Panagia Faneromeni Tatarnis at Lefkopotamos, but the body is absent from the site's active monastery roster and from the current Church of Greece profile. It remains held rather than being duplicated with the current Panagia Tatarnis monastery.",
+      "sources": [
+        "https://imkarpenisiou.gr/cms/%e1%bc%a1-%e1%bc%b1%ce%b5%cf%81%e1%bd%b0-%ce%bc%ce%bf%ce%bd%e1%bd%b4-%cf%80%ce%b1%ce%bd%ce%b1%ce%b3%ce%af%ce%b1%cf%82-%cf%84%e1%bf%86%cf%82-%cf%86%ce%b1%ce%bd%ce%b5%cf%81%cf%89%ce%bc%ce%ad%ce%bd%ce%b7/",
+        "https://imkarpenisiou.gr/cms/%ce%bc%ce%bf%ce%bd%ce%b1%cf%83%cf%84%ce%ae%cf%81%ce%b9%ce%b1-%ce%b5%ce%bd%ce%b5%cf%81%ce%b3%ce%b5%ce%af%ce%b1/"
+      ]
+    },
+    {
+      "candidate_id": "gr-karpenision-pilgrimage-map-leads",
+      "parent": "gr-karpenision",
+      "country": "GR",
+      "category": "map-only",
+      "status": "held",
+      "reason": "The current Metropolis menu exposes a pilgrimage map page, but it does not provide a complete textual current roster of exact pilgrimage bodies. No body is created solely from a map point, image, or inferred location.",
+      "sources": [
+        "https://imkarpenisiou.gr/cms/%cf%80%cf%81%ce%bf%cf%83%ce%ba%cf%85%ce%bd%ce%b7%ce%bc%ce%b1%cf%84%ce%b9%ce%ba%cf%8c%cf%82-%cf%87%ce%ac%cf%81%cf%84%ce%b7%cf%82/"
+      ]
+    },
+    {
+      "candidate_id": "gr-karpenision-unnamed-chapels-country-churches",
+      "parent": "gr-karpenision",
+      "country": "GR",
+      "category": "roster-incomplete",
+      "status": "held",
+      "reason": "The legal regulation and current clergy roster establish parish bodies but do not enumerate every subordinate chapel, cemetery church, country church, or pilgrimage. Five separately evidenced current churches and chapels are published. Unnamed residual bodies are not inferred from settlement counts, parish totals, event references, or arithmetic.",
+      "sources": [
+        "https://imkarpenisiou.gr/cms/%CE%B9%CE%B5%CF%81%CE%B5%CE%B9%CF%83-%CF%84%CE%B7%CE%BB%CE%B5%CF%86%CF%89%CE%BD%CE%B1/",
+        "https://ia37rg02wpsa01.blob.core.windows.net/fek/02/2019/20190202148.pdf"
+      ]
+    },
+    {
+      "candidate_id": "gr-karpenision-historical-event-and-monument-leads",
+      "parent": "gr-karpenision",
+      "country": "GR",
+      "category": "ambiguous-current-status",
+      "status": "held",
+      "reason": "Historical narratives, feast notices, restoration references, panoramic material, and event archives can name worship sites without establishing a distinct current body or without distinguishing a chapel from its parish. Such leads remain unpublished unless an exact current competent source resolves the body and parent.",
+      "sources": [
+        "https://imkarpenisiou.gr/cms/",
+        "https://imkarpenisiou.gr/cms/%cf%80%cf%81%ce%bf%cf%83%ce%ba%cf%85%ce%bd%ce%b7%ce%bc%ce%b1%cf%84%ce%b9%ce%ba%cf%8c%cf%82-%cf%87%ce%ac%cf%81%cf%84%ce%b7%cf%82/"
+      ]
+    },
+    {
+      "candidate_id": "gr-karpenision-map-search-contact-leads",
+      "parent": "gr-karpenision",
+      "country": "GR",
+      "category": "discovery-only",
+      "status": "held",
+      "reason": "Map listings, search snippets, commercial directories, and social profiles remain unpublished unless a competent current source establishes the exact body, canonical parent, and body-specific public contact route.",
+      "sources": [
+        "https://imkarpenisiou.gr/cms/",
+        "https://ecclesiagreece.gr/ecclesiajoomla/index.php/el/metropoleis/karpenesiou"
+      ]
+    }
+  ],
+  "source_reconciliations": [
+    {
+      "subject": "Exact legal parish roster and current first-party roster",
+      "decision": "Regulation 738/854/2019 in FEK 2148/B/7-6-2019 establishes 97 exact parish bodies. The current Metropolis clergy and telephone page exposes 96 parish rows and omits Roska. The 96 current rows are published with their present body-associated phones, and the exact legal Roska parish is published without an inferred contact. The four monastic contact rows embedded in the page are not counted as parishes.",
+      "sources": [
+        "https://www.e-nomothesia.gr/kat-ekklesia-thriskeia/kanonismoi-ieras-sunodou/kanonismos-ieras-sunodou-ekklesias-738-854-2019.html",
+        "https://ia37rg02wpsa01.blob.core.windows.net/fek/02/2019/20190202148.pdf",
+        "https://imkarpenisiou.gr/cms/%CE%B9%CE%B5%CF%81%CE%B5%CE%B9%CF%83-%CF%84%CE%B7%CE%BB%CE%B5%CF%86%CF%89%CE%BD%CE%B1/"
+      ]
+    },
+    {
+      "subject": "Domianoi dedication discrepancy",
+      "decision": "The 2019 Gazette gives Dormition of the Theotokos for the Domianoi parish, while the newer current Metropolis roster gives Holy Trinity. The current Holy Trinity parish dedication is published. The separately listed active Dormition of the Theotokos Monastery at Domianoi is published as a distinct monastic body and is not used to overwrite or duplicate the parish.",
+      "sources": [
+        "https://ia37rg02wpsa01.blob.core.windows.net/fek/02/2019/20190202148.pdf",
+        "https://imkarpenisiou.gr/cms/%CE%B9%CE%B5%CF%81%CE%B5%CE%B9%CF%83-%CF%84%CE%B7%CE%BB%CE%B5%CF%86%CF%89%CE%BD%CE%B1/",
+        "https://imkarpenisiou.gr/cms/koimdomianoi/"
+      ]
+    },
+    {
+      "subject": "Current monasteries and dependencies",
+      "decision": "The current Metropolis active-monastery menu exactly names five monasteries and two Tatarnis metochia. The Church of Greece profile independently names Proussos and Tatarnis monasteries, the two Tatarnis metochia, and the Saint Sabbas Kathisma at Tripotamos. A 2026 Metropolis notice establishes Panagia Koumasion as a current metochion of Proussos Monastery. These nine exact current monastic bodies are published without reviving the separately labelled former monasteries.",
+      "sources": [
+        "https://imkarpenisiou.gr/cms/%ce%bc%ce%bf%ce%bd%ce%b1%cf%83%cf%84%ce%ae%cf%81%ce%b9%ce%b1-%ce%b5%ce%bd%ce%b5%cf%81%ce%b3%ce%b5%ce%af%ce%b1/",
+        "https://ecclesiagreece.gr/ecclesiajoomla/index.php/el/metropoleis/karpenesiou",
+        "https://imkarpenisiou.gr/cms/%ce%b1%cf%81%cf%87%ce%b9%ce%b5%cf%81%ce%b1%cf%84%ce%b9%ce%ba%ce%b7-%ce%b8%ce%b5%ce%b9%ce%b1-%ce%bb%ce%b5%ce%b9%cf%84%ce%bf%cf%85%cf%81%ce%b3%ce%b9%ce%b1-%cf%84%ce%bf-%cf%83%ce%b1%ce%b2%ce%b2%ce%b1/"
+      ]
+    },
+    {
+      "subject": "Separately established current churches and chapels",
+      "decision": "Current exact Metropolis notices establish the Archangel Michael cemetery church, Venerable Iakovos Tsalikis metropolitan chapel, Saint Nicholas the Karpenisiot chapel, Saint George church at the old cemetery, and Saint Sabbas the Sanctified chapel. These five bodies are published separately from the legal parishes and monastic dependencies.",
+      "sources": [
+        "https://imkarpenisiou.gr/cms/"
+      ]
+    },
+    {
+      "subject": "Body-specific contacts and sites",
+      "decision": "The current Metropolis roster supplies 114 phone values across 74 parish bodies and five phone values across the two monastery bodies it repeats. The Church of Greece profile adds the Proussos landline and exact routes for the Saint Nectarios and Venerable Mary of Egypt metochia. A current Metropolis notice supplies the Archangel Michael cemetery church mobile route. Seven exact monastery and metochion detail pages are retained as body sites. Personnel names and central Metropolis routes are omitted.",
+      "sources": [
+        "https://imkarpenisiou.gr/cms/%CE%B9%CE%B5%CF%81%CE%B5%CE%B9%CF%83-%CF%84%CE%B7%CE%BB%CE%B5%CF%86%CF%89%CE%BD%CE%B1/",
+        "https://ecclesiagreece.gr/ecclesiajoomla/index.php/el/metropoleis/karpenesiou",
+        "https://imkarpenisiou.gr/cms/%cf%80%cf%81%ce%bf%ce%b3%cf%81%ce%b1%ce%bc%ce%bc%ce%b1-%ce%bb%ce%b5%ce%b9%cf%84%ce%bf%cf%85%cf%81%ce%b3%ce%b9%ce%b1%cf%83-%ce%ba%ce%bf%ce%b9%ce%bc%ce%b7%cf%84%ce%b7%cf%81%ce%b9%ce%b1%ce%ba%ce%bf%cf%85/"
+      ]
+    }
+  ],
+  "official_parent_audit": [
+    {
+      "parent": "gr-karpenision",
+      "result": "111 exact current bodies published: 97 parish churches, five monasteries, four monastic dependencies, and five other current churches or chapels.",
+      "roster_status": "complete exact legal parish roster reconciled to the current 96-row first-party roster; exact current active monasteries and dependencies published; separately evidenced current churches and chapels published; former, historical-only, unnamed, map-only, and ambiguous bodies held",
+      "sources": [
+        "https://imkarpenisiou.gr/cms/",
+        "https://ecclesiagreece.gr/ecclesiajoomla/index.php/el/metropoleis/karpenesiou",
+        "https://ia37rg02wpsa01.blob.core.windows.net/fek/02/2019/20190202148.pdf"
+      ]
+    }
+  ],
+  "exclusions": [
+    {
+      "category": "aggregate-only",
+      "decision": "No parish, monastery, chapel, church, pilgrimage, dependency, or other body is inferred solely from an aggregate count, a settlement list, or an arithmetic difference.",
+      "sources": [
+        "https://ia37rg02wpsa01.blob.core.windows.net/fek/02/2019/20190202148.pdf"
+      ]
+    },
+    {
+      "category": "parent-contact",
+      "decision": "Metropolis office telephone, email, fax, and address values are not copied to subordinate bodies without an explicit body-level association.",
+      "sources": [
+        "https://imkarpenisiou.gr/cms/",
+        "https://ecclesiagreece.gr/ecclesiajoomla/index.php/el/metropoleis/karpenesiou"
+      ]
+    },
+    {
+      "category": "clergy-personnel",
+      "decision": "Officially published telephone routes tied to exact bodies are retained, including routes displayed beside clergy or monastic assignments, while all personnel names are omitted.",
+      "sources": [
+        "https://imkarpenisiou.gr/cms/%CE%B9%CE%B5%CF%81%CE%B5%CE%B9%CF%83-%CF%84%CE%B7%CE%BB%CE%B5%CF%86%CF%89%CE%BD%CE%B1/"
+      ]
+    },
+    {
+      "category": "historical-map-and-stale",
+      "decision": "Former institutions, historical monuments, ruins, planned bodies, stale references, map-only results, and search-only leads remain unpublished unless a current competent source establishes the exact present body and canonical parent.",
+      "sources": [
+        "https://imkarpenisiou.gr/cms/%ce%bc%ce%bf%ce%bd%ce%b1%cf%83%cf%84%ce%ae%cf%81%ce%b9%ce%b1-%ce%b5%ce%bd%ce%b5%cf%81%ce%b3%ce%b5%ce%af%ce%b1-2/",
+        "https://imkarpenisiou.gr/cms/%cf%80%cf%81%ce%bf%cf%83%ce%ba%cf%85%ce%bd%ce%b7%ce%bc%ce%b1%cf%84%ce%b9%ce%ba%cf%8c%cf%82-%cf%87%ce%ac%cf%81%cf%84%ce%b7%cf%82/"
+      ]
+    }
+  ]
+}
