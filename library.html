@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<meta charset="utf-8"><meta name="plithos-build" content="2026-11-14w">
+<meta charset="utf-8"><meta name="plithos-build" content="2026-11-14x">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Plithos: Orthodox Library of the Fathers and Scripture</title>
 <meta name="description" content="The Orthodox Library: the writings of the Holy Fathers and Holy Scripture, read whole - the Apostolic Fathers, the councils and their canons, the ascetic and dogmatic works, and the books of the Old and New Testaments.">
@@ -1174,6 +1174,7 @@ function loadCatalogI18n(lang){
   return p;
 }
 var EN_CATALOG_TITLES={
+  "akathist-ambrose-optina-sr":"Akathist to St Ambrose of Optina",
   "akathist-athanasius-athos-cu":"Akathist to St Athanasius of Athos, the Wonderworker",
   "akathist-kazan-icon-cu":"Akathist before the Wonderworking Kazan Icon of the Most Holy Theotokos",
   "great-euchologion-1869-el":"Great Euchologion"
@@ -1943,12 +1944,16 @@ function akathistGroupTitle(e){
   var w=preferredEdition(e)||e.w,t=catalogTitle(w)||e.title||"";
   return t.replace(/\s*\([^)]*\)\s*$/,"").trim();
 }
+function akathistGroupLabel(e){
+  var detail=e.langs.length>1?e.langs.length+" "+tr("langsWord"):langName(e.langs[0]||"en");
+  return akathistGroupTitle(e)+" ("+detail+")";
+}
 function renderAkathistSection(){
   var cat=document.getElementById("catalog"),entries=shelf().filter(function(e){return isAkathist(e.w);});
   entries=entries.filter(function(e){return e.editions.some(passesWork);}).sort(function(a,b){return akathistGroupTitle(a).localeCompare(akathistGroupTitle(b));});
   var html="",items=[];
   entries.forEach(function(e){
-    var w=preferredEdition(e)||e.w,title=akathistGroupTitle(e),label=title+(e.langs.length>1?" ("+e.langs.length+" "+tr("langsWord")+")":"");
+    var w=preferredEdition(e)||e.w,title=akathistGroupTitle(e),label=akathistGroupLabel(e);
     html+='<button class="work" data-id="'+esc(w.work_id)+'"><div class="wt">'+esc(title)+'</div><div class="wa">'+esc(catalogAuthor(w))+' · '+esc(e.langs.map(langName).join(", "))+'</div></button>';
     items.push({value:"k:"+e.key,label:label,open:function(){var pick=preferredEdition(e)||e.w;if(pick)openWork(pick.work_id);}});
   });
