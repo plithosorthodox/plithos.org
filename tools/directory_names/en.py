@@ -1229,6 +1229,10 @@ from directory_albania import ENGLISH_NAMES as _ALBANIA_NAMES
 NAMES.update(_ALBANIA_NAMES)
 del _ALBANIA_NAMES
 
+from directory_bosnia_montenegro import ENGLISH_NAMES as _BOSNIA_MONTENEGRO_NAMES
+NAMES.update(_BOSNIA_MONTENEGRO_NAMES)
+del _BOSNIA_MONTENEGRO_NAMES
+
 SEATS = {
     "Istanbul": u"Istanbul",
     "Alexandria": u"Alexandria",

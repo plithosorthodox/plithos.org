@@ -1,0 +1,271 @@
+{
+  "v": 1,
+  "countries": [
+    "BA",
+    "ME"
+  ],
+  "checked": "2026-11-15",
+  "method": "Current official Church, diocesan, deanery, parish, monastery, and foreign-community rosters establish published rows. Search engines and maps were used only to discover possible sources. Unnamed, unenumerated, historical, destroyed, noncanonical, conflicting, and insufficiently sourced bodies remain here. Overlapping canonical Serbian diocesan claims are preserved neutrally.",
+  "published_summary": {
+    "sr-banja-luka": 8,
+    "sr-bihac-petrovac": 164,
+    "sr-budimlja-niksic": 77,
+    "sr-dabar-bosna": 8,
+    "sr-milesevo": 19,
+    "sr-montenegro-littoral": 189,
+    "sr-zahumlje-herzegovina": 30,
+    "sr-zvornik-tuzla": 611,
+    "BA": 816,
+    "ME": 290,
+    "total": 1106
+  },
+  "candidates": [
+    {
+      "candidate_id": "ba-sr-banja-luka-current-parish-roster",
+      "parent": "sr-banja-luka",
+      "country": "BA",
+      "name": "Current Banja Luka parish and temple roster",
+      "status": "hold for current enumerated first-party roster",
+      "reason": "Official Serbian Church sources confirm eight current monasteries, including current individual evidence for Milosevac and Karanovac, but no current public first-party page enumerating the eparchy's parishes, parish churches, filial churches, chapels, and recurring worship sites was located. Older schematisms and secondary summaries are discovery evidence only.",
+      "sources": [
+        "https://spc.rs/sr/news/517.sakralna-arhitektura-banjalucke-eparhije.html",
+        "https://www.spc.rs/sr/news/iz-medija/16756.praznik-u-manastiru-milosevac.html",
+        "https://spc.rs/sr/news/iz-zivota-crkve/-/14708.osvecenje-manastirske-kapele-uspenja-presvete-bogorodice-u-manastiru-karanovcu.html"
+      ]
+    },
+    {
+      "candidate_id": "ba-sr-dabar-bosna-99-parishes",
+      "parent": "sr-dabar-bosna",
+      "country": "BA",
+      "name": "Ninety-nine Dabar-Bosna parishes and their filial sites",
+      "status": "hold for accessible current enumerated roster",
+      "reason": "The Metropolitanate's official schematism announcement states that six deaneries contain 99 parishes and that the schematism enumerates their parish and filial churches. The public website does not expose that current parish list, so names were not reconstructed from news or secondary directories.",
+      "sources": [
+        "https://www.mitropolijadabrobosanska.org/vijest1887.html",
+        "https://www.mitropolijadabrobosanska.org/manastiri.html"
+      ]
+    },
+    {
+      "candidate_id": "ba-sr-zahumlje-incomplete-public-roster",
+      "parent": "sr-zahumlje-herzegovina",
+      "country": "BA",
+      "name": "Unlisted Bosnia and Herzegovina parishes and temples of Zahumlje-Herzegovina",
+      "status": "hold for complete first-party roster",
+      "reason": "The official parish surface currently exposes 17 Bosnia and Herzegovina parish categories and eight monastery entries, while the eparchy's official history states that the full territory contains 34 parishes. The public roster does not enumerate the remaining parishes or the churches attached to them. Only the individually exposed bodies were published.",
+      "sources": [
+        "https://eparhija-zahumskohercegovacka.org/parohije/",
+        "https://eparhija-zahumskohercegovacka.org/istorija/",
+        "https://eparhija-zahumskohercegovacka.org/parohije/arhijerejsko-namjesnistvo-trebinjsko-dubrovacko/"
+      ]
+    },
+    {
+      "candidate_id": "ba-sr-bihac-roster-address-reconciliation",
+      "parent": "sr-bihac-petrovac",
+      "country": "BA",
+      "name": "Bihac-Petrovac roster and address-book mismatch",
+      "status": "published official-source union with unresolved temple details",
+      "reason": "The detailed deanery page exposes 36 parish entries and their temples but is visibly incomplete in the Kljuc and Sipovo tabs. The current address book names 38 unique clergy assignments, including parishes absent from the detailed page. Fifty-seven parish rows are the neutral union after matching seventeen grammatical or reordered aliases. Current-only parishes remain without temple-level expansion until the eparchy publishes their details.",
+      "sources": [
+        "https://www.eparhijabihackopetrovacka.org/eparhija/arhijerejska-namjesnistva/",
+        "https://www.eparhijabihackopetrovacka.org/adresar/"
+      ]
+    },
+    {
+      "candidate_id": "ba-sr-zvornik-tuzla-unnamed-brcko-filial",
+      "parent": "sr-zvornik-tuzla",
+      "country": "BA",
+      "name": "Unnamed filial church of the third Brcko Serbian Town parish",
+      "status": "hold for a name or dedication",
+      "reason": "The current official parish page contains a filial-church heading without a place or dedication. Publishing a guessed identity would create a false body.",
+      "sources": [
+        "https://www.eparhijazt.com/sr/89.brcko-srpska-varosnbsp3-parohija.html"
+      ]
+    },
+    {
+      "candidate_id": "ba-sr-zvornik-tuzla-roster-count-drift",
+      "parent": "sr-zvornik-tuzla",
+      "country": "BA",
+      "name": "Zvornik-Tuzla deanery aggregate-count drift",
+      "status": "published current linked roster",
+      "reason": "The nine current deanery pages expose 214 linked parish entries, while several introductory totals still describe the 2013 regulation and sum to fewer parishes. The individually linked current entries control. Source-key aliases reconcile shared principal churches whose headings vary by parish, and reference-only filial labels are not emitted as additional physical bodies.",
+      "sources": [
+        "https://www.eparhijazt.com/sr/1477.eparhija.html",
+        "https://www.eparhijazt.com/sr/39.arhijerejsko-namjesnistvo-bijeljinsko.html",
+        "https://www.eparhijazt.com/sr/330.arhijerejsko-namjesnistvo-tuzlansko.html"
+      ]
+    },
+    {
+      "candidate_id": "me-sr-mcl-katun-nahija-parishes",
+      "parent": "sr-montenegro-littoral",
+      "country": "ME",
+      "name": "Parishes of Katun Nahija",
+      "status": "hold for enumeration",
+      "reason": "The official parish roster carries the group label 'Parohije Katunske nahije' without naming or counting its constituent parishes. The group is not treated as one parish.",
+      "sources": [
+        "https://mitropolija.com/parohije-2/"
+      ]
+    },
+    {
+      "candidate_id": "me-sr-mcl-ubli-unnamed-temples",
+      "parent": "sr-montenegro-littoral",
+      "country": "ME",
+      "name": "Unnamed temples at Ubli",
+      "status": "hold for names and count",
+      "reason": "The official roster says that a priest serves the temples at Ubli but gives neither their names nor their number. The named Ascension Cathedral at Ubli is already published separately.",
+      "sources": [
+        "https://mitropolija.com/parohije-2/"
+      ]
+    },
+    {
+      "candidate_id": "me-sr-bn-parish-temple-expansion",
+      "parent": "sr-budimlja-niksic",
+      "country": "ME",
+      "name": "Budimlja-Niksic parish churches and filial sites",
+      "status": "hold for official temple-level roster",
+      "reason": "The current official page establishes 55 parish names but does not enumerate each parish's principal church, filial churches, chapels, or recurring worship sites. No temple identities were inferred from maps.",
+      "sources": [
+        "https://www.eparhija.me/index.php/parohije"
+      ]
+    },
+    {
+      "candidate_id": "me-sr-mil-bucje-ascension",
+      "parent": "sr-milesevo",
+      "country": "RS",
+      "name": "Ascension Church in Bucje",
+      "status": "exclude from Montenegro module; verify in Serbia work",
+      "reason": "The official Pljevlja roster places this filial church under a Pljevlja parish but gives Bucje, 31335 Priboj, Serbia as its address. It is not emitted as a Montenegro body.",
+      "sources": [
+        "https://milesevskaeparhija.rs/eparhija/crkve/архиејерејско-намесништво-пљеваљско/"
+      ]
+    },
+    {
+      "candidate_id": "me-sr-zah-sutorina-malta-nicholas",
+      "parent": "sr-zahumlje-herzegovina",
+      "country": "ME",
+      "name": "Former Saint Nicholas Church at Malta",
+      "status": "historical destroyed site",
+      "reason": "The official parish account says the church was deliberately destroyed in 1818 and the site remains uninvestigated. It is not a current church body.",
+      "sources": [
+        "https://eparhija-zahumskohercegovacka.org/proba-za-parohije-kategorije/"
+      ]
+    },
+    {
+      "candidate_id": "me-noncanonical-montenegrin-orthodox-church",
+      "parent": null,
+      "country": "ME",
+      "name": "Montenegrin Orthodox Church bodies",
+      "status": "excluded noncanonical body",
+      "reason": "This body is not in communion with the canonical Eastern Orthodox Local Churches and is outside this directory's scope.",
+      "sources": [
+        "https://spc.rs/sr/news/iz-medija/-/17071.mitropolit-amfilohije-i-temeljni-ugovor.html"
+      ]
+    }
+  ],
+  "reconciliations": [
+    {
+      "scope": "Bosnia and Herzegovina official-source coverage",
+      "result": "Published every individually exposed current body from the targeted first-party rosters. Large parish-level gaps for Banja Luka, Dabar-Bosna, and Zahumlje-Herzegovina remain explicit candidates rather than being reconstructed from maps, news, or old schematisms.",
+      "sources": [
+        "https://spc.rs/sr/82.eparhije-srpske-pravoslavne-crkve.html",
+        "https://www.mitropolijadabrobosanska.org/vijest1887.html",
+        "https://eparhija-zahumskohercegovacka.org/parohije/"
+      ]
+    },
+    {
+      "scope": "Banja Luka monastery coverage",
+      "result": "Published the six monasteries in the official eparchial architecture list and the two additional current monasteries, Milosevac and Karanovac, established by later official Serbian Church reports.",
+      "sources": [
+        "https://spc.rs/sr/news/517.sakralna-arhitektura-banjalucke-eparhije.html",
+        "https://www.spc.rs/sr/news/iz-medija/16756.praznik-u-manastiru-milosevac.html",
+        "https://spc.rs/sr/news/iz-zivota-crkve/-/14708.osvecenje-manastirske-kapele-uspenja-presvete-bogorodice-u-manastiru-karanovcu.html"
+      ]
+    },
+    {
+      "scope": "Bihac-Petrovac monastery church deduplication",
+      "result": "Retained the four administrative parish rows that include Rmanj, Veselinje, Sokolovo, and Gubin, while representing each shared physical monastery church only through its monastery row.",
+      "sources": [
+        "https://www.eparhijabihackopetrovacka.org/eparhija/arhijerejska-namjesnistva/",
+        "https://www.eparhijabihackopetrovacka.org/adresar/",
+        "https://www.eparhijabihackopetrovacka.org/praznik-nerukotvorenog-obraza-gospodnjeg-prva-arhijerejska-liturgija-u-novoproglasenom-manastiru-gubinu/",
+        "https://www.eparhijabihackopetrovacka.org/navecerje-praznika-uspenja-presvete-bogorodice-u-manastiru-sokolovo/"
+      ]
+    },
+    {
+      "scope": "Zvornik-Tuzla monastery roster union",
+      "result": "Published the 18 monasteries in the current roster and four additional current monasteries with live individual official pages: Sase, Knezina, Karno, and Pjenovac. The first-party union contains 22 monastery bodies.",
+      "sources": [
+        "https://www.eparhijazt.com/sr/8.manastiri.html",
+        "https://www.eparhijazt.com/en/1572.manastir-sase.html",
+        "https://www.eparhijazt.com/en/1574.manastir-knezina.html",
+        "https://www.eparhijazt.com/en/1581.manastir-karno.html",
+        "https://www.eparhijazt.com/en/1586.manastir-pjenovac.html"
+      ]
+    },
+    {
+      "scope": "Zvornik-Tuzla shared physical sites",
+      "result": "Kept every current parish administration while publishing shared principal churches and cross-referenced filial sites once. Reconciliation is keyed to the official parish pages so shortened, expanded, and descriptive headings do not create duplicate physical bodies. The Pucile cemetery church is published directly as a cemetery church rather than as a fictitious parish plus child church.",
+      "sources": [
+        "https://www.eparhijazt.com/sr/1477.eparhija.html",
+        "https://www.eparhijazt.com/sr/104.donjobrezicka-druga.html",
+        "https://www.eparhijazt.com/sr/4879.derventa---saborni-hram-uspenja-presvete-bogorodice4-parohija.html"
+      ]
+    },
+    {
+      "scope": "Montenegro diocesan overlap",
+      "result": "Published Montenegro and Littoral, Budimlja-Niksic, Mileseva, and Zahumlje-Herzegovina bodies under their actual Serbian diocesan parents. The Sutorina parish remains under Zahumlje-Herzegovina even though it overlaps geographically with Montenegro and Littoral in Herceg Novi municipality.",
+      "sources": [
+        "https://spc.rs/sr/news/iz-medija/-/17071.mitropolit-amfilohije-i-temeljni-ugovor.html",
+        "https://mitropolija.com/parohije-2/",
+        "https://eparhija-zahumskohercegovacka.org/proba-za-parohije-kategorije/"
+      ]
+    },
+    {
+      "scope": "Montenegro and Littoral monastery sites",
+      "result": "Published the 47 monasteries in the current active monastery lists. The separately labeled historical monastery sites and ruins were not converted into current monastery bodies.",
+      "sources": [
+        "https://mitropolija.com/manastiri/"
+      ]
+    },
+    {
+      "scope": "Montenegro and Littoral church deduplication",
+      "result": "Published 55 named non-monastery church sites from the current parish roster. Four monastery churches remain represented by their monastery rows instead of being duplicated as churches.",
+      "sources": [
+        "https://mitropolija.com/parohije-2/",
+        "https://mitropolija.com/manastiri/"
+      ]
+    }
+  ],
+  "official_jurisdiction_audit": [
+    {
+      "scope": "Ukrainian Orthodox Church",
+      "result": "The UOC explicitly says it does not open parishes in Montenegro. Bosnia and Herzegovina is not part of that explicit zero statement, but no current official UOC roster body was located there.",
+      "sources": [
+        "https://vzcz.church.ua/2026/02/09/pro-sluzhinnya-zaxidnojevropejskogo-vikariatstva-ukrajinskoji-pravoslavnoji-cerkvi/"
+      ]
+    },
+    {
+      "scope": "Orthodox Church of Ukraine",
+      "result": "No current Bosnia and Herzegovina or Montenegro parish, monastery, mission, or recurring worship site was found in targeted official OCU roster and synodal searches. This records the audit result, not a claim that a body could never exist.",
+      "sources": [
+        "https://www.pomisna.info/uk/document-post/dokumenty-zasidannya-svyashhennogo-synodu-18-zhovtnya-2022-r/"
+      ]
+    },
+    {
+      "scope": "Romanian, Russian, Bulgarian, North Macedonian, and Ecumenical Patriarchate structures",
+      "result": "The cited Romanian and Bulgarian official foreign-community rosters did not identify a resident body in Bosnia and Herzegovina or Montenegro. The cited Russian report describes a visit to Serbian Church bodies rather than a direct resident Russian parish. These citations do not establish a country-level zero for North Macedonian or Ecumenical Patriarchate structures, which remain for separate official-roster verification.",
+      "sources": [
+        "https://patriarhia.ro/organizarea-bisericii-ortodoxe-romane/reprezentante-si-comunitati-externe/",
+        "https://mospat.ru/en/news/90743/",
+        "https://bg-patriarshia.bg/west-eu-diocese-temples"
+      ]
+    },
+    {
+      "scope": "Other canonical Local Churches",
+      "result": "The cited Serbian Church and OCA world-church pages identify canonical Local Churches but do not establish country-level absence for Georgian, Albanian, Antiochian, Jerusalem, Alexandrian, Cypriot, Greek, Polish, or Czech-Slovak structures. No resident body from those jurisdictions is published from these two sources, and individual official-roster verification remains open. No row is inferred from an event or occasional concelebration.",
+      "sources": [
+        "https://spc.rs/sr/82.eparhije-srpske-pravoslavne-crkve.html",
+        "https://www.oca.org/directories/world-churches"
+      ]
+    }
+  ]
+}
