@@ -1,0 +1,167 @@
+{
+  "v": 1,
+  "countries": [
+    "GR"
+  ],
+  "checked": "2026-11-15",
+  "method": "Publish all 61 exact current parish rows displayed in the official Metropolis roster and the eight current monasteries named by the Ecumenical Patriarchate. Preserve every public telephone route associated by the source with a specific body, without reproducing clergy names. Hold unnamed aggregate chapels, country churches, cemetery churches, private churches, historic names, and search-only leads.",
+  "published_summary": {
+    "ep-elassona": 69,
+    "total": 69,
+    "parish_kind_rows": 61,
+    "monastery_kind_rows": 8,
+    "contact_bodies": 48,
+    "phone_bodies": 48,
+    "public_phone_values": 49,
+    "email_bodies": 0,
+    "public_email_values": 0,
+    "body_owned_sites": 0,
+    "address_bodies": 69
+  },
+  "candidates": [
+    {
+      "candidate_id": "gr-ep-elassona-unnamed-chapels",
+      "parent": "ep-elassona",
+      "country": "GR",
+      "category": "aggregate-only",
+      "status": "held",
+      "reason": "The current administration page reports six chapels without an exact complete roster. No chapel is inferred from the aggregate.",
+      "sources": [
+        "https://imelassonos.gr/%CE%B4%CE%B9%CE%BF%CE%AF%CE%BA%CE%B7%CF%83%CE%B7/"
+      ]
+    },
+    {
+      "candidate_id": "gr-ep-elassona-unnamed-country-churches",
+      "parent": "ep-elassona",
+      "country": "GR",
+      "category": "aggregate-only",
+      "status": "held",
+      "reason": "The current administration page reports 108 country churches without an exact complete roster. No body is manufactured from that count.",
+      "sources": [
+        "https://imelassonos.gr/%CE%B4%CE%B9%CE%BF%CE%AF%CE%BA%CE%B7%CF%83%CE%B7/"
+      ]
+    },
+    {
+      "candidate_id": "gr-ep-elassona-unnamed-cemetery-churches",
+      "parent": "ep-elassona",
+      "country": "GR",
+      "category": "aggregate-only",
+      "status": "held",
+      "reason": "The current administration page reports 41 cemetery churches without an exact complete roster. The partial examples on the church page are held until a complete exact first-party list is available.",
+      "sources": [
+        "https://imelassonos.gr/%E1%BC%90%CE%BD%CE%BF%CF%81%CE%B9%CE%B1%CE%BA%CE%BF%CE%AF-%E1%BC%B1%CE%B5%CF%81%CE%BF%E1%BD%B6-%CE%BD%CE%B1%CE%BF%E1%BD%B6/",
+        "https://imelassonos.gr/%CE%B4%CE%B9%CE%BF%CE%AF%CE%BA%CE%B7%CF%83%CE%B7/"
+      ]
+    },
+    {
+      "candidate_id": "gr-ep-elassona-unnamed-private-churches",
+      "parent": "ep-elassona",
+      "country": "GR",
+      "category": "aggregate-only",
+      "status": "held",
+      "reason": "The current administration page reports five private churches without an exact complete roster. None is inferred from the aggregate.",
+      "sources": [
+        "https://imelassonos.gr/%CE%B4%CE%B9%CE%BF%CE%AF%CE%BA%CE%B7%CF%83%CE%B7/"
+      ]
+    },
+    {
+      "candidate_id": "gr-ep-elassona-monastic-count-discrepancy",
+      "parent": "ep-elassona",
+      "country": "GR",
+      "category": "source-count-conflict",
+      "status": "published-exact-roster",
+      "reason": "The current local administration aggregate reports seven monastic churches, while the current Patriarchate profile names eight distinct monasteries. All eight exact current names are published, and no body is silently discarded to force the lower aggregate.",
+      "sources": [
+        "https://imelassonos.gr/%CE%B4%CE%B9%CE%BF%CE%AF%CE%BA%CE%B7%CF%83%CE%B7/",
+        "https://ec-patr.org/entities/iera-mitropoli-elassonos/"
+      ]
+    },
+    {
+      "candidate_id": "gr-ep-elassona-search-map-leads",
+      "parent": "ep-elassona",
+      "country": "GR",
+      "category": "affiliation-unclear",
+      "status": "discovery-only",
+      "reason": "Search and map leads remain unpublished unless a competent first-party Church source establishes the exact current body and its canonical parent.",
+      "sources": [
+        "https://imelassonos.gr/%E1%BC%90%CE%BD%CE%BF%CF%81%CE%B9%CE%B1%CE%BA%CE%BF%CE%AF-%E1%BC%B1%CE%B5%CF%81%CE%BF%E1%BD%B6-%CE%BD%CE%B1%CE%BF%E1%BD%B6/"
+      ]
+    }
+  ],
+  "source_reconciliations": [
+    {
+      "subject": "Complete current parish roster",
+      "decision": "The current official Metropolis table displays exactly 61 parish rows and the current administration page independently reports 61 parish churches. All 61 exact rows are published in the displayed order.",
+      "sources": [
+        "https://imelassonos.gr/%E1%BC%90%CE%BD%CE%BF%CF%81%CE%B9%CE%B1%CE%BA%CE%BF%CE%AF-%E1%BC%B1%CE%B5%CF%81%CE%BF%E1%BD%B6-%CE%BD%CE%B1%CE%BF%E1%BD%B6/",
+        "https://imelassonos.gr/%CE%B4%CE%B9%CE%BF%CE%AF%CE%BA%CE%B7%CF%83%CE%B7/"
+      ]
+    },
+    {
+      "subject": "Current roster controls over the historic regulation",
+      "decision": "The 2019 Church of Greece recognition act documents parishes and monasteries established before the statutory cutoff, but it is not a complete current roster. Current official table names and dedications control where they differ, while the regulation remains corroborating evidence for older bodies.",
+      "sources": [
+        "https://imelassonos.gr/%E1%BC%90%CE%BD%CE%BF%CF%81%CE%B9%CE%B1%CE%BA%CE%BF%CE%AF-%E1%BC%B1%CE%B5%CF%81%CE%BF%E1%BD%B6-%CE%BD%CE%B1%CE%BF%E1%BD%B6/",
+        "https://ecclesiagreece.gr/greek/press/ekklisia/2019_aprilios.pdf"
+      ]
+    },
+    {
+      "subject": "Current monastic roster",
+      "decision": "The current Patriarchate profile names two men's monasteries and six women's monasteries. All eight exact current institutions are published, including six displayed body telephone routes.",
+      "sources": [
+        "https://ec-patr.org/entities/iera-mitropoli-elassonos/"
+      ]
+    },
+    {
+      "subject": "Public body-associated contacts",
+      "decision": "Telephone values are carried only where the official parish table or Patriarchate profile associates them with a specific body. These are public body-associated routes and may include clergy-aligned contacts. Clergy names are omitted, and the source-displayed 23520 prefix for the Karya parish is preserved without unsupported correction.",
+      "sources": [
+        "https://imelassonos.gr/%E1%BC%90%CE%BD%CE%BF%CF%81%CE%B9%CE%B1%CE%BA%CE%BF%CE%AF-%E1%BC%B1%CE%B5%CF%81%CE%BF%E1%BD%B6-%CE%BD%CE%B1%CE%BF%E1%BD%B6/",
+        "https://ec-patr.org/entities/iera-mitropoli-elassonos/"
+      ]
+    }
+  ],
+  "official_parent_audit": [
+    {
+      "parent": "ep-elassona",
+      "result": "69 exact current bodies published: 61 parish churches and eight monasteries.",
+      "roster_status": "complete current official parish roster plus complete current Patriarchate monastery list",
+      "sources": [
+        "https://imelassonos.gr/%E1%BC%90%CE%BD%CE%BF%CF%81%CE%B9%CE%B1%CE%BA%CE%BF%CE%AF-%E1%BC%B1%CE%B5%CF%81%CE%BF%E1%BD%B6-%CE%BD%CE%B1%CE%BF%E1%BD%B6/",
+        "https://ec-patr.org/entities/iera-mitropoli-elassonos/"
+      ]
+    }
+  ],
+  "exclusions": [
+    {
+      "category": "aggregate-only",
+      "decision": "No chapel, country church, cemetery church, private church, monastery, or other body is inferred solely from an aggregate count.",
+      "sources": [
+        "https://imelassonos.gr/%CE%B4%CE%B9%CE%BF%CE%AF%CE%BA%CE%B7%CF%83%CE%B7/"
+      ]
+    },
+    {
+      "category": "historic-not-current",
+      "decision": "Historic designations in the recognition act are not duplicated where the current official roster supplies a different present dedication or current body name.",
+      "sources": [
+        "https://ecclesiagreece.gr/greek/press/ekklisia/2019_aprilios.pdf",
+        "https://imelassonos.gr/%E1%BC%90%CE%BD%CE%BF%CF%81%CE%B9%CE%B1%CE%BA%CE%BF%CE%AF-%E1%BC%B1%CE%B5%CF%81%CE%BF%E1%BD%B6-%CE%BD%CE%B1%CE%BF%E1%BD%B6/"
+      ]
+    },
+    {
+      "category": "parent-contact",
+      "decision": "Metropolis office telephone and email values are not copied onto subordinate bodies. Only body-linked public routes are carried.",
+      "sources": [
+        "https://imelassonos.gr/%CE%B4%CE%B9%CE%BF%CE%AF%CE%BA%CE%B7%CF%83%CE%B7/",
+        "https://imelassonos.gr/%E1%BC%90%CE%BD%CE%BF%CF%81%CE%B9%CE%B1%CE%BA%CE%BF%CE%AF-%E1%BC%B1%CE%B5%CF%81%CE%BF%E1%BD%B6-%CE%BD%CE%B1%CE%BF%E1%BD%B6/"
+      ]
+    },
+    {
+      "category": "personal-identity",
+      "decision": "Clergy names are not reproduced. Public telephone routes remain attached to exact bodies with first-party provenance, including where the official table aligns the route with a clergyman.",
+      "sources": [
+        "https://imelassonos.gr/%E1%BC%90%CE%BD%CE%BF%CF%81%CE%B9%CE%B1%CE%BA%CE%BF%CE%AF-%E1%BC%B1%CE%B5%CF%81%CE%BF%E1%BD%B6-%CE%BD%CE%B1%CE%BF%E1%BD%B6/"
+      ]
+    }
+  ]
+}
