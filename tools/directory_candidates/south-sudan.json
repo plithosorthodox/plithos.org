@@ -1,0 +1,83 @@
+{
+  "v": 1,
+  "country": "SS",
+  "checked": "2026-11-15",
+  "method": "Current official Alexandrian diocesan and visit records were used to establish named Eastern Orthodox bodies in South Sudan. Search engines and map directories were used only to discover possible bodies for later verification. Historical churches, unnamed communities, a foundation-only missionary centre, and jurisdictions that declare territorial responsibility without listing a South Sudan body remain unpublished.",
+  "published_summary": {
+    "ax-juba": 1,
+    "worship_bodies": 1
+  },
+  "candidates": [
+    {
+      "candidate_id": "ss-ax-juba-saint-stylianos",
+      "parent": "ax-juba",
+      "country": "SS",
+      "name": "Saint Stylianos Church in Juba",
+      "status": "hold until the competent diocese confirms current restoration and worship use",
+      "reason": "An official Alexandrian record documents a Divine Liturgy here in January 2015. The Patriarchate's February 2025 visit report says the historic Greek churches in South Sudan are to be restored so they can function again, but does not identify Saint Stylianos as currently reopened. A discovery directory and social page do not replace current diocesan confirmation.",
+      "sources": [
+        "https://www.patriarchateofalexandria.com/resurrection-of-orthodoxy-in-south-sudan-first-divine-liturgy-in-38-years/?lang=en&print=print",
+        "https://www.patriarchateofalexandria.com/istoriki-episkepsi-toy-patriarchi-alexandreias-sto-notio-soydan/",
+        "https://orthodox-world.org/en/i/27852/south-sudan/central-equatoria/juba/church/st.-stylianos-orthodox-church"
+      ]
+    },
+    {
+      "candidate_id": "ss-ax-wau-prophet-elijah",
+      "parent": "ax-juba",
+      "country": "SS",
+      "name": "Prophet Elijah Church in Wau",
+      "status": "hold until the competent diocese confirms current restoration and worship use",
+      "reason": "An official Alexandrian record documents a Divine Liturgy here in January 2015 after a long interruption. The Patriarchate's February 2025 report names Wau among the historic communities whose Greek churches are to be restored, but does not confirm that the Prophet Elijah church is currently reopened.",
+      "sources": [
+        "https://www.patriarchateofalexandria.com/an-orthodox-presence-in-wau-south-sudan-after-32-years/?lang=en",
+        "https://www.patriarchateofalexandria.com/istoriki-episkepsi-toy-patriarchi-alexandreias-sto-notio-soydan/",
+        "https://orthodox-world.org/en/c/248/south-sudan"
+      ]
+    },
+    {
+      "candidate_id": "ss-ax-mongalla-saint-mark-centre",
+      "parent": "ax-juba",
+      "country": "SS",
+      "name": "Saint Mark Missionary Centre in Mongalla",
+      "status": "hold until the competent diocese confirms completion and current operation",
+      "reason": "The Patriarchate records the laying of its foundation stone in January 2015. No later official Church source found in this pass confirms completion or current worship use.",
+      "sources": [
+        "https://www.patriarchateofalexandria.com/resurrection-of-orthodoxy-in-south-sudan-first-divine-liturgy-in-38-years/?lang=en&print=print",
+        "https://orthodox-world.org/en/c/248/south-sudan"
+      ]
+    },
+    {
+      "candidate_id": "ss-ax-aweil-malakal-nyamlel-communities",
+      "parent": "ax-juba",
+      "country": "SS",
+      "name": "Orthodox communities in Aweil, Malakal, and Nyamlel",
+      "status": "hold until the diocese publishes their exact names and current institutional status",
+      "reason": "The Patriarchate's February 2025 report identifies historic parishes and communities in these towns and Orthodox residents there today. It does not publish dedications, addresses, or enough detail to determine whether each place is a parish, mission, church, or recurring worship site.",
+      "sources": [
+        "https://www.patriarchateofalexandria.com/istoriki-episkepsi-toy-patriarchi-alexandreias-sto-notio-soydan/"
+      ]
+    },
+    {
+      "candidate_id": "ss-ru-north-africa-territory-only",
+      "parent": "ru-north-africa",
+      "country": "SS",
+      "name": "Moscow Patriarchate territorial responsibility in South Sudan",
+      "status": "no worship body to publish from the current official roster",
+      "reason": "The Russian Exarchate includes South Sudan within the North African Diocese's territory, but its current directory says the diocese's parishes are spread across ten named countries and South Sudan is not among them. Territorial scope alone is not converted into a parish row.",
+      "sources": [
+        "https://exarchate-africa.ru/en/dioceses_cat/diocese-of-north-africa/",
+        "https://exarchate-africa.ru/en/documents-en/the-decision-of-the-holy-synod-establishing-the-patriarchal-exarchate-of-africa/"
+      ]
+    }
+  ],
+  "exclusions": [
+    {
+      "scope": "Other canonical Eastern Orthodox jurisdictions",
+      "result": "No current first-party synodal, diocesan, parish, or monastery source found in this pass establishes another canonical Eastern Orthodox worship body in South Sudan.",
+      "sources": [
+        "https://www.patriarchateofalexandria.com/archdioceses/iera-episkopi-mpenin-tsoympa-kai-notioy-soydan/?lang=en",
+        "https://exarchate-africa.ru/en/dioceses_cat/diocese-of-north-africa/"
+      ]
+    }
+  ]
+}

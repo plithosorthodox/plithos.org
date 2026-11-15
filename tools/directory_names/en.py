@@ -1345,6 +1345,13 @@ from directory_chile import (
 NAMES.update(_CHILE_NAMES)
 del _CHILE_NAMES
 
+from directory_south_sudan import (
+    ENGLISH_NAMES as _SOUTH_SUDAN_NAMES,
+    ENGLISH_SEATS as _SOUTH_SUDAN_SEATS,
+)
+NAMES.update(_SOUTH_SUDAN_NAMES)
+del _SOUTH_SUDAN_NAMES
+
 SEATS = {
     "Istanbul": u"Istanbul",
     "Alexandria": u"Alexandria",
@@ -2054,3 +2061,5 @@ SEATS.update(_SUDAN_SEATS)
 del _SUDAN_SEATS
 SEATS.update(_CHILE_SEATS)
 del _CHILE_SEATS
+SEATS.update(_SOUTH_SUDAN_SEATS)
+del _SOUTH_SUDAN_SEATS
