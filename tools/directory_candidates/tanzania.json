@@ -1,0 +1,224 @@
+{
+  "v": 1,
+  "country": "TZ",
+  "checked": "2026-11-15",
+  "method": "Current official patriarchal, diocesan, and parish records were reconciled body by body. Search engines, maps, missionary organizations, and general directories were used only for discovery. Parallel Alexandrian and Moscow structures are preserved without adjudication. Aggregate-only, unnamed, historical-only, affiliation-unclear, and unreconciled identities remain unpublished.",
+  "published_summary": {
+    "existing_alexandrian_parents": 3,
+    "alexandrian_subordinate_bodies": 4,
+    "ru-south-africa": 19,
+    "russian_named_deaneries": 2,
+    "russian_named_parishes": 17,
+    "russian_roster_total_parishes": 31,
+    "russian_aggregate_only_remainder": 14,
+    "new_subordinate_bodies": 23
+  },
+  "candidates": [
+    {
+      "candidate_id": "tz-ru-count-only-remainder",
+      "parent": "ru-south-africa",
+      "country": "TZ",
+      "name": "Fourteen roster parishes not individually reconciled",
+      "status": "hold until the competent diocese publishes their exact current identities",
+      "reason": "The live South African Diocese roster reports 13 parishes in the Central Deanery and 18 in the Northern Deanery. Seventeen exact named current parishes can be reconciled from official records. The remaining six central and eight northern positions are not expanded from aggregate counts, and no dedications or localities are inferred.",
+      "sources": [
+        "https://exarchate-africa.ru/dioceses_cat/yuzhno-afrikanskaya-eparhiya/",
+        "https://exarchate-africa.ru/en/dioceses_cat/south-african-diocese/"
+      ]
+    },
+    {
+      "candidate_id": "tz-ax-arusha-theotokos-mission-centre-construction",
+      "parent": "ax-arusha",
+      "country": "TZ",
+      "name": "Theotokos church and multipurpose missionary centre project in Arusha",
+      "status": "hold until a current official source renews construction or records completion",
+      "reason": "The Patriarchate laid the foundation stone in May 2022 and described the planned church and missionary centre. The current diocesan page does not record completion or a current construction status, so the older project is not represented as a present construction body.",
+      "sources": [
+        "https://www.patriarchateofalexandria.com/themeliosi-polydynamoy-ierapostolikoy-kentroy-stin-tanzania/",
+        "https://www.patriarchateofalexandria.com/archdioceses/holy-diocese-of-arusha-and-central-tanzania/?lang=en"
+      ]
+    },
+    {
+      "candidate_id": "tz-ax-mwanza-nicholas-cathedral-historical",
+      "parent": "ax-bukoba",
+      "country": "TZ",
+      "name": "Saint Nicholas Cathedral in Mwanza",
+      "status": "hold until a current official source renews the body under the present diocesan structure",
+      "reason": "A 2016 Patriarchate report records the consecration of the cathedral under the former Mwanza metropolis. The current Bukoba and West Tanzania page does not name it, and administrative succession is not inferred from geography alone.",
+      "sources": [
+        "https://www.patriarchateofalexandria.com/poimantiki-episkepsis-a-th-m-toy-papa-kai-patriarchoy-alexandreias-kai-pasis-afrikis-k-k-theodoroy-v-eis-moyanza-tanzanias/",
+        "https://www.patriarchateofalexandria.com/archdioceses/holy-diocese-of-bukoba-and-west-tanzania/?lang=en"
+      ]
+    },
+    {
+      "candidate_id": "tz-ax-kintamali-andronicus-athanasia-historical",
+      "parent": "ax-arusha",
+      "country": "TZ",
+      "name": "Saints Andronicus and Athanasia Church at the Kintamali Missionary Centre",
+      "status": "hold until current ordinary worship is renewed by a first-party source",
+      "reason": "A 2017 Patriarchate report establishes the church and missionary centre during a diocesan enthronement visit. The current diocesan page does not provide a subordinate roster, so the older exact identity remains a lead rather than a current row.",
+      "sources": [
+        "https://www.patriarchateofalexandria.com/enthronisi-toy-theofil-episkopoy-aroysas-kai-kentrikis-tanzanias/",
+        "https://www.patriarchateofalexandria.com/archdioceses/holy-diocese-of-arusha-and-central-tanzania/?lang=en"
+      ]
+    },
+    {
+      "candidate_id": "tz-ru-seraphim-mvumi-identity",
+      "parent": "tz-ru-northern-deanery",
+      "country": "TZ",
+      "name": "Saint Seraphim of Sarov parish in Mvumi",
+      "status": "hold until the diocese distinguishes it from the current Kikatiti parish",
+      "reason": "A 2022 official record names a Saint Seraphim parish in Mvumi. Current 2025 and 2026 records name a parish of the same dedication in Arusha and then Kikatiti. The newest exact current identity is published at Kikatiti, while Mvumi remains held rather than merged or duplicated without an official reconciliation.",
+      "sources": [
+        "https://exarchate-africa.ru/fotoalbomy/kreshhenie-na-prihode-v-chest-prepodobnogo-serafima-sarovskogo-tanzaniya/",
+        "https://exarchate-africa.ru/novosti/na-prihode-prepodobnogo-serafima-sarovskogo-v-gorode-arusha-tanzaniya-kreshheny-chetyre-cheloveka/",
+        "https://exarchate-africa.ru/novosti/mitropolit-konstantin-posetil-prihod-prepodobnogo-serafima-sarovskogo-na-severe-tanzanii/"
+      ]
+    },
+    {
+      "candidate_id": "tz-ru-morogoro-nicholas-identity",
+      "parent": "tz-ru-central-deanery",
+      "country": "TZ",
+      "name": "Saint Nicholas parish described as Morogoro",
+      "status": "hold as a likely overlap with the current Kimamba church",
+      "reason": "Older official reports describe a Saint Nicholas parish in Morogoro. The current church is in Kimamba within Morogoro Region. The records do not establish a separate city parish, so only the current exact Kimamba identity is published.",
+      "sources": [
+        "https://exarchate-africa.ru/novosti/na-prihode-svyatitelya-nikolaya-chudotvorcza-v-morogoro-tanzaniya-oborudovano-mesto-dlya-bogosluzheniya/",
+        "https://exarchate-africa.ru/novosti/v-nikolskom-hrame-v-s-kimamba-tanzaniya-pyat-chelovek-prinyali-tainstvo-kreshheniya/"
+      ]
+    },
+    {
+      "candidate_id": "tz-ru-unnamed-katoro-community",
+      "parent": "tz-ru-northern-deanery",
+      "country": "TZ",
+      "name": "Unnamed community in Katoro, Geita Region",
+      "status": "hold until an official source supplies a stable dedication or exact name",
+      "reason": "Official reports establish worship and catechesis at the place but do not publish a dedication. A locality is not converted into an invented parish identity.",
+      "sources": [
+        "https://exarchate-africa.ru/novosti/na-prihodah-patriarshego-ekzarhata-v-tanzanii-proshli-rozhdestvenskie-bogosluzheniya/"
+      ]
+    },
+    {
+      "candidate_id": "tz-ru-bukoba-unnamed-parish",
+      "parent": "tz-ru-northern-deanery",
+      "country": "TZ",
+      "name": "Unnamed newly formed parish in Bukoba",
+      "status": "hold until an official source supplies a dedication or exact name",
+      "reason": "The official report establishes a newly formed parish in Bukoba without naming its dedication. It remains a current lead but cannot receive a stable directory identity without inventing one.",
+      "sources": [
+        "https://exarchate-africa.ru/novosti/episkop-konstantin-sovershil-kreshhenie-v-vodah-ozera-viktoriya/"
+      ]
+    }
+  ],
+  "reconciliation": [
+    {
+      "issue": "Moscow roster total and exact named bodies",
+      "result": "The live diocesan roster reports 31 Tanzania parishes. Seventeen exact current parish identities are published from the roster and official parish reports. The fourteen-position aggregate remainder stays held without estimating names or places.",
+      "sources": [
+        "https://exarchate-africa.ru/dioceses_cat/yuzhno-afrikanskaya-eparhiya/",
+        "https://exarchate-africa.ru/novosti/zavershilas-poezdka-patriarshego-ekzarha-afriki-mitropolita-konstantina-v-tanzaniyu/"
+      ]
+    },
+    {
+      "issue": "Mwanza Moscow community identity",
+      "result": "A 2025 report described a newly formed community in Mwanza without a dedication. The July 2026 official visit identifies the body as Annunciation Parish, so the current exact name replaces the unnamed lead and is published once.",
+      "sources": [
+        "https://exarchate-africa.ru/vy-pomogli/priobreten-tent-dlya-novoobrazovannoj-obshhiny-v-g-mvanza-v-tanzanii/",
+        "https://exarchate-africa.ru/novosti/patriarshij-ekzarh-afriki-sovershil-tainstvo-kreshheniya-v-vodah-ozera-viktoriya/"
+      ]
+    },
+    {
+      "issue": "Venda parish and church construction",
+      "result": "The current official appeal identifies one active parish and its church under construction in Venda. The body is represented once with rank Church Under Construction rather than duplicated as a parish and a building project.",
+      "sources": [
+        "https://exarchate-africa.ru/donations/pomozhem-postroit-hram-presvyatoj-bogorodiczy-v-tanzanii/"
+      ]
+    },
+    {
+      "issue": "Parallel Alexandrian and Moscow structures",
+      "result": "The two jurisdictions are recorded neutrally beneath their existing parents. The directory does not adjudicate their competing claims, adopt either side's polemical wording, or collapse one structure into the other.",
+      "sources": [
+        "https://www.patriarchateofalexandria.com/archdioceses/?lang=en",
+        "https://exarchate-africa.ru/en/dioceses_cat/south-african-diocese/"
+      ]
+    },
+    {
+      "issue": "Irinopolis body website",
+      "result": "The official archdiocesan page prints orthodoxtanzania.com as its website, but that host did not resolve when checked. The body-owned site field remains blank, while the higher Patriarchate website is available through the parent chain.",
+      "sources": [
+        "https://www.patriarchateofalexandria.com/archdioceses/holy-archdiocese-of-irinopolis/?lang=en"
+      ]
+    }
+  ],
+  "official_jurisdiction_audit": [
+    {
+      "jurisdiction": "Patriarchate of Alexandria",
+      "result": "The three existing Tanzanian diocesan parents are retained. Four subordinate bodies meet the current exact-name threshold. Older exact places without a renewed current status remain in the candidate ledger.",
+      "sources": [
+        "https://www.patriarchateofalexandria.com/archdioceses/holy-archdiocese-of-irinopolis/?lang=en",
+        "https://www.patriarchateofalexandria.com/archdioceses/holy-diocese-of-arusha-and-central-tanzania/?lang=en",
+        "https://www.patriarchateofalexandria.com/archdioceses/holy-diocese-of-bukoba-and-west-tanzania/?lang=en"
+      ]
+    },
+    {
+      "jurisdiction": "Moscow Patriarchate, Patriarchal Exarchate of Africa",
+      "result": "The live South African Diocese roster reports two Tanzania deaneries and 31 parishes. The deaneries and seventeen exact named current parishes or church projects are published. The aggregate-only remainder is held.",
+      "sources": [
+        "https://exarchate-africa.ru/dioceses_cat/yuzhno-afrikanskaya-eparhiya/",
+        "https://exarchate-africa.ru/en/dioceses_cat/south-african-diocese/",
+        "https://exarchate-africa.ru/novosti/zavershilas-poezdka-patriarshego-ekzarha-afriki-mitropolita-konstantina-v-tanzaniyu/"
+      ]
+    },
+    {
+      "jurisdiction": "Ecumenical Patriarchate, Antiochian Patriarchate, and Jerusalem Patriarchate",
+      "result": "Their current official entity and administrative directories were checked and did not name an additional exact current Tanzania body. This is a bounded official-directory result, not a general country-level absence claim.",
+      "sources": [
+        "https://ec-patr.org/en/entities/",
+        "https://antiochpatriarchate.org/en/page/3011/",
+        "https://en.jerusalem-patriarchate.info/administrative-structure/"
+      ]
+    },
+    {
+      "jurisdiction": "Romanian Patriarchate, Serbian Patriarchate, and ROCOR",
+      "result": "Their current official external-community, diocesan, and parish directories were checked and did not name an additional exact current Tanzania body. This records a bounded review and does not turn territorial possibility into a body.",
+      "sources": [
+        "https://patriarhia.ro/en/organization-of-the-romanian-orthodox-church/external-representations-and-communities/",
+        "https://www.spc.rs/en/96.dioceses-of-the-soc.html",
+        "https://directory.synod.com/listings/"
+      ]
+    },
+    {
+      "jurisdiction": "Other canonical Local Churches and diaspora structures",
+      "result": "No additional Tanzania row is published without an exact current first-party jurisdictional citation. The review included the OCA, Churches of Greece and Cyprus, and available official structures of the remaining Local Churches. Access gaps and unindexed possibilities are not converted into absence claims.",
+      "sources": [
+        "https://www.oca.org/parishes",
+        "https://www.ecclesiagreece.gr/",
+        "https://churchofcyprus.org.cy/"
+      ]
+    }
+  ],
+  "exclusions": [
+    {
+      "scope": "Oriental Orthodox bodies",
+      "result": "Coptic, Ethiopian, Eritrean, and other Oriental Orthodox bodies are outside this Eastern Orthodox directory and are not merged with the Eastern Orthodox Patriarchate of Alexandria.",
+      "sources": [
+        "https://copticorthodox.church/en/dioceses/"
+      ]
+    },
+    {
+      "scope": "Schools, orphanages, clinics, and charitable facilities",
+      "result": "Named facilities are not published unless a competent current Church source also establishes a distinct worship or administrative body. This prevents a school or service centre from being converted into a parish by association.",
+      "sources": [
+        "https://www.patriarchateofalexandria.com/i-orthodoxia-stin-tanzania-ayxanei-kai-karpoforei/",
+        "https://exarchate-africa.ru/novosti/v-obrazovatelnom-czentre-svyatoj-niny-v-tanzanii-sostoyalsya-torzhestvennyj-akt-po-sluchayu-okonchaniya-uchebnogo-goda/"
+      ]
+    },
+    {
+      "scope": "Independent directories, maps, and affiliation-unclear bodies",
+      "result": "These sources were discovery aids only. Their names, locations, and status labels are not publication proof and remain held until a competent first-party Church source confirms them.",
+      "sources": [
+        "https://orthodox-world.org/en/c/232/tanzania"
+      ]
+    }
+  ]
+}

@@ -581,6 +581,32 @@ SERVICES = {
  "ur": "عبادات", "bg": "Богослужения",
 }
 
+CONTACT_LABELS = {
+ "en": ("Email", "Phone", "Contact confirmed"),
+ "el": ("Ηλεκτρονικό ταχυδρομείο", "Τηλέφωνο", "Στοιχεία επικοινωνίας επιβεβαιώθηκαν"),
+ "ru": ("Электронная почта", "Телефон", "Контакты подтверждены"),
+ "ro": ("E-mail", "Telefon", "Date de contact confirmate"),
+ "uk": ("Електронна пошта", "Телефон", "Контакти підтверджено"),
+ "de": ("E-Mail", "Telefon", "Kontaktdaten bestätigt"),
+ "es": ("Correo electrónico", "Teléfono", "Contacto comprobado"),
+ "ar": ("البريد الإلكتروني", "الهاتف", "تم التحقق من بيانات الاتصال"),
+ "fr": ("Courriel", "Téléphone", "Coordonnées vérifiées"),
+ "pt": ("Correio eletrónico", "Telefone", "Contactos confirmados"),
+ "it": ("E-mail", "Telefono", "Contatti verificati"),
+ "sr": ("Е-пошта", "Телефон", "Контакти потврђени"),
+ "ka": ("ელფოსტა", "ტელეფონი", "საკონტაქტო მონაცემები დადასტურებულია"),
+ "zh": ("电子邮箱", "电话", "联系方式已核实"),
+ "ja": ("メール", "電話", "連絡先確認済み"),
+ "ko": ("이메일", "전화", "연락처 확인됨"),
+ "sw": ("Barua pepe", "Simu", "Mawasiliano yamethibitishwa"),
+ "hy": ("Ելեկտրոնային փոստ", "Հեռաձայն", "Կապի տուեալները հաստատուած են"),
+ "arc": ("ܕܘܐܪܐ ܐܠܩܛܪܘܢܝܐ", "ܛܠܦܘܢܐ", "ܩܘܢܛܐ ܐܫܬܪܪ"),
+ "hi": ("ईमेल", "फ़ोन", "संपर्क की पुष्टि"),
+ "bn": ("ইমেইল", "ফোন", "যোগাযোগ নিশ্চিত"),
+ "ur": ("ای میل", "فون", "رابطے کی تصدیق"),
+ "bg": ("Имейл", "Телефон", "Контактите са потвърдени"),
+}
+
 
 def page_words(lang):
     """All words the page speaks for one language."""
@@ -588,6 +614,10 @@ def page_words(lang):
     out.update(BRANCH_UI[lang])
     out.update(FILTER_UI[lang])
     out["services"] = SERVICES[lang]
+    email, phone, contact_confirmed = CONTACT_LABELS[lang]
+    out["email"] = email
+    out["phone"] = phone
+    out["contactConfirmed"] = contact_confirmed
     ranks = dict(out["ranks"])
     parish, chapel, monastery = BRANCH_RANKS[lang]
     ranks.update({"Parish": parish, "Chapel Parish": chapel,

@@ -87,6 +87,14 @@ than quietly wrong.
     site_of     the id of the body the link belongs to, where it is not the
                 row's own; derived, and written by hand only where a Church
                 answers on a domain other than the one its row declares
+    emails      the public institutional email addresses the body publishes
+    phones      the public institutional telephone numbers it publishes,
+                preserved exactly as printed
+    contact_sources
+                one to three public pages from which the email addresses or
+                telephone numbers were read
+    contact_checked
+                the date the published contact details were read
     founded     what the body says about its own beginning, in the words its
                 source prints - optional, and left off unless published
     order       diptych position, for sorting
@@ -125,9 +133,13 @@ under that name instead:
     Website:                        The Church of Constantinople:
     ort.fi/oulunhiippakunta         ec-patr.org
 
-The page shows the Church above as well where a body has a site of its own,
-so that a link gone dead is not the end of the reader's search. Where the two
-are on the same host it shows one line, not two.
+The page shows the nearest higher body with a published site as a separate
+line as well, so that a link gone dead is not the end of the reader's search.
+It finds that second door by walking the `parent` chain. It is not copied into
+the lower body's `site`, so the individual and higher-level websites remain
+distinct and one changed diocesan address does not have to be repaired on
+every parish row. Where the two are on the same host it shows one line, not
+two.
 
 This is derived, so a lane does not have to think about it: declare `site`
 when the body has one and leave it off when it does not. The one case that
@@ -208,11 +220,14 @@ Several of the Ecumenical Patriarchate's eparchies are in this position: the
 address it prints for Spain no longer resolves at all, and Sweden, Korea and
 Hong Kong did not answer here. Those are to be re-checked, not written off.
 
-**No telephone numbers, for now.** It is the field that goes stale
-invisibly: the numbers on the list read here still carried a Moscow
-dialling code retired in the 1990s, and nothing about the entry said so. A
-website that answers is a better address than a number that does not.
-Numbers come back per row as each body's own site is read.
+**Contact details are dated and sourced separately.** Telephone numbers and
+email addresses go stale more quickly than a body's identity, address, or
+canonical parent. A row therefore records them only where the body or its
+Church publishes them for contact, preserves them exactly as printed, and
+gives them their own `contact_checked` date and `contact_sources`. Personal
+details that are not published as the body's contact stay out. A missing
+field means no current public detail was recorded; it does not mean none
+exists.
 
 `standing` is absent on a row nobody disputes. Its absence means no dispute
 is recorded - not that the site has looked and found none.
@@ -560,6 +575,12 @@ if the parish publishes it, and left off if it does not:
     address     the lines as printed, in the destination's language
     country     ISO 3166-1 alpha-2
     site        the parish's own, and only if it is the parish's own
+    emails      public institutional email addresses, where published
+    phones      public institutional telephone numbers, where published
+    contact_sources
+                the public pages from which those contact details were read
+    contact_checked
+                the date those contact details were read
     services    the times as the parish posts them, in its own words -
                 the Sunday Liturgy above all, and the Vigil the evening
                 before where it is given. Copied, not summarised: a

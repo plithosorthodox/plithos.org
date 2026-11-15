@@ -1,0 +1,132 @@
+{
+  "v": 1,
+  "country": "LB",
+  "checked": "2026-11-15",
+  "method": "Current official patriarchal, archdiocesan, monastery, and Moscow Patriarchate records were reconciled body by body. Search engines and general directories were used only for discovery. Exact current bodies are published beneath their competent Church parents. Numbered gaps, unenumerated subordinate bodies, historical-only identities, affiliation-unclear bodies, and institutions without a distinct worship body remain unpublished.",
+  "published_summary": {
+    "an-beirut": 16,
+    "an-zahleh": 25,
+    "an-tripoli": 17,
+    "antioch": 3,
+    "russia": 2,
+    "total": 63,
+    "canonical_jurisdictions_represented": 2
+  },
+  "candidates": [
+    {
+      "candidate_id": "lb-an-beirut-number-thirteen-gap",
+      "parent": "an-beirut",
+      "country": "LB",
+      "name": "Unresolved number 13 in the Beirut churches sequence",
+      "status": "hold until the Archdiocese publishes an exact current body at that position",
+      "reason": "The live official Beirut sequence names current bodies at numbers 1 through 12 and 14 through 17. A missing sequence number is not converted into a church name or inferred from an older list.",
+      "sources": [
+        "https://quartos.org.lb/"
+      ]
+    },
+    {
+      "candidate_id": "lb-an-remaining-archdiocesan-subordinates",
+      "parent": "antioch",
+      "country": "LB",
+      "name": "Subordinate bodies of the remaining Antiochian archdioceses in Lebanon",
+      "status": "hold for exact current first-party rosters",
+      "reason": "The Patriarchate establishes the remaining Lebanese archdiocesan parents, but this batch does not turn geography, older lists, or incomplete search results into current subordinate identities where an exact official roster was not available.",
+      "sources": [
+        "https://antiochpatriarchate.org/en/page/3011/",
+        "https://antiochpatriarchate.org/wp-content/uploads/2026/10/Dalil-2025.pdf"
+      ]
+    },
+    {
+      "candidate_id": "lb-an-tripoli-unlisted-parish-remainder",
+      "parent": "an-tripoli",
+      "country": "LB",
+      "name": "Tripoli and Koura parish remainder not individually reconciled",
+      "status": "hold until the Archdiocese publishes stable exact parish pages or a complete current roster",
+      "reason": "The official Archdiocese pages inspected here name the monasteries and shrines published in this batch. Additional communities are not inferred from institutions, clergy assignments, local maps, or historical references without a current body-level record.",
+      "sources": [
+        "https://archtripoli.org/Archdiocese/Monasteries",
+        "https://archtripoli.org/Archdiocese/Parish"
+      ]
+    }
+  ],
+  "reconciliation": [
+    {
+      "issue": "Beirut numbered church sequence",
+      "result": "Sixteen exact bodies are published from the live Archdiocese sequence. The absent number 13 remains a documented gap rather than an invented or historical row.",
+      "sources": [
+        "https://quartos.org.lb/"
+      ]
+    },
+    {
+      "issue": "Patriarchal monasteries and the Younes shrine",
+      "result": "The two monasteries answer directly to the Patriarchate of Antioch. The Younes shrine is nested beneath the Balamand monastery because the official records establish that relationship, rather than treating all three as ordinary diocesan parishes.",
+      "sources": [
+        "https://antiochpatriarchate.org/institutions/monasteries/%d8%af%d9%8a%d8%b1-%d8%b3%d9%8a%d9%91%d8%af%d8%a9-%d8%a7%d9%84%d8%a8%d9%84%d9%85%d9%86%d8%af-%d8%a7%d9%84%d8%a8%d8%b7%d8%b1%d9%8a%d8%b1%d9%83%d9%8a%d9%91/",
+        "https://antiochpatriarchate.org/wp-content/uploads/2026/10/Dalil-2025.pdf",
+        "https://archtripoli.org/Archdiocese/Parish"
+      ]
+    },
+    {
+      "issue": "Russian metochion hierarchy",
+      "result": "The Bsalim metochion is published directly under the Church of Russia, with the Annunciation church at Jal El Dib beneath it. The two records are kept distinct and not duplicated as unrelated parishes.",
+      "sources": [
+        "https://mospat.ru/en/news/94698/",
+        "https://patriarchia.ru/en/article/123715?path=%2Fnews%2Fsynod-orgs",
+        "https://mospat.ru/en/news/94701/"
+      ]
+    }
+  ],
+  "exclusions": [
+    {
+      "scope": "Oriental Orthodox and non-Chalcedonian bodies",
+      "result": "Syriac, Armenian, Coptic, and other Oriental Orthodox bodies are outside this Eastern Orthodox directory and are not merged with the Patriarchate of Antioch.",
+      "sources": [
+        "https://antiochpatriarchate.org/en/page/3011/"
+      ]
+    },
+    {
+      "scope": "Schools, hospitals, charities, and administrative offices",
+      "result": "An institution is not published as a church unless the competent Church source also names a distinct worship body. Churches explicitly named within an institution remain eligible as churches in their own right.",
+      "sources": [
+        "https://quartos.org.lb/",
+        "https://archtripoli.org/Archdiocese/Institutions"
+      ]
+    },
+    {
+      "scope": "Independent, schismatic, and affiliation-unclear bodies",
+      "result": "Discovery-only bodies are not published until a current canonical Eastern Orthodox Church source names them within its structure.",
+      "sources": [
+        "https://antiochpatriarchate.org/en/page/3011/"
+      ]
+    }
+  ],
+  "official_jurisdiction_audit": [
+    {
+      "jurisdiction": "Patriarchate of Antioch",
+      "result": "Sixty-one exact current bodies are published from official patriarchal and archdiocesan records. Existing archdiocesan parents are retained, and subordinate bodies without an exact current first-party identity remain held.",
+      "sources": [
+        "https://antiochpatriarchate.org/en/page/3011/",
+        "https://quartos.org.lb/",
+        "https://archzahle.com/archdiocese/parishes/"
+      ]
+    },
+    {
+      "jurisdiction": "Moscow Patriarchate",
+      "result": "The current official records establish the Bsalim metochion and its Annunciation church at Jal El Dib. Both are published under the Church of Russia.",
+      "sources": [
+        "https://mospat.ru/en/news/94698/",
+        "https://patriarchia.ru/en/article/123715?path=%2Fnews%2Fsynod-orgs",
+        "https://mospat.ru/en/news/94701/"
+      ]
+    },
+    {
+      "jurisdiction": "Other canonical Eastern Orthodox jurisdictions",
+      "result": "No additional Lebanon body is published without an exact current first-party jurisdictional citation. Territorial possibility and search discovery are not treated as proof of a current body.",
+      "sources": [
+        "https://ec-patr.org/en/entities/",
+        "https://en.jerusalem-patriarchate.info/administrative-structure/",
+        "https://directory.synod.com/listings/"
+      ]
+    }
+  ]
+}

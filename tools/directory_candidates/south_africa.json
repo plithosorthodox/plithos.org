@@ -1,0 +1,296 @@
+{
+  "v": 1,
+  "country": "ZA",
+  "checked": "2026-11-15",
+  "method": "Current official patriarchal, diocesan, exarchate, national Church, and parish records were reconciled body by body. Search engines, maps, diplomatic community lists, and general directories were used only to discover possible bodies and coverage gaps. The Alexandrian, Moscow Exarchate, Romanian, and Serbian structures are preserved without deciding their overlapping territorial claims. Older-only, unnamed, uncertain, affiliation-unclear, inaccessible, and discovery-only identities remain unpublished.",
+  "published_summary": {
+    "ax-johannesburg": 10,
+    "ax-good-hope": 4,
+    "ru-south-africa": 7,
+    "romania": 1,
+    "serbia": 1,
+    "alexandrian_named_bodies": 14,
+    "russian_deaneries": 1,
+    "russian_roster_bodies": 5,
+    "russian_subordinate_chapels": 1,
+    "new_subordinate_bodies": 23,
+    "total": 23
+  },
+  "candidates": [
+    {
+      "candidate_id": "za-bg-midrand-john-rila",
+      "parent": "bulgaria",
+      "country": "ZA",
+      "name": "Bulgarian Orthodox Church of Saint John of Rila in Midrand",
+      "status": "hold until a current competent Church source publishes its exact administrative parent",
+      "reason": "The Bulgarian Holy Synod records the Bulgarian Orthodox community in Johannesburg and its priest in 2010, but says that the priest was presented to the Alexandrian Metropolitan of Johannesburg. A 2026 Bulgarian diplomatic report establishes the completed Saint John of Rila church in Midrand. The building is current, but the presently competent Church parent is not stated clearly enough to publish the row under Bulgaria or Alexandria.",
+      "sources": [
+        "https://bg-patriarshia.bg/news/reshenie-na-sv-sinod-na-bpts-otnosno-izprashtaneto-na-balgar",
+        "https://www.mfa.bg/en/embassies/southafrica/news/49511"
+      ]
+    },
+    {
+      "candidate_id": "za-rocor-no-current-listing",
+      "country": "ZA",
+      "name": "Possible current ROCOR body in South Africa",
+      "status": "hold until the current ROCOR directory or another competent ROCOR source names a body",
+      "reason": "The live ROCOR directory reviewed on the check date did not return a South Africa, Johannesburg, Pretoria, Cape Town, or Midrand listing. Older Russian parish history is not converted into a present ROCOR row after the creation of the Moscow Exarchate structure.",
+      "sources": [
+        "https://directory.synod.com/listings/",
+        "https://exarchate-africa.ru/en/dioceses_cat/south-african-diocese/"
+      ]
+    },
+    {
+      "candidate_id": "za-ax-benoni-athanasios",
+      "parent": "ax-johannesburg",
+      "country": "ZA",
+      "name": "Church of Saint Athanasios in Benoni",
+      "status": "hold until a current accessible first-party Church record renews the exact body",
+      "reason": "An older official Patriarchate report names the church. A current parish social page was discovered, but its content was not accessible without authentication and no current body-level Church page could be inspected in this pass.",
+      "sources": [
+        "https://www.patriarchateofalexandria.com/his-beatitude-at-the-services-of-the-holy-passion-and-the-epitaphios-in-south-africa/?lang=en&print=print",
+        "https://www.facebook.com/St-Athanasios-Church-Hellenic-Community-of-Benoni-146545285424998"
+      ]
+    },
+    {
+      "candidate_id": "za-ax-johannesburg-nektarios",
+      "parent": "ax-johannesburg",
+      "country": "ZA",
+      "name": "Church or Convent of Saint Nektarios in Johannesburg",
+      "status": "hold until the Archdiocese reconciles the older church and convent wording in a current body record",
+      "reason": "Older official Patriarchate reports name a Saint Nektarios church and a Convent of Saint Nektarios in the Johannesburg area. The current archdiocesan profile publishes no subordinate roster, and continuity or multiplicity is not inferred.",
+      "sources": [
+        "https://www.patriarchateofalexandria.com/his-beatitude-at-the-services-of-the-holy-passion-and-the-epitaphios-in-south-africa/?lang=en&print=print",
+        "https://www.patriarchateofalexandria.com/the-patriarch-of-alexandria-supports-the-greeks-of-south-africa/?lang=en",
+        "https://www.patriarchateofalexandria.com/archdioceses/holy-archdiocese-of-johannesburg-and-pretoria/?lang=en"
+      ]
+    },
+    {
+      "candidate_id": "za-ax-stilfontein-theodore",
+      "parent": "ax-johannesburg",
+      "country": "ZA",
+      "name": "Church of Saint Theodore of Tyre in Stilfontein",
+      "status": "hold until a current body-level first-party Church source confirms ordinary worship",
+      "reason": "A 2021 official Patriarchate report names the church through its sponsor, but does not record a service or present parish life there. No later first-party body record was found in this pass.",
+      "sources": [
+        "https://www.patriarchateofalexandria.com/the-67th-birthday-of-the-patriarch-of-alexandria/?lang=en",
+        "https://www.patriarchateofalexandria.com/archdioceses/holy-archdiocese-of-johannesburg-and-pretoria/?lang=en"
+      ]
+    },
+    {
+      "candidate_id": "za-ax-metropolis-trinity-mark-chapel",
+      "parent": "ax-johannesburg",
+      "country": "ZA",
+      "name": "Chapel of the Holy Trinity and the Evangelist Mark at the Metropolis",
+      "status": "hold until a current body-level first-party Church source confirms the chapel",
+      "reason": "An official 2018 Patriarchate report names the chapel on the Metropolis grounds. The current archdiocesan profile does not enumerate subordinate chapels and no newer exact record was found.",
+      "sources": [
+        "https://www.patriarchateofalexandria.com/the-patriarch-of-alexandria-supports-the-greeks-of-south-africa/?lang=en",
+        "https://www.patriarchateofalexandria.com/archdioceses/holy-archdiocese-of-johannesburg-and-pretoria/?lang=en"
+      ]
+    },
+    {
+      "candidate_id": "za-ax-port-elizabeth-dormition",
+      "parent": "ax-good-hope",
+      "country": "ZA",
+      "name": "Church of the Dormition of the Theotokos in Port Elizabeth",
+      "status": "hold until a current competent first-party Church source renews the exact body",
+      "reason": "An official Patriarchate report establishes the exact church and its inauguration in 2008. A current Greek diplomatic list establishes that the local Hellenic community still operates, but it does not name the church and cannot replace a current Church record.",
+      "sources": [
+        "https://www.patriarchateofalexandria.com/completion-of-his-beatitude-s-pastoral-visit-to-south-africa/?lang=en&print=print",
+        "https://www.patriarchateofalexandria.com/archdioceses/holy-archdiocese-of-the-cape-of-good-hope/?lang=en"
+      ]
+    },
+    {
+      "candidate_id": "za-ax-durban-nicholas",
+      "parent": "ax-good-hope",
+      "country": "ZA",
+      "name": "Church of Saint Nicholas in Durban",
+      "status": "hold until a current competent first-party Church source renews the exact body",
+      "reason": "An official Patriarchate report establishes the exact church and its inauguration in 2008. The current archdiocesan profile confirms that Natal remains within the Good Hope jurisdiction but does not publish a present subordinate roster.",
+      "sources": [
+        "https://www.patriarchateofalexandria.com/his-beatitude-inaugurates-a-new-church-in-the-city-of-durban/?lang=en",
+        "https://www.patriarchateofalexandria.com/archdioceses/holy-archdiocese-of-the-cape-of-good-hope/?lang=en"
+      ]
+    },
+    {
+      "candidate_id": "za-ax-good-hope-discovery-only",
+      "parent": "ax-good-hope",
+      "country": "ZA",
+      "name": "Unreconciled Good Hope churches, chapels, missions, and communities",
+      "status": "hold every identity until a current competent first-party Church source names the body",
+      "reason": "Discovery sources point to Saint George in East London, Holy Archangels in George, Saint Mark in Pietermaritzburg, Saint John Missionary Center in Khayelitsha, a Grahamstown community, and chapels in Wellington, Onrus, Vredenburg, and Hopefield. The current archdiocesan profile confirms territorial coverage but does not enumerate these bodies, so none is published from maps or general directories alone.",
+      "sources": [
+        "https://www.patriarchateofalexandria.com/archdioceses/holy-archdiocese-of-the-cape-of-good-hope/?lang=en",
+        "https://orthodox-world.org/en/c/198/south-africa"
+      ]
+    },
+    {
+      "candidate_id": "za-ax-johannesburg-discovery-only",
+      "parent": "ax-johannesburg",
+      "country": "ZA",
+      "name": "Unreconciled Johannesburg and Pretoria churches, chapels, missions, and monasteries",
+      "status": "hold every identity until a current competent first-party Church source names the body",
+      "reason": "Discovery sources point to bodies in Vereeniging, Boksburg, Hartbeespoort, Mamelodi, Eldorado Park, and Rustenburg. The current archdiocesan profile does not publish a subordinate roster. Map labels and general directories cannot establish current body status or canonical parentage on their own.",
+      "sources": [
+        "https://www.patriarchateofalexandria.com/archdioceses/holy-archdiocese-of-johannesburg-and-pretoria/?lang=en",
+        "https://orthodox-world.org/en/c/198/south-africa"
+      ]
+    },
+    {
+      "candidate_id": "za-oriental-orthodox-out-of-scope",
+      "country": "ZA",
+      "name": "Coptic, Ethiopian, and Malankara Orthodox bodies in South Africa",
+      "status": "exclude from the Eastern Orthodox directory audit",
+      "reason": "Search and map results include multiple Oriental Orthodox churches and monasteries. They are not converted into Eastern Orthodox rows. The exclusion is categorical and does not make a judgement about their internal standing.",
+      "sources": [
+        "https://stocsa.com/",
+        "https://copticorthodox.church/en/abroad-diocese/"
+      ]
+    }
+  ],
+  "source_reconciliations": [
+    {
+      "reconciliation_id": "za-reconcile-russian-roster",
+      "country": "ZA",
+      "result": "The live South African Diocese roster reports one South Africa deanery, seven clerics, and five parishes. The current cathedral site names five South Africa worship bodies: Saint Sergius Cathedral, Saint Mary of Egypt Church, Saint John Climacus Parish, the Saint Thomas Missionary Community, and the Annunciation Chapel in Rondebosch. All five are published under the deanery. The Saint Vladimir chapel is separately published as a subordinate chapel of the cathedral and is not counted as a sixth roster parish.",
+      "sources": [
+        "https://exarchate-africa.ru/en/dioceses_cat/south-african-diocese/",
+        "https://www.st-sergius.info/en/category/yuzhno-afrikanskaya-eparhiya/",
+        "https://www.st-sergius.info/en/chasovnya-vo-imya-svyatogo-ravnoapostolnogo-velikogo-knyazya-vladimira/"
+      ]
+    },
+    {
+      "reconciliation_id": "za-reconcile-overlapping-structures",
+      "country": "ZA",
+      "result": "Alexandria, the Moscow Exarchate, the Romanian Patriarchate, and the Serbian Patriarchate each publish current South African bodies. Every exact current body is retained under the parent that publishes it. No territorial claim is used to suppress another Church's current first-party record.",
+      "sources": [
+        "https://www.patriarchateofalexandria.com/archdioceses/holy-archdiocese-of-johannesburg-and-pretoria/?lang=en",
+        "https://exarchate-africa.ru/en/dioceses_cat/south-african-diocese/",
+        "https://patriarhia.ro/en/organization-of-the-romanian-orthodox-church/external-representations-and-communities/"
+      ]
+    },
+    {
+      "reconciliation_id": "za-reconcile-serbian-parent",
+      "country": "ZA",
+      "result": "The current Saint Thomas parish site establishes active parish life in Sunninghill. Its own history states that the Johannesburg parish remains under the spiritual care of the Serbian Patriarch by the Serbian Holy Council decision of 11 November 1998. It is therefore published directly under Serbia without commenting on the historical jurisdictional dispute described by the source.",
+      "sources": [
+        "https://serbianorthodoxchurch.co.za/",
+        "https://serbianorthodoxchurch.co.za/announcements/2026-01-06-announcement-in-serbian-and-english-about-st-thomas-serbian-orthodox-church-christmas-new-year-and-january-schedule-of-services-and-celebrations/",
+        "https://svetitoma.org.za/o-crkvi/"
+      ]
+    }
+  ],
+  "official_jurisdiction_audit": [
+    {
+      "jurisdiction": "Patriarchate of Alexandria",
+      "result": "The current patriarchal register confirms the Holy Archdiocese of Johannesburg and Pretoria and the Holy Archdiocese of the Cape of Good Hope, both already present as parent rows. Fourteen exact subordinate bodies are supported by official Patriarchate records, current first-party community or parish sites, or current service programmes and are published. Older-only, inaccessible, unnamed, and discovery-only identities remain held.",
+      "sources": [
+        "https://www.patriarchateofalexandria.com/archdioceses/holy-archdiocese-of-johannesburg-and-pretoria/?lang=en",
+        "https://www.patriarchateofalexandria.com/archdioceses/holy-archdiocese-of-the-cape-of-good-hope/?lang=en",
+        "https://www.patriarchateofalexandria.com/the-patriarch-of-alexandria-in-the-remote-greek-communities-of-central-south-africa/?lang=en"
+      ]
+    },
+    {
+      "jurisdiction": "Moscow Patriarchate, Patriarchal Exarchate of Africa",
+      "result": "The live South African Diocese roster reports one South Africa deanery and five parishes. The current diocesan cathedral site supplies exact body-level records for all five and one subordinate chapel. The module publishes the deanery, all five roster bodies, and the subordinate chapel, with no aggregate-only remainder.",
+      "sources": [
+        "https://exarchate-africa.ru/en/dioceses_cat/south-african-diocese/",
+        "https://exarchate-africa.ru/dioceses_cat/yuzhno-afrikanskaya-eparhiya/",
+        "https://www.st-sergius.info/en/category/yuzhno-afrikanskaya-eparhiya/"
+      ]
+    },
+    {
+      "jurisdiction": "Romanian Patriarchate",
+      "result": "The current Patriarchate list names the Romanian Orthodox Community in South Africa at Johannesburg and publishes its current address and clergy contact. The body is published once under Romania.",
+      "sources": [
+        "https://patriarhia.ro/en/organization-of-the-romanian-orthodox-church/external-representations-and-communities/"
+      ]
+    },
+    {
+      "jurisdiction": "Serbian Orthodox Church",
+      "result": "The active Saint Thomas parish site and its current 2026 service schedule establish one Serbian parish in Sunninghill, Johannesburg. The parish history states its continuing direct spiritual care by the Serbian Patriarch, so one row is published under Serbia.",
+      "sources": [
+        "https://serbianorthodoxchurch.co.za/",
+        "https://serbianorthodoxchurch.co.za/announcements/2026-01-06-announcement-in-serbian-and-english-about-st-thomas-serbian-orthodox-church-christmas-new-year-and-january-schedule-of-services-and-celebrations/",
+        "https://svetitoma.org.za/o-crkvi/"
+      ]
+    },
+    {
+      "jurisdiction": "Bulgarian Orthodox Church",
+      "result": "The Bulgarian Holy Synod confirms a Bulgarian Orthodox community in Johannesburg in 2010, and a 2026 Bulgarian diplomatic report confirms the completed Saint John of Rila church in Midrand. The present administrative parent is not stated clearly enough by a current competent Church source, so the body remains held.",
+      "sources": [
+        "https://bg-patriarshia.bg/news/reshenie-na-sv-sinod-na-bpts-otnosno-izprashtaneto-na-balgar",
+        "https://www.mfa.bg/en/embassies/southafrica/news/49511"
+      ]
+    },
+    {
+      "jurisdiction": "Russian Orthodox Church Outside Russia",
+      "result": "The live ROCOR directory did not name a current South African body in the reviewed country and city searches. No older Russian identity is inferred to remain in ROCOR after the current Moscow Exarchate roster was established.",
+      "sources": [
+        "https://directory.synod.com/listings/",
+        "https://exarchate-africa.ru/en/dioceses_cat/south-african-diocese/"
+      ]
+    },
+    {
+      "jurisdiction": "Ecumenical Patriarchate, Antiochian Patriarchate, and Jerusalem Patriarchate",
+      "result": "The current official eparchy, archdiocese, vicariate, external rectory, and exarchy records reviewed in this pass did not name an additional exact South African body. This is a bounded source result, not a general country-level absence claim.",
+      "sources": [
+        "https://ec-patr.org/en/entities/",
+        "https://antiochpatriarchate.org/en/page/3011/",
+        "https://en.jerusalem-patriarchate.info/"
+      ]
+    },
+    {
+      "jurisdiction": "Churches of Georgia, Greece, and Albania",
+      "result": "Current official Church structure pages and site searches reviewed in this pass did not name a South African diocese, parish, mission, monastery, or chapel under these Churches. No ethnic label or map result is converted into a jurisdictional claim.",
+      "sources": [
+        "https://patriarchate.ge/",
+        "https://ecclesiagreece.gr/",
+        "https://orthodoxalbania.org/2026/"
+      ]
+    },
+    {
+      "jurisdiction": "Churches of Poland, the Czech Lands and Slovakia, and the Orthodox Church in America",
+      "result": "The current official foreign-unit, Church-structure, and parish records reviewed in this pass did not name an additional exact South African body. Older OCA mission reports concern work under Alexandria and do not establish an OCA jurisdiction in South Africa.",
+      "sources": [
+        "https://www.orthodox.pl/",
+        "https://orthodox.sk/",
+        "https://www.oca.org/parishes"
+      ]
+    },
+    {
+      "jurisdiction": "Orthodox Church of Ukraine, Ukrainian Orthodox Church, and Macedonian Orthodox Church - Ohrid Archbishopric",
+      "result": "Current official Church sites, eparchy lists, and South Africa searches reviewed in this pass did not name an exact South African body. A Ukrainian community record from 2020 reported that South Africa then had no Ukrainian Orthodox church, but that dated statement is not used as a current absence claim.",
+      "sources": [
+        "https://www.pomisna.info/uk/",
+        "https://church.ua/",
+        "https://www.m-p-c.org/?page_id=17"
+      ]
+    },
+    {
+      "jurisdiction": "Church of Cyprus and Church of Sinai",
+      "result": "The current official administrative records and site searches reviewed in this pass did not name a South African body under either Church. The Alexandrian Church in South Africa is not reclassified from shared Greek liturgical or cultural identity.",
+      "sources": [
+        "https://churchofcyprus.org.cy/diikitiki_diathrosi",
+        "https://www.sinaimonastery.com/index.php/en/"
+      ]
+    },
+    {
+      "jurisdiction": "Autonomous Churches of Finland and Japan and the two current Estonian structures",
+      "result": "Current official Church sites and structure records reviewed in this pass did not name a South African body. No community is inferred from nationality or language alone.",
+      "sources": [
+        "https://ort.fi/en/",
+        "https://www.orthodoxjapan.jp/",
+        "https://www.eoc.ee/"
+      ]
+    },
+    {
+      "jurisdiction": "Estonian Orthodox Christian Church",
+      "result": "The current official Church site reviewed in this pass did not name a South African body. This parallel Estonian structure was checked separately and is not collapsed into the autonomous Church of Estonia.",
+      "sources": [
+        "https://orthodox.ee/"
+      ]
+    }
+  ]
+}

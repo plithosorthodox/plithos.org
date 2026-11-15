@@ -16,11 +16,14 @@ Exit code 1 on any error. Warnings do not fail the build.
 
     python3 tools/check_site.py
 """
+import ipaddress
 import json
 import re
 import subprocess
 import sys
+from datetime import date
 from pathlib import Path
+from urllib.parse import urlsplit
 
 ROOT = Path(__file__).resolve().parent.parent
 LIBRARY_INDEX_SOURCE = ROOT / "data" / "library" / "works-index.json"
@@ -48,6 +51,38 @@ def err(msg):
 
 def warn(msg):
     warnings.append(msg)
+
+
+def valid_iso_date(value):
+    if not isinstance(value, str) or not re.fullmatch(
+            r"\d{4}-\d{2}-\d{2}", value):
+        return False
+    try:
+        date.fromisoformat(value)
+    except ValueError:
+        return False
+    return True
+
+
+def public_http_url(value):
+    if not isinstance(value, str):
+        return False
+    try:
+        parsed = urlsplit(value)
+    except ValueError:
+        return False
+    if parsed.scheme not in ("http", "https") or not parsed.hostname:
+        return False
+    if parsed.username or parsed.password:
+        return False
+    hostname = parsed.hostname.casefold().rstrip(".")
+    if hostname == "localhost" or hostname.endswith((".localhost", ".local")):
+        return False
+    try:
+        address = ipaddress.ip_address(hostname)
+    except ValueError:
+        return "." in hostname
+    return address.is_global
 
 
 LIBRARY_PROCESS_PHRASES = (
@@ -672,6 +707,47 @@ def check_directory():
         # is never published is a link that did not answer.
         if "site" in r and not str(r["site"]).startswith("http"):
             err("directory: %s has a site that is not a URL" % r["id"])
+        contact_fields = [
+            field for field in ("emails", "phones") if field in r
+        ]
+        for field in contact_fields:
+            values = r.get(field)
+            if (not isinstance(values, list) or not values or
+                    not all(isinstance(value, str) and value.strip()
+                            for value in values)):
+                err("directory: %s has invalid %s" % (r["id"], field))
+                continue
+            if len(values) != len(set(values)):
+                err("directory: %s has duplicate %s" % (r["id"], field))
+            if field == "emails" and not all(re.fullmatch(
+                    r"[^@\s<>]+@[^@\s<>]+\.[^@\s<>]+", value)
+                    for value in values):
+                err("directory: %s has a malformed email" % r["id"])
+            if field == "phones" and not all(
+                    len(value) <= 80 and re.search(r"\d", value) and
+                    not re.search(r"[\x00-\x1f\x7f]", value)
+                    for value in values):
+                err("directory: %s has a malformed phone" % r["id"])
+        contact_sources = r.get("contact_sources")
+        if contact_sources is not None:
+            if (not isinstance(contact_sources, list) or
+                    not contact_sources or len(contact_sources) > 3 or
+                    not all(isinstance(url, str) and public_http_url(url)
+                            for url in contact_sources)):
+                err("directory: %s has invalid contact_sources" % r["id"])
+        contact_checked = r.get("contact_checked")
+        if contact_checked is not None and not valid_iso_date(contact_checked):
+            err("directory: %s has an invalid contact_checked date" % r["id"])
+        if contact_fields:
+            if contact_sources is None:
+                err("directory: %s has contacts without contact_sources" %
+                    r["id"])
+            if contact_checked is None:
+                err("directory: %s has contacts without contact_checked" %
+                    r["id"])
+        elif contact_sources is not None or contact_checked is not None:
+            err("directory: %s has contact metadata without contacts" %
+                r["id"])
         if not re.match(r"^\d{4}-\d{2}-\d{2}$", r.get("checked", "")):
             err("directory: %s carries no date it was read" % r["id"])
         # A row that says something about a body says who did it and links

@@ -206,6 +206,10 @@ ROWS = [
       local=u"ΙΕΡΑ ΜΗΤΡΟΠΟΛΗ ΕΙΡΗΝΟΥΠΟΛΕΩΣ",
       seat="Dar es Salaam", country="TZ",
       address=["P.O. Box 1090, Dar-Es-Salaam, Tanzania."],
+      emails=["orthodoxtanzania@yahoo.com"],
+      phones=["+255-713466266"],
+      contact_sources=[AX + "holy-archdiocese-of-irinopolis/?lang=en"],
+      contact_checked="2026-11-15",
       sources=[AX + "iera-mitropoli-eirinoypoleos/",
                AX + "holy-archdiocese-of-irinopolis/?lang=en"]),
 
@@ -215,6 +219,10 @@ ROWS = [
       local=u"ΙΕΡΑ ΜΗΤΡΟΠΟΛΗ ΙΩΑΝΝΟΥΠΟΛΕΩΣ ΚΑΙ ΠΡΕΤΟΡΙΑΣ",
       seat="Johannesburg", country="ZA",
       address=["P.O. Box 1096, Houghton 2041, Johannesburg, Republic of South Africa."],
+      emails=["archbishop@orthodoxjhb.co.za"],
+      phones=["+27-11-8802057", "+27-11-8805680"],
+      contact_sources=[AX + "holy-archdiocese-of-johannesburg-and-pretoria/?lang=en"],
+      contact_checked="2026-11-15",
       checked="2026-09-14",
       founded=(
         u"Η Ιερά Μητρόπολη Ιωαννουπόλεως και Πρετορίας ιδρύθη διά "
@@ -284,6 +292,10 @@ ROWS = [
       local=u"ΙΕΡΑ ΜΗΤΡΟΠΟΛΗ ΚΑΛΗΣ ΕΛΠΙΔΟΣ",
       seat="Cape Town", country="ZA",
       address=["P.O.Box 4740, Cape Town 8000, Republic of South Africa."],
+      emails=["kykkotis@iafrica.com"],
+      phones=["+27-21-6897639"],
+      contact_sources=[AX + "holy-archdiocese-of-the-cape-of-good-hope/?lang=en"],
+      contact_checked="2026-11-15",
       checked="2026-09-14",
       founded=(
         u"Η Ιερά Μητρόπολη Καλής Ελπίδος ιδρύθη διά Πατριαρχικού και "
@@ -354,6 +366,10 @@ ROWS = [
       local=u"ΙΕΡΑ ΜΗΤΡΟΠΟΛΗ ΚΑΤΑΝΓΚΑΣ",
       seat="Lubumbashi", country="CD",
       address=["B.P. Box 108, Kulwezi, Congo."],
+      emails=["ierapkol_athos@yahoo.gr"],
+      phones=["+243-814826813/ 814040100"],
+      contact_sources=[AX + "holy-metropolis-of-katanga/?lang=en"],
+      contact_checked="2026-11-15",
       checked="2026-09-14",
       founded=[(
         u"Η Ιερά Μητρόπολη Κατάγκας ιδρύθη διά Πατριαρχικού και Συνοδικού "
@@ -424,6 +440,10 @@ ROWS = [
       local=u"ΙΕΡΑ ΕΠΙΣΚΟΠΗ ΑΡΟΥΣΑΣ ΚΑΙ ΚΕΝΤΡΙΚΗΣ ΤΑΝΖΑΝΙΑΣ",
       seat="Arusha", country="TZ",
       address=["Bishopric of Arusa and Central Tanzania, P.O. Box 623, Iringa, Tanzania, East Africa."],
+      emails=["agathonikosn@gmail.com"],
+      phones=["+255744040103"],
+      contact_sources=[AX + "holy-diocese-of-arusha-and-central-tanzania/?lang=en"],
+      contact_checked="2026-11-15",
       sources=[AX + "iera-episkopi-aroysas-kai-kentrikis-tanzanias/",
                AX + "holy-diocese-of-arusha-and-central-tanzania/?lang=en"]),
 
@@ -440,6 +460,10 @@ ROWS = [
       local=u"ΙΕΡΑ ΕΠΙΣΚΟΠΗ ΓΚΟΜΑΣ ΚΑΙ ΜΕΓΑΛΟΥ ΚΙΒΟΥ",
       seat="Goma", country="CD",
       address=["Province du Nord-Kivu/Commune de Karisimbi/Q. Mugunga /Av. Ruchagara, no 1 B.P.214, Republique Democratique du Congo"],
+      emails=["timotheosntumba@gmail.com", "eglisegoma@gmail.com"],
+      phones=["+243.815543000"],
+      contact_sources=[AX + "holy-diocese-of-goma/?lang=en"],
+      contact_checked="2026-11-15",
       sources=[AX + "iera-episkopi-gkomas/",
                AX + "holy-diocese-of-goma/?lang=en"]),
 
@@ -466,6 +490,10 @@ ROWS = [
       seat="Kisangani", country="CD",
       address=["Consulat de Grece a Kisangani, face de la place de martyrs, Republique Democratique du Congo"],
       site="https://iekisangani.com/",
+      emails=["ipolykarpos@gmail.com", "iekisangani@gmail.com"],
+      phones=["+243 822 868 565", "+30 695 534 7790"],
+      contact_sources=[AX + "iera-episkopi-kisangkani/?lang=en"],
+      contact_checked="2026-11-15",
       sources=["https://iekisangani.com/",
                AX + "iera-episkopi-kisangkani/",
                AX + "iera-episkopi-kisangkani/?lang=en"]),
@@ -525,6 +553,10 @@ ROWS = [
       local=u"ΙΕΡΑ ΕΠΙΣΚΟΠΗ ΜΠΟΥΚΟΜΠΑ ΚΑΙ ΔΥΤΙΚΗΣ ΤΑΝΖΑΝΙΑΣ",
       seat="Bukoba", country="TZ",
       address=["P.O.B 1704 Bukoba Tanzania"],
+      emails=["orthodoxchurchofbukoba@gmail.com", "p.xrysostomos1956@gmail.com"],
+      phones=["+255 753320915", "00306977992424"],
+      contact_sources=[AX + "holy-diocese-of-bukoba-and-west-tanzania/?lang=en"],
+      contact_checked="2026-11-15",
       sources=[AX + "iera-episkopi-mpoykompa-kai-dytikis-tanzanias/",
                AX + "holy-diocese-of-bukoba-and-west-tanzania/?lang=en"]),
 

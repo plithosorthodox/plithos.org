@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang="en">
 <head>
-<meta charset="utf-8"><meta name="plithos-build" content="2026-11-14an"><meta name="viewport" content="width=device-width, initial-scale=1">
+<meta charset="utf-8"><meta name="plithos-build" content="2026-11-15a"><meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="icon" type="image/svg+xml" href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48Y2lyY2xlIGN4PSI1MCIgY3k9IjUwIiByPSI0NyIgZmlsbD0iIzZlMmIzYiIvPjxnIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2YyZWNlMCIgc3Ryb2tlLXdpZHRoPSI3IiBzdHJva2UtbGluZWNhcD0iYnV0dCIgc3Ryb2tlLWxpbmVqb2luPSJtaXRlciI+PGxpbmUgeDE9IjQ1IiB5MT0iMjAiIHgyPSI0NSIgeTI9IjgyIi8+PGxpbmUgeDE9IjMwIiB5MT0iNTEiIHgyPSI2MCIgeTI9IjUxIi8+PHBhdGggZD0iTTQ1LDIwIEM2MSwyMCA2NywyNiA2NywzMyBDNjcsNDAgNjEsNDYgNDUsNDYiLz48L2c+PC9zdmc+">
 <title>Plithos: The Orthodox Churches of the World</title>
 <script>var PL_TITLE=document.title;</script>
@@ -112,6 +112,11 @@ footer .cpy{font-family:var(--mono);font-size:11.5px;letter-spacing:.09em;color:
 .site .lb{display:block;font-size:11.5px;color:var(--muted);word-break:normal;margin-bottom:1px}
 .site a{font-family:var(--mono);border-bottom:1px solid rgba(110,43,59,.28)}
 .site+.site{margin-top:5px}
+.contact{margin:7px 0 0;font-size:13px;color:var(--ink-soft);word-break:break-word}
+.contact .lb{display:block;font-size:11.5px;color:var(--muted);margin-bottom:1px}
+.contact a{font-family:var(--mono);border-bottom:1px solid rgba(110,43,59,.28)}
+.contactseen{font-family:var(--mono);font-size:10.5px;color:var(--muted);margin:5px 0 0}
+.contactseen a{color:var(--muted);border-bottom:1px solid var(--rule)}
 .standing{font-size:14.5px;color:var(--ink);margin:7px 0 0;max-width:66ch;
   border-inline-start:2px solid var(--rule);padding-inline-start:10px}
 .seen{font-family:var(--mono);font-size:10.5px;color:var(--muted);margin:7px 0 0}
@@ -282,6 +287,7 @@ function hits(r){
   var root=byId[jurisdictionId(r)];
   var hay=[r.name,rowName(r),r.styled,rowStyled(r),r.local,r.seat||"",r.seat?rowSeat(r):"",
            (r.address||[]).join(" "),countryName(r.country),rowRank(r),
+           (r.emails||[]).join(" "),(r.phones||[]).join(" "),
            (r.parent&&byId[r.parent])?rowName(byId[r.parent]):"",root?rowName(root):""].join(" ");
   return fold(hay).indexOf(query)>=0;
 }
@@ -331,6 +337,31 @@ function rowStyled(r){ var m=W&&(W[lang]||{}).styled; return (m&&m[r.id])||r.sty
    English, which is how every unfinished string on this site falls back:
    visibly, and on that one row rather than on the page. */
 function rowRank(r){ var m=W&&(W[lang]||{}).ranks; return (m&&m[r.rank])||r.rank; }
+
+/* The first answering door above this body. The canonical rows keep one
+   source of truth: `site` is the body's own site, while `parent` walks to the
+   diocese, Church, or other body above it. Walking the chain here prevents a
+   parish whose immediate deanery has no site from losing the diocesan door. */
+function higherSite(r){
+  var seen={}, p=r&&r.parent, a, owner;
+  while(p&&byId[p]&&!seen[p]){
+    seen[p]=1; a=byId[p];
+    if(a.site){
+      owner=(a.site_of&&byId[a.site_of])?byId[a.site_of]:a;
+      return [rowName(owner),a.site];
+    }
+    p=a.parent;
+  }
+  return null;
+}
+
+function telephoneLink(v){
+  var s=String(v||""), lead=s.charAt(0)==="+"?"+":"", digits;
+  if(/ext\s*:|\/\s/i.test(s)||(s.match(/\+/g)||[]).length>1)return "";
+  digits=s.replace(/[^0-9]/g,"");
+  if(digits.length<7)return "";
+  return "tel:"+lead+digits;
+}
 
 /* A diocese belongs to a Church and is drawn inside it, because that is the
    shape of the thing: the reader comes down from a Church to the diocese
@@ -496,14 +527,15 @@ function body(r,tag){
      has not, and two hundred and forty rows were saying so. The Church above
      is given as well where a body has its own, so that a link gone dead is
      not the end of a reader's search. */
-  var doors=[], up=(r.parent&&byId[r.parent])||null;
+  var doors=[], updoor;
   if(r.site_of&&r.site){
     var of=byId[r.site_of];
     doors.push([of?rowName(of):t("website"), r.site]);
   }else if(r.site){
     doors.push([t("website"), r.site]);
   }
-  if(up&&up.site) doors.push([rowName(up), up.site]);
+  updoor=higherSite(r);
+  if(updoor) doors.push(updoor);
   var shown={};
   doors.forEach(function(d){
     var hh=host(d[1]);
@@ -512,6 +544,32 @@ function body(r,tag){
     h+='<p class="site"><span class="lb">'+esc(d[0])+colon()+"</span>"+
        '<a href="'+esc(d[1])+'" rel="noopener">'+esc(hh)+"</a></p>";
   });
+  if(r.emails&&r.emails.length){
+    h+='<p class="contact"><span class="lb">'+esc(t("email"))+colon()+"</span>";
+    r.emails.forEach(function(e,i){
+      if(i)h+="<br>";
+      h+='<a href="mailto:'+esc(e)+'">'+esc(e)+"</a>";
+    });
+    h+="</p>";
+  }
+  if(r.phones&&r.phones.length){
+    h+='<p class="contact"><span class="lb">'+esc(t("phone"))+colon()+"</span>";
+    r.phones.forEach(function(p,i){
+      var phoneHref=telephoneLink(p);
+      if(i)h+="<br>";
+      h+=phoneHref?'<a href="'+esc(phoneHref)+'">'+esc(p)+"</a>":esc(p);
+    });
+    h+="</p>";
+  }
+  if((r.emails&&r.emails.length)||(r.phones&&r.phones.length)){
+    h+='<p class="contactseen">'+esc(t("contactConfirmed"))+" "+
+       esc(theDay(r.contact_checked));
+    (r.contact_sources||[]).forEach(function(u){
+      var hh=host(u);
+      h+=' <a href="'+esc(u)+'" rel="noopener">'+esc(hh)+"</a>";
+    });
+    h+="</p>";
+  }
   if(r.standing){
     h+='<p class="standing">'+esc(r.standing);
     if(r.standing_source) h+=' <a href="'+esc(r.standing_source)+'" rel="noopener">'+esc(host(r.standing_source))+"</a>";

@@ -1,0 +1,289 @@
+{
+  "v": 1,
+  "country": "CD",
+  "checked": "2026-11-15",
+  "method": "Current official Patriarchate of Alexandria and Moscow Patriarchate records were reconciled body by body. Current official directories of every other plausible canonical jurisdiction were checked where accessible. Search engines, maps, missionary organizations, and general directories were used only to discover possible bodies and coverage gaps. The overlapping Alexandrian and Moscow structures are recorded without deciding their competing territorial claims. Unnamed, count-only, older, uncertain, affiliation-unclear, noncanonical, and third-party-only identities remain unpublished.",
+  "published_summary": {
+    "existing_alexandrian_parents": 5,
+    "ax-kinshasa": 4,
+    "ax-kananga": 1,
+    "ax-katanga": 0,
+    "ax-goma": 0,
+    "ax-kisangani": 4,
+    "ru-south-africa": 12,
+    "russian_named_deaneries": 2,
+    "russian_named_parishes": 10,
+    "russian_roster_total_parishes": 19,
+    "russian_aggregate_only_remainder": 9,
+    "new_subordinate_bodies": 21
+  },
+  "candidates": [
+    {
+      "candidate_id": "cd-ru-count-only-remainder",
+      "parent": "ru-south-africa",
+      "country": "CD",
+      "name": "Nine roster parish positions not individually reconciled",
+      "status": "hold until the competent diocese publishes their exact current identities",
+      "reason": "The live South African Diocese page reports four parishes in the Kinshasa deanery and fifteen in the Southern deanery, nineteen total. Ten exact named current parishes can be tied to official 2026 body records. The other nine roster positions are not expanded into exact current dedications and localities. The named parishes are not assigned to a deanery in the publication rows unless a body-level source supplies that relationship.",
+      "sources": [
+        "https://exarchate-africa.ru/dioceses_cat/yuzhno-afrikanskaya-eparhiya/"
+      ]
+    },
+    {
+      "candidate_id": "cd-ru-matadi-unnamed-worship",
+      "parent": "ru-south-africa",
+      "country": "CD",
+      "name": "Unnamed Russian Orthodox worship in Matadi",
+      "status": "hold until an official source records a stable named parish, mission, chapel, or church",
+      "reason": "The official January 2025 report records the first Divine Liturgy and Baptism in Matadi but gives no dedication or named local body. A one-time worship event does not provide an exact directory identity, and Matadi is not listed among the live roster contacts.",
+      "sources": [
+        "https://exarchate-africa.ru/novosti/v-gorode-matadi-dr-kongo-soversheny-pervaya-liturgiya-i-tainstvo-kreshheniya/",
+        "https://exarchate-africa.ru/dioceses_cat/yuzhno-afrikanskaya-eparhiya/"
+      ]
+    },
+    {
+      "candidate_id": "cd-ru-legal-registration",
+      "parent": "ru-south-africa",
+      "country": "CD",
+      "name": "Russian Orthodox Church legal registration in the Democratic Republic of the Congo",
+      "status": "exclude as a legal record rather than a separate worship or administrative body",
+      "reason": "The October 2026 report records a state registration certificate for the Russian Orthodox Church and names current parish clergy who attended. The certificate is not a parish, mission, monastery, chapel, deanery, or church building, and the clergy's parishes are already reconciled separately.",
+      "sources": [
+        "https://exarchate-africa.ru/novosti/russkaya-pravoslavnaya-czerkov-poluchila-svidetelstvo-o-gosudarstvennoj-registraczii-v-demokraticheskoj-respublike-kongo/"
+      ]
+    },
+    {
+      "candidate_id": "cd-ax-katanga-current-body-roster-gap",
+      "parent": "ax-katanga",
+      "country": "CD",
+      "name": "Current subordinate-body roster of the Holy Metropolis of Katanga",
+      "status": "hold every subordinate identity until the Patriarchate publishes exact current body evidence",
+      "reason": "The current patriarchal register establishes the Holy Metropolis of Katanga and its Lubumbashi see but does not enumerate its present churches, chapels, monastery, seminary, missions, or construction sites. A general directory supplies many Katanga identities, including a mixture of Alexandrian and Coptic bodies, but does not renew their current canonical parentage or status.",
+      "sources": [
+        "https://www.patriarchateofalexandria.com/iera-mitropoli-katangkas/",
+        "https://orthodox-world.org/en/c/237/democratic-republic-of-congo",
+        "https://copticmission.org/about-us"
+      ]
+    },
+    {
+      "candidate_id": "cd-ax-goma-current-body-roster-gap",
+      "parent": "ax-goma",
+      "country": "CD",
+      "name": "Current subordinate-body roster of the Holy Diocese of Goma and Great Kivu",
+      "status": "hold every subordinate identity until the Patriarchate publishes exact current body evidence",
+      "reason": "The current patriarchal register establishes the diocese and its Goma see but does not enumerate current subordinate bodies. A general directory names bodies in Goma, Bukavu, Kamaniola, Uvira, Baraka, Kabare, Walungu, and Fizi, yet it cannot establish current status or distinguish all Alexandrian, Moscow, older, and generic community identities.",
+      "sources": [
+        "https://www.patriarchateofalexandria.com/iera-episkopi-gkomas/",
+        "https://orthodox-world.org/en/c/237/democratic-republic-of-congo"
+      ]
+    },
+    {
+      "candidate_id": "cd-ax-kinshasa-kananga-unrenewed-identities",
+      "country": "CD",
+      "name": "Unmatched Kinshasa and Kananga identities in a general Orthodox directory",
+      "status": "hold each unmatched identity until a competent current Church source confirms it",
+      "reason": "The general directory includes the exact current Kinshasa and Kananga bodies published here, but also older or unmatched churches, cathedrals, chapels, schools, a seminary, a convent, and generic institutional labels. Current March 2026 patriarchal reports renew four exact Kinshasa bodies and Saint Andrew in Kananga. Neither territorial responsibility nor a third-party listing renews the other identities.",
+      "sources": [
+        "https://orthodox-world.org/en/c/237/democratic-republic-of-congo",
+        "https://www.patriarchateofalexandria.com/egkainia-nipiagogeioy-stin-kinsasa/",
+        "https://www.patriarchateofalexandria.com/chara-megali-gia-tin-orthodoxi-ierapostoli/"
+      ]
+    },
+    {
+      "candidate_id": "cd-ax-kisangani-older-omitted-bodies",
+      "parent": "ax-kisangani",
+      "country": "CD",
+      "name": "Older Saint Barbara and Saints Anna and Nectarios identities omitted from the current diocesan church list",
+      "status": "hold until the diocese renews them as current exact bodies",
+      "reason": "The diocesan site has older project reporting for a Saints Anna and Nectarios church, while a general directory lists Saint Barbara Church in Dungu. The live diocesan church page, modified in 2026, names only four churches: Annunciation in Kisangani, Saint Nicholas in Bunia, Saint Demetrius in Isiro, and Saints Athanasius and Lazarus at Lake Albert. The older or third-party identities are not silently carried forward.",
+      "sources": [
+        "https://iekisangani.com/%ce%b9%ce%b5%cf%81%ce%bf%ce%af-%ce%bd%ce%b1%ce%bf%ce%af/",
+        "https://iekisangani.com/%ce%b5%ce%be%ce%ad%ce%bb%ce%b9%ce%be%ce%b7-%ce%ad%cf%81%ce%b3%cf%89%ce%bd-%cf%83%cf%84%ce%bf%ce%bd-%ce%b9-%ce%bd%ce%b1%cf%8c-%ce%b1%ce%b3%ce%af%ce%b1%cf%82-%ce%ac%ce%bd%ce%bd%ce%b7%cf%82-%ce%ba%ce%b1/",
+        "https://orthodox-world.org/en/c/237/democratic-republic-of-congo"
+      ]
+    },
+    {
+      "candidate_id": "cd-general-directory-discovery-only",
+      "country": "CD",
+      "name": "Seventy-six mixed entries in a general Orthodox directory",
+      "status": "hold every unmatched identity as discovery evidence only",
+      "reason": "The page reports six cathedrals, one seminary, fifty-five churches, one archdiocese, four chapels, three monasteries, two missions, and four schools. It mixes current Alexandrian overlaps, Coptic Oriental Orthodox bodies, older identities, generic communities, institutions outside the publication schema, and entries whose current parentage is unclear. Its count and names are not treated as publication proof.",
+      "sources": [
+        "https://orthodox-world.org/en/c/237/democratic-republic-of-congo",
+        "https://www.patriarchateofalexandria.com/archdioceses/?lang=en",
+        "https://exarchate-africa.ru/dioceses_cat/yuzhno-afrikanskaya-eparhiya/"
+      ]
+    },
+    {
+      "candidate_id": "cd-affiliation-unclear-african-province",
+      "country": "CD",
+      "name": "DR Congo parish claims of the African Province calling itself Orthodox Church of America",
+      "status": "exclude unless a recognized autocephalous Eastern Orthodox Church accepts and publishes the exact bodies",
+      "reason": "The African Province page lists bodies in Lubumbashi, Likasi, Kalemie, and Moba under an independent organization using an OCA-like name and inviting independent clergy. The official Orthodox Church in America parish directory does not identify that page as its jurisdictional roster. The claimed bodies remain affiliation-unclear.",
+      "sources": [
+        "https://oca-uaoc.org/african-province.html",
+        "https://www.oca.org/parishes/search"
+      ]
+    }
+  ],
+  "dedupe_notes": [
+    {
+      "scope": "Apostle Andrew identities in Kinshasa and Kananga",
+      "result": "The current Patriarchate of Alexandria report names Saint Andrew Church in Kananga, not Kinshasa. The current Moscow report independently names an Apostle Andrew parish in Kinshasa. No Alexandrian Kinshasa Saint Andrew row is created from older or third-party material, and the current Moscow body remains distinct from every Alexandrian body.",
+      "sources": [
+        "https://www.patriarchateofalexandria.com/chara-megali-gia-tin-orthodoxi-ierapostoli/",
+        "https://exarchate-africa.ru/fotoalbomy/veruyushhie-v-demokraticheskoj-respublike-kongo-vstretili-svetloe-hristovo-voskresenie/",
+        "https://orthodox-world.org/en/c/237/democratic-republic-of-congo"
+      ]
+    },
+    {
+      "scope": "Archangel Raphael temporary church in Kinshasa",
+      "result": "The August 2026 report identifies the temporary church and its finishing work as the worship venue of the Archangel Raphael parish. The venue is not represented as a second body. One current parish row is published.",
+      "sources": [
+        "https://exarchate-africa.ru/novosti/provedeny-otdelochnye-raboty-vo-vremennom-hrame-arhangela-rafaila-v-stolicze-dr-kongo/"
+      ]
+    },
+    {
+      "scope": "Saint Nicholas parish and construction body in Tenke",
+      "result": "The live Moscow roster names the Saint Nicholas the Wonderworker parish in Tenke. The January 2026 report records the foundation stone for its future church, and the May report renews active parish worship. These are one current parish and building project, published once with rank Church Under Construction.",
+      "sources": [
+        "https://exarchate-africa.ru/dioceses_cat/yuzhno-afrikanskaya-eparhiya/",
+        "https://exarchate-africa.ru/novosti/sostoyalos-osvyashhenie-zakladnogo-kamnya-v-osnovanie-hrama-svyatitelya-nikolaya-chudotvorcza-na-yuge-dr-kongo/",
+        "https://exarchate-africa.ru/novosti/na-prihodah-russkoj-pravoslavnoj-czerkvi-v-demokraticheskoj-respublike-kongo-prohodit-gumanitarnaya-akcziya/"
+      ]
+    },
+    {
+      "scope": "Great Martyr George parish and construction body in Katala",
+      "result": "The November 2025 foundation-stone report and August 2026 parish visit identify the same Great Martyr George the Victory-Bearer body in Katala. It is published once with rank Church Under Construction.",
+      "sources": [
+        "https://exarchate-africa.ru/novosti/osvyashhen-zakladnoj-kamen-v-osnovanie-budushhego-hrama-v-chest-velikomuchenika-georgiya-v-dr-kongo/",
+        "https://exarchate-africa.ru/novosti/blagochinnyj-prihodov-v-dr-kongo-sovershaet-poezdku-po-obshhinam-na-yuge-strany/"
+      ]
+    },
+    {
+      "scope": "Saint Nicholas bodies across Kinshasa, Tenke, and Luena",
+      "result": "The Saint Nicholas Metropolitan Church of the Hellenic Community in Kinshasa belongs to the Patriarchate of Alexandria. Moscow sources independently name Saint Nicholas bodies in Tenke and Luena. Different places and jurisdictions are preserved as three bodies rather than collapsed by dedication.",
+      "sources": [
+        "https://www.patriarchateofalexandria.com/o-patriarchis-alexandreias-epsalle-toys-chairetismoys-stin-kinsasa/",
+        "https://exarchate-africa.ru/dioceses_cat/yuzhno-afrikanskaya-eparhiya/",
+        "https://exarchate-africa.ru/novosti/blagochinnyj-prihodov-v-dr-kongo-sovershaet-poezdku-po-obshhinam-na-yuge-strany/"
+      ]
+    },
+    {
+      "scope": "Kikwit current and older identities",
+      "result": "The April 2026 Moscow report identifies the current Saint Moses the Black parish in Kikwit. A general directory also lists an older Saints Eleftherios and Athanasius the Great identity there without current first-party renewal. The two names are not merged, and only the exact current Moscow body is published.",
+      "sources": [
+        "https://exarchate-africa.ru/novosti/v-velikuyu-subbotu-na-prihode-prepodobnogo-moiseya-murina-v-dr-kongo-krestilis-11-chelovek/",
+        "https://orthodox-world.org/en/c/237/democratic-republic-of-congo"
+      ]
+    },
+    {
+      "scope": "Current Kisangani diocesan church roster",
+      "result": "The current diocesan page supplies exactly four named churches. Older project reports and a general directory are not used to add more rows, and the four current churches are not duplicated under generic community or cathedral wording.",
+      "sources": [
+        "https://iekisangani.com/%ce%b9%ce%b5%cf%81%ce%bf%ce%af-%ce%bd%ce%b1%ce%bf%ce%af/",
+        "https://orthodox-world.org/en/c/237/democratic-republic-of-congo"
+      ]
+    }
+  ],
+  "official_jurisdiction_audit": [
+    {
+      "jurisdiction": "Patriarchate of Alexandria",
+      "result": "The current patriarchal register establishes five DR Congo parents: Kinshasa, Kananga, Katanga, Goma and Great Kivu, and Bunia, Kisangani and Eastern Congo. March 2026 patriarchal reports renew four exact Kinshasa bodies and Saint Andrew in Kananga. The current Kisangani diocesan church page names four exact churches. These nine subordinate bodies are published; other identities remain held without current body-level evidence.",
+      "sources": [
+        "https://www.patriarchateofalexandria.com/archdioceses/?lang=en",
+        "https://www.patriarchateofalexandria.com/egkainia-nipiagogeioy-stin-kinsasa/",
+        "https://iekisangani.com/%ce%b9%ce%b5%cf%81%ce%bf%ce%af-%ce%bd%ce%b1%ce%bf%ce%af/"
+      ]
+    },
+    {
+      "jurisdiction": "Moscow Patriarchate, Patriarchal Exarchate of Africa",
+      "result": "The live South African Diocese roster reports two DR Congo deaneries with nineteen parishes. Current 2026 official records name ten exact parishes, including two current church construction sites. The two deaneries and ten named parishes are published. Nine aggregate-only roster positions remain held.",
+      "sources": [
+        "https://exarchate-africa.ru/dioceses_cat/yuzhno-afrikanskaya-eparhiya/",
+        "https://exarchate-africa.ru/novosti/provedeny-otdelochnye-raboty-vo-vremennom-hrame-arhangela-rafaila-v-stolicze-dr-kongo/",
+        "https://exarchate-africa.ru/novosti/blagochinnyj-prihodov-v-dr-kongo-sovershaet-poezdku-po-obshhinam-na-yuge-strany/"
+      ]
+    },
+    {
+      "jurisdiction": "Ecumenical Patriarchate, Antiochian Patriarchate, and ROCOR",
+      "result": "Their current official entity or jurisdiction directories were checked and did not name a DR Congo body. This is a bounded directory result, not a general country-level absence claim.",
+      "sources": [
+        "https://ec-patr.org/en/entities/",
+        "https://www.antiochpatriarchate.org/en/page/2996/",
+        "https://directory.synod.com/listings/"
+      ]
+    },
+    {
+      "jurisdiction": "Romanian Patriarchate, Serbian Patriarchate, and Orthodox Church in America",
+      "result": "Their current official external-community, diocesan, or parish directories were checked and did not name a DR Congo body. The independent African Province using an OCA-like title is not treated as the official OCA. This is a bounded directory result, not a general absence claim.",
+      "sources": [
+        "https://patriarhia.ro/en/organization-of-the-romanian-orthodox-church/external-representations-and-communities/",
+        "https://www.spc.rs/en/96.dioceses-of-the-soc.html",
+        "https://www.oca.org/parishes/search"
+      ]
+    },
+    {
+      "jurisdiction": "Jerusalem Patriarchate, Bulgarian Patriarchate, and Georgian Patriarchate",
+      "result": "Their current official jurisdictional or institutional sites and DR Congo-targeted records were checked and did not identify an exact current body of these Churches in the country. This is a bounded official-site result, not a general absence claim.",
+      "sources": [
+        "https://en.jerusalem-patriarchate.info/",
+        "https://bg-patriarshia.bg/en",
+        "https://patriarchate.ge/"
+      ]
+    },
+    {
+      "jurisdiction": "Church of Cyprus, Church of Greece, and Polish Orthodox Church",
+      "result": "The official sites of the Church of Greece and Polish Orthodox Church and their DR Congo-targeted records were checked and did not name an exact current body. The Church of Cyprus site returned an access restriction during the final URL probe, so no negative claim is made for it and no body is inferred from the gap. References to mission support or to another Orthodox Church were not converted into jurisdictional presence.",
+      "sources": [
+        "https://churchofcyprus.org.cy/",
+        "https://www.ecclesia.gr/English/EnIndex.html",
+        "https://www.orthodox.pl/"
+      ]
+    },
+    {
+      "jurisdiction": "Orthodox Church of Albania and Orthodox Church of the Czech Lands and Slovakia",
+      "result": "The current official Albanian structure page and the accessible official Slovak church site were checked and did not name an exact current DR Congo body. The central Czech site was access-restricted during the audit, so no broader negative claim is made.",
+      "sources": [
+        "https://orthodoxalbania.org/2026/en/2014/03/12/about-us/",
+        "https://orthodox.sk/pravoslavna-cirkev/"
+      ]
+    },
+    {
+      "jurisdiction": "Other canonical Local Churches and diaspora structures",
+      "result": "No additional DR Congo row is published without an exact current first-party jurisdictional citation. This records incomplete verification for structures not individually listed and makes no general absence claim.",
+      "sources": [
+        "https://www.patriarchateofalexandria.com/archdioceses/?lang=en",
+        "https://exarchate-africa.ru/dioceses_cat/yuzhno-afrikanskaya-eparhiya/"
+      ]
+    }
+  ],
+  "exclusions": [
+    {
+      "scope": "Coptic and other Oriental Orthodox bodies",
+      "result": "Oriental Orthodox bodies are outside this Eastern Orthodox directory. The Coptic mission reports twenty Coptic churches in the DR Congo served by nine priests, while the general directory mixes Coptic bodies with Eastern Orthodox entries. The count and names are recorded only to prevent accidental inclusion or confusion with the Eastern Orthodox Patriarchate of Alexandria.",
+      "sources": [
+        "https://copticmission.org/about-us",
+        "https://orthodox-world.org/en/c/237/democratic-republic-of-congo"
+      ]
+    },
+    {
+      "scope": "Independent and affiliation-unclear bodies",
+      "result": "Bodies remain outside the publication set unless a current autocephalous Eastern Orthodox Church names the exact body among its own. An independent organization using an OCA-like title, a map label, or a general directory entry does not establish current canonical reception or parentage.",
+      "sources": [
+        "https://oca-uaoc.org/african-province.html",
+        "https://www.oca.org/parishes/search",
+        "https://orthodox-world.org/en/c/237/democratic-republic-of-congo"
+      ]
+    },
+    {
+      "scope": "Schools, orphanages, legal entities, and one-time worship venues",
+      "result": "Schools, orphanages, state registrations, and unnamed one-time venues are not converted into separate directory rows. A worship body located at such a site is published only when a competent Church source provides its stable exact identity, as with the current named parishes already represented.",
+      "sources": [
+        "https://exarchate-africa.ru/novosti/russkaya-pravoslavnaya-czerkov-poluchila-svidetelstvo-o-gosudarstvennoj-registraczii-v-demokraticheskoj-respublike-kongo/",
+        "https://exarchate-africa.ru/novosti/v-gorode-matadi-dr-kongo-soversheny-pervaya-liturgiya-i-tainstvo-kreshheniya/",
+        "https://orthodox-world.org/en/c/237/democratic-republic-of-congo"
+      ]
+    }
+  ]
+}

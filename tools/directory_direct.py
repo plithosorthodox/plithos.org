@@ -30,11 +30,13 @@ import directory_ireland
 import directory_italy
 import directory_jordan
 import directory_liechtenstein
+import directory_lebanon
 import directory_malta_gibraltar
 import directory_mongolia
 import directory_norway
 import directory_serbia
 import directory_slovenia
+import directory_south_africa
 import directory_sweden
 import directory_switzerland
 
@@ -137,13 +139,16 @@ ROWS["russia"].extend(directory_norway.build()["russia"]["rows"])
 ROWS["russia"].extend(directory_serbia.DIRECT_RUSSIA_ROWS)
 ROWS["russia"].extend(directory_sweden.DIRECT_RUSSIA_ROWS)
 ROWS["russia"].extend(directory_switzerland.build()["russia"]["rows"])
+ROWS["russia"].extend(directory_lebanon.DIRECT_RUSSIA_ROWS)
 ROWS["romania"].extend(directory_liechtenstein.DIRECT_ROMANIA_ROWS)
 ROWS["romania"].extend(directory_bulgaria.DIRECT_ROMANIA_ROWS)
 ROWS["romania"].extend(directory_belgium.build()["romania"]["rows"])
 ROWS["romania"].extend(directory_croatia.build()["romania"]["rows"])
 ROWS["romania"].extend(directory_cyprus.DIRECT_ROMANIA_ROWS)
 ROWS["romania"].extend(directory_slovenia.build()["romania"]["rows"])
+ROWS["romania"].extend(directory_south_africa.build()["romania"]["rows"])
 ROWS["serbia"].extend(directory_botswana.DIRECT_SERBIA_ROWS)
+ROWS["serbia"].extend(directory_south_africa.build()["serbia"]["rows"])
 
 
 def clean(row):
@@ -198,12 +203,12 @@ def build():
             "countries": sorted(countries),
             "rows": rows,
         }
-    if len(payloads["russia"]["rows"]) != 60:
-        raise ValueError("the direct Russia branch must have 60 rows")
-    if len(payloads["romania"]["rows"]) != 9:
-        raise ValueError("the direct Romania branch must have 9 rows")
-    if len(payloads["serbia"]["rows"]) != 1:
-        raise ValueError("the direct Serbia branch must have 1 row")
+    if len(payloads["russia"]["rows"]) != 62:
+        raise ValueError("the direct Russia branch must have 62 rows")
+    if len(payloads["romania"]["rows"]) != 10:
+        raise ValueError("the direct Romania branch must have 10 rows")
+    if len(payloads["serbia"]["rows"]) != 2:
+        raise ValueError("the direct Serbia branch must have 2 rows")
     return payloads
 
 

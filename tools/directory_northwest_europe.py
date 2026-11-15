@@ -29,6 +29,7 @@ import directory_cambodia
 import directory_cameroon
 import directory_chile
 import directory_congo_brazzaville
+import directory_congo_dr
 import directory_croatia
 import directory_cyprus
 import directory_czechia
@@ -51,6 +52,7 @@ import directory_kazakhstan
 import directory_kenya
 import directory_kyrgyzstan
 import directory_laos
+import directory_lebanon
 import directory_liechtenstein
 import directory_libya
 import directory_luxembourg
@@ -86,6 +88,8 @@ import directory_zambia
 import directory_zimbabwe
 import directory_sudan
 import directory_south_sudan
+import directory_south_africa
+import directory_tanzania
 
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -107,6 +111,7 @@ SOURCE_MODULES = (
     directory_cameroon,
     directory_chile,
     directory_congo_brazzaville,
+    directory_congo_dr,
     directory_croatia,
     directory_cyprus,
     directory_czechia,
@@ -128,6 +133,7 @@ SOURCE_MODULES = (
     directory_kenya,
     directory_kyrgyzstan,
     directory_laos,
+    directory_lebanon,
     directory_liechtenstein,
     directory_libya,
     directory_luxembourg,
@@ -162,8 +168,10 @@ SOURCE_MODULES = (
     directory_zimbabwe,
     directory_sudan,
     directory_south_sudan,
+    directory_south_africa,
+    directory_tanzania,
 )
-DIRECT_PARENTS = {"romania", "russia"}
+DIRECT_PARENTS = {"romania", "russia", "serbia"}
 
 
 def payload_countries(payload):
@@ -243,6 +251,21 @@ def build():
             raise ValueError("%s is not an Azerbaijani Georgian row" % row_id)
         row_ids.add(row_id)
         payload["rows"].append(directory_azerbaijan.clean(row))
+    # Lebanon's two patriarchal monasteries answer directly to Antioch, and
+    # the Younes shrine hangs beneath Balamand. Sweden already owns the shared
+    # Antioch branch, so append these exact direct bodies to that one payload.
+    parent = "antioch"
+    payload = payloads[parent]
+    countries[parent].add("LB")
+    for source in directory_lebanon.DIRECT_ANTIOCH_ROWS:
+        row = directory_lebanon.clean(source)
+        row_id = row.get("id")
+        if not row_id or row_id in row_ids:
+            raise ValueError("duplicate or missing row id: %s" % row_id)
+        if row.get("country") != "LB":
+            raise ValueError("%s is not a Lebanese Antioch row" % row_id)
+        row_ids.add(row_id)
+        payload["rows"].append(row)
     # The OCU vicariate spans Europe and Australia. This module already owns
     # its shared payload, so append the Australian official-directory rows
     # here rather than creating a second branch owner in Oceania.
@@ -264,9 +287,9 @@ def build():
         else:
             payload["countries"] = scope
     row_count = sum(len(p["rows"]) for p in payloads.values())
-    if len(payloads) != 243 or row_count != 21136:
+    if len(payloads) != 256 or row_count != 21262:
         raise ValueError(
-            "combined country branches must publish 243 parents and 21136 "
+            "combined country branches must publish 256 parents and 21262 "
             "rows, got %d parents and %d rows" %
             (len(payloads), row_count))
     return dict(sorted(payloads.items()))
@@ -335,7 +358,7 @@ def main():
         for error in errors:
             print(error, file=sys.stderr)
         return 1
-    print("Combined country branches: 243 parents, 21136 subordinate bodies")
+    print("Combined country branches: 256 parents, 21262 subordinate bodies")
     return 0
 
 

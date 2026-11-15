@@ -60,11 +60,11 @@ RO_MITR_RO = "https://patriarhia.ro/organizarea-bisericii-ortodoxe-romane/mitrop
 # spelling. The row carries the letter the title plainly means. Nothing else
 # on any row is altered from what the body prints.
 #
-# No telephone numbers. They are the field that goes stale invisibly, and
-# the ones on the list read here already carried a Moscow dialling code
-# retired in the 1990s. A website that answers is a better address than a
-# number that does not, and the numbers come back per row when each body's
-# own site has been read.
+# Public institutional email addresses and telephone numbers may be recorded
+# as `emails` and `phones` when the body or its Church publishes them for
+# contact. They keep a separate `contact_checked` date and
+# `contact_sources`, because refreshing a telephone number does not establish
+# that every other fact on the row was read again.
 
 CHURCHES = [
  dict(id="constantinople", order=1, kind="church",
