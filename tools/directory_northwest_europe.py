@@ -24,6 +24,7 @@ import directory_bosnia_montenegro
 import directory_brazil
 import directory_burundi
 import directory_bulgaria
+import directory_cambodia
 import directory_cameroon
 import directory_chile
 import directory_congo_brazzaville
@@ -39,11 +40,13 @@ import directory_hungary
 import directory_hong_kong
 import directory_iceland
 import directory_iberia
+import directory_indonesia
 import directory_ireland
 import directory_iraq
 import directory_italy
 import directory_kazakhstan
 import directory_kyrgyzstan
+import directory_laos
 import directory_liechtenstein
 import directory_libya
 import directory_luxembourg
@@ -69,6 +72,7 @@ import directory_thailand
 import directory_tunisia
 import directory_turkmenistan
 import directory_uzbekistan
+import directory_vietnam
 import directory_sudan
 import directory_south_sudan
 
@@ -87,6 +91,7 @@ SOURCE_MODULES = (
     directory_brazil,
     directory_burundi,
     directory_bulgaria,
+    directory_cambodia,
     directory_cameroon,
     directory_chile,
     directory_congo_brazzaville,
@@ -107,6 +112,7 @@ SOURCE_MODULES = (
     directory_italy,
     directory_kazakhstan,
     directory_kyrgyzstan,
+    directory_laos,
     directory_liechtenstein,
     directory_libya,
     directory_luxembourg,
@@ -131,6 +137,7 @@ SOURCE_MODULES = (
     directory_tunisia,
     directory_turkmenistan,
     directory_uzbekistan,
+    directory_vietnam,
     directory_sudan,
     directory_south_sudan,
 )
@@ -182,6 +189,24 @@ def build():
                 raise ValueError("duplicate or missing row id: %s" % row_id)
             row_ids.add(row_id)
             payload["rows"].append(row)
+    # Indonesia contributes to the existing Singapore branches of both the
+    # Ecumenical and Moscow Patriarchates. Its ROCOR bodies remain with the
+    # established Australia and New Zealand branch owner in directory_korea.
+    indonesia = directory_indonesia.build()
+    for parent in (
+            directory_indonesia.EP_PARENT,
+            directory_indonesia.MP_PARENT):
+        contribution = indonesia[parent]
+        payload = payloads.setdefault(
+            parent, {"v": 1, "parent": parent, "rows": []})
+        countries.setdefault(parent, set()).update(
+            payload_countries(contribution))
+        for row in contribution["rows"]:
+            row_id = row.get("id")
+            if not row_id or row_id in row_ids:
+                raise ValueError("duplicate or missing row id: %s" % row_id)
+            row_ids.add(row_id)
+            payload["rows"].append(row)
     # Azerbaijan's Georgian churches belong to the existing Georgian branch.
     # The country module keeps them separate from the local Baku Diocese so
     # this shared branch remains the one owner of the Georgian payload.
@@ -217,9 +242,9 @@ def build():
         else:
             payload["countries"] = scope
     row_count = sum(len(p["rows"]) for p in payloads.values())
-    if len(payloads) != 212 or row_count != 19106:
+    if len(payloads) != 212 or row_count != 19144:
         raise ValueError(
-            "combined country branches must publish 212 parents and 19106 "
+            "combined country branches must publish 212 parents and 19144 "
             "rows, got %d parents and %d rows" %
             (len(payloads), row_count))
     return dict(sorted(payloads.items()))
@@ -288,7 +313,7 @@ def main():
         for error in errors:
             print(error, file=sys.stderr)
         return 1
-    print("Combined country branches: 212 parents, 19106 subordinate bodies")
+    print("Combined country branches: 212 parents, 19144 subordinate bodies")
     return 0
 
 

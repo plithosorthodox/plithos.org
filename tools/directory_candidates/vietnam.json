@@ -1,0 +1,63 @@
+{
+  "v": 1,
+  "country": "VN",
+  "checked": "2026-11-15",
+  "method": "The current Philippines and Vietnam Diocese clergy roster was reconciled with the exarchal parish map and current 2026 parish worship records. Search and maps were used only for discovery. Exact current named bodies supported by a competent canonical Church are published.",
+  "published_summary": {
+    "ru-philippines-and-vietnam": 4,
+    "parishes": 4,
+    "total": 4
+  },
+  "reconciliation": [
+    {
+      "scope": "Nha Trang Saint Nicholas parish omitted from the older exarchal map",
+      "result": "The parish was established by the diocesan bishop in February 2024. It appears in the current clergy roster and has current November 2026 worship, so it is published alongside the three older map parishes.",
+      "sources": [
+        "https://phvieparchy.org/en/archpastoral-ministry/uchrezhdyon-prihod-v-g-nyachang/",
+        "https://phvieparchy.org/en/priesthood/",
+        "https://phvieparchy.org/en/parish-news/liturgiya-v-nyachange-3/"
+      ]
+    },
+    {
+      "scope": "Older three-parish diocesan description",
+      "result": "The older diocesan history names Hanoi, Ho Chi Minh City, and Vung Tau. The current clergy roster and later official records add Nha Trang, so the newer four-body union governs publication.",
+      "sources": [
+        "https://phvieparchy.org/en/eparchy/",
+        "https://phvieparchy.org/en/priesthood/"
+      ]
+    }
+  ],
+  "official_jurisdiction_audit": [
+    {
+      "jurisdiction": "Moscow Patriarchate",
+      "result": "Four current parishes are published under the Diocese of the Philippines and Vietnam.",
+      "sources": [
+        "https://phvieparchy.org/en/priesthood/",
+        "https://exarchate.asia/en/karta-prihodov/"
+      ]
+    },
+    {
+      "jurisdiction": "Ecumenical Patriarchate",
+      "result": "Vietnam lies within the territory of the Metropolis of Hong Kong, but its current central roster names no Vietnam parish or monastery and describes other regional worship as service by traveling priests. Territorial jurisdiction alone is not published as a local body.",
+      "sources": [
+        "https://ec-patr.org/entities/iera-mitropoli-xongk-kongk/",
+        "https://omhksea.org/about"
+      ]
+    },
+    {
+      "jurisdiction": "Other canonical Eastern Orthodox jurisdictions",
+      "result": "Current official structures of Antioch, Jerusalem, Serbia, Romania, Bulgaria, Georgia, Poland, the Czech Lands and Slovakia, North Macedonia, ROCOR, the OCA, the UOC, and the OCU were checked for separately administered Vietnam bodies. No additional exact current body was established by those bounded official structures.",
+      "sources": [
+        "https://directory.synod.com/listings/",
+        "https://www.oca.org/parishes",
+        "https://ec-patr.org/en/entities/"
+      ]
+    }
+  ],
+  "exclusions": [
+    {
+      "scope": "Oriental Orthodox bodies and independent map results",
+      "result": "Oriental Orthodox bodies are outside this Eastern Orthodox directory, and discovery results without a competent current canonical parent are not published."
+    }
+  ]
+}

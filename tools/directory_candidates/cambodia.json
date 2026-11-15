@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "country": "KH",
+  "checked": "2026-11-15",
+  "method": "The official Cambodian parish directory of the Moscow Patriarchate was reconciled with the current exarchal map and recent parish worship records. Search and maps were used only for discovery. Exact current named bodies supported by a competent canonical Church are published.",
+  "published_summary": {
+    "ru-thailand": 3,
+    "parishes": 3,
+    "total": 3
+  },
+  "reconciliation": [
+    {
+      "scope": "Siem Reap parish omitted from the older exarchal map",
+      "result": "The current official Cambodian parish directory says the parish was founded in 2022, has no church yet, and holds occasional services. It is published as a Parish in Formation rather than omitted or represented as a completed church.",
+      "sources": [
+        "https://orthodoxchurchcambodia.org/english-version-parishes/",
+        "https://exarchate.asia/en/karta-prihodov/"
+      ]
+    }
+  ],
+  "official_jurisdiction_audit": [
+    {
+      "jurisdiction": "Moscow Patriarchate",
+      "result": "Three current parishes are published under the Diocese of Thailand: Phnom Penh, Sihanoukville, and Siem Reap.",
+      "sources": [
+        "https://orthodoxchurchcambodia.org/english-version-parishes/",
+        "https://patriarchia.ru/article/96839"
+      ]
+    },
+    {
+      "jurisdiction": "Ecumenical Patriarchate",
+      "result": "Cambodia lies within the territory of the Metropolis of Hong Kong, but its current central roster names no Cambodia parish or monastery and describes other regional worship as service by traveling priests. Territorial jurisdiction alone is not published as a local body.",
+      "sources": [
+        "https://ec-patr.org/entities/iera-mitropoli-xongk-kongk/",
+        "https://omhksea.org/about"
+      ]
+    },
+    {
+      "jurisdiction": "Other canonical Eastern Orthodox jurisdictions",
+      "result": "Current official structures of Antioch, Jerusalem, Serbia, Romania, Bulgaria, Georgia, Poland, the Czech Lands and Slovakia, North Macedonia, ROCOR, the OCA, the UOC, and the OCU were checked for separately administered Cambodia bodies. No additional exact current body was established by those bounded official structures.",
+      "sources": [
+        "https://directory.synod.com/listings/",
+        "https://www.oca.org/parishes",
+        "https://ec-patr.org/en/entities/"
+      ]
+    }
+  ],
+  "exclusions": [
+    {
+      "scope": "Oriental Orthodox bodies and independent map results",
+      "result": "Oriental Orthodox bodies are outside this Eastern Orthodox directory, and discovery results without a competent current canonical parent are not published."
+    }
+  ]
+}

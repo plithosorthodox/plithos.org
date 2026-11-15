@@ -19,6 +19,7 @@ import sys
 from pathlib import Path
 
 import directory_australia
+import directory_indonesia
 import directory_new_zealand
 import directory_philippines
 
@@ -286,6 +287,9 @@ ROWS["ru-australia-and-new-zealand-rocor"].extend(
 ROWS["ru-australia-and-new-zealand-rocor"].extend(
     directory_philippines.build()[
         directory_philippines.ROCOR_PARENT]["rows"])
+ROWS["ru-australia-and-new-zealand-rocor"].extend(
+    directory_indonesia.build()[
+        directory_indonesia.ROCOR_PARENT]["rows"])
 
 
 def clean(row):
@@ -325,7 +329,7 @@ def build():
     parent_countries = {
         "ep-korea": ["JP", "KR"],
         "ru-korea": ["KR"],
-        "ru-australia-and-new-zealand-rocor": ["AU", "KR", "NZ", "PH"],
+        "ru-australia-and-new-zealand-rocor": ["AU", "ID", "KR", "NZ", "PH"],
     }
     for parent, source_rows in ROWS.items():
         rows = []
@@ -347,7 +351,10 @@ def build():
                 raise ValueError("%s is outside its branch countries" % work_id)
             if not row.get("name") or not row.get("local"):
                 raise ValueError("%s lacks a name" % work_id)
-            if not row.get("dedication"):
+            # Several current Indonesian ROCOR directory entries are named
+            # only as missions. Do not infer a dedication the source does
+            # not publish.
+            if not row.get("dedication") and row.get("rank") != "Mission":
                 raise ValueError("%s lacks a published dedication" % work_id)
             if row.get("site") and not row["site"].startswith("http"):
                 raise ValueError("%s carries a non-URL site" % work_id)
@@ -367,8 +374,8 @@ def build():
         raise ValueError("the Ecumenical Patriarchate branch must have 12 rows")
     if len(payloads["ru-korea"]["rows"]) != 7:
         raise ValueError("the Moscow Patriarchate branch must have 7 rows")
-    if len(payloads["ru-australia-and-new-zealand-rocor"]["rows"]) != 43:
-        raise ValueError("the ROCOR branch must have 43 rows")
+    if len(payloads["ru-australia-and-new-zealand-rocor"]["rows"]) != 69:
+        raise ValueError("the ROCOR branch must have 69 rows")
     return payloads
 
 
@@ -444,7 +451,7 @@ def main():
         for error in errors:
             print(error, file=sys.stderr)
         return 1
-    print("Korea and shared ROCOR branches: 62 subordinate bodies")
+    print("Korea and shared ROCOR branches: 88 subordinate bodies")
     return 0
 
 

@@ -1,0 +1,54 @@
+{
+  "v": 1,
+  "country": "LA",
+  "checked": "2026-11-15",
+  "method": "Current official exarchal registration, worship, and church-development records were reconciled. Search and maps were used only for discovery. Exact current named bodies supported by a competent canonical Church are published.",
+  "published_summary": {
+    "ru-thailand": 1,
+    "parishes": 1,
+    "total": 1
+  },
+  "reconciliation": [
+    {
+      "scope": "Saint Alexander Nevsky church-building project",
+      "result": "The registered Saint Alexander Nevsky parish already holds current worship. The planned permanent church is part of the same parish and is not counted as a second body.",
+      "sources": [
+        "https://exarchate.asia/2025/04/08/prihod-russkoj-pravoslavnoj-czerkvi-v-laose-poluchil-razreshenie-na-osushhestvlenie-religioznoj-deyatelnosti/",
+        "https://exarchate.asia/en/2026/06/07/v-nedelyu-1-yu-po-pyatidesyatnicze-patriarshij-ekzarh-yugo-vostochnoj-azii-sovershil-bozhestvennuyu-liturgiyu-v-hrame-svyatogo-blagovernogo-velikogo-knyazya-aleksandra-nevskogo-v-g-ventyan-laos/",
+        "https://exarchate.asia/en/2026/06/10/patriarshij-ekzarh-yugo-vostochnoj-azii-provyol-ryad-oficzialnyh-vstrech-v-stolicze-laosskoj-narodno-demokraticheskoj-respubliki/"
+      ]
+    }
+  ],
+  "official_jurisdiction_audit": [
+    {
+      "jurisdiction": "Moscow Patriarchate",
+      "result": "The registered Saint Alexander Nevsky parish in Vientiane is published under the Diocese of Thailand.",
+      "sources": [
+        "https://exarchate.asia/2025/04/08/prihod-russkoj-pravoslavnoj-czerkvi-v-laose-poluchil-razreshenie-na-osushhestvlenie-religioznoj-deyatelnosti/"
+      ]
+    },
+    {
+      "jurisdiction": "Ecumenical Patriarchate",
+      "result": "Laos lies within the territory of the Metropolis of Hong Kong, but its current central roster names no Laos parish or monastery and describes other regional worship as service by traveling priests. Territorial jurisdiction alone is not published as a local body.",
+      "sources": [
+        "https://ec-patr.org/entities/iera-mitropoli-xongk-kongk/",
+        "https://omhksea.org/about"
+      ]
+    },
+    {
+      "jurisdiction": "Other canonical Eastern Orthodox jurisdictions",
+      "result": "Current official structures of Antioch, Jerusalem, Serbia, Romania, Bulgaria, Georgia, Poland, the Czech Lands and Slovakia, North Macedonia, ROCOR, the OCA, the UOC, and the OCU were checked for separately administered Laos bodies. No additional exact current body was established by those bounded official structures.",
+      "sources": [
+        "https://directory.synod.com/listings/",
+        "https://www.oca.org/parishes",
+        "https://ec-patr.org/en/entities/"
+      ]
+    }
+  ],
+  "exclusions": [
+    {
+      "scope": "Oriental Orthodox bodies and independent map results",
+      "result": "Oriental Orthodox bodies are outside this Eastern Orthodox directory, and discovery results without a competent current canonical parent are not published."
+    }
+  ]
+}

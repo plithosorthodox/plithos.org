@@ -727,7 +727,7 @@ DIOCESES = [
 # The countries a row can name, written out so the page has a word to show
 # and a key to filter on. English here; the page carries the rest.
 COUNTRIES = {
-    "AM": "Armenia", "AZ": "Azerbaijan", "BY": "Belarus", "KG": "Kyrgyzstan", "KZ": "Kazakhstan", "LI": "Liechtenstein", "LT": "Lithuania", "LU": "Luxembourg", "LV": "Latvia", "MN": "Mongolia", "MT": "Malta", "NL": "Netherlands", "NZ": "New Zealand", "PH": "Philippines", "QA": "Qatar", "TH": "Thailand", "TJ": "Tajikistan", "TM": "Turkmenistan", "UZ": "Uzbekistan",
+    "AM": "Armenia", "AZ": "Azerbaijan", "BY": "Belarus", "ID": "Indonesia", "KG": "Kyrgyzstan", "KH": "Cambodia", "KZ": "Kazakhstan", "LA": "Laos", "LI": "Liechtenstein", "LT": "Lithuania", "LU": "Luxembourg", "LV": "Latvia", "MN": "Mongolia", "MT": "Malta", "NL": "Netherlands", "NZ": "New Zealand", "PH": "Philippines", "QA": "Qatar", "TH": "Thailand", "TJ": "Tajikistan", "TM": "Turkmenistan", "UZ": "Uzbekistan", "VN": "Vietnam",
     "BA": "Bosnia and Herzegovina", "HR": "Croatia", "ME": "Montenegro",
     "AD": "Andorra", "AL": "Albania", "AT": "Austria", "MD": "Moldova", "BE": "Belgium", "BG": "Bulgaria",
     "BA": "Bosnia and Herzegovina", "CZ": "Czechia", "HR": "Croatia",

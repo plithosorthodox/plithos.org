@@ -1436,6 +1436,31 @@ from directory_moldova import (
 NAMES.update(_MOLDOVA_NAMES)
 del _MOLDOVA_NAMES
 
+from directory_vietnam import (
+    ENGLISH_NAMES as _VIETNAM_NAMES,
+    ENGLISH_SEATS as _VIETNAM_SEATS,
+)
+NAMES.update(_VIETNAM_NAMES)
+del _VIETNAM_NAMES
+
+from directory_cambodia import (
+    ENGLISH_NAMES as _CAMBODIA_NAMES,
+    ENGLISH_SEATS as _CAMBODIA_SEATS,
+)
+NAMES.update(_CAMBODIA_NAMES)
+del _CAMBODIA_NAMES
+
+from directory_laos import (
+    ENGLISH_NAMES as _LAOS_NAMES,
+    ENGLISH_SEATS as _LAOS_SEATS,
+)
+NAMES.update(_LAOS_NAMES)
+del _LAOS_NAMES
+
+from directory_indonesia import ENGLISH_NAMES as _INDONESIA_NAMES
+NAMES.update(_INDONESIA_NAMES)
+del _INDONESIA_NAMES
+
 SEATS = {
     "Istanbul": u"Istanbul",
     "Alexandria": u"Alexandria",
@@ -2171,3 +2196,9 @@ SEATS.update(_PHILIPPINES_SEATS)
 del _PHILIPPINES_SEATS
 SEATS.update(_MOLDOVA_SEATS)
 del _MOLDOVA_SEATS
+SEATS.update(_VIETNAM_SEATS)
+del _VIETNAM_SEATS
+SEATS.update(_CAMBODIA_SEATS)
+del _CAMBODIA_SEATS
+SEATS.update(_LAOS_SEATS)
+del _LAOS_SEATS

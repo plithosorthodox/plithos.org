@@ -1,0 +1,141 @@
+{
+  "v": 1,
+  "country": "ID",
+  "checked": "2026-11-15",
+  "method": "Current official metropolitan, exarchal, diocesan, and synodal parish directories were reconciled across every canonical jurisdiction found in Indonesia. Search engines and maps were used only to discover first-party sources. Exact current named bodies supported by a competent canonical Church are published. Cross-roster aliases are assigned once to the most specific current canonical parent. Historical missions, independent Old Calendarist bodies, and bodies without a current official canonical parent remain here.",
+  "published_summary": {
+    "ep-singapore": 23,
+    "ru-singapore": 7,
+    "ru-australia-and-new-zealand-rocor": 26,
+    "parish_bodies": 56,
+    "total": 56
+  },
+  "candidates": [
+    {
+      "candidate_id": "id-russian-cross-roster-reconciliation",
+      "country": "ID",
+      "name": "Eight Russian bodies named in both the exarchal map and the ROCOR synodal directory",
+      "status": "published once under the more specific ROCOR parent",
+      "reason": "The Moscow exarchal map and the current ROCOR synodal directory describe the same clergy, cities, and congregations for Saint Jonah in Surabaya, Saint Seraphim in Gresik, Saint Sergius in Medan, Saint Athanasius in Jayapura, Saint Thomas in Jakarta, Saint Paraskeva in Tomohon, Saint Nicholas in Singaraja, and the Bandung mission. ROCOR's directory expressly assigns them to its Diocese of Australia and New Zealand, so they are not duplicated under the Moscow Diocese of Singapore.",
+      "sources": [
+        "https://exarchate.asia/en/karta-prihodov/",
+        "https://directory.synod.com/listings/"
+      ]
+    },
+    {
+      "candidate_id": "id-surakarta-two-russian-bodies",
+      "country": "ID",
+      "name": "Meeting of the Lord Parish and Holy Trinity Orthodox Church in Surakarta",
+      "status": "published as two bodies pending any future official merger or alias notice",
+      "reason": "The Moscow exarchal map names a Meeting of the Lord parish in Surakarta, while the current ROCOR directory names Holy Trinity Orthodox Church at a specific Surakarta address. The official sources use different dedications and do not identify them as one body, so neither is silently removed as an alias.",
+      "sources": [
+        "https://exarchate.asia/en/karta-prihodov/",
+        "https://directory.synod.com/listing/186/"
+      ]
+    },
+    {
+      "candidate_id": "id-kupang-two-jurisdictions",
+      "country": "ID",
+      "name": "Saint Kosmas Church and Kupang Mission",
+      "status": "published as distinct current bodies under Constantinople and ROCOR",
+      "reason": "The Metropolitanate of Singapore names Saint Kosmas of Aitolos Church with a street address, while the ROCOR synodal directory separately lists a Kupang Mission. Neither competent source identifies one as an alias or successor of the other.",
+      "sources": [
+        "https://omsgsa.org/parishes-indonesia",
+        "https://directory.synod.com/listing/191/"
+      ]
+    },
+    {
+      "candidate_id": "tl-ep-dili-apostle-andrew",
+      "parent": "ep-singapore",
+      "country": "TL",
+      "name": "Orthodox Community of Apostle Andrew in Dili",
+      "status": "current official body outside the Indonesia country scope",
+      "reason": "The Indonesia roster also names this community in Timor-Leste. It is retained for the Timor-Leste country inventory rather than incorrectly published as an Indonesian row.",
+      "sources": [
+        "https://omsgsa.org/parishes-indonesia"
+      ]
+    },
+    {
+      "candidate_id": "id-old-calendarist-daniel-byantoro-bodies",
+      "country": "ID",
+      "name": "Bodies associated with the independent episcopal claim of Daniel Byantoro",
+      "status": "not published without a current recognized canonical parent",
+      "reason": "The Metropolitanate of Singapore states that Daniel Byantoro joined an Old Calendarist group and that bodies he presents outside recognized canonical oversight are not canonical. Current ROCOR listings led by other rostered clergy remain published under ROCOR and are not removed by this personal exclusion.",
+      "sources": [
+        "https://omsgsa.org/"
+      ]
+    }
+  ],
+  "official_jurisdiction_audit": [
+    {
+      "jurisdiction": "Ecumenical Patriarchate",
+      "sources": [
+        "https://omsgsa.org/parishes-indonesia",
+        "https://omsgsa.org/about-us"
+      ],
+      "result": "The current Metropolitanate roster names 23 Indonesian parishes, chapels, and communities. All 23 are published. Its separately named Timor-Leste community is retained for that country's inventory."
+    },
+    {
+      "jurisdiction": "Moscow Patriarchate Diocese of Singapore",
+      "sources": [
+        "https://exarchate.asia/en/karta-prihodov/",
+        "https://exarchate.asia/en/patriarshij-ekzarhat/eparhii/"
+      ],
+      "result": "The current exarchal map names 15 Indonesian bodies. Seven are published under the Diocese of Singapore. Eight are the same bodies expressly assigned by the current ROCOR directory to the Australia and New Zealand Diocese and are published once under that more specific parent."
+    },
+    {
+      "jurisdiction": "Russian Orthodox Church Outside of Russia",
+      "sources": [
+        "https://directory.synod.com/listings/",
+        "https://directory.synod.com/listing/181/community-of-st-jonah-of-manchuria/"
+      ],
+      "result": "The current synodal directory names 26 Indonesian bodies under the Diocese of Australia and New Zealand. All 26 are published, including eight reconciled aliases also shown on the Moscow exarchal map."
+    },
+    {
+      "jurisdiction": "Antiochian Orthodox Archdiocese of Australia, New Zealand and the Philippines",
+      "sources": [
+        "https://www.antiochian.org.au/",
+        "https://antiochpatriarchate.org/en/category/%D8%A3%D8%B3%D8%AA%D8%B1%D8%A7%D9%84%D9%8A%D8%A7-%D9%86%D9%8A%D9%88%D8%B2%D9%8A%D9%84%D9%86%D8%AF%D8%A7-%D9%88%D8%A7%D9%84%D9%81%D9%8A%D9%84%D8%A8-%D9%8A%D9%86/66/"
+      ],
+      "result": "The current official archdiocesan and patriarchal scope was checked and did not name an Indonesian body. This records the bounded audit result, not a claim that a body could never exist."
+    },
+    {
+      "jurisdiction": "Romanian Patriarchate",
+      "sources": [
+        "https://patriarhia.ro/organizarea-bisericii-ortodoxe-romane/reprezentante-si-comunitati-externe/"
+      ],
+      "result": "The current official external communities directory was checked and did not name an Indonesian body."
+    },
+    {
+      "jurisdiction": "Serbian Patriarchate",
+      "sources": [
+        "https://www.spc.rs/en/96.dioceses-of-the-soc.html"
+      ],
+      "result": "The current official diocesan and linked diaspora material was checked and did not name an Indonesian body."
+    },
+    {
+      "jurisdiction": "Orthodox Church in America",
+      "sources": [
+        "https://www.oca.org/directories",
+        "https://www.oca.org/parishes/search"
+      ],
+      "result": "The current official directories were checked and did not name an Indonesian parish. Historical OCA support and visits do not establish a current OCA body in Indonesia."
+    }
+  ],
+  "exclusions": [
+    {
+      "scope": "Independent Old Calendarist bodies",
+      "result": "Bodies without a current official parent in a recognized canonical Eastern Orthodox Church are not published, even when they use Orthodox names or preserve older local mission identities.",
+      "sources": [
+        "https://omsgsa.org/"
+      ]
+    },
+    {
+      "scope": "Oriental Orthodox bodies",
+      "result": "Coptic, Syriac, Armenian, Ethiopian, and Indian Orthodox bodies belong to the Oriental Orthodox family rather than the Eastern Orthodox communion covered by this directory.",
+      "sources": [
+        "https://www.oca.org/directories/world-churches"
+      ]
+    }
+  ]
+}
