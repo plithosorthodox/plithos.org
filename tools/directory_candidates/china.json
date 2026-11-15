@@ -1,0 +1,117 @@
+{
+  "v": 1,
+  "country": "CN",
+  "checked": "2026-11-15",
+  "method": "Current first-party records of the Chinese Autonomous Orthodox Church and the Moscow Patriarchate were reconciled with the Ecumenical Patriarchate's current regional structure. Search and maps were used only for discovery. A body was published only when a competent current Church source named it as a functioning church, parish, or community.",
+  "published_summary": {
+    "chinese_autonomous_orthodox_church": 2,
+    "moscow_patriarchate_direct": 5,
+    "total": 7
+  },
+  "candidates": [
+    {
+      "candidate_id": "cn-uromqi-saint-nicholas",
+      "country": "CN",
+      "name": "Church of Saint Nicholas in Urumqi",
+      "status": "hold until a competent current official source establishes a functioning body",
+      "reason": "Independent Orthodox reporting describes the rebuilt church and says it has no resident priest, but no current first-party Church roster or current Church report naming a functioning parish was found.",
+      "sources": [
+        "https://www.orthodox.cn/contemporary/xinjiang/urumqi_en.htm"
+      ]
+    },
+    {
+      "candidate_id": "cn-yining-saint-nicholas",
+      "country": "CN",
+      "name": "Church of Saint Nicholas in Yining",
+      "status": "hold until a competent current official source establishes a functioning body",
+      "reason": "Independent Orthodox reporting describes the rebuilt church, but no current first-party Church roster or current Church report naming a functioning parish was found.",
+      "sources": [
+        "https://www.orthodox.cn/contemporary/xinjiang/yining_en.htm"
+      ]
+    },
+    {
+      "candidate_id": "cn-tacheng-church",
+      "country": "CN",
+      "name": "Orthodox church at Tacheng",
+      "status": "hold until exact current body and standing are established",
+      "reason": "General official historical material names an Orthodox church at Chuguchak, now Tacheng, but no current first-party record established an exact functioning parish or community in 2026.",
+      "sources": [
+        "https://mospat.ru/ru/news/55887/"
+      ]
+    }
+  ],
+  "reconciliation": [
+    {
+      "scope": "Chinese Autonomous Orthodox Church",
+      "result": "The Church of the Intercession in Harbin and the Church of Saint Innocent of Irkutsk in Labdarin remain published under the Chinese Autonomous Orthodox Church. The Church profile confirms that it remains without an elected primate and under current pastoral care from Moscow.",
+      "sources": [
+        "https://patriarch.patriarchia.ru/kitayskaya-avtonomnaya-pravoslavnaya-tserkov/",
+        "https://mospat.ru/en/news/52733/",
+        "https://mospat.ru/en/news/50408/"
+      ]
+    },
+    {
+      "scope": "Direct Moscow Patriarchate communities in mainland China",
+      "result": "Beijing, Shanghai, Dalian, Shenzhen, and Guangzhou are published under the Russian Orthodox Church because current Moscow Patriarchate records name them as its served church, community, and parishes rather than as local bodies of the Chinese Autonomous Orthodox Church.",
+      "sources": [
+        "https://mospat.ru/en/news/92369/",
+        "https://mospat.ru/en/news/93357/",
+        "https://mospat.ru/en/news/94422/"
+      ]
+    },
+    {
+      "scope": "Shanghai historical church buildings",
+      "result": "The current Shanghai community is represented once. Saint Nicholas Church is its occasional worship site. The former Cathedral of the Surety of Sinners is not published as a second current body because current official reporting treats it as a surviving historical building rather than a separate functioning parish.",
+      "sources": [
+        "https://mospat.ru/en/news/94422/",
+        "https://mospat.ru/en/news/46000/"
+      ]
+    }
+  ],
+  "official_jurisdiction_audit": [
+    {
+      "jurisdiction": "Chinese Autonomous Orthodox Church",
+      "result": "Two exact current functioning parish bodies were established by competent Church sources and are published.",
+      "sources": [
+        "https://patriarch.patriarchia.ru/kitayskaya-avtonomnaya-pravoslavnaya-tserkov/",
+        "https://mospat.ru/en/news/52733/",
+        "https://mospat.ru/en/news/50408/"
+      ]
+    },
+    {
+      "jurisdiction": "Moscow Patriarchate",
+      "result": "Five exact current mainland bodies were established and are published under the direct Russian Church branch.",
+      "sources": [
+        "https://mospat.ru/en/news/92369/",
+        "https://mospat.ru/en/news/93357/",
+        "https://mospat.ru/en/news/94422/"
+      ]
+    },
+    {
+      "jurisdiction": "Ecumenical Patriarchate, Metropolis of Hong Kong and South East Asia",
+      "result": "The Metropolis publishes mainland China within its territorial jurisdiction, but its current public material did not establish an additional exact, separately named mainland parish or community suitable for publication. Its May 2026 notice concerning an unauthorized service in Shenzhen was retained as jurisdictional evidence and not treated as a parish roster.",
+      "sources": [
+        "https://omhksea.org/metropolis-of-hong-kong",
+        "https://omhksea.org/archives/22342"
+      ]
+    },
+    {
+      "jurisdiction": "Other canonical Eastern Orthodox jurisdictions",
+      "result": "Bounded current official structures were checked for separately administered mainland China bodies. No additional exact current body was established by a competent first-party source.",
+      "sources": [
+        "https://ec-patr.org/en/entities/",
+        "https://www.antiochpatriarchate.org/en/page/the-patriarchate/5/"
+      ]
+    }
+  ],
+  "exclusions": [
+    {
+      "scope": "Historic buildings, museums, and former churches",
+      "result": "Historic Orthodox buildings in Harbin, Shanghai, Beijing, Inner Mongolia, and Xinjiang were not published as current bodies unless a current competent Church source named a functioning parish or community there. The museum at Enhe was excluded on that basis."
+    },
+    {
+      "scope": "Maps and independent directories",
+      "result": "Discovery results supplied possible buildings and addresses but did not independently establish canonical standing or a current functioning body."
+    }
+  ]
+}
