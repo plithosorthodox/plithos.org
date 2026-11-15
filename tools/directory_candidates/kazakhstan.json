@@ -1,0 +1,405 @@
+{
+  "v": 1,
+  "country": "KZ",
+  "checked": "2026-11-15",
+  "method": "Current official metropolitan, diocesan, deanery, parish, monastery, service, and consecration records were reconciled with the Moscow Patriarchate record and competent official diaspora directories. Search engines and maps were used only to discover first-party sources. Only exact current named bodies supported by the competent Church are published. Aggregate counts, construction projects, historical bodies, aliases, cross-roster duplicates, and bodies without a current canonical parent remain here.",
+  "published_summary": {
+    "ru-aktobe": 10,
+    "ru-astana": 73,
+    "ru-karaganda": 26,
+    "ru-kokshetau": 28,
+    "ru-kostanay": 33,
+    "ru-pavlodar": 33,
+    "ru-petropavl-and-bulayevo": 45,
+    "ru-taldykorgan-vicariate": 11,
+    "ru-uralsk": 17,
+    "ru-ust-kamenogorsk": 48,
+    "ru-shymkent": 34,
+    "parish_bodies": 347,
+    "monasteries": 11,
+    "total": 358
+  },
+  "candidates": [
+    {
+      "candidate_id": "kz-ru-astana-aggregate-reconciliation",
+      "parent": "ru-astana",
+      "country": "KZ",
+      "name": "Astana and Almaty Diocese aggregate bodies without stable roster identities",
+      "status": "hold count-only remainder until the diocese names each separate current body",
+      "reason": "The current diocesan profile reports 71 churches, 5 chapels, 1 prayer space, 2 convents, and 2 male hermitages. The paginated official church roster, the monastery roster, and later official service records do not divide into the same categories or date. The exact named union is published, but no unnamed remainder is manufactured by subtraction.",
+      "sources": [
+        "https://mitropolia.kz/info/organizations/astana-almaty.html",
+        "https://mitropolia.kz/info/organizations/churches/",
+        "https://mitropolia.kz/info/organizations/monasteries.html"
+      ]
+    },
+    {
+      "candidate_id": "kz-ru-karaganda-eighteen-prayer-spaces",
+      "parent": "ru-karaganda",
+      "country": "KZ",
+      "name": "Eighteen unnamed prayer houses and rooms of the Karaganda Diocese",
+      "status": "hold until exact current names and stable identities are published",
+      "reason": "The metropolitan profile reports 25 churches, 18 prayer houses or rooms, and one convent. The current deanery rosters and the later cathedral record establish the published church and monastery rows but do not name the 18 prayer spaces.",
+      "sources": [
+        "https://mitropolia.kz/info/organizations/diocese/karaganda.html",
+        "https://eparhia.kz/node/25",
+        "https://eparhia.kz/node/31"
+      ]
+    },
+    {
+      "candidate_id": "kz-ru-karaganda-martha-mary-orphanage-chapel",
+      "parent": "ru-karaganda",
+      "country": "KZ",
+      "name": "Saints Martha and Mary Chapel at the orphanage in Karaganda",
+      "status": "hold until a current diocesan roster or worship record confirms a separate present body",
+      "reason": "An official diocesan institutional page names a chapel at the orphanage. The current church rosters do not list it, and the source does not establish a current independent parish, recurring public worship schedule, or stable administration separate from the institution.",
+      "sources": [
+        "https://eparhia.kz/node/82",
+        "https://eparhia.kz/node/25"
+      ]
+    },
+    {
+      "candidate_id": "kz-ru-kokshetau-aggregate-only-bodies",
+      "parent": "ru-kokshetau",
+      "country": "KZ",
+      "name": "Kokshetau Diocese bodies represented only by aggregate counts",
+      "status": "hold until the diocese publishes exact current names and stable identities",
+      "reason": "The metropolitan profile reports 37 churches, 1 chapel, and 13 prayer houses or rooms. The current diocesan named roster plus current cathedral record establish 28 exact bodies. The categories and dates differ, so no remainder is inferred from the aggregate counts.",
+      "sources": [
+        "https://mitropolia.kz/info/organizations/diocese/kokshetau.html",
+        "https://pravest-kokshe.kz/temples/318-Hramy_Kokshetauskoy_i_Akmolinskoy_Eparhii_202",
+        "https://pravest-kokshe.kz/Raspisanie_bogoslugheniy/3176-Raspisanie_bogoslugheniy_v_kafedralynom_sobore_Voskreseniya_Hristova_na_9-15_marta_2026_goda.html"
+      ]
+    },
+    {
+      "candidate_id": "kz-ru-kokshetau-shantobe-panteleimon-new-building",
+      "parent": "ru-kokshetau",
+      "country": "KZ",
+      "name": "New Saint Panteleimon church building in Shantobe",
+      "status": "construction attached to an already published parish, not a second body",
+      "reason": "The diocese reports construction of a new building with the same dedication while its current roster already lists the Saint Panteleimon parish in Shantobe. The construction is reconciled to that published row rather than counted again.",
+      "sources": [
+        "https://pravest-kokshe.kz/Stroitelystvo_hramov_eparhii",
+        "https://pravest-kokshe.kz/temples/318-Hramy_Kokshetauskoy_i_Akmolinskoy_Eparhii_202"
+      ]
+    },
+    {
+      "candidate_id": "kz-ru-kostanay-aggregate-only-bodies",
+      "parent": "ru-kostanay",
+      "country": "KZ",
+      "name": "Kostanay Diocese bodies represented only by aggregate counts",
+      "status": "hold until the official records reconcile exact current names",
+      "reason": "The metropolitan profile reports 34 churches and 5 chapels, while the current four-page diocesan roster names 33 bodies including a convent and two chapels. The aggregate cannot establish the identities or current status of any difference.",
+      "sources": [
+        "https://mitropolia.kz/info/organizations/diocese/kostanay.html",
+        "https://kst-eparhia.kz/hramy-i-prihody/",
+        "https://kst-eparhia.kz/hramy-i-prihody/4"
+      ]
+    },
+    {
+      "candidate_id": "kz-ru-kostanay-new-martyrs-house-church",
+      "parent": "ru-kostanay",
+      "country": "KZ",
+      "name": "New Martyrs and Confessors of Kazakhstan House Church in Kostanay",
+      "local": "домовый храм в честь новомучеников и исповедников Казахстанских",
+      "status": "hold until current operation is confirmed by the diocesan roster or a recent worship record",
+      "reason": "An official 2022 account records the small consecration of this house church at the diocesan educational center and says it would operate there. The current church roster omits it, and no later official worship record was located in this pass.",
+      "sources": [
+        "https://kst-eparhia.kz/mitropolit-astanajskij-i-kazahstans/",
+        "https://kst-eparhia.kz/hramy-i-prihody/"
+      ]
+    },
+    {
+      "candidate_id": "kz-ru-pavlodar-aggregate-discrepancy",
+      "parent": "ru-pavlodar",
+      "country": "KZ",
+      "name": "Pavlodar Diocese aggregate count discrepancy",
+      "status": "retain as a count audit, with no additional inferred row",
+      "reason": "The metropolitan profile reports 15 churches, 4 chapels, 4 prayer spaces, and one convent. The current diocesan roster names 32 worship bodies and separately identifies the convent. Exact current names from the diocesan roster are published, while the older or differently scoped aggregate is not used to delete or invent bodies.",
+      "sources": [
+        "https://mitropolia.kz/info/organizations/diocese/pavlodar.html",
+        "http://pavlodar-eparhia.ru/info/khramy-eparkhii",
+        "http://pavlodar-eparhia.ru/info/petropavlovskii-zhenskii-monastyr"
+      ]
+    },
+    {
+      "candidate_id": "kz-ru-petropavl-aggregate-discrepancy",
+      "parent": "ru-petropavl-and-bulayevo",
+      "country": "KZ",
+      "name": "Petropavl and Bulayevo Diocese aggregate count discrepancy",
+      "status": "retain as a count audit, with no additional inferred row",
+      "reason": "The metropolitan profile reports 37 churches and one chapel. The six current deanery pages name 45 bodies. The exact current deanery names are published, while the lower aggregate is retained as a stale or differently scoped count.",
+      "sources": [
+        "https://mitropolia.kz/info/organizations/diocese/petropavlovsk.html",
+        "https://www.pbe.kz/petropavlovskoe-blagochinie-0",
+        "https://www.pbe.kz/novoishimskoe-blagochinie"
+      ]
+    },
+    {
+      "candidate_id": "kz-ru-uralsk-aggregate-only-bodies",
+      "parent": "ru-uralsk",
+      "country": "KZ",
+      "name": "Uralsk Diocese bodies represented only by aggregate counts",
+      "status": "hold until exact current names and stable identities are published",
+      "reason": "The metropolitan profile reports 22 churches, 1 chapel, 4 prayer spaces, and one convent. The current two deanery rosters name 15 worship bodies and the convent, while a current 2026 report separately establishes the Saint Nicholas Monastery in Derkul. The aggregate remainder is not named and cannot be inferred.",
+      "sources": [
+        "https://mitropolia.kz/info/organizations/diocese/uralsk.html",
+        "https://uralsk-eparhiya.kz/index.php?id=11",
+        "https://uralsk-eparhiya.kz/index.php?id=8"
+      ]
+    },
+    {
+      "candidate_id": "kz-ru-ust-kamenogorsk-aggregate-discrepancy",
+      "parent": "ru-ust-kamenogorsk",
+      "country": "KZ",
+      "name": "Ust-Kamenogorsk Diocese aggregate count discrepancy",
+      "status": "retain as a count audit, with no additional inferred row",
+      "reason": "The metropolitan profile reports 31 churches, 5 chapels, and 2 monasteries. The two current diocesan rosters name 48 bodies including both monasteries, prayer spaces, and chapels. Exact roster names are published and the lower aggregate is not used to remove them.",
+      "sources": [
+        "https://mitropolia.kz/info/organizations/diocese/ust-kamenogorsk.html",
+        "https://vko-eparhia.kz/eparhiya/khramy-eparkhii/44-ust-kamenogorskoe-blagochinie.html",
+        "https://vko-eparhia.kz/eparhiya/khramy-eparkhii/45-semipalatinskoe-blagochinie.html"
+      ]
+    },
+    {
+      "candidate_id": "kz-ru-shymkent-aggregate-discrepancy",
+      "parent": "ru-shymkent",
+      "country": "KZ",
+      "name": "Shymkent Diocese aggregate count discrepancy",
+      "status": "retain as a count audit, with no additional inferred row",
+      "reason": "The metropolitan profile reports 29 churches, 1 chapel, and 1 prayer space. The current diocesan active-church page names 34 bodies. Exact current names are published, while the lower aggregate is retained as stale or differently scoped.",
+      "sources": [
+        "https://mitropolia.kz/info/organizations/diocese/chimkent.html",
+        "https://chim-eparhiya.cerkov.ru/xramy-eparxii/"
+      ]
+    },
+    {
+      "candidate_id": "kz-ru-astana-all-saints-kazakhstan-construction",
+      "parent": "ru-astana",
+      "country": "KZ",
+      "name": "All Saints Who Shone Forth in the Land of Kazakhstan Church in Astana",
+      "local": "храм в честь Всех святых, в земле Казахстанской просиявших",
+      "status": "construction, not yet a published current worship body",
+      "reason": "A November 2026 official report says the newly built church is planned for great consecration as part of the anniversary observances. It is retained as construction until an official consecration or recurring worship record establishes current operation.",
+      "sources": [
+        "https://mitropolia.kz/news/eparchy/official/15220-glava-mitropolichego-okruga-provel-rabochee-soveshchanie-po-voprosam-podgotovki-k-prazdnovaniyu-yubilejnykh-torzhestv-v-alma-atinskoj-i-astanajskoj-eparkhii.html"
+      ]
+    },
+    {
+      "candidate_id": "kz-ru-shymkent-new-martyrs-memorial-construction",
+      "parent": "ru-shymkent",
+      "country": "KZ",
+      "name": "New Martyrs and Confessors of Shymkent Memorial Church at Lisya Balka",
+      "local": "храм-памятник во имя новомучеников и исповедников Чимкентских в Лисьей балке",
+      "status": "consecrated construction project, held until the diocese lists ordinary worship",
+      "reason": "The diocese records an October 2026 opening and consecration ceremony but repeatedly calls the memorial church under construction. It is not on the current active-church roster. It remains held until a current official roster or recurring worship record establishes ordinary operation.",
+      "sources": [
+        "https://chim-eparhiya.cerkov.ru/2026/10/10/osvyashhenie-stroyashhegosya-memorialnogo-xrama-v-chest-novomuchenikov-shymkentskix-ubiennyx-v-lisej-balke/",
+        "https://chim-eparhiya.cerkov.ru/xramy-eparxii/"
+      ]
+    },
+    {
+      "candidate_id": "kz-unaffiliated-almaty-transfiguration-community",
+      "country": "KZ",
+      "name": "Independent Community of Orthodox Christians in Honour of the Transfiguration of the Lord in Almaty",
+      "status": "not published without registration and a current canonical parent",
+      "reason": "A United Nations communication reports that the community was formed in November 2025, was denied registration, and sought a Constantinople representation. The current Ecumenical Patriarchate directory does not list it, and no competent canonical Church source places it under a current bishop or eparchy.",
+      "sources": [
+        "https://spcommreports.ohchr.org/TMResultsBase/DownLoadPublicCommunicationFile?gId=30902",
+        "https://ec-patr.org/en/entities/"
+      ]
+    },
+    {
+      "candidate_id": "kz-ru-shymkent-lost-churches",
+      "parent": "ru-shymkent",
+      "country": "KZ",
+      "name": "Lost churches named in the Shymkent Diocese historical roster",
+      "status": "historical bodies, not current worship bodies",
+      "reason": "The diocese keeps a separate roster of lost churches. Those historical names are not merged into the current active-church roster and are not published as present bodies.",
+      "sources": [
+        "https://chim-eparhiya.cerkov.ru/xramy-eparxii/utrachennye-xramy/",
+        "https://chim-eparhiya.cerkov.ru/xramy-eparxii/"
+      ]
+    }
+  ],
+  "exclusions": [
+    {
+      "scope": "Armenian Apostolic Church bodies",
+      "result": "The Armenian Apostolic Church belongs to the Oriental Orthodox family rather than the Eastern Orthodox communion covered by this directory. Its Kazakhstan bodies are outside scope.",
+      "sources": [
+        "https://www.armenianchurch.org/en/Dioceses/"
+      ]
+    },
+    {
+      "scope": "Russian Orthodox Old-Rite and other Old Believer bodies",
+      "result": "Old Believer communities are not bodies of the canonical Eastern Orthodox communion covered by this directory. No such body is published under a Moscow Patriarchate parent merely because it uses Orthodox language or practice.",
+      "sources": [
+        "https://rpsc.ru/"
+      ]
+    }
+  ],
+  "semantic_duplicate_audit": [
+    {
+      "row": "kz-ru-shymkent-otegen-batyr-adrian-natalia",
+      "duplicate_source": "https://mitropolia.kz/info/organizations/churches/almaty.html?start=24",
+      "result": "The Almaty roster and Shymkent active roster name the same church in Otegen Batyr. The Shymkent roster explicitly calls it a metochion of the Shymkent Diocese, so it is published once under ru-shymkent."
+    },
+    {
+      "row": "kz-ru-astana-akbulak-nativity-christ",
+      "result": "Current official reports call this body both the Nativity of Christ Cathedral and the Christ the Savior Church at the same Almaty complex. The names are treated as one body, not two.",
+      "sources": [
+        "https://mitropolia.kz/info/organizations/churches/almaty/128-sobor-rozhdestva-khristova-akbulak.html",
+        "https://mitropolia.kz/archbishop/worship/13762-v-den-pamyati-pervomuchenika-arkhidiakona-stefana-mitropolit-aleksandr-sovershil-liturgiyu-v-khrame-khrista-spasitelya-goroda-alma-aty-5.html"
+      ]
+    },
+    {
+      "rows": [
+        "kz-ru-pavlodar-pavlodarskoe-peter-paul",
+        "kz-ru-pavlodar-pavlodarskoe-peter-paul-convent"
+      ],
+      "result": "Both are retained because the official eparchy separately lists the worship church and the convent as distinct current bodies at the same monastic complex.",
+      "sources": [
+        "http://pavlodar-eparhia.ru/info/khramy-eparkhii",
+        "http://pavlodar-eparhia.ru/info/petropavlovskii-zhenskii-monastyr"
+      ]
+    },
+    {
+      "rows": [
+        "kz-ru-astana-akbulak-nativity-christ",
+        "kz-ru-astana-almaty-saint-nina"
+      ],
+      "result": "Both are retained. The official 2026 record identifies Saint Nina as a separately consecrated church with its own parish community on the cathedral grounds.",
+      "sources": [
+        "https://mitropolia.kz/archbishop/worship/13835-v-den-pamyati-ravnoapostolnoj-niny-v-alma-ate-molitvenno-otmetili-10-letie-osvyashcheniya-khrama-svyatoj-prosvetitelnitsy-gruzii.html"
+      ]
+    },
+    {
+      "rows": [
+        "kz-ru-astana-almaty-bishops-house-iveron",
+        "kz-ru-astana-almaty-iveron-seraphim-convent"
+      ],
+      "result": "Both are retained. The official roster places the Iveron house church at the Bishop's Residence, while the monastery roster separately identifies the Iveron-Seraphim Convent.",
+      "sources": [
+        "https://mitropolia.kz/info/organizations/churches/almaty/117-domovoj-khram-arkhierejskogo-doma-gorod-alma-ata.html",
+        "https://mitropolia.kz/info/organizations/monasteries.html"
+      ]
+    }
+  ],
+  "discovery_reconciliation": [
+    {
+      "result": "Search and map discovery did not establish any Kazakhstan row by itself. Unmatched non-Church, map-only, inaccessible, or uncertain leads remain unpublished unless a competent current Church source names the body and its canonical parent."
+    }
+  ],
+  "official_jurisdiction_audit": [
+    {
+      "jurisdiction": "Moscow Patriarchate, Kazakhstan Metropolitan District",
+      "result": "The exact current union contains 358 named bodies under the ten eparchies and one vicariate already present in the directory parent tree. Aggregate and roster discrepancies remain above rather than being inferred.",
+      "sources": [
+        "https://mitropolia.kz/info/organizations/diocese.html",
+        "https://mitropolia.kz/info/organizations/churches/",
+        "https://patriarchia.ru/org/151"
+      ]
+    },
+    {
+      "jurisdiction": "Georgian Patriarchate",
+      "result": "Official Kazakhstan material identifies pastoral care for the Georgian diaspora inside the Almaty Diocese of the Kazakhstan Metropolitan District. It does not establish a separate Georgian Patriarchate parish or monastery in Kazakhstan, so no duplicate Georgian row is added.",
+      "sources": [
+        "https://mitropolia.kz/news/mitropolia/9828-delegatsiya-svyashchennosluzhitelej-iz-gruzii-posetila-alma-atu.html",
+        "https://patriarchate.ge/sinodi/members/all"
+      ]
+    },
+    {
+      "jurisdiction": "Ecumenical Patriarchate",
+      "result": "The current official entity directory was checked and did not name a Kazakhstan body. The independent Almaty community above is not listed. This is a bounded roster result, not a country-level absence claim.",
+      "sources": [
+        "https://ec-patr.org/en/entities/"
+      ]
+    },
+    {
+      "jurisdiction": "Russian Orthodox Church Outside of Russia",
+      "result": "The current official clergy and parish directory was checked and did not name a Kazakhstan body separate from the Moscow Patriarchate district. This is a bounded roster result, not a country-level absence claim.",
+      "sources": [
+        "https://directory.synod.com/listings/"
+      ]
+    },
+    {
+      "jurisdiction": "Romanian Patriarchate",
+      "result": "The current official external communities directory was checked and did not name a Kazakhstan body. This is a bounded roster result, not a country-level absence claim.",
+      "sources": [
+        "https://patriarhia.ro/organizarea-bisericii-ortodoxe-romane/reprezentante-si-comunitati-externe/"
+      ]
+    },
+    {
+      "jurisdiction": "Serbian Patriarchate",
+      "result": "The current official diocesan and linked diaspora material was checked and did not name a Kazakhstan body. This is a bounded roster result, not a country-level absence claim.",
+      "sources": [
+        "https://www.spc.rs/en/96.dioceses-of-the-soc.html"
+      ]
+    },
+    {
+      "jurisdiction": "Antiochian Patriarchate",
+      "result": "The current official diocesan and representative material was checked and did not name a Kazakhstan body. This is a bounded roster result, not a country-level absence claim.",
+      "sources": [
+        "https://antiochpatriarchate.org/en/page/3011/"
+      ]
+    },
+    {
+      "jurisdiction": "Bulgarian Patriarchate",
+      "result": "The current official diocesan structure, including its diaspora dioceses, was checked and did not name a Kazakhstan body. This is a bounded roster result, not a country-level absence claim.",
+      "sources": [
+        "https://bg-patriarshia.bg/dioceses"
+      ]
+    },
+    {
+      "jurisdiction": "Macedonian Orthodox Church - Ohrid Archbishopric",
+      "result": "The current official eparchy and diaspora structure was checked and did not name a Kazakhstan body. This is a bounded roster result, not a country-level absence claim.",
+      "sources": [
+        "https://www.m-p-c.org/?page_id=17",
+        "https://mpee.mk/"
+      ]
+    },
+    {
+      "jurisdiction": "Polish Autocephalous Orthodox Church",
+      "result": "The current official administration directory was checked and did not name a Kazakhstan body. This is a bounded roster result, not a country-level absence claim.",
+      "sources": [
+        "https://www.orthodox.pl/administracja/"
+      ]
+    },
+    {
+      "jurisdiction": "Patriarchate of Jerusalem",
+      "result": "The current official administrative structure was checked and did not name a Kazakhstan body. This is a bounded roster result, not a country-level absence claim.",
+      "sources": [
+        "https://en.jerusalem-patriarchate.info/administrative-structure/holy-bishoprics/"
+      ]
+    },
+    {
+      "jurisdiction": "Orthodox Church in America",
+      "result": "The current official parish directory was checked and did not name a Kazakhstan body. This is a bounded roster result, not a country-level absence claim.",
+      "sources": [
+        "https://www.oca.org/parishes"
+      ]
+    },
+    {
+      "jurisdiction": "Ukrainian Orthodox Church foreign structures",
+      "result": "Current official foreign-vicariate material was checked and did not name a Kazakhstan body. No body is inferred from Ukrainian diaspora presence. This is a bounded roster result, not a country-level absence claim.",
+      "sources": [
+        "https://vzcz.church.ua/2026/02/09/pro-sluzhinnya-zaxidnojevropejskogo-vikariatstva-ukrajinskoji-pravoslavnoji-cerkvi/"
+      ]
+    },
+    {
+      "jurisdiction": "Orthodox Church of Ukraine",
+      "result": "Current official institutional and diaspora material was checked and did not name a separately organized Kazakhstan body. This is a bounded roster result, not a country-level absence claim.",
+      "sources": [
+        "https://www.pomisna.info/uk/tserkva/synodalni-ustanovy/"
+      ]
+    },
+    {
+      "jurisdiction": "Other canonical Local Churches and territorially bounded structures",
+      "result": "No additional Kazakhstan row is published without an exact current first-party jurisdictional citation. Churches whose official structures are territorially bounded elsewhere were not expanded into unsupported country-level absence claims.",
+      "sources": [
+        "https://mitropolia.kz/info/organizations/diocese.html",
+        "https://ec-patr.org/en/entities/"
+      ]
+    }
+  ]
+}
