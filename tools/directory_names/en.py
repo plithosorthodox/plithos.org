@@ -1237,6 +1237,13 @@ from directory_north_macedonia import ENGLISH_NAMES as _NORTH_MACEDONIA_NAMES
 NAMES.update(_NORTH_MACEDONIA_NAMES)
 del _NORTH_MACEDONIA_NAMES
 
+from directory_serbia import (
+    ENGLISH_NAMES as _SERBIA_NAMES,
+    ENGLISH_SEATS as _SERBIA_SEATS,
+)
+NAMES.update(_SERBIA_NAMES)
+del _SERBIA_NAMES
+
 SEATS = {
     "Istanbul": u"Istanbul",
     "Alexandria": u"Alexandria",
@@ -1930,3 +1937,5 @@ SEATS = {
     "Rio de Janeiro": u"Rio de Janeiro",
     "Toronto": u"Toronto",
 }
+SEATS.update(_SERBIA_SEATS)
+del _SERBIA_SEATS

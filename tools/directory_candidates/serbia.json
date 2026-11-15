@@ -1,0 +1,329 @@
+{
+  "v": 1,
+  "countries": [
+    "RS"
+  ],
+  "checked": "2026-11-15",
+  "method": "Current official Serbian Church, diocesan, deanery, parish, monastery, foreign-community, and resident metochion rosters establish the published rows. Search engines and maps were used only to discover first-party sources. Only bodies named by a current official source were published. Count-only, inaccessible, dead-link, cross-border, historical, destroyed, duplicate, noncanonical, and insufficiently identified bodies remain here. Overlapping canonical jurisdictions are preserved neutrally.",
+  "published_summary": {
+    "sr-backa": 11,
+    "sr-banat": 9,
+    "sr-milesevo": 87,
+    "sr-nis": 604,
+    "sr-raska-prizren": 67,
+    "sr-srem": 177,
+    "sr-sumadija": 25,
+    "sr-timok": 63,
+    "sr-valjevo": 8,
+    "sr-zica": 382,
+    "ro-dacia-felix": 3,
+    "russia-direct": 3,
+    "total": 1439
+  },
+  "candidates": [
+    {
+      "candidate_id": "rs-sr-belgrade-karlovci-current-roster",
+      "parent": "sr-belgrade-karlovci",
+      "country": "RS",
+      "name": "Current Belgrade-Karlovci deanery, parish, church, chapel, mission, and monastery roster",
+      "status": "hold for an accessible current enumerated first-party roster",
+      "reason": "The current Serbian Church eparchy list establishes the canonical parent, but no accessible current first-party page enumerating all subordinate bodies was located. News reports, maps, and older directory material were not converted into current rows.",
+      "sources": [
+        "https://spc.rs/sr/82.eparhije-srpske-pravoslavne-crkve.html",
+        "http://arhiva.spc.rs/sr/linkovi/linkovi_eparhija.html"
+      ]
+    },
+    {
+      "candidate_id": "rs-sr-backa-parish-site-expansion",
+      "parent": "sr-backa",
+      "country": "RS",
+      "name": "Bačka parishes and their churches, chapels, missions, and recurring worship sites",
+      "status": "hold for complete normalization of the official schematism",
+      "reason": "The current official schematism names eight deaneries and exposes subordinate material in separate surfaces. This batch publishes the eight named deaneries and the three named current monasteries. Parish and physical-site rows remain held until the full official schematism can be normalized without omissions or duplication.",
+      "sources": [
+        "https://eparhijabacka.info/sematizam-eparhije-backe/",
+        "https://eparhijabacka.info/raspored-bogosluzenja/manstiri/"
+      ]
+    },
+    {
+      "candidate_id": "rs-sr-banat-count-only-roster",
+      "parent": "sr-banat",
+      "country": "RS",
+      "name": "Fourteen Banat deaneries, 150 church communities, and 220 parishes",
+      "status": "hold for a current enumerated first-party roster",
+      "reason": "The official parish page gives current aggregate counts of 14 deaneries, 150 church communities, and 220 parishes but does not enumerate their names. The official monastery page names nine current monasteries, and only those nine bodies are published from this eparchy.",
+      "sources": [
+        "https://www.eparhijabanatska.rs/parohije/",
+        "https://www.eparhijabanatska.rs/manastiri/"
+      ]
+    },
+    {
+      "candidate_id": "rs-sr-branicevo-current-roster",
+      "parent": "sr-branicevo",
+      "country": "RS",
+      "name": "Current Braničevo subordinate-body roster",
+      "status": "hold for an accessible current enumerated first-party roster",
+      "reason": "The official eparchy site establishes the canonical parent but no complete current first-party enumeration of deaneries, parishes, monasteries, churches, chapels, missions, and recurring worship sites was located in the reviewed public surfaces.",
+      "sources": [
+        "https://www.sabornost.org/global/",
+        "https://www.sabornost.org/global/kontakt"
+      ]
+    },
+    {
+      "candidate_id": "rs-sr-krusevac-current-roster",
+      "parent": "sr-krusevac",
+      "country": "RS",
+      "name": "Current Kruševac subordinate-body roster",
+      "status": "hold for an accessible current enumerated first-party roster",
+      "reason": "The official eparchy site establishes the canonical parent, but its reviewed public surfaces did not provide a complete current enumeration of all subordinate administrative and worship bodies. Individual news references were not treated as a roster.",
+      "sources": [
+        "http://www.eparhijakrusevacka.com/",
+        "https://spc.rs/sr/82.eparhije-srpske-pravoslavne-crkve.html"
+      ]
+    },
+    {
+      "candidate_id": "rs-sr-nis-roster-reconciliation",
+      "parent": "sr-nis",
+      "country": "RS",
+      "name": "Niš aggregate-count and linked-roster differences",
+      "status": "published current linked roster; hold unlinked and dead-link bodies",
+      "reason": "The current navigation exposes ten deanery groups, 95 working locality pages that name 169 parish bodies, combined headings resolving to 395 published current churches or chapels, and 30 named monasteries. Four unfinished or unconsecrated sites are held separately. The eparchy overview instead describes 12 deaneries, about 300 church units, and 24 monasteries. The Kostur parish link currently returns 404. The individually linked current roster controls this publication; the two unexposed deaneries, any unlinked units, the Kostur detail, and the monastery-count difference remain unresolved.",
+      "sources": [
+        "https://eparhijaniska.rs/parohije",
+        "https://eparhijaniska.rs/eparhija",
+        "https://eparhijaniska.rs/parohije/pirotsko-namesnistvo/kosturska-parohija"
+      ]
+    },
+    {
+      "candidate_id": "rs-sr-nis-unfinished-unconsecrated-sites",
+      "parent": "sr-nis",
+      "country": "RS",
+      "name": "Four unfinished or unconsecrated Niš sites",
+      "status": "hold for official completion, consecration, or current worship evidence",
+      "reason": "The official pages identify Saint Nicholas Chapel in Zebica and Prophet Elijah Church in Donji Suhotno as under construction. The Kaonik page identifies Saint Paraskeva Church as still under construction and the Protection of the Most Holy Theotokos Church as not consecrated. The same Kaonik page separately identifies a completed Saint Petka cemetery chapel consecrated in 2005; that distinct body remains published.",
+      "sources": [
+        "https://eparhijaniska.rs/parohije/aleksinacko-namesnistvo/6340-velikošiljegovačka-parohija-hramovi",
+        "https://eparhijaniska.rs/parohije/aleksinacko-namesnistvo/6338-žitkovačke-parohije-hramovi",
+        "https://eparhijaniska.rs/parohije/aleksinacko-namesnistvo/6349-kaonička-parohija-hramovi"
+      ]
+    },
+    {
+      "candidate_id": "rs-sr-raska-prizren-parish-site-expansion",
+      "parent": "sr-raska-prizren",
+      "country": "RS",
+      "name": "Raška-Prizren parish subdivisions and physical worship sites",
+      "status": "hold for a current enumerated first-party roster",
+      "reason": "The current official parish surface names six deaneries and 35 church communities, and the monastery surface names 26 monasteries. Those named bodies are published. The pages do not enumerate every parish subdivision, parish church, chapel, mission, or recurring worship site, so none were inferred from maps or news.",
+      "sources": [
+        "https://eparhija-prizren.com/sr/parohije/",
+        "https://eparhija-prizren.com/sr/manastiri/"
+      ]
+    },
+    {
+      "candidate_id": "rs-sr-sabac-current-roster",
+      "parent": "sr-sabac",
+      "country": "RS",
+      "name": "Current Šabac subordinate-body roster",
+      "status": "hold for an accessible current enumerated first-party roster",
+      "reason": "The Serbian Church eparchy list establishes the canonical parent, but no complete accessible current first-party enumeration of its subordinate bodies was located. Search results and maps were not used as publication evidence.",
+      "sources": [
+        "https://spc.rs/sr/82.eparhije-srpske-pravoslavne-crkve.html",
+        "http://arhiva.spc.rs/sr/linkovi/linkovi_eparhija.html"
+      ]
+    },
+    {
+      "candidate_id": "rs-sr-srem-parish-subdivisions",
+      "parent": "sr-srem",
+      "country": "RS",
+      "name": "Srem parish administrative subdivisions",
+      "status": "hold for complete normalization of the official parish roster",
+      "reason": "The official deanery surface exposes parish and clergy material whose administrative subdivisions require a separate complete normalization. This batch publishes eight named deaneries, 146 distinct numbered Serbia worship sites, and 24 distinct monasteries after reconciling the Vavedenje monastery and Irig church duplicates.",
+      "sources": [
+        "https://eparhijasremska.rs/намесништва/",
+        "https://eparhijasremska.rs/потражите-храм/",
+        "https://eparhijasremska.rs/манастири/"
+      ]
+    },
+    {
+      "candidate_id": "hr-sr-srem-three-cross-border-sites",
+      "parent": "sr-srem",
+      "country": "HR",
+      "name": "Three Srem worship sites in Croatia",
+      "status": "exclude from Serbia batch; reconcile in Croatia coverage",
+      "reason": "The official Srem numbered roster includes sites at Tovarnik, Ilok, and Šidski Banovci and labels them with Croatia addresses. They are not Serbia rows and remain for country-correct Croatia reconciliation under the same canonical parent.",
+      "sources": [
+        "https://eparhijasremska.rs/потражите-храм/"
+      ]
+    },
+    {
+      "candidate_id": "rs-sr-sumadija-count-only-bodies",
+      "parent": "sr-sumadija",
+      "country": "RS",
+      "name": "Šumadija parishes, parish churches, filial churches, and monastery-count difference",
+      "status": "hold for a current enumerated first-party roster",
+      "reason": "The official 2026 report gives 208 parishes, 132 parish churches, and 78 filial churches, while the current web directory names 25 monasteries. The report describes 28 monasteries and two more under construction. Only the 25 individually named current monastery entries are published. Count-only bodies and the three-monastery difference remain held.",
+      "sources": [
+        "https://eparhija-sumadijska.org.rs/download/Kalenic/kalenic1%2C2026.pdf",
+        "https://www.eparhija-sumadijska.org.rs/index.php/eparhija/manastiri"
+      ]
+    },
+    {
+      "candidate_id": "rs-sr-timok-physical-site-expansion",
+      "parent": "sr-timok",
+      "country": "RS",
+      "name": "Timok parish churches, chapels, missions, and recurring worship sites",
+      "status": "hold for an enumerated current first-party physical-site roster",
+      "reason": "The current official parish taxonomy names seven deaneries and 45 parish assignments, and the official monastery links name 11 monasteries. Those bodies are published. Locality taxonomy and pastoral news do not by themselves establish a discrete church or chapel, so physical sites were not inferred.",
+      "sources": [
+        "https://eparhija-timocka.org/parohije/",
+        "https://eparhija-timocka.org/"
+      ]
+    },
+    {
+      "candidate_id": "rs-sr-valjevo-parish-site-expansion",
+      "parent": "sr-valjevo",
+      "country": "RS",
+      "name": "Valjevo deaneries, parishes, churches, chapels, missions, and recurring worship sites",
+      "status": "hold for a current enumerated first-party roster",
+      "reason": "The current official holy-sites page names eight monasteries, and those eight are published. No complete current official public roster enumerating the remaining subordinate administrative and worship bodies was located.",
+      "sources": [
+        "https://www.eparhijavaljevska.rs/index.php/svetinje/",
+        "https://www.eparhijavaljevska.rs/index.php/kontakt/"
+      ]
+    },
+    {
+      "candidate_id": "rs-sr-vranje-current-roster",
+      "parent": "sr-vranje",
+      "country": "RS",
+      "name": "Current Vranje subordinate-body roster",
+      "status": "hold for an accessible current enumerated first-party roster",
+      "reason": "The official eparchy site establishes the canonical parent, but no complete current public enumeration of all deaneries, parishes, monasteries, churches, chapels, missions, and recurring worship sites was located in the reviewed surfaces.",
+      "sources": [
+        "http://www.eparhijavranjska.org/",
+        "http://www.eparhijavranjska.org/Siteview.asp?ID=423"
+      ]
+    },
+    {
+      "candidate_id": "rs-sr-zica-count-only-parishes",
+      "parent": "sr-zica",
+      "country": "RS",
+      "name": "Two hundred two Žiča parishes and one unexposed Takovo church community",
+      "status": "hold unnamed administrative rows; publish named current bodies",
+      "reason": "The 13 current deanery pages declare 202 parishes and 116 church communities. They expose 117 named church-community or monastery-parish headings, combined headings resolving to 224 published current churches, and the current monastery page names 28 monasteries. Parish counts are not accompanied by 202 distinct names, and the Takovo page declares ten communities while exposing nine named community headings. Named bodies are published; count-only parish rows and the Takovo mismatch remain held.",
+      "sources": [
+        "https://eparhija-zicka.rs/namesnistva/",
+        "https://eparhija-zicka.rs/arhijerejsko-namesnistvo-takovsko-2/",
+        "https://eparhija-zicka.rs/manastiri/"
+      ]
+    },
+    {
+      "candidate_id": "rs-sr-zica-bukovica-stefan-construction",
+      "parent": "sr-zica",
+      "country": "RS",
+      "name": "Saint Despot Stefan Lazarevic Church in Bukovica",
+      "status": "hold for official completion or current worship evidence",
+      "reason": "The current Moravica deanery roster explicitly marks this church as under construction. No separate current first-party evidence reviewed establishes completion, consecration, or recurring worship.",
+      "sources": [
+        "https://eparhija-zicka.rs/arhijerejsko-namesnistvo-moravicko-2/"
+      ]
+    },
+    {
+      "candidate_id": "rs-ro-df-unenumerated-current-roster",
+      "parent": "ro-dacia-felix",
+      "country": "RS",
+      "name": "Unnamed deaneries, parishes, and filia of the Diocese of Dacia Felix",
+      "status": "hold for a current enumerated first-party roster",
+      "reason": "The Romanian Patriarchate's official 2023 external-community aggregate gives the Romanian Orthodox Vicariate of Vojvodina as six deaneries and 39 parishes, and the Romanian Orthodox Vicariate of Timok as three deaneries, six parishes, and 13 filia. The current diocesan administration page confirms both vicariates and their current vicars but does not enumerate the nine deaneries, 45 parishes, or 13 filia. The Vršac episcopal cathedral is the only dedicated current worship site located and published.",
+      "sources": [
+        "https://arhiva.patriarhia.ro/comunitaile-bisericesti-externe-in-anul-2023-2871.html",
+        "https://episcopiadaciafelix.ro/administratie-eparhiala/",
+        "https://episcopiadaciafelix.ro/catedrala-episcopala-inaltarea-domnului/"
+      ]
+    }
+  ],
+  "reconciliations": [
+    {
+      "scope": "Serbia named-body coverage",
+      "result": "Published 1,439 individually supported current bodies across Serbian Church dioceses, the Romanian Diocese of Dacia Felix, and the Russian patriarchal metochion. Aggregate counts without names remain candidates rather than invented rows.",
+      "sources": [
+        "https://spc.rs/sr/82.eparhije-srpske-pravoslavne-crkve.html",
+        "https://episcopiadaciafelix.ro/administratie-eparhiala/",
+        "https://patriarchia.ru/en/org/516"
+      ]
+    },
+    {
+      "scope": "Raška-Prizren country coding",
+      "result": "Retained country RS for the current Raška-Prizren parent and all of this batch's subordinate rows, matching repository precedent and avoiding a new country-code or sovereignty assumption. This is a directory schema decision, not political commentary.",
+      "sources": [
+        "https://eparhija-prizren.com/sr/parohije/",
+        "https://eparhija-prizren.com/sr/manastiri/"
+      ]
+    },
+    {
+      "scope": "Mileševa multi-country hierarchy",
+      "result": "Published the three Serbia deaneries, their 29 parishes and 42 churches, 12 Serbia monasteries, and Ascension Church at Bučje. Bučje is named by the official Pljevlja roster but carries a Priboj, Serbia address. The shared Mileševa parent remains a Montenegro and Serbia branch.",
+      "sources": [
+        "https://milesevskaeparhija.rs/eparhija/crkve/архиејерејско-намесништво-прибојско/",
+        "https://milesevskaeparhija.rs/eparhija/crkve/arhijerejsko-namesnistvo-novovarosko/",
+        "https://milesevskaeparhija.rs/eparhija/crkve/архиејерејско-намесништво-пљеваљско/"
+      ]
+    },
+    {
+      "scope": "Srem country and monastery deduplication",
+      "result": "Published 146 distinct numbered worship sites located in Serbia and 24 distinct monasteries. The separately listed Vavedenje monastery is the same body as numbered site 81 and is represented once. The Translation of the Relics of Saint Nicholas Church in Irig appears as numbered entries 35 and 76 in two deaneries; it is published once from the more complete entry 76, which supplies the street address. Three numbered Croatia sites remain held for country-correct reconciliation.",
+      "sources": [
+        "https://eparhijasremska.rs/потражите-храм/",
+        "https://eparhijasremska.rs/манастири/"
+      ]
+    }
+  ],
+  "official_jurisdiction_audit": [
+    {
+      "scope": "Serbian Orthodox Church",
+      "result": "Published named current contributions under Bačka, Banat, Mileševa, Niš, Raška-Prizren, Srem, Šumadija, Timok, Valjevo, and Žiča. Belgrade-Karlovci, Braničevo, Kruševac, Šabac, and Vranje remain explicit roster candidates because complete current enumerations were not accessible. Named roster gaps, count-only bodies, unfinished sites, and cross-border Srem sites are held separately rather than inferred.",
+      "sources": [
+        "https://spc.rs/sr/82.eparhije-srpske-pravoslavne-crkve.html",
+        "https://eparhijaniska.rs/parohije",
+        "https://eparhija-zicka.rs/namesnistva/"
+      ]
+    },
+    {
+      "scope": "Romanian Orthodox Church",
+      "result": "Published the resident Vojvodina and Timok vicariates of the Diocese of Dacia Felix and the Vršac episcopal cathedral. Unenumerated aggregate deanery, parish, and filia counts remain held.",
+      "sources": [
+        "https://episcopiadaciafelix.ro/administratie-eparhiala/",
+        "https://arhiva.patriarhia.ro/comunitaile-bisericesti-externe-in-anul-2023-2871.html",
+        "https://episcopiadaciafelix.ro/catedrala-episcopala-inaltarea-domnului/"
+      ]
+    },
+    {
+      "scope": "Russian Orthodox Church",
+      "result": "Published the Belgrade patriarchal metochion, its Holy Trinity Church, and the assigned Iveron cemetery chapel. The current Moscow Patriarchate card says the other former Russian churches in Yugoslavia were transferred to the Serbian Church in 1954, so no additional Russian or ROCOR resident row was inferred.",
+      "sources": [
+        "https://patriarchia.ru/en/org/516"
+      ]
+    },
+    {
+      "scope": "Greek Orthodox community worship",
+      "result": "A current Serbian Church report documents Greek community worship in the Serbian Patriarchal Chapel of Saint Simeon. Use of a Serbian Church chapel does not establish a separate resident Greek or Ecumenical Patriarchate administrative body, parish, or worship site.",
+      "sources": [
+        "https://spc.rs/sr/news/iz-zivota-crkve/13586.grcki-nacionalni-praznik-u-patrijarsiji-srpskoj.html"
+      ]
+    },
+    {
+      "scope": "Bulgarian and OCA roster review",
+      "result": "The cited Bulgarian Church and OCA official directory surfaces did not provide a resident Serbia body for publication. These sources support only this bounded roster review and are not treated as a comprehensive zero for every canonical jurisdiction.",
+      "sources": [
+        "https://bg-patriarshia.bg/church-sites",
+        "https://www.oca.org/directories/world-churches"
+      ]
+    },
+    {
+      "scope": "Remaining canonical Local Churches and overlapping diaspora jurisdictions",
+      "result": "Discovery searches considered Alexandrian, Antiochian, Jerusalem, Georgian, Cypriot, Polish, Albanian, Czech and Slovak, North Macedonian, Ukrainian, OCU, and other diaspora structures. No row is published without an exact current first-party roster citation. This note records incomplete verification work and makes no country-level absence claim.",
+      "sources": [
+        "https://spc.rs/sr/82.eparhije-srpske-pravoslavne-crkve.html"
+      ]
+    }
+  ]
+}
