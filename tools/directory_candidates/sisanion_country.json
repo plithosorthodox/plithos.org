@@ -1,0 +1,278 @@
+{
+  "v": 1,
+  "countries": [
+    "GR"
+  ],
+  "checked": "2026-11-15",
+  "method": "Publish every unique current parish body in the Metropolis parish and contact table, every exact monastery in the current official monastery roster, and the monastery founded by the 2026 government record. Preserve exact source conflicts, the duplicate table record, public body-associated contact routes, and the one live body-owned site. Hold unnamed aggregates, ambiguous dependent spaces, non-worship institutions, historic-only evidence, stale sites, and search or map leads.",
+  "published_summary": {
+    "ep-sisanion": 99,
+    "total": 99,
+    "current_table_source_records": 89,
+    "current_unique_parishes": 88,
+    "regulated_parish_rows": 87,
+    "parish_kind_rows": 88,
+    "monastery_kind_rows": 11,
+    "contact_bodies": 63,
+    "phone_bodies": 63,
+    "public_phone_values": 76,
+    "email_bodies": 3,
+    "public_email_values": 3,
+    "body_owned_sites": 1,
+    "address_bodies": 99
+  },
+  "candidates": [
+    {
+      "candidate_id": "gr-ep-sisanion-parish-count-conflict",
+      "parent": "ep-sisanion",
+      "country": "GR",
+      "category": "source-count-conflict",
+      "status": "held",
+      "reason": "The live Metropolis table contains 89 parish records. One Mesologgos record is an exact duplicate, leaving 88 unique current parishes. The 2020 Church of Greece legal roster and the 2023 Patriarchate profile each report 87. The exact current bodies are preserved, while no residual body is inferred from any aggregate.",
+      "current_source_records": 89,
+      "current_unique_parishes": 88,
+      "legal_rows": 87,
+      "patriarchate_aggregate": 87,
+      "sources": [
+        "https://www.imsiatistis.gr/ataxinomita/enories/",
+        "https://ecclesiagreece.gr/greek/press/ekklisia/2020_octobrios.pdf",
+        "https://ec-patr.org/entities/iera-mitropoli-sisanioy-siatistis/"
+      ]
+    },
+    {
+      "candidate_id": "gr-ep-sisanion-mesologgos-exact-duplicate",
+      "parent": "ep-sisanion",
+      "country": "GR",
+      "category": "exact-source-duplicate",
+      "status": "reconciled",
+      "reason": "The current official table prints Mesologgos, Dormition of the Theotokos, postal code 50001, and phone 24680 21208 twice. It is published once because every identity and contact field is identical.",
+      "sources": [
+        "https://www.imsiatistis.gr/ataxinomita/enories/"
+      ]
+    },
+    {
+      "candidate_id": "gr-ep-sisanion-kerasona-current-only",
+      "parent": "ep-sisanion",
+      "country": "GR",
+      "category": "source-roster-difference",
+      "status": "published-current",
+      "reason": "Kerasona, Dormition of the Theotokos, appears as an exact body in the live Metropolis parish table but not in the 2020 legal roster. It is published from the current first-party row without claiming when or how it entered the roster.",
+      "sources": [
+        "https://www.imsiatistis.gr/ataxinomita/enories/",
+        "https://ecclesiagreece.gr/greek/press/ekklisia/2020_octobrios.pdf"
+      ]
+    },
+    {
+      "candidate_id": "gr-ep-sisanion-anthousa-dedication-conflict",
+      "parent": "ep-sisanion",
+      "country": "GR",
+      "category": "source-name-conflict",
+      "status": "published-current",
+      "reason": "The current Metropolis table identifies the Anthousa parish as Saint Thomas. The 2020 legal roster identifies Anthousa as Saint Kosmas. The current local dedication is published and the older legal dedication remains recorded as a source discrepancy.",
+      "sources": [
+        "https://www.imsiatistis.gr/ataxinomita/enories/",
+        "https://ecclesiagreece.gr/greek/press/ekklisia/2020_octobrios.pdf"
+      ]
+    },
+    {
+      "candidate_id": "gr-ep-sisanion-spilios-missing-current-dedication",
+      "parent": "ep-sisanion",
+      "country": "GR",
+      "category": "current-field-missing",
+      "status": "reconciled",
+      "reason": "The current Metropolis table prints a dash instead of a dedication for Spilios. The exact corresponding 2020 legal row identifies the parish as Dormition of the Theotokos, which supplies the published dedication without inventing one.",
+      "sources": [
+        "https://www.imsiatistis.gr/ataxinomita/enories/",
+        "https://ecclesiagreece.gr/greek/press/ekklisia/2020_octobrios.pdf"
+      ]
+    },
+    {
+      "candidate_id": "gr-ep-sisanion-unnamed-chapels",
+      "parent": "ep-sisanion",
+      "country": "GR",
+      "category": "aggregate-only",
+      "status": "held",
+      "reason": "The current Patriarchate profile reports 130 chapels without a complete exact named roster. None is inferred from the aggregate.",
+      "aggregate_count": 130,
+      "sources": [
+        "https://ec-patr.org/entities/iera-mitropoli-sisanioy-siatistis/"
+      ]
+    },
+    {
+      "candidate_id": "gr-ep-sisanion-unnamed-country-chapels",
+      "parent": "ep-sisanion",
+      "country": "GR",
+      "category": "aggregate-only",
+      "status": "held",
+      "reason": "The current Patriarchate profile reports 60 country chapels without a complete exact named roster. None is inferred from the aggregate.",
+      "aggregate_count": 60,
+      "sources": [
+        "https://ec-patr.org/entities/iera-mitropoli-sisanioy-siatistis/"
+      ]
+    },
+    {
+      "candidate_id": "gr-ep-sisanion-unnamed-cemetery-churches",
+      "parent": "ep-sisanion",
+      "country": "GR",
+      "category": "aggregate-only",
+      "status": "held",
+      "reason": "The current Patriarchate profile reports 80 cemetery churches without a complete exact named roster. None is inferred from the aggregate.",
+      "aggregate_count": 80,
+      "sources": [
+        "https://ec-patr.org/entities/iera-mitropoli-sisanioy-siatistis/"
+      ]
+    },
+    {
+      "candidate_id": "gr-ep-sisanion-unnamed-monastery-churches",
+      "parent": "ep-sisanion",
+      "country": "GR",
+      "category": "aggregate-only",
+      "status": "held",
+      "reason": "The 2023 Patriarchate profile reports nine monastery churches. The official Metropolis roster names ten monastery institutions, and the 2026 government record establishes an eleventh monastery institution. A count of monastery churches is not treated as a count of institutions, and no unnamed dependent worship space is inferred.",
+      "aggregate_count": 9,
+      "sources": [
+        "https://ec-patr.org/entities/iera-mitropoli-sisanioy-siatistis/",
+        "https://www.imsiatistis.gr/ieres-mones/",
+        "https://www.ypes.gr/wp-content/uploads/2026/02/20260224_atnp_evdomadiaio_7.pdf"
+      ]
+    },
+    {
+      "candidate_id": "gr-ep-sisanion-mikrokastro-stale-site",
+      "parent": "ep-sisanion",
+      "country": "GR",
+      "category": "stale-current-evidence",
+      "status": "held",
+      "reason": "The current Metropolis detail page prints herbal-monastery.com for the Mikrokastro monastery, but the hostname no longer resolves. The email and telephone on the live detail page remain published, while the stale site is held until it returns or the body publishes a replacement.",
+      "stale_site": "https://herbal-monastery.com/",
+      "sources": [
+        "https://www.imsiatistis.gr/ieres-mones/gynaikeies/iera-moni-koimiseos-theotokou-mikrokastrou/",
+        "https://herbal-monastery.com/"
+      ]
+    },
+    {
+      "candidate_id": "gr-ep-sisanion-non-worship-institutions",
+      "parent": "ep-sisanion",
+      "country": "GR",
+      "category": "outside-directory-kind",
+      "status": "held",
+      "reason": "Libraries, museums, archives, schools, councils, courts, camps, charitable institutions, and other non-worship bodies are not forced into church or monastery rows.",
+      "sources": [
+        "https://www.imsiatistis.gr/",
+        "https://ec-patr.org/entities/iera-mitropoli-sisanioy-siatistis/"
+      ]
+    },
+    {
+      "candidate_id": "gr-ep-sisanion-search-map-historic-leads",
+      "parent": "ep-sisanion",
+      "country": "GR",
+      "category": "affiliation-or-status-unclear",
+      "status": "discovery-only",
+      "reason": "Search, map, municipal, and historic leads remain unpublished unless a current competent Church source establishes exact identity, current worship status, and canonical parentage.",
+      "sources": [
+        "https://www.imsiatistis.gr/ataxinomita/enories/",
+        "https://www.imsiatistis.gr/ieres-mones/"
+      ]
+    }
+  ],
+  "source_reconciliations": [
+    {
+      "topic": "current-parish-roster-and-older-counts",
+      "finding": "The live Metropolis table contains 89 records and one exact Mesologgos duplicate, yielding 88 unique current parishes. The 2020 legal roster contains 87 exact rows and states a total of 87, while the 2023 Patriarchate profile also reports 87. Kerasona is the exact current-table body absent from the legal roster. All 88 unique current rows are published, and no body is removed or invented to force the older totals.",
+      "sources": [
+        "https://www.imsiatistis.gr/ataxinomita/enories/",
+        "https://ecclesiagreece.gr/greek/press/ekklisia/2020_octobrios.pdf",
+        "https://ec-patr.org/entities/iera-mitropoli-sisanioy-siatistis/"
+      ]
+    },
+    {
+      "topic": "anthousa-and-spilios-dedications",
+      "finding": "The current Anthousa dedication, Saint Thomas, is preserved despite the legal roster's Saint Kosmas entry. The legal Dormition dedication is used for Spilios because the live table leaves that exact field blank. These are separate source discrepancies and are not used to alter the total.",
+      "sources": [
+        "https://www.imsiatistis.gr/ataxinomita/enories/",
+        "https://ecclesiagreece.gr/greek/press/ekklisia/2020_octobrios.pdf"
+      ]
+    },
+    {
+      "topic": "current-monastic-institutions-and-monastery-churches",
+      "finding": "The official Metropolis page names ten monastery institutions, the same ten institutions named in the 2023 Patriarchate profile. The 2026 government record establishes the Saint Menas monastery as an additional current institution. The result is eleven exact current monastic institutions. The Patriarchate aggregate of nine monastery churches describes worship spaces and is not forced to equal the institution count.",
+      "sources": [
+        "https://www.imsiatistis.gr/ieres-mones/",
+        "https://ec-patr.org/entities/iera-mitropoli-sisanioy-siatistis/",
+        "https://www.ypes.gr/wp-content/uploads/2026/02/20260224_atnp_evdomadiaio_7.pdf"
+      ]
+    },
+    {
+      "topic": "body-contact-provenance",
+      "finding": "Every public telephone and email tied by a checked first-party page to a specific published body is retained. This includes mobile and clergy-associated routes. Clergy names are omitted, and no associated route is characterized as an office line unless the source does so. Parent Metropolis contacts and district commissioner contacts are not copied to subordinate bodies.",
+      "sources": [
+        "https://www.imsiatistis.gr/ataxinomita/enories/",
+        "https://www.imsiatistis.gr/ieres-mones/",
+        "https://ec-patr.org/entities/iera-mitropoli-sisanioy-siatistis/"
+      ]
+    },
+    {
+      "topic": "nativity-dryovouno-phone-variants",
+      "finding": "The live Metropolis detail page prints mobile 6957464137 for the Nativity monastery at Dryovouno, while the 2023 Patriarchate profile prints landline 24650-51410. Both current public body-associated routes are retained.",
+      "sources": [
+        "https://www.imsiatistis.gr/ieres-mones/gynaikeies/iera-moni-genethliou-theotokou-dryovounou/",
+        "https://ec-patr.org/entities/iera-mitropoli-sisanioy-siatistis/"
+      ]
+    },
+    {
+      "topic": "body-owned-sites",
+      "finding": "The Nativity monastery at Dryovouno has one live body-owned site, imgth.gr, linked from its official Metropolis detail page. The Mikrokastro detail page still prints herbal-monastery.com, but that host does not resolve and remains held rather than presented as a current site.",
+      "sources": [
+        "https://www.imsiatistis.gr/ieres-mones/gynaikeies/iera-moni-genethliou-theotokou-dryovounou/",
+        "https://www.imgth.gr/",
+        "https://www.imsiatistis.gr/ieres-mones/gynaikeies/iera-moni-koimiseos-theotokou-mikrokastrou/",
+        "https://herbal-monastery.com/"
+      ]
+    }
+  ],
+  "official_parent_audit": [
+    {
+      "topic": "canonical-parent",
+      "finding": "The Ecumenical Patriarchate and the official local Metropolis site identify the Holy Metropolis of Sisanion and Siatista and supply its current institutional context. The Church of Greece legal roster and the 2026 government record establish the exact legal parish and Saint Menas monastery evidence used here.",
+      "sources": [
+        "https://ec-patr.org/entities/iera-mitropoli-sisanioy-siatistis/",
+        "https://www.imsiatistis.gr/",
+        "https://ecclesiagreece.gr/greek/press/ekklisia/2020_octobrios.pdf",
+        "https://www.ypes.gr/wp-content/uploads/2026/02/20260224_atnp_evdomadiaio_7.pdf"
+      ]
+    },
+    {
+      "topic": "current-published-coverage",
+      "finding": "This tranche publishes 99 exact current bodies: 88 unique parishes from the live contact table and eleven monastery institutions. Every row carries a Greek local name, a seat, an address, and competent first-party identity evidence.",
+      "sources": [
+        "https://www.imsiatistis.gr/ataxinomita/enories/",
+        "https://www.imsiatistis.gr/ieres-mones/",
+        "https://www.ypes.gr/wp-content/uploads/2026/02/20260224_atnp_evdomadiaio_7.pdf"
+      ]
+    }
+  ],
+  "exclusions": [
+    {
+      "category": "aggregate-only",
+      "decision": "No chapel, country chapel, cemetery church, monastery church, or other worship body is inferred solely from an aggregate count.",
+      "sources": [
+        "https://ec-patr.org/entities/iera-mitropoli-sisanioy-siatistis/"
+      ]
+    },
+    {
+      "category": "historic-ambiguous-or-planned",
+      "decision": "Historic-only, ambiguous, planned, unnamed, and canonically unclear leads are held until a competent current source establishes an exact current worship or monastic body. The Saint Menas monastery is not held as merely planned because the 2026 record expressly establishes the monastic institution, although its recital also records plans for its katholikon.",
+      "sources": [
+        "https://www.ypes.gr/wp-content/uploads/2026/02/20260224_atnp_evdomadiaio_7.pdf",
+        "https://www.imsiatistis.gr/ieres-mones/"
+      ]
+    },
+    {
+      "category": "parent-contact-inheritance",
+      "decision": "Metropolis office, bishop, district commissioner, and general staff contacts are not copied to a parish or monastery unless the same first-party source ties the route directly to that body.",
+      "sources": [
+        "https://www.imsiatistis.gr/ataxinomita/enories/",
+        "https://ec-patr.org/entities/iera-mitropoli-sisanioy-siatistis/"
+      ]
+    }
+  ]
+}
