@@ -171,6 +171,7 @@ WORKS = {
  "cyprian-unity-of-the-church":     ("St Cyprian of Carthage", "Doctrine"),
     "akathist-theotokos-el":           ("Anonymous, of the sixth century", "The life of prayer"),
     "akathist-theotokos-en":           ("Anonymous, of the sixth century", "The life of prayer"),
+    "akathist-theotokos":              ("Anonymous, of the sixth century", "The life of prayer"),
     "akathist-ambrose-optina":         ("Anonymous", "The life of prayer"),
  "akathist-kazan-icon":             ("Anonymous", "The life of prayer"),
  "akathist-athanasius-athos":       ("Anonymous", "The life of prayer"),
@@ -409,7 +410,7 @@ def main():
         line = "const CORPUS = " + json.dumps(corpus, ensure_ascii=False,
                                               separators=(",", ":")) + ";"
         READER.write_text(src[:i] + line + src[j:], encoding="utf-8")
-        INDEX.write_text(json.dumps(lazy, ensure_ascii=False, indent=1),
+        INDEX.write_text(json.dumps(lazy, ensure_ascii=False, indent=1) + "\n",
                          encoding="utf-8")
         print("\nwrote library.html and works-index.json")
     elif not args.check:

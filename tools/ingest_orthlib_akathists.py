@@ -47,6 +47,33 @@ CONVERTER_SHA256 = "374a6d263bbc4feccfdc6f8e7f19d02ee933a42630603bf20b610b01965a
 
 CATALOGUE = [
     {
+        "name": "akafbogor",
+        "archive_sha256": "24ba90ec0bdb617d5142d1d1bbc697d6fe0ee046f1ac5c4f38eb04e507628340",
+        "hip_sha256": "293d96200aa86b25fb6a3e71bbb9748dfa533d564ae86b4d9fe45802c5a48324",
+        "work_id": "akathist-theotokos-cu",
+        "edition_of": "akathist-theotokos",
+        "title": "А҆КА́ѲІСТЪ ПРЕСТ҃Ѣ́Й ВЛⷣЧЦѢ НА́ШЕЙ БЦⷣѢ",
+        "author": "Anonymous, of the sixth century",
+        "date": "6th century; received Church Slavonic text",
+        "pub_year": None,
+        "source": (
+            "The Great Akathist to the Most Holy Theotokos from the "
+            "received Church Slavonic Lenten Triodion text"
+        ),
+        "description": (
+            "The complete Church Slavonic Great Akathist from the received "
+            "Lenten Triodion text: the opening kontakion, twelve ikoi and "
+            "twelve further kontakia, the repetition rubric, and the "
+            "concluding prayer. Orthlib's public-domain HIP transcription "
+            "preserves the received accents, titla, historic letters, "
+            "headings, and abbreviations."
+        ),
+        "expected_units": 28,
+        "first_heading": "Акафистъ",
+        "last_heading": "Моли́тва",
+        "digest": "7c4558de79437809287bc7606873aa8454d346610bd7b2f4c61ee7e76e0496d8",
+    },
+    {
         "name": "kazansk",
         "archive_sha256": "67d16642b81d6bc6c38f30ab90e3cbf9d039c725ac06fb07bc23fadec4979218",
         "hip_sha256": "e0cad26ee260d78cd30a1d726744d9a8ef437e6163927635e3cd2b2918f4a435",

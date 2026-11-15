@@ -305,6 +305,8 @@ PREFIX = [
 # once here keeps the two from drifting apart.
 MIRROR = {
     "patriarchal-encyclical-1895-en": "patriarchal-encyclical-1895",
+    "akathist-theotokos-cu": "akathist-theotokos-el",
+    "akathist-ambrose-optina-cu": "akathist-ambrose-optina-sr",
     "akathist-kazan-icon-cu": "akathist-kazan-icon",
     "akathist-athanasius-athos-cu": "akathist-athanasius-athos",
     "justin-first-apology-grc": "justin-first-apology",
@@ -421,7 +423,7 @@ def main():
         line = "const CORPUS = " + json.dumps(corpus, ensure_ascii=False,
                                               separators=(",", ":")) + ";"
         READER.write_text(src[:i] + line + src[j:], encoding="utf-8")
-        INDEX.write_text(json.dumps(lazy, ensure_ascii=False, indent=1),
+        INDEX.write_text(json.dumps(lazy, ensure_ascii=False, indent=1) + "\n",
                          encoding="utf-8")
         print("\nwrote library.html and works-index.json")
     elif args.write:
