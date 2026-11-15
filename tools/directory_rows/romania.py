@@ -95,6 +95,10 @@ AMERICAS = ["https://patriarhia.ro/en/organization-of-the-romanian-orthodox"
             "americas/",
             "https://patriarhia.ro/organizarea-bisericii-ortodoxe-romane/"
             "mitropolii/mitropolia-ortodoxa-romana-a-celor-doua-americi/"]
+UKRAINIAN_VICARIATE = [
+    "https://patriarhia.ro/en/dioceses/vicariatul-ortodox-ucrainean/",
+    "https://vicariatulortodoxucrainean.ro/",
+]
 
 ROWS = [
  # Metropolis of Muntenia and Dobrudja. Bucharest and Tomis are already in
@@ -394,4 +398,15 @@ ROWS = [
       site="https://www.episcopia.ca/", sources=AMERICAS + ["https://www.episcopia.ca/index.php/ro/cine-suntem/istorie"],
       founded=[u"La acest Congres din 1929 s-a hotărât să se înfiinţeze o Episcopie Misionară sub jurisdicţia canonică a Bisericii Ortodoxe Române.",
                u"Actul fondator al Episcopiei Ortodoxe Române a Canadei este hotărârea Congresului Arhiepiscopiei Ortodoxe Române din cele două Americi de la Hamilton, Ontario, din 1-3 iulie 2016, de a înființa Episcopia Ortodoxă Română a Canadei."]),
+
+ # Direct patriarchal vicariate in Romania.
+ dict(id="ro-ukrainian-vicariate", parent="romania",
+      kind="diocese", rank="Vicariate",
+      name="Ukrainian Orthodox Vicariate of Romania",
+      local="Vicariatul Ortodox Ucrainean din România",
+      seat="Sighetu Marmației", country="RO",
+      address=["Strada Bogdan Vodă 12",
+               "435500 Sighetu Marmației, Maramureș"],
+      site="https://vicariatulortodoxucrainean.ro/",
+      checked="2026-11-15", sources=UKRAINIAN_VICARIATE),
 ]

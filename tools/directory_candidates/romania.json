@@ -1,0 +1,492 @@
+{
+  "version": 1,
+  "country": "RO",
+  "checked": "2026-11-15",
+  "policy": "Only current named bodies supported by competent first-party church sources are published. Count-only remainders, inaccessible rosters, construction projects, stale aggregate conflicts, inferred parentage, and unresolved physical-site duplicates remain here.",
+  "name_language_note": "Exact official local source names are preserved where the competent Church does not publish a reliable English form. English rendering of those names is a separate editorial task and was not inferred during discovery.",
+  "published_summary": {
+    "module_rows": 8023,
+    "directory_spine_parent_rows": 1,
+    "verified_body_rows": 8023,
+    "romanian_patriarchate_domestic_rows": 7969,
+    "ukrainian_vicariate_rows": 34,
+    "serbian_eparchy_of_timisoara_rows": 20,
+    "row_counts_by_parent": {
+      "ro-maramures": 550,
+      "ro-deva": 517,
+      "ro-arges": 539,
+      "ro-iasi": 1338,
+      "ro-bucharest": 713,
+      "ro-lower-danube": 508,
+      "ro-sibiu": 615,
+      "ro-slatina": 444,
+      "ro-arad": 321,
+      "ro-timisoara": 369,
+      "ro-alexandria-teleorman": 273,
+      "ro-tomis": 313,
+      "ro-targoviste": 348,
+      "ro-severin": 200,
+      "ro-caransebes": 232,
+      "ro-cluj": 35,
+      "ro-craiova": 31,
+      "ro-buzau": 33,
+      "ro-slobozia": 8,
+      "ro-roman": 41,
+      "ro-husi": 12,
+      "ro-covasna": 19,
+      "ro-suceava": 5,
+      "ro-alba-iulia": 11,
+      "ro-tulcea": 3,
+      "ro-salaj": 4,
+      "ro-oradea": 18,
+      "ro-giurgiu": 203,
+      "ro-ramnic": 266,
+      "ro-ukrainian-vicariate": 34,
+      "sr-timisoara": 20
+    }
+  },
+  "count_only_and_inaccessible_gaps": [
+    {
+      "parent": "ro-lower-danube",
+      "status": "count-only monastic remainder",
+      "published_named_monastic_bodies": 14,
+      "unresolved_count": 1,
+      "sources": [
+        "https://edj.ro/category/prezentarea/protoierii/"
+      ]
+    },
+    {
+      "parent": "ro-iasi",
+      "status": "count-only monastic remainder",
+      "published_named_monastic_bodies": 94,
+      "official_aggregate": 103,
+      "unresolved_count": 9,
+      "sources": [
+        "https://manastiri.mmb.ro/"
+      ]
+    },
+    {
+      "parent": "ro-bucharest",
+      "status": "aggregate exceeds named roster",
+      "published_named_parishes": 700,
+      "official_parish_aggregate": 718,
+      "unresolved_parish_count": 18,
+      "official_monastic_aggregate": 46,
+      "unresolved_monastic_count": 46,
+      "sources": [
+        "https://arhiepiscopiabucurestilor.ro/parohii"
+      ]
+    },
+    {
+      "parent": "ro-sibiu",
+      "status": "live names supersede a stale aggregate",
+      "published_rows": 615,
+      "note": "The branch uses the ten live deanery pages and the current named monastic list. Older aggregate figures do not reconcile to those names. Thirteen additional construction bodies are retained separately below.",
+      "sources": [
+        "https://mitropolia-ardealului.ro/",
+        "https://mitropolia-ardealului.ro/wp-json/wp/v2/pages?search=Protopopiatul&per_page=100"
+      ]
+    },
+    {
+      "parent": "ro-timisoara",
+      "status": "aggregate and named roster conflict",
+      "published_named_parishes": 272,
+      "official_parish_aggregate": 274,
+      "unresolved_parish_count": 2,
+      "published_named_filial_churches": 78,
+      "official_filial_aggregate": 77,
+      "official_paraclis_aggregate": 2,
+      "unresolved_paraclis_count": 2,
+      "note": "No names were inferred to force the live roster to equal the aggregate.",
+      "sources": [
+        "https://mitropolia-banatului.ro/sematisme/"
+      ]
+    },
+    {
+      "parent": "ro-severin",
+      "status": "aggregate-only remainder",
+      "published_named_parishes": 183,
+      "official_parish_aggregate": 200,
+      "unresolved_parish_count": 17,
+      "unresolved_filial_church_count": 148,
+      "published_deaneries": 4,
+      "unresolved_deanery_count": 1,
+      "sources": [
+        "https://www.episcopiaseverinului.ro/protopopiate/protopopiatul-drobeta.html"
+      ]
+    },
+    {
+      "parent": "ro-cluj",
+      "status": "aggregate exceeds named monastic roster",
+      "published_named_monastic_bodies": 26,
+      "official_aggregate_note": "The official summary reports 35 monasteries plus one additional monastic establishment.",
+      "note": "The missing names and rank split are not exposed by the current first-party roster. Parish rosters are also not exposed as current named lists.",
+      "sources": [
+        "https://mitropolia-clujului.ro/manastiri/"
+      ]
+    },
+    {
+      "parent": "ro-craiova",
+      "status": "parishes are count-only",
+      "official_parish_aggregate": 569,
+      "published_named_parishes": 0,
+      "published_unique_chapels": 4,
+      "official_chapel_aggregate": 6,
+      "note": "The source's five-item chapel list includes All Saints as the same physical body as a published monastery. The remaining aggregate difference has no publishable names.",
+      "sources": [
+        "https://mitropoliaolteniei.ro/subpagina/protoierii/",
+        "https://mitropoliaolteniei.ro/subpagina/manastiri/"
+      ]
+    },
+    {
+      "parent": "ro-buzau",
+      "status": "parish rosters unavailable as exact current names",
+      "published_named_monastic_bodies": 26,
+      "published_deaneries": 7,
+      "sources": [
+        "https://arhiepiscopiabzvn.ro/protoierii.html",
+        "https://arhiepiscopiabzvn.ro/wp-json/wp/v2/posts?categories=10&per_page=100&_fields=id,link,title,status"
+      ]
+    },
+    {
+      "parent": "ro-slobozia",
+      "status": "parish and most monastic bodies are count-only",
+      "official_parish_aggregate_note": "The official source reports more than 350 parishes without a complete current named roster.",
+      "published_named_monastic_bodies": 2,
+      "sources": [
+        "https://sf-esc.ro/conferinta-pastoral-misionara-de-toamna-a-clericilor-din-episcopia-sloboziei-si-calarasilor"
+      ]
+    },
+    {
+      "parent": "ro-roman",
+      "status": "parishes are count-only",
+      "official_parish_aggregate": 401,
+      "published_named_parishes": 0,
+      "published_named_monastic_bodies": 36,
+      "sources": [
+        "https://eprb.ro/administratie/protopopiate",
+        "https://eprb.ro/administratie/administratie-eparhiala/cancelaria-eparhiala/sector-exarhat?page=0"
+      ]
+    },
+    {
+      "parent": "ro-husi",
+      "status": "aggregate-only parish, filial, and monastic remainder",
+      "official_parish_aggregate": 294,
+      "official_filial_church_aggregate": 192,
+      "official_monastic_aggregate": 17,
+      "official_cathedral_aggregate": 1,
+      "published_named_monastic_bodies": 9,
+      "unresolved_monastic_count": 8,
+      "sources": [
+        "https://episcopiahusilor.ro/administratie",
+        "https://episcopiahusilor.ro/manastiri"
+      ]
+    },
+    {
+      "parent": "ro-covasna",
+      "status": "official monastic counts conflict",
+      "published_named_monastic_bodies": 14,
+      "note": "The body list names 14 establishments, accompanying prose says 12, and a site summary says 11. The exact current named list is published without altering it to match either aggregate.",
+      "sources": [
+        "https://episcopiacvhr.ro/manastiri-si-schituri/"
+      ]
+    },
+    {
+      "parent": "ro-suceava",
+      "status": "parish and monastic rosters unavailable as current exact names",
+      "official_monastic_aggregate": 90,
+      "published_deaneries": 5,
+      "sources": [
+        "https://www.arhiepiscopiasucevei.ro/conferintele-pastoral-misionare-de-toamna-din-arhiepiscopia-sucevei-si-radautilor-au-continuat-in-protopopiatul-campulung-moldovenesc/"
+      ]
+    },
+    {
+      "parent": "ro-alba-iulia",
+      "status": "parish and monastic rosters unavailable as current exact names",
+      "published_deaneries": 10,
+      "published_cathedrals": 1,
+      "sources": [
+        "https://reintregirea.ro/en/taxonomy/term/42",
+        "https://reintregirea.ro/catedrala-arhiepiscopala"
+      ]
+    },
+    {
+      "parent": "ro-tulcea",
+      "status": "full first-party roster inaccessible",
+      "published_deaneries": 3,
+      "note": "No parish or monastic names were inferred from third-party maps or aggregate counts.",
+      "sources": [
+        "https://basilica.ro/episcopul-visarion-si-preotii-din-tulcea-s-au-rugat-pentru-binecuvantarea-lucrarii-pastoral-misionare-in-noul-an/"
+      ]
+    },
+    {
+      "parent": "ro-salaj",
+      "status": "parish and monastic rosters unavailable and official aggregates conflict",
+      "published_deaneries": 3,
+      "published_cathedrals": 1,
+      "sources": [
+        "https://episcopiasalajului.ro/clericii-din-episcopia-salajului-participa-la-cursuri-de-formare-la-manastirea-stramba/",
+        "https://episcopiasalajului.ro/preotii-si-preotesele-din-episcopia-salajului-reuniti-la-conferinta-de-primavara-dedicata-familiei-crestine/"
+      ]
+    },
+    {
+      "parent": "ro-oradea",
+      "status": "current monastic roster does not reconcile to historical summary",
+      "published_named_monastic_bodies": 11,
+      "historical_named_monastic_bodies": 13,
+      "historical_aggregate": 14,
+      "note": "Only eleven establishments with sufficient current evidence are published. Two historical names and one count-only difference remain unresolved. Parish bodies are also not available as a complete current named roster.",
+      "sources": [
+        "https://www.eparhiaortodoxaoradea.ro/centrul-eparhial/istoricul-episcopiei-oradiei",
+        "https://www.eparhiaortodoxaoradea.ro/stiri/preotii-din-cele-patru-protopopiate-din-eparhia-oradiei-reuniti-in-conferinte"
+      ]
+    },
+    {
+      "parent": "ro-ramnic",
+      "status": "aggregate exceeds named parish roster and monastic prose conflicts with list",
+      "published_named_parishes": 229,
+      "official_parish_aggregate": 350,
+      "unresolved_parish_count": 121,
+      "published_named_monastic_bodies": 30,
+      "official_monastic_prose_count": 29,
+      "sources": [
+        "https://arhiepiscopiaramnicului.ro/manastiri-si-parohii",
+        "https://arhiepiscopiaramnicului.ro/manastiri"
+      ]
+    }
+  ],
+  "construction_holds": [
+    {
+      "parent": "ro-arges",
+      "label": "Parohia Merișani",
+      "locality": "Merișani",
+      "status": "In Construcție",
+      "source": "https://arhiepiscopiaargesuluisimuscelului.ro/protoieria-mioveni/"
+    },
+    {
+      "parent": "ro-severin",
+      "label": "Viitoarea Mănăstire Godeanu and its future chapel of Saints Silouan the Athonite and Sophrony of Essex",
+      "status": "foundation laid; source calls the monastery and chapel future bodies",
+      "source": "https://www.episcopiaseverinului.ro/sobor-de-arhierei-la-punerea-pietrei-de-temelie-a-paraclisului-manastirii-godeanu.html"
+    },
+    {
+      "parent": "ro-sibiu",
+      "count": 13,
+      "status": "construction bodies attached to otherwise current parish rows",
+      "records": [
+        {
+          "locality": "Brașov - Bartolomeu Nord",
+          "label": "Biserică în construcție; the same row names the active chapel Sf. Transilvăneni",
+          "source": "https://mitropolia-ardealului.ro/wp-json/wp/v2/pages/256"
+        },
+        {
+          "locality": "Brașov - Blumăna 6",
+          "label": "Biserică în construcție; the same row names the active chapel Sf. Mc. Tatiana",
+          "source": "https://mitropolia-ardealului.ro/wp-json/wp/v2/pages/256"
+        },
+        {
+          "locality": "Brașov - Carpați",
+          "label": "Biserică în construcție",
+          "source": "https://mitropolia-ardealului.ro/wp-json/wp/v2/pages/256"
+        },
+        {
+          "locality": "Brașov - Spitalul Județean",
+          "label": "Capela Sf. Mc. Sofia Doctorița",
+          "source": "https://mitropolia-ardealului.ro/wp-json/wp/v2/pages/256"
+        },
+        {
+          "locality": "Sibiu - Turnișor IV",
+          "label": "Biserică în construcție",
+          "source": "https://mitropolia-ardealului.ro/wp-json/wp/v2/pages/258"
+        },
+        {
+          "locality": "Hărman II",
+          "label": "Biserica Sf. Mare Mc. Mina",
+          "source": "https://mitropolia-ardealului.ro/wp-json/wp/v2/pages/260"
+        },
+        {
+          "locality": "Săcele - Gârcini",
+          "label": "Biserica Nașterea Maicii Domnului și Sf. Ier. Vasile cel Mare",
+          "source": "https://mitropolia-ardealului.ro/wp-json/wp/v2/pages/260"
+        },
+        {
+          "locality": "Râșnov V",
+          "label": "Biserica Sf. Arh. Gavriil și Sf. Andrei Șaguna, Mitropolitul Transilvaniei",
+          "source": "https://mitropolia-ardealului.ro/wp-json/wp/v2/pages/262"
+        },
+        {
+          "locality": "Zărnești IV",
+          "label": "Capela Pogorârea Sf. Duh",
+          "source": "https://mitropolia-ardealului.ro/wp-json/wp/v2/pages/262"
+        },
+        {
+          "locality": "Păuca",
+          "label": "Biserica Nașterea Maicii Domnului și Sfântul Ierarh Andrei Șaguna",
+          "source": "https://mitropolia-ardealului.ro/wp-json/wp/v2/pages/264"
+        },
+        {
+          "locality": "Făgăraș - Gară",
+          "label": "Biserica Sf. Apostoli Petru și Pavel",
+          "source": "https://mitropolia-ardealului.ro/wp-json/wp/v2/pages/270"
+        },
+        {
+          "locality": "Mârșa",
+          "label": "Biserica Pogorârea Sfântului Duh și Nașterea Sf. Ioan Botezătorul",
+          "source": "https://mitropolia-ardealului.ro/wp-json/wp/v2/pages/272"
+        },
+        {
+          "locality": "Agnita III",
+          "label": "Biserica Sf. Apostoli Petru și Pavel",
+          "source": "https://mitropolia-ardealului.ro/wp-json/wp/v2/pages/274"
+        }
+      ]
+    }
+  ],
+  "duplicate_and_assignment_holds": [
+    {
+      "parent": "ro-deva",
+      "label": "Catedrala Episcopală Sf. Ierarh Nicolae și Sfinții Apostoli Petru și Pavel din Deva",
+      "status": "same physical body as published Parohia Deva I; separate cathedral row held to avoid a duplicate",
+      "sources": [
+        "https://episcopiadevei.ro/deva/",
+        "https://episcopiadevei.ro/cancelaria-eparhiala/"
+      ]
+    },
+    {
+      "parent": "ro-arges",
+      "label": "Mănăstirea Argeșului / Catedrala Episcopală Adormirea Maicii Domnului",
+      "status": "one physical church described under both monastic and cathedral functions; no second row emitted",
+      "sources": [
+        "https://arhiepiscopiaargesuluisimuscelului.ro/manastirea-argesului/",
+        "https://arhiepiscopiaargesuluisimuscelului.ro/manastiri-si-schituri/"
+      ]
+    },
+    {
+      "parent": "ro-tomis",
+      "label": "Schitul Sfântul Gherman din Dobrogea",
+      "status": "duplicate official listing collapsed to one published body",
+      "source": "https://arhiepiscopiatomisului.ro/2021/11/29/schitul-sfantul-gherman-din-dobrogea/"
+    },
+    {
+      "parent": "ro-tomis",
+      "labels": [
+        "Mănăstirea Adâncata - Mircea Vodă",
+        "Mănăstirea Mircea Vodă",
+        "Mănăstirea Adâncata"
+      ],
+      "status": "official pages expose three names whose physical-site relationship is not resolved; all source-named rows remain published pending authoritative reconciliation",
+      "sources": [
+        "https://arhiepiscopiatomisului.ro/2021/11/29/manastirea-adancata-mircea-voda/",
+        "https://arhiepiscopiatomisului.ro/2021/11/29/manastirea-mircea-voda/",
+        "https://arhiepiscopiatomisului.ro/2021/11/29/manastirea-adancata/"
+      ]
+    },
+    {
+      "parent": "ro-caransebes",
+      "status": "duplicate or subordinate official pages excluded from the main roster",
+      "records": [
+        {"source_id": 2373, "label": "Giurgiova"},
+        {"source_id": 2340, "label": "Măureni", "note": "duplicate page"},
+        {"source_id": 2138, "label": "Nicolinț", "note": "duplicate pair with source 2136"},
+        {"source_id": 2136, "label": "Nicolinț", "note": "duplicate pair with source 2138"},
+        {"source_id": 2091, "label": "Socolari"},
+        {"source_id": 2084, "label": "Stinapari"},
+        {"source_id": 1954, "label": "Ticvaniu Mic"}
+      ],
+      "note": "These pages appear to be filial or subordinate bodies rather than separate current parishes. No separate filial rows were inferred.",
+      "source": "https://www.episcopiacaransebesului.ro/protopopiate/"
+    },
+    {
+      "parent": "ro-sibiu",
+      "status": "duplicate and clergy-role roster entries excluded",
+      "records": [
+        {
+          "label": "Brașov - Spitale IV",
+          "note": "The official Brașov table repeats the same body twice. One row is published."
+        },
+        {
+          "label": "Misionar",
+          "note": "Two official Prejmer-Săcele table rows identify missionary clergy roles rather than separate worship bodies."
+        }
+      ],
+      "sources": [
+        "https://mitropolia-ardealului.ro/wp-json/wp/v2/pages/256",
+        "https://mitropolia-ardealului.ro/wp-json/wp/v2/pages/260"
+      ]
+    },
+    {
+      "parent": "ro-slatina",
+      "status": "source heading mismatch",
+      "note": "One official roster heading conflicts with the deanery grouping presented on its page. Rows retain the page-level grouping rather than an inferred reassignment.",
+      "source": "https://www.episcopiaslatinei.ro/administratie/protopopiate/"
+    }
+  ],
+  "source_access_notes": [
+    {
+      "status": "automated HTTP probe returned 403; source is retained because it is the competent first-party or patriarchal page and is available to ordinary browser traffic",
+      "sources": [
+        "https://basilica.ro/episcopul-visarion-si-preotii-din-tulcea-s-au-rugat-pentru-binecuvantarea-lucrarii-pastoral-misionare-in-noul-an/",
+        "https://episcopiasalajului.ro/clericii-din-episcopia-salajului-participa-la-cursuri-de-formare-la-manastirea-stramba/",
+        "https://episcopiasalajului.ro/preotii-si-preotesele-din-episcopia-salajului-reuniti-la-conferinta-de-primavara-dedicata-familiei-crestine/",
+        "https://www.episcopiaslatinei.ro/administratie/protopopiate/"
+      ]
+    },
+    {
+      "parent": "sr-timisoara",
+      "status": "the eparchy's complete current roster is not available through an accessible first-party directory",
+      "note": "Recent Serbian Patriarchate reports support the exact published subset. Search and map discoveries remain unpublished where the central Church has not named the body."
+    }
+  ],
+  "assignment_notes": [
+    {
+      "id": "sr-timisoara-church-ascension-belobreska",
+      "assigned_parent": "sr-timisoara-deanery-sokolovac",
+      "status": "contextual first-party assignment",
+      "note": "The official report joins the Sokolovac deanery meeting and the service at Belobreska but is not a standalone deanery roster.",
+      "source": "https://spc.rs/sr/news/16310.x.html"
+    },
+    {
+      "id": "sr-timisoara-church-ascension-tolvadija",
+      "assigned_parent": "sr-timisoara-deanery-timisoara",
+      "status": "contextual first-party assignment",
+      "note": "The official report identifies the participating clergy as the Timisoara deanery but is not a standalone deanery roster.",
+      "source": "https://spc.rs/sr/news/18218.x.html"
+    }
+  ],
+  "resident_canonical_jurisdictions": [
+    {
+      "parent": "ro-ukrainian-vicariate",
+      "published_rows": 34,
+      "breakdown": {
+        "deaneries": 2,
+        "parishes": 29,
+        "monasteries_and_convents": 3
+      },
+      "status": "current first-party live roster",
+      "aggregate_conflict": "An older official aggregate reports 25 parishes, while the current live deanery pages name 29.",
+      "sources": [
+        "https://vicariatulortodoxucrainean.ro/protopopiat-sighet/",
+        "https://vicariatulortodoxucrainean.ro/protopopiat-lugoj/"
+      ]
+    },
+    {
+      "parent": "sr-timisoara",
+      "published_rows": 20,
+      "breakdown": {
+        "deaneries": 3,
+        "monasteries": 5,
+        "cathedrals": 1,
+        "churches": 8,
+        "parishes_named_without_dedication": 2,
+        "chapels": 1
+      },
+      "status": "exact current subset only",
+      "gap": "No complete current first-party parish roster is accessible. Nonofficial discovery lists claim roughly 56 to 59 churches or parishes but conflict internally and include at least one wrong dedication, so their unnamed remainder is not published.",
+      "sources": [
+        "https://spc.rs/sr/news/16967.x.html",
+        "https://spc.rs/sr/news/14876.x.html",
+        "https://spc.rs/sr/news/16595.x.html"
+      ]
+    }
+  ]
+}
