@@ -1,0 +1,137 @@
+{
+  "v": 1,
+  "countries": [
+    "GR"
+  ],
+  "checked": "2026-11-15",
+  "method": "Publish the 215 exact current parish rows in the first-party Metropolis roster and reconcile their identities against Regulation 1378/758/2019 and the Church of Greece 215-parish aggregate. Preserve each valid body-specific phone shown in the current roster, including clergy-linked and mobile routes, without retaining clergy names or district contacts. Add the 22 exact current monastic bodies in the Metropolis 2025 guide and current monastery page, including every body-specific public phone found in those sources. Hold malformed, unnamed, historical, aggregate-only, map-only, search-only, and canonically unclear leads rather than inventing or correcting them.",
+  "published_summary": {
+    "gr-aitolia": 237,
+    "total": 237,
+    "exact_current_parish_rows": 215,
+    "exact_current_monastic_rows": 22,
+    "parish_kind_rows": 215,
+    "monastery_kind_rows": 22,
+    "contact_bodies": 174,
+    "phone_bodies": 174,
+    "public_phone_values": 178,
+    "email_bodies": 0,
+    "public_email_values": 0,
+    "body_owned_sites": 0,
+    "address_bodies": 237
+  },
+  "candidates": [
+    {
+      "candidate_id": "gr-aitolia-amfilochia-athanasios-malformed-phone",
+      "parent": "gr-aitolia",
+      "country": "GR",
+      "category": "malformed-current-contact",
+      "status": "held",
+      "reason": "The current official parish row displays 2642 02.334 for Saint Athanasius Parish Church in Amfilochia, which contains only nine digits after punctuation is removed. The nearby district office line displays 26420-22.334, but it is not copied to the parish and the malformed body value is not silently corrected. The body is published without a phone pending an exact current body-specific correction.",
+      "sources": [
+        "https://imaa.gr/%CE%B9%CE%B5%CF%81%CE%BF%CE%B9-%CE%BD%CE%B1%CE%BF%CE%B9-%CE%BA%CE%B1%CE%B9-%CE%B5%CF%86%CE%B7%CE%BC%CE%B5%CF%81%CE%B9%CE%BF%CE%B9/"
+      ]
+    },
+    {
+      "candidate_id": "gr-aitolia-unnamed-chapels-country-churches",
+      "parent": "gr-aitolia",
+      "country": "GR",
+      "category": "aggregate-only",
+      "status": "held",
+      "reason": "The current exact parish roster and legal roster do not enumerate every subordinate chapel, cemetery church, country church, pilgrimage, or dependency. No unnamed residual is created by arithmetic or by treating every worship reference as a distinct current body.",
+      "sources": [
+        "https://imaa.gr/%CE%B9%CE%B5%CF%81%CE%BF%CE%B9-%CE%BD%CE%B1%CE%BF%CE%B9-%CE%BA%CE%B1%CE%B9-%CE%B5%CF%86%CE%B7%CE%BC%CE%B5%CF%81%CE%B9%CE%BF%CE%B9/",
+        "https://ia37rg02wpsa01.blob.core.windows.net/fek/02/2019/20190201599.pdf"
+      ]
+    },
+    {
+      "candidate_id": "gr-aitolia-monastery-history-and-subordinate-chapels",
+      "parent": "gr-aitolia",
+      "country": "GR",
+      "category": "historical-or-subordinate",
+      "status": "held",
+      "reason": "The 2025 monastery guide describes former foundations, historic churches, katholika, and subordinate chapels within monastery narratives. They are not published as separate bodies unless the current source provides an exact independent current institution.",
+      "sources": [
+        "https://imaa.gr/wp-content/uploads/2025/06/MONASTHRIA-AITOLOAKARNANIAS.pdf",
+        "https://imaa.gr/%CE%B9%CE%B5%CF%81%CE%B1%CE%B9-%CE%BC%CE%BF%CE%BD%CE%B1%CE%B9/"
+      ]
+    },
+    {
+      "candidate_id": "gr-aitolia-map-search-social-leads",
+      "parent": "gr-aitolia",
+      "country": "GR",
+      "category": "discovery-only",
+      "status": "held",
+      "reason": "Map listings, search snippets, social profiles, commercial directories, and event-only references remain unpublished unless a competent current source establishes the exact body, canonical parent, and current identity.",
+      "sources": [
+        "https://imaa.gr/",
+        "https://ecclesiagreece.gr/ecclesiajoomla/index.php/el/metropoleis/aitolias"
+      ]
+    }
+  ],
+  "source_reconciliations": [
+    {
+      "subject": "Current parish roster and official legal roster",
+      "decision": "The current Metropolis page exposes 215 exact parish body rows across ten regional tables. Regulation 1378/758/2019 contains 215 body rows in its parish tables, and the Church of Greece aggregate independently reports 215 parishes. The current page supplies the exact readable identities, postal codes, and body-associated phones published here; the legal roster confirms the complete count without being used to invent missing names.",
+      "sources": [
+        "https://imaa.gr/%CE%B9%CE%B5%CF%81%CE%BF%CE%B9-%CE%BD%CE%B1%CE%BF%CE%B9-%CE%BA%CE%B1%CE%B9-%CE%B5%CF%86%CE%B7%CE%BC%CE%B5%CF%81%CE%B9%CE%BF%CE%B9/",
+        "https://www.e-nomothesia.gr/kat-ekklesia-thriskeia/kanonismoi-ieras-sunodou/kanonismos-ieras-sunodou-ekklesias-1378-758-2019.html",
+        "https://ia37rg02wpsa01.blob.core.windows.net/fek/02/2019/20190201599.pdf"
+      ]
+    },
+    {
+      "subject": "Current monastic roster",
+      "decision": "The first-party 2025 guide exactly names eight men's monasteries, thirteen women's monasteries, and one hermitage. All 22 are published. The current monastery page independently names the same body set. Its newer Lesiniotissa mobile route and every additional body-specific phone printed in either current official source are retained without clergy names.",
+      "sources": [
+        "https://imaa.gr/%CE%B9%CE%B5%CF%81%CE%B1%CE%B9-%CE%BC%CE%BF%CE%BD%CE%B1%CE%B9/",
+        "https://imaa.gr/wp-content/uploads/2025/06/MONASTHRIA-AITOLOAKARNANIAS.pdf"
+      ]
+    },
+    {
+      "subject": "Church of Greece aggregate age",
+      "decision": "A Church of Greece institutional aggregate reports 215 parishes and 19 monasteries. Its parish total agrees with the exact current roster. Its older monastic total is not used to suppress the 22 exact bodies documented by the Metropolis in 2025 and on its current monastery page.",
+      "sources": [
+        "https://www.ecclesiagreece.gr/greek/holysynod/commitees/relations/thesmiko_plaisio_paideias.pdf",
+        "https://imaa.gr/wp-content/uploads/2025/06/MONASTHRIA-AITOLOAKARNANIAS.pdf",
+        "https://imaa.gr/%CE%B9%CE%B5%CF%81%CE%B1%CE%B9-%CE%BC%CE%BF%CE%BD%CE%B1%CE%B9/"
+      ]
+    }
+  ],
+  "official_parent_audit": [
+    {
+      "parent": "gr-aitolia",
+      "status": "current-canonical",
+      "decision": "The Church of Greece profile and the Metropolis first-party site establish the canonical Metropolis of Aitolia and Acarnania. All published bodies are assigned to this one canonical parent.",
+      "sources": [
+        "https://ecclesiagreece.gr/ecclesiajoomla/index.php/el/metropoleis/aitolias",
+        "https://imaa.gr/"
+      ]
+    }
+  ],
+  "exclusions": [
+    {
+      "category": "clergy-identifying-text",
+      "reason": "Clergy, abbots, abbesses, committee members, and other personal names in source contact blocks are omitted. Officially published landlines and mobile numbers clearly tied to a specific body are retained without those names.",
+      "sources": [
+        "https://imaa.gr/%CE%B9%CE%B5%CF%81%CE%BF%CE%B9-%CE%BD%CE%B1%CE%BF%CE%B9-%CE%BA%CE%B1%CE%B9-%CE%B5%CF%86%CE%B7%CE%BC%CE%B5%CF%81%CE%B9%CE%BF%CE%B9/",
+        "https://imaa.gr/%CE%B9%CE%B5%CF%81%CE%B1%CE%B9-%CE%BC%CE%BF%CE%BD%CE%B1%CE%B9/",
+        "https://imaa.gr/wp-content/uploads/2025/06/MONASTHRIA-AITOLOAKARNANIAS.pdf"
+      ]
+    },
+    {
+      "category": "parent-and-district-contacts",
+      "reason": "Metropolis office, archpriestly district, and general administrative contacts are not propagated to parish or monastic rows. A number appears only where the official source ties it to that exact body.",
+      "sources": [
+        "https://imaa.gr/%CE%B9%CE%B5%CF%81%CE%BF%CE%B9-%CE%BD%CE%B1%CE%BF%CE%B9-%CE%BA%CE%B1%CE%B9-%CE%B5%CF%86%CE%B7%CE%BC%CE%B5%CF%81%CE%B9%CE%BF%CE%B9/"
+      ]
+    },
+    {
+      "category": "non-current-or-ambiguous-bodies",
+      "reason": "Historic-only, unnamed, map-only, search-only, event-only, planned, duplicated, and canonically unclear bodies are not published from inference.",
+      "sources": [
+        "https://imaa.gr/",
+        "https://imaa.gr/wp-content/uploads/2025/06/MONASTHRIA-AITOLOAKARNANIAS.pdf"
+      ]
+    }
+  ]
+}
