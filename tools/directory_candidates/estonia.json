@@ -1,0 +1,100 @@
+{
+  "v": 1,
+  "country": "EE",
+  "checked": "2026-11-15",
+  "method": "The current official diocesan and parish rosters of both Eastern Orthodox Churches in Estonia were read in full. The three dioceses of the Orthodox Church of Estonia, the two dioceses of the Estonian Orthodox Christian Church, both local monasteries, the Moscow stauropegic cathedral, and the Moscow stauropegic convent were reconciled by exact identity. Search engines were used only to discover first-party sources. Historical names, duplicate jurisdictional descriptions of the same diocese, and bodies without a current canonical parent are not published as separate rows.",
+  "published_summary": {
+    "ee-tallinn": 28,
+    "ee-tartu": 20,
+    "ee-parnu-saare": 27,
+    "ekok-tallinn": 22,
+    "ekok-narva": 16,
+    "direct_moscow_bodies": 2,
+    "parish_bodies": 112,
+    "monasteries": 3,
+    "total": 115
+  },
+  "candidates": [],
+  "source_reconciliations": [
+    {
+      "subject": "Tallinn and Narva diocesan aliases",
+      "decision": "The Moscow Patriarchate and the Estonian Orthodox Christian Church describe the same Tallinn and Narva dioceses from two levels of authority. Each diocese is published once under the current self-governing Estonian Church rather than duplicated again as a direct Russian diocese.",
+      "sources": [
+        "https://et.orthodox.ee/contacts/",
+        "https://et.orthodox.ee/parishes/",
+        "https://mospat.ru/en/news/93080/"
+      ]
+    },
+    {
+      "subject": "Alexander Nevsky Cathedral in Tallinn",
+      "decision": "The cathedral appears on the Estonian Orthodox Christian Church parish roster, while the Church's own records and current Moscow relationship identify it as stauropegic. It is published once as a direct Moscow body and not repeated beneath the Tallinn diocesan payload.",
+      "sources": [
+        "https://et.orthodox.ee/parishes/tallinna-aleksander-nevski-katedraal/",
+        "https://ru.orthodox.ee/church/eocmp-history/",
+        "https://et.orthodox.ee/parishes/"
+      ]
+    },
+    {
+      "subject": "Puhtitsa Dormition Convent",
+      "decision": "The current convent and Church sources identify Puhtitsa as a stauropegic convent. It is published once as a direct Moscow body rather than assigned to either Estonian diocese.",
+      "sources": [
+        "https://www.puhtitsa.ee/",
+        "https://ru.orthodox.ee/documents/eocmp-statute/"
+      ]
+    }
+  ],
+  "official_jurisdiction_audit": [
+    {
+      "jurisdiction": "Orthodox Church of Estonia",
+      "result": "The current official structure names three dioceses. Their current official rosters establish 73 parishes and 2 monasteries, all of which are included.",
+      "sources": [
+        "https://www.eoc.ee/eesti-apostlik-oigeusu-kirik/piiskopkonnad/",
+        "https://www.eoc.ee/piiskopkond/tallinna-peapiiskopkond/",
+        "https://www.eoc.ee/piiskopkond/tartu-piiskopkond/"
+      ]
+    },
+    {
+      "jurisdiction": "Estonian Orthodox Christian Church",
+      "result": "The current official structure names the dioceses of Tallinn and Narva and Peipsi. Its current parish roster establishes 39 parish bodies, including the stauropegic Alexander Nevsky Cathedral. All are included once.",
+      "sources": [
+        "https://et.orthodox.ee/contacts/",
+        "https://et.orthodox.ee/parishes/",
+        "https://mospat.ru/en/news/93080/"
+      ]
+    },
+    {
+      "jurisdiction": "Russian Orthodox Church",
+      "result": "The current self-governing Estonian Church and its two dioceses are represented without duplicating their Moscow directory aliases. The Alexander Nevsky Cathedral and Puhtitsa Dormition Convent are separately included as stauropegic bodies.",
+      "sources": [
+        "https://mospat.ru/en/news/93080/",
+        "https://patriarchia.ru/org/287",
+        "https://patriarchia.ru/org/288"
+      ]
+    },
+    {
+      "jurisdiction": "Russian Orthodox Church Outside Russia",
+      "result": "The current official parish directory did not establish a separate current ROCOR parish, mission, or monastery in Estonia.",
+      "source": "https://directory.synod.com/listings/"
+    },
+    {
+      "jurisdiction": "Other canonical Eastern Orthodox Churches",
+      "result": "No additional current Estonian parish, mission, monastery, or recurring worship site was established by the current official structures checked. The two local Church rosters and the two stauropegic bodies remain the controlling current union.",
+      "sources": [
+        "https://ec-patr.org/en/entities/",
+        "https://patriarhia.ro/organizarea-bisericii-ortodoxe-romane/reprezentante-si-comunitati-externe/",
+        "https://spc.rs/en/eparchies/"
+      ]
+    }
+  ],
+  "exclusions": [
+    {
+      "scope": "Historical, independent, and Old Believer communities",
+      "result": "Bodies not currently listed by either canonical local Church or another competent canonical Eastern Orthodox authority are not published. Old Believer communities are outside the Eastern Orthodox communion covered by this directory.",
+      "sources": [
+        "https://www.eoc.ee/",
+        "https://et.orthodox.ee/",
+        "https://rpsc.ru/"
+      ]
+    }
+  ]
+}
