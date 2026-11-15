@@ -29,6 +29,7 @@ import directory_ireland
 import directory_italy
 import directory_liechtenstein
 import directory_malta_gibraltar
+import directory_mongolia
 import directory_norway
 import directory_serbia
 import directory_slovenia
@@ -125,6 +126,7 @@ ROWS["russia"].extend(directory_iceland.build()["russia"]["rows"])
 ROWS["russia"].extend(directory_ireland.ROWS["russia"])
 ROWS["russia"].extend(directory_italy.build()["russia"]["rows"])
 ROWS["russia"].extend(directory_malta_gibraltar.build()["russia"]["rows"])
+ROWS["russia"].extend(directory_mongolia.DIRECT_RUSSIA_ROWS)
 ROWS["russia"].extend(directory_australia.build()["russia"])
 ROWS["russia"].extend(directory_czechia.build()["russia"]["rows"])
 ROWS["russia"].extend(directory_norway.build()["russia"]["rows"])
@@ -192,8 +194,8 @@ def build():
             "countries": sorted(countries),
             "rows": rows,
         }
-    if len(payloads["russia"]["rows"]) != 53:
-        raise ValueError("the direct Russia branch must have 53 rows")
+    if len(payloads["russia"]["rows"]) != 54:
+        raise ValueError("the direct Russia branch must have 54 rows")
     if len(payloads["romania"]["rows"]) != 9:
         raise ValueError("the direct Romania branch must have 9 rows")
     if len(payloads["serbia"]["rows"]) != 1:

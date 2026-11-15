@@ -1,0 +1,60 @@
+{
+  "v": 1,
+  "country": "MN",
+  "checked": "2026-11-15",
+  "method": "The Moscow Patriarchate's current foreign institutions directory was reconciled with its current 2026 reporting and its detailed official historical review of Orthodoxy in Mongolia. Search and maps were used only for discovery. The competent Church sources identify one current Orthodox parish and church in the country.",
+  "published_summary": {
+    "russia": 1,
+    "stavropegic_parishes": 1,
+    "total": 1
+  },
+  "candidates": [
+    {
+      "candidate_id": "mn-ru-erdenet-mission-activity",
+      "parent": "russia",
+      "country": "MN",
+      "name": "Orthodox mission activity in Erdenet",
+      "status": "hold until a competent current official source establishes a separate recurring worship body",
+      "reason": "The official historical review describes mission activity in Erdenet, but explicitly identifies the Ulaanbaatar parish and church as Mongolia's only current Orthodox parish and church. No separate current Erdenet parish, chapel, mission station, or recurring worship roster entry was established.",
+      "sources": [
+        "https://pravoslavie.ru/159479.html",
+        "https://calendar.rop.ru/?inc=12"
+      ]
+    }
+  ],
+  "reconciliation": [
+    {
+      "scope": "Historical Holy Trinity church in Urga",
+      "result": "The pre-revolutionary church closed in 1927. The restored parish and the current church consecrated in 2009 are represented once by the current Ulaanbaatar row, not as separate historical and current bodies.",
+      "sources": [
+        "https://pravoslavie.ru/159479.html",
+        "https://patriarchia.ru/article/1617"
+      ]
+    }
+  ],
+  "official_jurisdiction_audit": [
+    {
+      "jurisdiction": "Moscow Patriarchate",
+      "result": "The current foreign institutions directory and March 2026 official parish report establish the Holy Trinity Parish in Ulaanbaatar. It is published under the direct Russian Church branch.",
+      "sources": [
+        "https://calendar.rop.ru/?inc=12",
+        "https://mospat.ru/ru/news/94072/"
+      ]
+    },
+    {
+      "jurisdiction": "Other canonical Eastern Orthodox jurisdictions",
+      "result": "Current official structures of Constantinople, Alexandria, Antioch, Jerusalem, Georgia, Serbia, Romania, Bulgaria, Poland, the Czech Lands and Slovakia, North Macedonia, ROCOR, the OCA, the UOC, and the OCU were checked for separately administered Mongolia bodies. No additional exact current body was established by those bounded official structures.",
+      "sources": [
+        "https://ec-patr.org/en/entities/",
+        "https://directory.synod.com/listings/",
+        "https://patriarhia.ro/organizarea-bisericii-ortodoxe-romane/reprezentante-si-comunitati-externe/"
+      ]
+    }
+  ],
+  "exclusions": [
+    {
+      "scope": "Independent directories and map results",
+      "result": "Discovery results did not establish a second current canonical Eastern Orthodox body independently of a competent Church source."
+    }
+  ]
+}
