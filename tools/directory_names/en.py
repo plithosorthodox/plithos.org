@@ -1233,6 +1233,10 @@ from directory_bosnia_montenegro import ENGLISH_NAMES as _BOSNIA_MONTENEGRO_NAME
 NAMES.update(_BOSNIA_MONTENEGRO_NAMES)
 del _BOSNIA_MONTENEGRO_NAMES
 
+from directory_north_macedonia import ENGLISH_NAMES as _NORTH_MACEDONIA_NAMES
+NAMES.update(_NORTH_MACEDONIA_NAMES)
+del _NORTH_MACEDONIA_NAMES
+
 SEATS = {
     "Istanbul": u"Istanbul",
     "Alexandria": u"Alexandria",

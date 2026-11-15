@@ -1,0 +1,705 @@
+{
+  "v": 1,
+  "countries": [
+    "MK"
+  ],
+  "checked": "2026-11-15",
+  "method": "Current official patriarchal, synodal, diocesan, parish, monastery, clergy, and service sources were checked. Search and map results were used only for discovery. The published union follows the current Macedonian Orthodox Church structure after the 2023 integration of the former Orthodox Ohrid Archbishopric. Historical, ruined, abandoned, unfinished, unconsecrated, duplicated, archaeologically attested, or otherwise unclear bodies remain here rather than being published as current rows.",
+  "published_summary": {
+    "macedonia": 109,
+    "mk-bregalnica": 32,
+    "mk-debar-kicevo": 38,
+    "mk-kumanovo-osogovo": 30,
+    "mk-povardarie": 154,
+    "mk-prespa-pelagonia": 13,
+    "mk-skopje": 112,
+    "mk-strumica": 6,
+    "mk-tetovo-gostivar": 7,
+    "total": 501
+  },
+  "candidates": [
+    {
+      "candidate_id": "mk-presil-dormition-unconsecrated",
+      "parent": "mk-krusevo-demir-hisar",
+      "country": "MK",
+      "name": "Dormition of the Most Holy Theotokos Church in Presil",
+      "status": "hold until consecration or current worship is officially confirmed",
+      "reason": "The official eparchy roster identifies this church as not consecrated. No newer official source reviewed establishes consecration or current worship, so it is not published as a current church body.",
+      "sources": [
+        "https://krushdem.org/organizacija/hramovi/"
+      ]
+    },
+    {
+      "candidate_id": "mk-smilevo-demetrius-chapel-unconsecrated",
+      "parent": "mk-krusevo-demir-hisar",
+      "country": "MK",
+      "name": "Saint Demetrius Chapel in Smilevo",
+      "status": "hold until consecration or current worship is officially confirmed",
+      "reason": "The official eparchy roster identifies this chapel as not consecrated. No newer official source reviewed establishes consecration or current worship.",
+      "sources": [
+        "https://krushdem.org/organizacija/hramovi/"
+      ]
+    },
+    {
+      "candidate_id": "mk-graishte-thomas-monastery-unconsecrated",
+      "parent": "mk-krusevo-demir-hisar",
+      "country": "MK",
+      "name": "Holy Apostle Thomas Monastery in Graishte",
+      "status": "hold until consecration or current monastic use is officially confirmed",
+      "reason": "The official eparchy roster identifies this monastery as not consecrated. No newer official source reviewed establishes consecration or current monastic use.",
+      "sources": [
+        "https://krushdem.org/organizacija/manastiri/"
+      ]
+    },
+    {
+      "candidate_id": "mk-vrboec-dormition-monastery-unconsecrated",
+      "parent": "mk-krusevo-demir-hisar",
+      "country": "MK",
+      "name": "Dormition of the Most Holy Theotokos Monastery in Vrboec",
+      "status": "hold until consecration or current monastic use is officially confirmed",
+      "reason": "The official eparchy roster identifies this monastery as not consecrated. No newer official source reviewed establishes consecration or current monastic use.",
+      "sources": [
+        "https://krushdem.org/organizacija/manastiri/"
+      ]
+    },
+    {
+      "candidate_id": "mk-dolenci-dormition-monastery-construction",
+      "parent": "mk-krusevo-demir-hisar",
+      "country": "MK",
+      "name": "Dormition of the Most Holy Theotokos Monastery in Dolenci",
+      "status": "hold until completion and current use are officially confirmed",
+      "reason": "The official eparchy roster identifies this monastery as under construction. No newer official source reviewed establishes completion or current monastic use.",
+      "sources": [
+        "https://krushdem.org/organizacija/manastiri/"
+      ]
+    },
+    {
+      "candidate_id": "mk-sopot-athanasius-monastery-construction",
+      "parent": "mk-krusevo-demir-hisar",
+      "country": "MK",
+      "name": "Saint Athanasius Monastery in Sopotnica",
+      "status": "hold until completion and current use are officially confirmed",
+      "reason": "The official eparchy roster identifies this monastery as under construction. No newer official source reviewed establishes completion or current monastic use.",
+      "sources": [
+        "https://krushdem.org/organizacija/manastiri/"
+      ]
+    },
+    {
+      "candidate_id": "mk-lokveni-athanasius-monastery-construction",
+      "parent": "mk-krusevo-demir-hisar",
+      "country": "MK",
+      "name": "Saint Athanasius Monastery in Lokveni",
+      "status": "hold until completion and current use are officially confirmed",
+      "reason": "The official eparchy roster identifies this monastery as under construction. No newer official source reviewed establishes completion or current monastic use.",
+      "sources": [
+        "https://krushdem.org/organizacija/manastiri/"
+      ]
+    },
+    {
+      "candidate_id": "mk-lozovo-petka-construction",
+      "parent": "mk-povardarie",
+      "country": "MK",
+      "name": "Saint Petka Church in Lozovo",
+      "status": "hold for current official completion evidence",
+      "reason": "The official 2008 parish article describes the church as under construction. No newer official source reviewed establishes completion, consecration, or current worship.",
+      "sources": [
+        "https://www.povardarska-eparhija.org.mk/pe/index.php?option=com_content&task=view&id=382&Itemid=55"
+      ]
+    },
+    {
+      "candidate_id": "mk-lozovo-elijah-chapel-unconsecrated",
+      "parent": "mk-povardarie",
+      "country": "MK",
+      "name": "Saint Elijah Chapel in Lozovo",
+      "status": "hold for current official consecration evidence",
+      "reason": "The official parish article identifies the chapel as unconsecrated. No newer official source reviewed establishes consecration or current worship.",
+      "sources": [
+        "https://www.povardarska-eparhija.org.mk/pe/index.php?option=com_content&task=view&id=382&Itemid=55"
+      ]
+    },
+    {
+      "candidate_id": "mk-novachani-george-monastery-unconsecrated",
+      "parent": "mk-povardarie",
+      "country": "MK",
+      "name": "Saint George Monastery in Novachani",
+      "status": "hold for current official consecration evidence",
+      "reason": "The official parish article identifies the monastery as unconsecrated. No newer official source reviewed establishes consecration or current monastic use.",
+      "sources": [
+        "https://www.povardarska-eparhija.org.mk/pe/index.php?option=com_content&task=view&id=382&Itemid=55"
+      ]
+    },
+    {
+      "candidate_id": "mk-vinichani-elijah-construction",
+      "parent": "mk-povardarie",
+      "country": "MK",
+      "name": "Saint Elijah Church in Vinichani",
+      "status": "hold for current official completion evidence",
+      "reason": "The official parish article describes the church as under construction. No newer official source reviewed establishes completion, consecration, or current worship.",
+      "sources": [
+        "https://www.povardarska-eparhija.org.mk/pe/index.php?option=com_content&task=view&id=381&Itemid=55"
+      ]
+    },
+    {
+      "candidate_id": "mk-chichevo-nicholas-monastery-ruins",
+      "parent": "mk-povardarie",
+      "country": "MK",
+      "name": "Saint Nicholas Monastery near Chichevo",
+      "status": "historical ruins, not a current published body",
+      "reason": "The official parish article describes the monastery as ruins. No current worship or monastic community is established.",
+      "sources": [
+        "https://www.povardarska-eparhija.org.mk/pe/index.php?option=com_content&task=view&id=381&Itemid=55"
+      ]
+    },
+    {
+      "candidate_id": "mk-grnchishte-basil-ruins",
+      "parent": "mk-povardarie",
+      "country": "MK",
+      "name": "Saint Basil Church in Grnchishte",
+      "status": "historical ruins, not a current published body",
+      "reason": "The official parish article describes the church as ruined. No current worship is established.",
+      "sources": [
+        "https://www.povardarska-eparhija.org.mk/pe/index.php?option=com_content&task=view&id=381&Itemid=55"
+      ]
+    },
+    {
+      "candidate_id": "mk-svekjani-athanasius-ruins",
+      "parent": "mk-povardarie",
+      "country": "MK",
+      "name": "Saint Athanasius Church in Svekjani",
+      "status": "historical ruins, not a current published body",
+      "reason": "The official parish article describes the church as ruined. No current worship is established.",
+      "sources": [
+        "https://www.povardarska-eparhija.org.mk/pe/index.php?option=com_content&task=view&id=381&Itemid=55"
+      ]
+    },
+    {
+      "candidate_id": "mk-gorno-chichevo-undedicated-site",
+      "parent": "mk-povardarie",
+      "country": "MK",
+      "name": "Undedicated church heading for Gorno Chichevo",
+      "status": "hold for an exact dedication and current status",
+      "reason": "The official parish article carries a Gorno Chichevo heading but supplies no church dedication or current status. A distinct current body cannot be encoded from that evidence.",
+      "sources": [
+        "https://www.povardarska-eparhija.org.mk/pe/index.php?option=com_content&task=view&id=381&Itemid=55"
+      ]
+    },
+    {
+      "candidate_id": "mk-omorani-nicholas-monastery-destroyed",
+      "parent": "mk-povardarie",
+      "country": "MK",
+      "name": "Saint Nicholas Monastery in Omorani",
+      "status": "destroyed or nonfunctional, not a current published body",
+      "reason": "The official parish article describes the monastery as destroyed or nonfunctional. No current monastic community or worship is established.",
+      "sources": [
+        "https://www.povardarska-eparhija.org.mk/pe/index.php?option=com_content&task=view&id=380&Itemid=55"
+      ]
+    },
+    {
+      "candidate_id": "mk-sogle-panteleimon-unconsecrated",
+      "parent": "mk-povardarie",
+      "country": "MK",
+      "name": "Saint Panteleimon Church in Sogle",
+      "status": "hold for current official consecration evidence",
+      "reason": "The official parish article identifies the church as unconsecrated. No newer official source reviewed establishes consecration or current worship.",
+      "sources": [
+        "https://www.povardarska-eparhija.org.mk/pe/index.php?option=com_content&task=view&id=380&Itemid=55"
+      ]
+    },
+    {
+      "candidate_id": "mk-golozinci-undedicated-site",
+      "parent": "mk-povardarie",
+      "country": "MK",
+      "name": "Undedicated church heading for Golozinci",
+      "status": "hold for an exact dedication and current status",
+      "reason": "The official parish article carries a Golozinci heading but supplies no church dedication or current status. A distinct current body cannot be encoded from that evidence.",
+      "sources": [
+        "https://www.povardarska-eparhija.org.mk/pe/index.php?option=com_content&task=view&id=379&Itemid=55"
+      ]
+    },
+    {
+      "candidate_id": "mk-banjica-undedicated-site",
+      "parent": "mk-povardarie",
+      "country": "MK",
+      "name": "Undedicated church heading for Banjica",
+      "status": "hold for an exact dedication and current status",
+      "reason": "The official parish article carries a Banjica heading but supplies no church dedication or current status. A distinct current body cannot be encoded from that evidence.",
+      "sources": [
+        "https://www.povardarska-eparhija.org.mk/pe/index.php?option=com_content&task=view&id=379&Itemid=55"
+      ]
+    },
+    {
+      "candidate_id": "mk-dabrishte-dormition-fragmentary",
+      "parent": "mk-povardarie",
+      "country": "MK",
+      "name": "Dormition of the Most Holy Theotokos Church in Dabrishte",
+      "status": "hold for current worship evidence",
+      "reason": "The official parish article gives fragmentary information and does not establish current worship. No newer official confirmation was found.",
+      "sources": [
+        "https://www.povardarska-eparhija.org.mk/pe/index.php?option=com_content&task=view&id=378&Itemid=55"
+      ]
+    },
+    {
+      "candidate_id": "mk-begnishte-lazarus-cave-ruins",
+      "parent": "mk-povardarie",
+      "country": "MK",
+      "name": "Saint Lazarus Cave Church in Begnishte",
+      "status": "partial ruins, current worship unclear",
+      "reason": "The official parish article describes partial ruins and does not establish current worship.",
+      "sources": [
+        "https://www.povardarska-eparhija.org.mk/pe/index.php?option=com_content&task=view&id=378&Itemid=55"
+      ]
+    },
+    {
+      "candidate_id": "mk-glishikj-demetrius-destroyed",
+      "parent": "mk-povardarie",
+      "country": "MK",
+      "name": "Saint Demetrius Church in Glishikj",
+      "status": "destroyed, not a current published body",
+      "reason": "The official parish article describes the church as destroyed. No current worship is established.",
+      "sources": [
+        "https://www.povardarska-eparhija.org.mk/pe/index.php?option=com_content&task=view&id=378&Itemid=55"
+      ]
+    },
+    {
+      "candidate_id": "mk-koshani-athanasius-abandoned",
+      "parent": "mk-povardarie",
+      "country": "MK",
+      "name": "Saint Athanasius Church in Koshani",
+      "status": "abandoned and near collapse, not a current published body",
+      "reason": "The official parish article describes the church as abandoned and near collapse. No current worship is established.",
+      "sources": [
+        "https://www.povardarska-eparhija.org.mk/pe/index.php?option=com_content&task=view&id=378&Itemid=55"
+      ]
+    },
+    {
+      "candidate_id": "mk-pravednik-ascension-abandoned",
+      "parent": "mk-povardarie",
+      "country": "MK",
+      "name": "Ascension of Christ Church in Pravednik",
+      "status": "abandoned and decaying, not a current published body",
+      "reason": "The official parish article describes the church as abandoned and decaying. No current worship is established.",
+      "sources": [
+        "https://www.povardarska-eparhija.org.mk/pe/index.php?option=com_content&task=view&id=378&Itemid=55"
+      ]
+    },
+    {
+      "candidate_id": "mk-debrishte-john-baptist-deteriorated",
+      "parent": "mk-povardarie",
+      "country": "MK",
+      "name": "Saint John the Baptist Church in Debrishte",
+      "status": "hold for current worship evidence",
+      "reason": "The official parish article describes a deteriorated church but does not establish current worship. No newer official confirmation was found.",
+      "sources": [
+        "https://www.povardarska-eparhija.org.mk/pe/index.php?option=com_content&task=view&id=375&Itemid=55"
+      ]
+    },
+    {
+      "candidate_id": "mk-kamen-dol-george-ruins",
+      "parent": "mk-povardarie",
+      "country": "MK",
+      "name": "Saint George Church in Kamen Dol",
+      "status": "historical ruins, not a current published body",
+      "reason": "The official parish article describes the church as ruined. No current worship is established.",
+      "sources": [
+        "https://www.povardarska-eparhija.org.mk/pe/index.php?option=com_content&task=view&id=375&Itemid=55"
+      ]
+    },
+    {
+      "candidate_id": "mk-trstenik-peter-paul-planned",
+      "parent": "mk-povardarie",
+      "country": "MK",
+      "name": "Saints Peter and Paul Church in Trstenik",
+      "status": "planned but unbuilt in the official source",
+      "reason": "The official parish article describes a planned church rather than a completed body. No newer official completion evidence was found.",
+      "sources": [
+        "https://www.povardarska-eparhija.org.mk/pe/index.php?option=com_content&task=view&id=375&Itemid=55"
+      ]
+    },
+    {
+      "candidate_id": "mk-raec-george-ruins",
+      "parent": "mk-povardarie",
+      "country": "MK",
+      "name": "Saint George Church in Raec",
+      "status": "historical ruins, not a current published body",
+      "reason": "The official parish article describes the church as ruined. No current worship is established.",
+      "sources": [
+        "https://www.povardarska-eparhija.org.mk/pe/index.php?option=com_content&task=view&id=375&Itemid=55"
+      ]
+    },
+    {
+      "candidate_id": "mk-manastirec-nicholas-cornerstone",
+      "parent": "mk-povardarie",
+      "country": "MK",
+      "name": "Saint Nicholas Church in Manastirec",
+      "status": "cornerstone only in the official source",
+      "reason": "The official parish article records only a cornerstone in 2007. No newer official completion, consecration, or worship evidence was found.",
+      "sources": [
+        "https://www.povardarska-eparhija.org.mk/pe/index.php?option=com_content&task=view&id=375&Itemid=55"
+      ]
+    },
+    {
+      "candidate_id": "mk-ribarci-george-ruins",
+      "parent": "mk-povardarie",
+      "country": "MK",
+      "name": "Saint George Church in Ribarci",
+      "status": "historical ruins, not a current published body",
+      "reason": "The official parish article describes the church as ruined. No current worship is established.",
+      "sources": [
+        "https://www.povardarska-eparhija.org.mk/pe/index.php?option=com_content&task=view&id=375&Itemid=55"
+      ]
+    },
+    {
+      "candidate_id": "mk-mrzen-oraovec-nicholas-abandoned-village",
+      "parent": "mk-povardarie",
+      "country": "MK",
+      "name": "Saint Nicholas Church in Mrzen Oraovec",
+      "status": "hold for current worship evidence",
+      "reason": "The official parish article places the church in an abandoned village and does not establish current worship. No newer official confirmation was found.",
+      "sources": [
+        "https://www.povardarska-eparhija.org.mk/pe/index.php?option=com_content&task=view&id=375&Itemid=55"
+      ]
+    },
+    {
+      "candidate_id": "mk-drachevica-demetrius-abandoned",
+      "parent": "mk-povardarie",
+      "country": "MK",
+      "name": "Saint Demetrius Church in Drachevica",
+      "status": "almost abandoned, current worship unclear",
+      "reason": "The official parish article describes the church as almost abandoned and does not establish current worship.",
+      "sources": [
+        "https://www.povardarska-eparhija.org.mk/pe/index.php?option=com_content&task=view&id=376&Itemid=55"
+      ]
+    },
+    {
+      "candidate_id": "mk-strmashevo-nicholas-ruins",
+      "parent": "mk-povardarie",
+      "country": "MK",
+      "name": "Saint Nicholas Church in Strmashevo",
+      "status": "historical ruins, not a current published body",
+      "reason": "The official parish article describes the church as ruins. No current worship is established.",
+      "sources": [
+        "https://www.povardarska-eparhija.org.mk/pe/index.php?option=com_content&task=view&id=376&Itemid=55"
+      ]
+    },
+    {
+      "candidate_id": "mk-grchishte-peter-paul-monastery-ruins",
+      "parent": "mk-povardarie",
+      "country": "MK",
+      "name": "Saints Peter and Paul Monastery in Grchishte",
+      "status": "historical ruins, not a current published body",
+      "reason": "The official parish article describes the monastery as ruins. No current worship or monastic community is established.",
+      "sources": [
+        "https://www.povardarska-eparhija.org.mk/pe/index.php?option=com_content&task=view&id=364&Itemid=55"
+      ]
+    },
+    {
+      "candidate_id": "mk-dradnja-nicholas-cave-historical",
+      "parent": "mk-povardarie",
+      "country": "MK",
+      "name": "Saint Nicholas Cave Church in Dradnja",
+      "status": "historical site, current worship unclear",
+      "reason": "The official parish article documents a historical cave church but does not establish current worship.",
+      "sources": [
+        "https://www.povardarska-eparhija.org.mk/pe/index.php?option=com_content&task=view&id=170&Itemid=55"
+      ]
+    },
+    {
+      "candidate_id": "mk-gornikovo-menas-collapsed",
+      "parent": "mk-povardarie",
+      "country": "MK",
+      "name": "Saint Menas Church in Gornikovo",
+      "status": "collapsed, not a current published body",
+      "reason": "The official parish article describes the church as collapsed. No current worship is established.",
+      "sources": [
+        "https://www.povardarska-eparhija.org.mk/pe/index.php?option=com_content&task=view&id=170&Itemid=55"
+      ]
+    },
+    {
+      "candidate_id": "mk-dragozhel-nicholas-neglected",
+      "parent": "mk-povardarie",
+      "country": "MK",
+      "name": "Saint Nicholas Church in Dragozhel",
+      "status": "neglected, current worship unclear",
+      "reason": "The official parish article describes the church as neglected and does not establish current worship.",
+      "sources": [
+        "https://www.povardarska-eparhija.org.mk/pe/index.php?option=com_content&task=view&id=170&Itemid=55"
+      ]
+    },
+    {
+      "candidate_id": "mk-bojanchishte-theotokos-decaying",
+      "parent": "mk-povardarie",
+      "country": "MK",
+      "name": "Holy Theotokos Church in Bojanchishte",
+      "status": "decaying, current worship unclear",
+      "reason": "The official parish article describes the church as decaying and does not establish current worship.",
+      "sources": [
+        "https://www.povardarska-eparhija.org.mk/pe/index.php?option=com_content&task=view&id=170&Itemid=55"
+      ]
+    },
+    {
+      "candidate_id": "mk-rozhden-ascension-near-collapse",
+      "parent": "mk-povardarie",
+      "country": "MK",
+      "name": "Ascension of Christ Church in Rozhden",
+      "status": "near collapse, not a current published body",
+      "reason": "The official parish article describes the church as near collapse. No current worship is established.",
+      "sources": [
+        "https://www.povardarska-eparhija.org.mk/pe/index.php?option=com_content&task=view&id=170&Itemid=55"
+      ]
+    },
+    {
+      "candidate_id": "mk-bunarche-demetrius-near-collapse",
+      "parent": "mk-povardarie",
+      "country": "MK",
+      "name": "Saint Demetrius Church in Bunarche",
+      "status": "near collapse, not a current published body",
+      "reason": "The official parish article describes the church as near collapse. No current worship is established.",
+      "sources": [
+        "https://www.povardarska-eparhija.org.mk/pe/index.php?option=com_content&task=view&id=170&Itemid=55"
+      ]
+    },
+    {
+      "candidate_id": "mk-stragovo-athanasius-poor-condition",
+      "parent": "mk-povardarie",
+      "country": "MK",
+      "name": "Saint Athanasius Church in Stragovo",
+      "status": "very poor condition, current worship unclear",
+      "reason": "The official parish article describes the church as being in very poor condition and does not establish current worship.",
+      "sources": [
+        "https://www.povardarska-eparhija.org.mk/pe/index.php?option=com_content&task=view&id=170&Itemid=55"
+      ]
+    },
+    {
+      "candidate_id": "mk-stragovo-demetrius-poor-condition",
+      "parent": "mk-povardarie",
+      "country": "MK",
+      "name": "Saint Demetrius Church in Stragovo",
+      "status": "very poor condition, current worship unclear",
+      "reason": "The official parish article describes the church as being in very poor condition and does not establish current worship.",
+      "sources": [
+        "https://www.povardarska-eparhija.org.mk/pe/index.php?option=com_content&task=view&id=170&Itemid=55"
+      ]
+    },
+    {
+      "candidate_id": "mk-radnja-demetrius-ruins",
+      "parent": "mk-povardarie",
+      "country": "MK",
+      "name": "Saint Demetrius Church in Radnja",
+      "status": "historical ruins, not a current published body",
+      "reason": "The official parish article describes the church as ruins. No current worship is established.",
+      "sources": [
+        "https://www.povardarska-eparhija.org.mk/pe/index.php?option=com_content&task=view&id=170&Itemid=55"
+      ]
+    },
+    {
+      "candidate_id": "mk-gorna-boshava-elijah-construction",
+      "parent": "mk-povardarie",
+      "country": "MK",
+      "name": "Saint Elijah Church in Gorna Boshava",
+      "status": "hold for current official completion evidence",
+      "reason": "The official 2008 parish article describes the church as under construction. No newer official source reviewed establishes completion, consecration, or current worship.",
+      "sources": [
+        "https://www.povardarska-eparhija.org.mk/pe/index.php?option=com_content&task=view&id=170&Itemid=55"
+      ]
+    },
+    {
+      "candidate_id": "mk-gradishte-theotokos-near-collapse",
+      "parent": "mk-povardarie",
+      "country": "MK",
+      "name": "Holy Theotokos Church in Gradishte",
+      "status": "near collapse in an abandoned settlement",
+      "reason": "The official parish article describes the settlement as gone and the church as near collapse. No current worship is established.",
+      "sources": [
+        "https://www.povardarska-eparhija.org.mk/pe/index.php?option=com_content&task=view&id=170&Itemid=55"
+      ]
+    },
+    {
+      "candidate_id": "mk-klinovo-archangel-michael-old-historical",
+      "parent": "mk-povardarie",
+      "country": "MK",
+      "name": "Old Holy Archangel Michael Church in Klinovo",
+      "status": "historical site, not established as a current body",
+      "reason": "The official parish article distinguishes this old site from a newer church but does not establish current worship at the historical structure.",
+      "sources": [
+        "https://www.povardarska-eparhija.org.mk/pe/index.php?option=com_content&task=view&id=170&Itemid=55"
+      ]
+    },
+    {
+      "candidate_id": "mk-klinovo-archangel-michael-new-abandoned",
+      "parent": "mk-povardarie",
+      "country": "MK",
+      "name": "New Holy Archangel Michael Church in Klinovo",
+      "status": "explicitly abandoned, not a current published body",
+      "reason": "The official parish article identifies this newer church as abandoned. No current worship is established.",
+      "sources": [
+        "https://www.povardarska-eparhija.org.mk/pe/index.php?option=com_content&task=view&id=170&Itemid=55"
+      ]
+    },
+    {
+      "candidate_id": "mk-krnjevo-early-basilica",
+      "parent": "mk-povardarie",
+      "country": "MK",
+      "name": "Early Christian basilica remains at Krnjevo",
+      "status": "archaeological remains, not a current published body",
+      "reason": "The official parish article documents archaeological remains rather than a current church, chapel, monastery, parish, or recurring worship site.",
+      "sources": [
+        "https://www.povardarska-eparhija.org.mk/pe/index.php?option=com_content&task=view&id=170&Itemid=55"
+      ]
+    },
+    {
+      "candidate_id": "mk-former-orthodox-ohrid-archbishopric",
+      "parent": "macedonia",
+      "country": "MK",
+      "name": "Former Orthodox Ohrid Archbishopric structure",
+      "status": "historical structure integrated in 2023",
+      "reason": "The Serbian Holy Assembly and the Macedonian synodal act document the 2023 integration of the former Orthodox Ohrid Archbishopric into the Macedonian Orthodox Church. Its former diocesan and parish structure is not duplicated as a separate current jurisdiction. The resulting current eparchies are published under the Macedonian Orthodox Church.",
+      "sources": [
+        "https://spc.rs/en/news/patriarch/-/12492.communique-of-the-holy-assembly-of-bishops-of-the-serbian-orthodox-church.html",
+        "https://www.m-p-c.org/?p=3933"
+      ]
+    },
+    {
+      "candidate_id": "mk-kajmakcalan-serbian-memorial-chapel",
+      "parent": "macedonia",
+      "country": "MK",
+      "name": "Serbian memorial chapel at Kajmakcalan",
+      "status": "memorial service site without a current published parish assignment",
+      "reason": "A current Serbian official source documents a 2026 memorial service at the chapel, but does not establish a separate parish, mission, monastery, recurring service schedule, or current jurisdictional assignment. It remains a candidate rather than being inferred as a separate Serbian body.",
+      "sources": [
+        "https://spc.rs/sr/news/iz-zivota-crkve/-/17952.sto-deseta-godisnjica-bitke-na-kajmakcalanu.html"
+      ]
+    },
+    {
+      "candidate_id": "mk-skopje-russian-memorial-church-planned",
+      "parent": "macedonia",
+      "country": "MK",
+      "name": "Planned Russian memorial church in Skopje",
+      "status": "project without current official completion evidence",
+      "reason": "Russian Church sources document a memorial church project beginning in 2017, but no current official source reviewed establishes a completed church, parish, mission, recurring worship site, or current jurisdictional assignment in Skopje.",
+      "sources": [
+        "https://mospat.ru/ru/news/48467/",
+        "https://mospat.ru/ru/news/90309/"
+      ]
+    },
+    {
+      "candidate_id": "mk-skopje-serbian-saint-sava-service",
+      "parent": "mk-skopje",
+      "country": "MK",
+      "name": "Serbian Saint Sava service at Saint Michael Church in Skopje",
+      "status": "service inside an existing Macedonian Orthodox church, not a separate body",
+      "reason": "The Serbian official report documents a Saint Sava service in the Macedonian Orthodox Saint Michael Church in Skopje. It does not establish a separate Serbian parish, mission, church, or recurring worship site, so the host church is not duplicated by language or visiting clergy.",
+      "sources": [
+        "https://spc.rs/sr/news/vesti-iz-pomesnih-pravoslavnih-crkava/12408.savindan-u-skoplju.html"
+      ]
+    }
+  ],
+  "source_reconciliations": [
+    {
+      "subject": "Current Macedonian diocesan structure after the 2023 integration",
+      "decision": "Current synodal sources establish eleven domestic eparchies and fifteen total eparchies. Krushevo and Demir Hisar, Deljadrovo and Ilinden, and Delchevo and Kamenica are preserved as current eparchies. The former Orthodox Ohrid Archbishopric is not duplicated as a separate current jurisdiction.",
+      "sources": [
+        "https://www.m-p-c.org/?p=3933",
+        "https://www.m-p-c.org/?p=4168",
+        "https://spc.rs/en/news/patriarch/-/12492.communique-of-the-holy-assembly-of-bishops-of-the-serbian-orthodox-church.html"
+      ]
+    },
+    {
+      "subject": "Skopje church and monastery roster duplicates",
+      "decision": "The identical Saint Petka in Mirkovci entry appears twice in the current church roster without a discriminator and is published once. The last four entries on the monastery page duplicate dependent chapel rows already carried by the church roster, so each is published once as a chapel rather than duplicated as a monastery.",
+      "sources": [
+        "https://mpc-spe.mk/skopskaeparhija/crkvi-vo-eparhijata/",
+        "https://mpc-spe.mk/skopskaeparhija/manastiri/"
+      ]
+    },
+    {
+      "subject": "Deljadrovo assignment in the Kumanovo and Osogovo roster",
+      "decision": "The older Kumanovo and Osogovo roster still carries a Deljadrovo parish, but current synodal sources establish the separate Deljadrovo and Ilinden Eparchy from 2023. The stale Deljadrovo assignment is not published under Kumanovo and Osogovo without a current reassignment source.",
+      "sources": [
+        "https://koe.mk/eparhija/",
+        "https://www.m-p-c.org/?p=3933",
+        "https://bigorski.org.mk/vesti/svet/vostolichen-noviot-episkop-deljadrovsko-ilindenski-g-joakim/"
+      ]
+    },
+    {
+      "subject": "Bregalnica monasteries",
+      "decision": "The legacy eparchial monastery page is marked as under construction, but the central Macedonian active-monastery list and the current eparchial news channel directly establish twelve active monasteries. Search and map results were not used as publication evidence.",
+      "sources": [
+        "https://www.m-p-c.org/?page_id=121",
+        "https://novostibregalnickaeparhija.wordpress.com/?page_id=13591",
+        "https://novostibregalnickaeparhija.wordpress.com/?page_id=8291"
+      ]
+    },
+    {
+      "subject": "Prespa and Pelagonia source gap",
+      "decision": "The official eparchy site currently returns a server error on much of its structure. The current indexed Bitola cathedral page and Serbian concelebration report establish Saint Demetrius Cathedral and its four parishes. The central active-monastery list and current first-party church reporting establish eight monasteries that remain inside the present eparchy. Older material crossing the 2023 Krushevo and Demir Hisar boundary was not used to infer current assignments.",
+      "sources": [
+        "https://www.pppe.mk/bitolsko-namesnistvo/soboren-hram-sv-dimitrij/",
+        "https://www.m-p-c.org/?page_id=121",
+        "https://novostibregalnickaeparhija.wordpress.com/?page_id=6138"
+      ]
+    },
+    {
+      "subject": "Povardarie duplicate and current-status reconciliation",
+      "decision": "All thirty-four linked official roster articles were reconciled. Duplicate descriptions of the same body were merged rather than counted twice. Explicit ruins, abandoned sites, unconsecrated sites, construction-only projects, archaeology, and headings without a dedication or current status remain candidates. The current active-monastery list adds the Sermenin monastery, producing 154 published rows and 41 site candidates.",
+      "sources": [
+        "https://www.povardarska-eparhija.org.mk/pe/index.php?option=com_content&task=category&sectionid=8&id=20&Itemid=46",
+        "https://www.povardarska-eparhija.org.mk/pe/index.php?option=com_content&task=view&id=35&Itemid=46",
+        "https://www.povardarska-eparhija.org.mk/pe/index.php?option=com_content&task=view&id=36&Itemid=46"
+      ]
+    }
+  ],
+  "official_jurisdiction_audit": [
+    {
+      "jurisdiction": "Macedonian Orthodox Church - Ohrid Archbishopric",
+      "result": "The complete publishable union follows the current eleven-eparchy domestic structure. Official eparchy rosters and current local pages establish the published dioceses, deaneries, parishes, churches, chapels, monasteries, and other recurring worship sites. Conservative source gaps remain recorded above.",
+      "sources": [
+        "https://www.m-p-c.org/?p=3933",
+        "https://www.m-p-c.org/?p=4168",
+        "https://www.m-p-c.org/?page_id=121"
+      ]
+    },
+    {
+      "jurisdiction": "Serbian Orthodox Church and former Orthodox Ohrid Archbishopric",
+      "result": "The former Orthodox Ohrid Archbishopric was integrated in 2023 and is not a separate current structure. Current Serbian reports establish occasional services or memorial activity, but no separate current Serbian parish, mission, monastery, or regularly scheduled worship body in North Macedonia was found.",
+      "sources": [
+        "https://spc.rs/en/news/patriarch/-/12492.communique-of-the-holy-assembly-of-bishops-of-the-serbian-orthodox-church.html",
+        "https://spc.rs/sr/news/iz-zivota-crkve/-/17952.sto-deseta-godisnjica-bitke-na-kajmakcalanu.html",
+        "https://spc.rs/sr/news/vesti-iz-pomesnih-pravoslavnih-crkava/12408.savindan-u-skoplju.html"
+      ]
+    },
+    {
+      "jurisdiction": "Ecumenical Patriarchate",
+      "result": "The 2022 synodal act receives the Church in North Macedonia into communion while defining the territorial matter for further settlement. No separate current Ecumenical Patriarchate parish, mission, monastery, or recurring worship site in North Macedonia was established by the official sources reviewed.",
+      "sources": [
+        "https://ec-patr.org/en/10/05/03/19/communique-may-9-2022-2/",
+        "https://ec-patr.org/en/entities/"
+      ]
+    },
+    {
+      "jurisdiction": "Ukrainian Orthodox Church and Orthodox Church of Ukraine",
+      "result": "The UOC's current Western European vicariate description expressly states that it does not open parishes in North Macedonia. No current OCU parish, mission, monastery, or recurring worship site in North Macedonia was found in the official structures reviewed.",
+      "sources": [
+        "https://vzcz.church.ua/2026/02/09/pro-sluzhinnya-zaxidnojevropejskogo-vikariatstva-ukrajinskoji-pravoslavnoji-cerkvi/",
+        "https://www.pomisna.info/uk/tserkva/synodalni-ustanovy/"
+      ]
+    },
+    {
+      "jurisdiction": "Russian Orthodox Church and ROCOR",
+      "result": "No completed current Russian or ROCOR parish, mission, monastery, or recurring worship site in North Macedonia was found in the official structures reviewed. The Russian memorial church project remains a candidate because current completion and jurisdiction were not established.",
+      "sources": [
+        "https://mospat.ru/ru/news/48467/",
+        "https://mospat.ru/ru/news/90309/",
+        "https://calendar.rop.ru/?inc=12"
+      ]
+    },
+    {
+      "jurisdiction": "Bulgarian Orthodox Church, Romanian Orthodox Church, and Orthodox Church in America",
+      "result": "The cited Bulgarian Western and Central European diocesan roster, Romanian external-community roster, and Orthodox Church in America parish directory do not list a parish, mission, monastery, or recurring worship site in North Macedonia. No unverified search or map discovery was promoted.",
+      "sources": [
+        "https://bg-patriarshia.bg/west-eu-diocese-temples",
+        "https://patriarhia.ro/organizarea-bisericii-ortodoxe-romane/reprezentante-si-comunitati-externe/",
+        "https://www.oca.org/parishes"
+      ]
+    }
+  ]
+}
