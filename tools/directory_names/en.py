@@ -1434,6 +1434,20 @@ from directory_turkmenistan import (
 NAMES.update(_TURKMENISTAN_NAMES)
 del _TURKMENISTAN_NAMES
 
+from directory_uganda import (
+    ENGLISH_NAMES as _UGANDA_NAMES,
+    ENGLISH_SEATS as _UGANDA_SEATS,
+)
+NAMES.update(_UGANDA_NAMES)
+del _UGANDA_NAMES
+
+from directory_zambia import (
+    ENGLISH_NAMES as _ZAMBIA_NAMES,
+    ENGLISH_SEATS as _ZAMBIA_SEATS,
+)
+NAMES.update(_ZAMBIA_NAMES)
+del _ZAMBIA_NAMES
+
 from directory_tajikistan import (
     ENGLISH_NAMES as _TAJIKISTAN_NAMES,
     ENGLISH_SEATS as _TAJIKISTAN_SEATS,
@@ -2257,6 +2271,10 @@ SEATS.update(_RWANDA_SEATS)
 del _RWANDA_SEATS
 SEATS.update(_TURKMENISTAN_SEATS)
 del _TURKMENISTAN_SEATS
+SEATS.update(_UGANDA_SEATS)
+del _UGANDA_SEATS
+SEATS.update(_ZAMBIA_SEATS)
+del _ZAMBIA_SEATS
 SEATS.update(_TAJIKISTAN_SEATS)
 del _TAJIKISTAN_SEATS
 SEATS.update(_UZBEKISTAN_SEATS)

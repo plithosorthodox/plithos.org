@@ -1,0 +1,331 @@
+{
+  "v": 1,
+  "country": "UG",
+  "checked": "2026-11-15",
+  "method": "Current official patriarchal, diocesan, exarchate, ROCOR, and Uganda Orthodox Church records were reconciled body by body. Search engines, maps, independent church news, missionary organizations, and general directories were used only to discover possible bodies and coverage gaps. The Alexandrian, Moscow Exarchate, and ROCOR structures are preserved without deciding their competing territorial claims. Count-only, unnamed, older-only, conflicting, inaccessible, and affiliation-unclear identities remain unpublished.",
+  "published_summary": {
+    "alexandria": 1,
+    "ax-kampala": 1,
+    "ru-south-africa": 20,
+    "ru-great-britain-and-western-europe-rocor": 2,
+    "alexandrian_new_administrative_bodies": 1,
+    "alexandrian_named_worship_bodies": 1,
+    "russian_named_deaneries": 3,
+    "russian_named_parishes_and_missions": 16,
+    "churches_under_construction": 3,
+    "russian_roster_parishes": 26,
+    "russian_aggregate_only_remainder": 10,
+    "total": 24
+  },
+  "candidates": [
+    {
+      "candidate_id": "ug-ru-count-only-remainder",
+      "parent": "ru-south-africa",
+      "country": "UG",
+      "name": "Ten Moscow Exarchate roster parishes not individually reconciled",
+      "status": "hold until the competent diocese publishes exact current identities",
+      "reason": "The live South African Diocese roster reports 9 Central, 14 Eastern, and 3 Northern deanery parishes, for 26 total. Sixteen exact current bodies can be reconciled, including Holy Annunciation Church on Bukasa Island, which the current ROCOR directory explicitly assigns to the Diocese of Western Europe and which is represented only once under that parent. The resulting count-only remainder is 4 Central, 5 Eastern, and 1 Northern parish.",
+      "sources": [
+        "https://exarchate-africa.ru/en/dioceses_cat/south-african-diocese/",
+        "https://exarchate-africa.ru/dioceses_cat/yuzhno-afrikanskaya-eparhiya/",
+        "https://directory.synod.com/listing/260/holy-annunciation-church-of-bukasa-island/"
+      ]
+    },
+    {
+      "candidate_id": "ug-ru-alexis-locality-conflict",
+      "parent": "ug-ru-central-deanery",
+      "country": "UG",
+      "name": "Saint Alexis parish locality, Mayirikiti or Nkokonjeru",
+      "status": "publish the current Nkokonjeru body once and retain the roster locality for reconciliation",
+      "reason": "The live diocesan contact roster places the Saint Alexis parish in Mayirikiti. Current December 2025 and August 2026 official worship reports place the parish, school, and church construction site in Nkokonjeru under the same dean. The newer body-level locality is published without manufacturing a second Saint Alexis parish.",
+      "sources": [
+        "https://exarchate-africa.ru/en/dioceses_cat/south-african-diocese/",
+        "https://exarchate-africa.ru/novosti/v-nedelyu-26-yu-po-pyatidesyatnicze-mitropolit-konstantin-sovershil-liturgiyu-na-prihode-svyatitelya-aleksiya-v-ugande/",
+        "https://exarchate-africa.ru/novosti/obrazovatelnaya-missiya-duhovno-prosvetitelskogo-czentra-apostola-marka-prodolzhaetsya-v-ugande/"
+      ]
+    },
+    {
+      "candidate_id": "ug-ru-michael-locality-conflict",
+      "parent": "ug-ru-northern-deanery",
+      "country": "UG",
+      "name": "Archangel Michael parish locality, Obwolo or Gulu",
+      "status": "publish the current Gulu body once and retain the roster locality for reconciliation",
+      "reason": "The live contact roster places the parish of the Archangel Michael and the Other Bodiless Powers in Obwolo, Omoro District. Official December 2025 and November 2026 body-level reports place the Archangel Michael parish in Gulu under the same dean. The newest worship locality and the fuller roster dedication are combined in one published identity rather than treated as two parishes.",
+      "sources": [
+        "https://exarchate-africa.ru/en/dioceses_cat/south-african-diocese/",
+        "https://exarchate-africa.ru/novosti/zavershilas-poezdka-patriarshego-ekzarha-afriki-v-ugandu/",
+        "https://exarchate-africa.ru/novosti/sostoyalos-sobranie-blagochinnyh-czerkovnyh-okrugov-ugandy/"
+      ]
+    },
+    {
+      "candidate_id": "ug-ru-life-spring-locality-conflict",
+      "parent": "ug-ru-northern-deanery",
+      "country": "UG",
+      "name": "Life-Giving Spring parish locality, Viduri or Saint-Aiydur",
+      "status": "publish the exact current body without a seat until the diocese reconciles the place name",
+      "reason": "The December 2025 official visit places the parish in Viduri. An August 2026 official report places the church in a locality rendered in Russian as Saint-Aiydur. The April 2026 worship report confirms the dedication without giving a place. The parish is current, but no English locality is imposed on the conflicting records.",
+      "sources": [
+        "https://exarchate-africa.ru/novosti/zavershilas-poezdka-patriarshego-ekzarha-afriki-v-ugandu/",
+        "https://exarchate-africa.ru/novosti/desyat-zhitelej-na-severe-ugandy-prinyali-tainstvo-kreshheniya/",
+        "https://exarchate-africa.ru/novosti/delegacziya-duhovno-prosvetitelskogo-czentra-ekzarhata-posetila-severnoe-blagochinie-ugandy/"
+      ]
+    },
+    {
+      "candidate_id": "ug-ru-vladimir-locality-history",
+      "parent": "ug-ru-central-deanery",
+      "country": "UG",
+      "name": "Saint Vladimir parish locality variants",
+      "status": "publish the 2025 Bugolo identity and hold older locality variants",
+      "reason": "A February 2025 official clergy meeting places the Saint Vladimir parish in Bugolo. Official 2024 reports use Buvampa and Bugolo-Buvampa, while a 2023 report names a Saint Vladimir parish in Bukwo. The current Bugolo identity is published once. Continuity or multiplicity among the older localities is not inferred.",
+      "sources": [
+        "https://exarchate-africa.ru/novosti/sostoyalos-sobranie-duhovenstva-czentralnogo-blagochiniya-v-ugande/",
+        "https://exarchate-africa.ru/novosti/v-nedelyu-26-yu-po-pyatidesyatnicze-mitropolit-konstantin-sovershil-liturgiyu-i-kreshhenie-na-knyaz-vladimirskom-prihode-v-ugande/",
+        "https://exarchate-africa.ru/novosti/uvelichivaetsya-chislo-duhovenstva-patriarshego-ekzarhata-afriki/"
+      ]
+    },
+    {
+      "candidate_id": "ug-ru-wamala-deanery-conflict",
+      "parent": "ug-ru-eastern-deanery",
+      "country": "UG",
+      "name": "Saint Anthony the Great parish deanery assignment",
+      "status": "publish under the latest Eastern Deanery assignment and retain the older Central assignment",
+      "reason": "The December 2025 exarchal tour describes the Kampala-suburb parish in the Central Deanery. The October 2026 current parish report explicitly places Wamala in the Eastern Deanery. The newest competent body-level assignment is used without duplicating the parish.",
+      "sources": [
+        "https://exarchate-africa.ru/novosti/zavershilas-poezdka-patriarshego-ekzarha-afriki-v-ugandu/",
+        "https://exarchate-africa.ru/novosti/shest-chelovek-na-prihode-prepodobnogo-antoniya-velikogo-v-ugande-proshli-chin-oglasheniya/"
+      ]
+    },
+    {
+      "candidate_id": "ug-ru-pader-unnamed-community",
+      "parent": "ug-ru-northern-deanery",
+      "country": "UG",
+      "name": "Unnamed current Orthodox community in Pader District",
+      "status": "hold until the competent diocese publishes its dedication and parish status",
+      "reason": "An August 2026 official report establishes a new Orthodox community and catechetical work in Pader District but gives no dedication and does not identify the community as one of the three roster parishes.",
+      "sources": [
+        "https://exarchate-africa.ru/novosti/v-novoj-obshhine-na-severe-ugandy-proshla-prosvetitelskaya-beseda-s-detmi/",
+        "https://exarchate-africa.ru/en/dioceses_cat/south-african-diocese/"
+      ]
+    },
+    {
+      "candidate_id": "ug-ru-teso-unnamed-village",
+      "parent": "ug-ru-eastern-deanery",
+      "country": "UG",
+      "name": "Unnamed current worship community in a Teso village",
+      "status": "hold until a parish, mission, or chapel receives an exact current name",
+      "reason": "A November 2026 official report records Divine Liturgy, baptisms, and catechesis in a village in the Teso subregion after worship at the Saint Catherine parish. It does not name a second body or place, so the event is not converted into a row.",
+      "sources": [
+        "https://exarchate-africa.ru/novosti/odinnadczat-mestnyh-zhitelej-kreshheny-v-vostochnoj-ugande/"
+      ]
+    },
+    {
+      "candidate_id": "ug-ru-mbale-community-reconciliation",
+      "parent": "ug-ru-eastern-deanery",
+      "country": "UG",
+      "name": "Newly formed unnamed Mbale community",
+      "status": "hold as a possible earlier record of the published Saint Patrick parish",
+      "reason": "An official 22 September 2025 report describes a newly formed unnamed community in Mbale. Three days later an official report names and serves the Saint Patrick parish in Mbale. The records are treated as a likely continuity question, not two bodies.",
+      "sources": [
+        "https://exarchate-africa.ru/novosti/dlya-novoobrazovannoj-obshhiny-v-g-mbale-v-ugande-priobreten-tent-dlya-bogosluzhenij/",
+        "https://exarchate-africa.ru/novosti/na-vostoke-ugandy-55-mestnyh-zhitelej-prinyali-tainstvo-kreshheniya/"
+      ]
+    },
+    {
+      "candidate_id": "ug-ru-busoga-unnamed-community",
+      "parent": "ug-ru-central-deanery",
+      "country": "UG",
+      "name": "Unnamed Orthodox community in Busoga",
+      "status": "hold until the competent diocese publishes its dedication and current roster identity",
+      "reason": "A February 2025 official report records a clergy visit to a community in Busoga but does not give a dedication or exact place. No name is inferred from the visiting clergy or the day of worship.",
+      "sources": [
+        "https://exarchate-africa.ru/novosti/duhovenstvo-czentralnogo-blagochiniya-ugandy-posetilo-obshhinu-na-vostoke-strany/"
+      ]
+    },
+    {
+      "candidate_id": "ug-ru-mukongoro-dedication-conflict",
+      "parent": "ug-ru-eastern-deanery",
+      "country": "UG",
+      "name": "Mukongoro Apostle Andrew or Apostle Peter parish",
+      "status": "publish the current Apostle Peter identity and hold the older Apostle Andrew wording",
+      "reason": "A December 2024 exarchal visit names an Apostle Andrew parish in Mukongoro. A September 2025 official worship report names the Apostle Peter parish in the same locality. The newer identity is published once and the source conflict is preserved rather than silently corrected.",
+      "sources": [
+        "https://exarchate-africa.ru/novosti/zavershilas-poezdka-patriarshego-ekzarha-afriki-v-ekvatorialnuyu-gvineyu-i-ugandu/",
+        "https://exarchate-africa.ru/novosti/v-prazdnik-rozhdestva-presvyatoj-bogorodiczy-v-ugande-soversheny-tainstva-kreshheniya-i-braka/"
+      ]
+    },
+    {
+      "candidate_id": "ug-ax-holy-transfiguration-luweero",
+      "country": "UG",
+      "name": "Holy Transfiguration Parish in Luweero District",
+      "status": "hold until the competent Alexandrian source identifies its diocesan parent",
+      "reason": "The official Uganda Orthodox Church account confirms the parish as current in November 2026. The post does not identify whether it belongs to Kampala, Mbarara, Jinja, or Gulu, and the public patriarchal register does not supply a subordinate roster. The exact body remains held rather than assigning a parent by geography.",
+      "sources": [
+        "https://x.com/Orthodox_ug/status/2101676557840658564",
+        "https://www.patriarchateofalexandria.com/archdioceses/?lang=en"
+      ]
+    },
+    {
+      "candidate_id": "ug-ax-jinja-current-independent-leads",
+      "parent": "ax-jinja",
+      "country": "UG",
+      "name": "Holy Resurrection Cathedral, Panagia Paramythia Church, and Saint Jude Thaddeus Church",
+      "status": "hold until the Patriarchate, diocese, or official Uganda Orthodox Church source publishes the exact bodies",
+      "reason": "Current independent Orthodox news reports identify Holy Resurrection Cathedral in Jinja, Panagia Paramythia Church in Mukongoro, and Saint Jude Thaddeus Church in Kagulu. They are strong discovery leads, but the reports are published by an independent news agency and are not a current diocesan roster.",
+      "sources": [
+        "https://orthodoxiapost.com/index.php/2026/08/15/over-forty-baptised-on-dormition-of-the-theotokos-in-jinja-uganda/",
+        "https://orthodoxiapost.com/index.php/2025/06/21/holy-diocese-jinja-uganda-mission-team-serbia/",
+        "https://www.patriarchateofalexandria.com/archdioceses/holy-diocese-of-gulu-and-eastern-uganda/?lang=en"
+      ]
+    },
+    {
+      "candidate_id": "ug-ax-current-body-rosters",
+      "country": "UG",
+      "name": "Current subordinate rosters for the four Alexandrian administrations",
+      "status": "hold all unmatched identities until each current body has a competent first-party citation and exact parent",
+      "reason": "The current public patriarchal register establishes Kampala, Jinja, and Gulu. The official Uganda Orthodox Church account establishes Mbarara and confirms current worship at Saint Nicholas Cathedral. It does not publish a complete body-level roster for any of the four administrations. A current Orthodox mothers organization reports work in more than sixty parishes but does not enumerate them.",
+      "sources": [
+        "https://www.patriarchateofalexandria.com/archdioceses/?lang=en",
+        "https://x.com/Orthodox_ug",
+        "https://ocmu.co.ug/faq/"
+      ]
+    },
+    {
+      "candidate_id": "ug-ax-older-official-bodies",
+      "country": "UG",
+      "name": "Older exact Alexandrian church identities awaiting current confirmation",
+      "status": "hold until each body is renewed by a current competent first-party source",
+      "reason": "Official patriarchal reports identify Saint Anthony the Great in Monte in 2011, Saint Sophia in Kampala in 2015, and Saint Lawrence Cathedral in Gulu in 2021. The reports establish historical existence but do not provide current body status after the 2022 territorial division and the 2025 creation of Mbarara.",
+      "sources": [
+        "https://www.patriarchateofalexandria.com/patriarchal-divine-liturgy-in-uganda-on-the-sunday-of-orthodoxy/?lang=en&print=print",
+        "https://www.patriarchateofalexandria.com/inauguration-of-new-church-and-ordination-of-a-deacon-in-kampala-by-the-patriarch-of-alexandria/?lang=en&print=print",
+        "https://www.patriarchateofalexandria.com/the-patriarch-of-alexandria-in-the-diocese-of-gulu/?lang=en"
+      ]
+    },
+    {
+      "candidate_id": "ug-general-directory-discovery-only",
+      "country": "UG",
+      "name": "Uganda entries in a general Orthodox directory",
+      "status": "hold every unmatched identity until a competent current Church source confirms it",
+      "reason": "The independent directory lists dozens of cathedrals, churches, chapels, missions, schools, monasteries, and older communities across Uganda. It is a discovery aid only. Its labels do not by themselves establish a current canonical parent, current status, or whether a school and its parish are one body.",
+      "sources": [
+        "https://orthodox-world.org/en/c/219/uganda"
+      ]
+    },
+    {
+      "candidate_id": "ug-antiochian-claim",
+      "country": "UG",
+      "name": "Antiochian Orthodox Catholic Church in Kampala",
+      "status": "hold as affiliation-unclear until the Patriarchate of Antioch names it among its own bodies",
+      "reason": "The local website describes an Eastern Orthodox Antiochian identity in Uganda. The current official Patriarchate of Antioch diocesan material reviewed does not name a Uganda body. The local claim is not converted into a canonical jurisdictional row without patriarchal confirmation.",
+      "sources": [
+        "https://aocc.church/",
+        "https://antiochpatriarchate.org/en/page/3011/"
+      ]
+    }
+  ],
+  "source_reconciliations": [
+    {
+      "candidate_id": "ug-reconcile-mbarara-register-lag",
+      "country": "UG",
+      "result": "The current official Uganda Orthodox Church account names the Holy Diocese of Mbarara and Western Uganda in September 2026. The Patriarchate public diocesan archive has not yet added a Mbarara page. The current first-party local Church record supports the new administrative row, while the register lag is preserved here.",
+      "sources": [
+        "https://x.com/Orthodox_ug/status/2093285485439270973",
+        "https://www.patriarchateofalexandria.com/archdioceses/?lang=en"
+      ]
+    },
+    {
+      "candidate_id": "ug-reconcile-rocor-bukasa",
+      "country": "UG",
+      "result": "The current ROCOR directory assigns Holy Annunciation Church on Bukasa Island to the Diocese of Western Europe and records weekly worship. The African Exarchate also reports the same parish and its unfinished church building. The body and construction site are represented once under the explicit current ROCOR parent, not duplicated under the South African Diocese.",
+      "sources": [
+        "https://directory.synod.com/listing/260/holy-annunciation-church-of-bukasa-island/",
+        "https://exarchate-africa.ru/novosti/v-prazdnik-uspeniya-presvyatoj-bogorodiczy-sovershena-liturgiya-na-ostrove-bukasa-v-ugande/",
+        "https://eadiocese.org/news_220320_1"
+      ]
+    },
+    {
+      "candidate_id": "ug-reconcile-russian-counts",
+      "country": "UG",
+      "result": "The current Moscow roster reports 26 parishes across three deaneries. Sixteen exact named parish or mission identities are reconciled from competent current sources. Three deaneries and three separately documented construction sites are additional administrative or physical rows and do not inflate the roster parish arithmetic. Ten roster identities remain count-only.",
+      "sources": [
+        "https://exarchate-africa.ru/en/dioceses_cat/south-african-diocese/",
+        "https://exarchate-africa.ru/novosti/sostoyalos-sobranie-blagochinnyh-czerkovnyh-okrugov-ugandy/",
+        "https://exarchate-africa.ru/novosti/zavershilas-poezdka-patriarshego-ekzarha-afriki-v-ugandu/"
+      ]
+    },
+    {
+      "candidate_id": "ug-reconcile-alexandrian-publication-bar",
+      "country": "UG",
+      "result": "The official Uganda Orthodox Church account is treated as a competent first-party source for the current Mbarara administration and Saint Nicholas Cathedral. Independent Uganda Orthodox news is retained for discovery but is not treated as a diocesan roster. Exact current bodies without a documented parent remain held.",
+      "sources": [
+        "https://x.com/Orthodox_ug",
+        "https://orthodoxiapost.com/index.php/about-us/",
+        "https://www.patriarchateofalexandria.com/archdioceses/?lang=en"
+      ]
+    }
+  ],
+  "official_jurisdiction_audit": [
+    {
+      "jurisdiction": "Patriarchate of Alexandria",
+      "result": "The current patriarchal register establishes Kampala, Jinja, and Gulu administrative parents already present in the directory spine. The official Uganda Orthodox Church account establishes Mbarara and Western Uganda as the fourth current administration and confirms Saint Nicholas Cathedral in Kampala. Those two new rows are published. Current exact bodies lacking a documented diocesan parent and independent-news-only identities remain held.",
+      "sources": [
+        "https://www.patriarchateofalexandria.com/archdioceses/?lang=en",
+        "https://x.com/Orthodox_ug/status/2093285485439270973",
+        "https://x.com/Orthodox_ug/status/2094854455694967099"
+      ]
+    },
+    {
+      "jurisdiction": "Moscow Patriarchate, Patriarchal Exarchate of Africa",
+      "result": "The current South African Diocese roster establishes three Uganda deaneries and 26 parishes. Fifteen exact current parish or mission bodies are published under those deaneries, together with two separately supported church construction sites. Holy Annunciation Church is reconciled against the current ROCOR directory and represented under that explicit parent. The ten-body count-only remainder and all unnamed or conflicting identities remain held.",
+      "sources": [
+        "https://exarchate-africa.ru/en/dioceses_cat/south-african-diocese/",
+        "https://exarchate-africa.ru/novosti/sostoyalos-sobranie-blagochinnyh-czerkovnyh-okrugov-ugandy/",
+        "https://exarchate-africa.ru/novosti/zavershilas-poezdka-patriarshego-ekzarha-afriki-v-ugandu/"
+      ]
+    },
+    {
+      "jurisdiction": "Russian Orthodox Church Outside of Russia",
+      "result": "The live ROCOR directory identifies Holy Annunciation Church on Bukasa Island, assigns it to the Diocese of Western Europe, records weekly services, and shows a March 2025 update. The current church and its officially reported unfinished church building are published under the ROCOR parent. Older records of the Saint John Maximovitch Mission Center are superseded for directory purposes by the current African Exarchate roster assignment in Kiboga.",
+      "sources": [
+        "https://directory.synod.com/listing/260/holy-annunciation-church-of-bukasa-island/",
+        "https://eadiocese.org/news_220320_1",
+        "https://exarchate-africa.ru/en/dioceses_cat/south-african-diocese/"
+      ]
+    },
+    {
+      "jurisdiction": "Ecumenical Patriarchate, Antiochian Patriarchate, Jerusalem Patriarchate, Serbian Patriarchate, Georgian Patriarchate, Romanian Patriarchate, OCA, and other listed diaspora structures",
+      "result": "Their current official jurisdictional or diaspora directories reviewed did not name an additional Uganda body. The local Antiochian claim is held because it is not matched by the official Antiochian material. This is a bounded directory result, not a general country-level absence claim.",
+      "sources": [
+        "https://ec-patr.org/en/entities/",
+        "https://antiochpatriarchate.org/en/page/3011/",
+        "https://www.oca.org/parishes"
+      ]
+    },
+    {
+      "jurisdiction": "Other canonical Local Churches and diaspora structures",
+      "result": "No additional Uganda row is published without an exact current first-party jurisdictional citation. This records incomplete verification for structures not individually listed and makes no general absence claim.",
+      "sources": [
+        "https://www.patriarchateofalexandria.com/archdioceses/?lang=en",
+        "https://exarchate-africa.ru/en/dioceses_cat/south-african-diocese/",
+        "https://directory.synod.com/listings/"
+      ]
+    }
+  ],
+  "exclusions": [
+    {
+      "scope": "Coptic, Ethiopian, Eritrean, and other Oriental Orthodox bodies",
+      "result": "Oriental Orthodox bodies are outside this Eastern Orthodox directory and are not converted into rows. Their use of Orthodox in a public name does not establish communion with the Eastern Orthodox jurisdictions represented here.",
+      "sources": [
+        "https://copticorthodox.church/en/abroad-diocese/"
+      ]
+    },
+    {
+      "scope": "Catholic, Anglican, independent, historical, map-only, and affiliation-unclear bodies",
+      "result": "These bodies remain outside the audit or held unless a current canonical Eastern Orthodox Church names the exact body among its own. A shared saint, public registration label, map pin, school, hospital, historical report, or self-description does not establish a current canonical Eastern Orthodox worship body.",
+      "sources": [
+        "https://orthodox-world.org/en/c/219/uganda",
+        "https://aocc.church/"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,241 @@
+{
+  "v": 1,
+  "country": "ZM",
+  "checked": "2026-11-15",
+  "method": "Current official Patriarchate of Alexandria and Moscow Patriarchate records were reconciled body by body. Current official directories of other plausible canonical jurisdictions were checked where accessible. Search engines, maps, missionary organizations, and general directories were used only to discover possible bodies and coverage gaps. The overlapping Alexandrian and Moscow structures are recorded without deciding their competing territorial claims. Unnamed, count-only, proposed, historical, affiliation-unclear, and third-party-only identities remain unpublished.",
+  "published_summary": {
+    "existing_ax-zambia_parent": 1,
+    "ax-zambia": 3,
+    "ru-south-africa": 6,
+    "russian_named_deaneries": 1,
+    "russian_named_parishes": 5,
+    "russian_roster_total_parishes": 7,
+    "russian_aggregate_only_remainder": 2,
+    "new_subordinate_bodies": 9
+  },
+  "candidates": [
+    {
+      "candidate_id": "zm-ru-count-only-remainder",
+      "parent": "zm-ru-zambia-deanery",
+      "country": "ZM",
+      "name": "Two roster parishes not individually reconciled",
+      "status": "hold until the competent diocese publishes their exact current identities",
+      "reason": "The live South African Diocese page reports seven Zambia parishes. Five can be tied to exact named current official body records. The other two roster places are not expanded from the aggregate count, so no dedications or localities are inferred for them.",
+      "sources": [
+        "https://exarchate-africa.ru/en/dioceses_cat/south-african-diocese/"
+      ]
+    },
+    {
+      "candidate_id": "zm-ru-kamirende-proposed-chapel",
+      "parent": "zm-ru-zambia-deanery",
+      "country": "ZM",
+      "name": "Possible chapel at Kamirende Primary School in Luanshya",
+      "status": "hold until an official source records a named chapel or construction body",
+      "reason": "An official 2024 report says a possible chapel at the school was discussed. It does not record a dedication, a formal body, a foundation stone, or construction begun. A proposal is not represented as a current chapel or church under construction.",
+      "sources": [
+        "https://exarchate-africa.ru/novosti/mitropolit-konstantin-posetil-nachalnuyu-shkolu-v-gorode-luanshya-zambiya/"
+      ]
+    },
+    {
+      "candidate_id": "zm-ru-kapiri-mposhi-registration",
+      "parent": "ru-south-africa",
+      "country": "ZM",
+      "name": "Russian Orthodox Church legal registration in Zambia",
+      "status": "exclude as an organizational record rather than a worship or administrative body",
+      "reason": "The Moscow Patriarchate records the 2022 presentation of a state registration certificate in Kapiri Mposhi. The certificate establishes legal recognition of the Church but does not name a parish, mission, chapel, deanery, monastery, or church building at that place.",
+      "sources": [
+        "https://mospat.ru/ru/news/89557/"
+      ]
+    },
+    {
+      "candidate_id": "zm-ax-current-body-roster-gap",
+      "parent": "ax-zambia",
+      "country": "ZM",
+      "name": "Current subordinate-body roster of the Holy Metropolis of Zambia and Mozambique",
+      "status": "hold any additional subordinate rows until the Patriarchate publishes exact current identities",
+      "reason": "The current patriarchal register establishes the metropolis and its Lusaka see but does not enumerate all current churches, chapels, missions, monasteries, or construction sites. Three churches are renewed by the Patriarchate's May 2026 visit reports and are published. Territorial responsibility and older continuity do not establish further rows.",
+      "sources": [
+        "https://www.patriarchateofalexandria.com/archdioceses/holy-archdiocese-of-zamvia/?lang=en",
+        "https://www.patriarchateofalexandria.com/i-zampia-ypodechthike-ton-patriarchi-tis-agapis-theodoro-v/"
+      ]
+    },
+    {
+      "candidate_id": "zm-ax-metropolitan-house-unnamed-chapel",
+      "parent": "ax-zambia",
+      "country": "ZM",
+      "name": "Unnamed chapel at the Metropolitan House in Lusaka",
+      "status": "hold until the Patriarchate publishes its dedication or a stable exact name",
+      "reason": "The May 2026 patriarchal visit report records prayer in the chapel of the Metropolitan House but gives no dedication. A general directory calls a Lusaka body Holy Metropolis of Zambia Orthodox Chapel, which is a generic label rather than a dedication and does not establish whether it is the same chapel. The residence venue is current, yet an unnamed chapel cannot receive a canonical directory identity without inventing one.",
+      "sources": [
+        "https://www.patriarchateofalexandria.com/i-zampia-ypodechthike-ton-patriarchi-tis-agapis-theodoro-v/",
+        "https://www.patriarchateofalexandria.com/archdioceses/holy-archdiocese-of-zamvia/?lang=en",
+        "https://orthodox-world.org/en/c/238/zambia"
+      ]
+    },
+    {
+      "candidate_id": "zm-ax-general-directory-discovery-only",
+      "parent": "ax-zambia",
+      "country": "ZM",
+      "name": "Six unmatched named Zambia identities and overlapping generic listings in a general Orthodox directory",
+      "status": "hold every unmatched identity until a competent current Church source confirms it",
+      "reason": "The unmatched listings are St. Nektarios Orthodox Church in Chingola, St. George Chapel in Makeni, St. Nicholas Church in Kapiri Mposhi, Annunciaton of the Virgin Orthodox Church in Luanshya, St. Andrew Orthodox Church in Kitwe, and St. George Church in Mufulira. The same page also mixes the Alexandrian parent, current bodies already published here, generic mission or community labels in Chirundu, Lusaka, and Mongu, and two Coptic Oriental Orthodox churches. It renews neither canonical parentage nor current status by itself, so the six names and every unresolved overlap remain discovery leads only.",
+      "sources": [
+        "https://orthodox-world.org/en/c/238/zambia",
+        "https://www.patriarchateofalexandria.com/archdioceses/holy-archdiocese-of-zamvia/?lang=en"
+      ]
+    },
+    {
+      "candidate_id": "zm-affiliation-unclear-african-province",
+      "country": "ZM",
+      "name": "Zambia parish claims of the African Province calling itself Orthodox Church of America",
+      "status": "exclude unless a recognized autocephalous Eastern Orthodox Church accepts and publishes the exact bodies",
+      "reason": "The African Province page lists Zambia parish claims under an independent body using an OCA-like name and describes reception of independent clergy. The official Orthodox Church in America parish directory does not identify this page as its jurisdictional roster. The claimed bodies therefore remain affiliation-unclear and are not treated as canonical rows.",
+      "sources": [
+        "https://oca-uaoc.org/african-province.html",
+        "https://www.oca.org/parishes/search"
+      ]
+    }
+  ],
+  "dedupe_notes": [
+    {
+      "scope": "Lusaka Missionary Centre church dedication",
+      "result": "The current May 2026 patriarchal report names Saint Basil Church at the Lusaka Missionary Centre. An official 2009 inauguration report used the fuller dedication Saint Basil and Saint Dimitrios for the Missionary Centre church. The independent directory's generic St. Basil Orthodox Mission does not establish a second worship body at the same centre. One current Saint Basil row is published, and the older or generic wording is not converted into another church.",
+      "sources": [
+        "https://www.patriarchateofalexandria.com/deyteri-imera-tis-patriarchikis-episkepseos-sti-zampia/",
+        "https://www.patriarchateofalexandria.com/inauguration-of-the-missionary-centre-in-lusaka/?lang=en",
+        "https://orthodox-world.org/en/c/238/zambia"
+      ]
+    },
+    {
+      "scope": "Chongwe parish and church construction",
+      "result": "The live Moscow roster names the Parish of the Equal-to-the-Apostles Constantine and Helena in Chongwe. The October 2026 official report records the foundation stone for its future church. This is one current parish and construction body, published once with rank Church Under Construction.",
+      "sources": [
+        "https://exarchate-africa.ru/en/dioceses_cat/south-african-diocese/",
+        "https://exarchate-africa.ru/novosti/v-prazdnik-pokrova-presvyatoj-bogorodiczy-mitropolit-konstantin-sovershil-liturgiyu-v-stolicze-zambii/"
+      ]
+    },
+    {
+      "scope": "Luanshya parish and church construction",
+      "result": "A May 2026 official worship report and an October 2026 official construction meeting identify the same Saint Demetrius of Rostov parish in Luanshya. The parish and its church project are represented once with rank Church Under Construction.",
+      "sources": [
+        "https://exarchate-africa.ru/novosti/v-nedelyu-o-rasslablennom-sovershena-liturgiya-na-prihode-svyatitelya-dimitriya-rostovskogo-v-zambii/",
+        "https://exarchate-africa.ru/novosti/proshlo-soveshhanie-po-stroitelstvu-hrama-svyatitelya-dimitriya-rostovskogo-v-g-luanshya-zambiya/"
+      ]
+    },
+    {
+      "scope": "Lusaka Russian worship venue",
+      "result": "Older official reports of Russian Orthodox worship at the Russian House in Lusaka are not treated as a second body. Current 2026 records identify the Archangel Michael house church in Lusaka, which is published once under the current exact identity.",
+      "sources": [
+        "https://exarchate-africa.ru/novosti/v-predprazdnstvo-bogoyavleniya-sovershena-liturgiya-v-hrame-arhangela-mihaila-v-stolicze-zambii/",
+        "https://exarchate-africa.ru/en/dioceses_cat/south-african-diocese/"
+      ]
+    },
+    {
+      "scope": "Chirundu church and missionary-centre listing",
+      "result": "The current Patriarchate of Alexandria report records the formal opening of Saint Chrysostomos Papasarantopoulos Church in Chirundu. The independent directory's generic Chirundu Orthodox Missionary Center is not converted into a second worship body without a current first-party source distinguishing it from the church and its mission site.",
+      "sources": [
+        "https://www.patriarchateofalexandria.com/i-triti-imera-tis-patriarchikis-episkepseos-toy-patriarchoy-alexandreias-sti-zampia/",
+        "https://orthodox-world.org/en/c/238/zambia"
+      ]
+    },
+    {
+      "scope": "Mongu parish and generic community listing",
+      "result": "The current Moscow Patriarchate report names the Parish of the Holy Apostles Peter and Paul in Mongu. The independent directory's generic Mongu Orthodox Community supplies no current canonical parent or dedication, so it is not assumed to be either a second body or the same body. Only the exact current first-party parish identity is published.",
+      "sources": [
+        "https://exarchate-africa.ru/novosti/blagochinnyj-prihodov-v-zambii-posetil-pravoslavnuyu-obshhinu-na-zapade-strany/",
+        "https://orthodox-world.org/en/c/238/zambia"
+      ]
+    }
+  ],
+  "official_jurisdiction_audit": [
+    {
+      "jurisdiction": "Patriarchate of Alexandria",
+      "result": "The current patriarchal register confirms the Holy Metropolis of Zambia and Mozambique, whose existing parent row remains published. Four consecutive May 2026 visit reports renew Saint Basil at the Lusaka Missionary Centre, Saint Chrysostomos Papasarantopoulos in Chirundu, Saint Alexander in Makeni, and an unnamed chapel at the Metropolitan House. The three exact named churches are published and the unnamed chapel is held.",
+      "sources": [
+        "https://www.patriarchateofalexandria.com/archdioceses/holy-archdiocese-of-zamvia/?lang=en",
+        "https://www.patriarchateofalexandria.com/deyteri-imera-tis-patriarchikis-episkepseos-sti-zampia/",
+        "https://www.patriarchateofalexandria.com/tetarti-imera-tis-patriarchikis-poimantikis-periodeias-toy-patriarchi-alexandreias-k-k-theodoroy-v-sti-zampia/"
+      ]
+    },
+    {
+      "jurisdiction": "Moscow Patriarchate, Patriarchal Exarchate of Africa",
+      "result": "The live South African Diocese roster reports one Zambia deanery and seven parishes. Current official records identify five parishes by exact dedication and place. The deanery and those five parishes are published, including two current church construction sites. The aggregate-only remainder of two parishes is held.",
+      "sources": [
+        "https://exarchate-africa.ru/en/dioceses_cat/south-african-diocese/",
+        "https://exarchate-africa.ru/novosti/v-prazdnik-pokrova-presvyatoj-bogorodiczy-mitropolit-konstantin-sovershil-liturgiyu-v-stolicze-zambii/",
+        "https://exarchate-africa.ru/novosti/proshlo-soveshhanie-po-stroitelstvu-hrama-svyatitelya-dimitriya-rostovskogo-v-g-luanshya-zambiya/"
+      ]
+    },
+    {
+      "jurisdiction": "Ecumenical Patriarchate, Antiochian Patriarchate, and ROCOR",
+      "result": "Their current official entity or jurisdiction directories were checked and did not name a Zambia body. This is a bounded directory result, not a general country-level absence claim.",
+      "sources": [
+        "https://ec-patr.org/en/entities/",
+        "https://www.antiochpatriarchate.org/en/page/2996/",
+        "https://directory.synod.com/listings/"
+      ]
+    },
+    {
+      "jurisdiction": "Romanian Patriarchate, Serbian Patriarchate, and Orthodox Church in America",
+      "result": "Their current official external-community, diocesan, or parish directories were checked and did not name a Zambia body. Romanian and Serbian participation in an Alexandrian service does not establish separate Zambia parishes. This is a bounded directory result, not a general country-level absence claim.",
+      "sources": [
+        "https://patriarhia.ro/en/organization-of-the-romanian-orthodox-church/external-representations-and-communities/",
+        "https://www.spc.rs/en/96.dioceses-of-the-soc.html",
+        "https://www.oca.org/parishes/search"
+      ]
+    },
+    {
+      "jurisdiction": "Jerusalem Patriarchate, Bulgarian Patriarchate, and Georgian Patriarchate",
+      "result": "Their current official jurisdictional or institutional sites and Zambia-targeted records were checked. The Jerusalem results concern a former Alexandrian bishop of Zambia and do not establish a Jerusalem body in the country. No exact current Zambia body of these three Churches was found. This is a bounded official-site result, not a general absence claim.",
+      "sources": [
+        "https://en.jerusalem-patriarchate.info/",
+        "https://bg-patriarshia.bg/en",
+        "https://patriarchate.ge/"
+      ]
+    },
+    {
+      "jurisdiction": "Church of Cyprus, Church of Greece, and Polish Orthodox Church",
+      "result": "Their current official jurisdictional or institutional sites and Zambia-targeted records were checked and did not name an exact current Zambia body. References to African mission work or other Orthodox Churches were not converted into jurisdictional presence. This is a bounded official-site result, not a general absence claim.",
+      "sources": [
+        "https://churchofcyprus.org.cy/",
+        "https://www.ecclesia.gr/English/EnIndex.html",
+        "https://www.orthodox.pl/"
+      ]
+    },
+    {
+      "jurisdiction": "Orthodox Church of Albania and Orthodox Church of the Czech Lands and Slovakia",
+      "result": "The current official Albanian structure page and the accessible official Slovak church site were checked and did not name an exact current Zambia body. The central Czech site was access-restricted during the audit, so no broader negative claim is made and no body is inferred from the gap.",
+      "sources": [
+        "https://orthodoxalbania.org/2026/en/2014/03/12/about-us/",
+        "https://orthodox.sk/pravoslavna-cirkev/"
+      ]
+    },
+    {
+      "jurisdiction": "Other canonical Local Churches and diaspora structures",
+      "result": "No additional Zambia row is published without an exact current first-party jurisdictional citation. This records incomplete verification for structures not individually listed and makes no general absence claim.",
+      "sources": [
+        "https://www.patriarchateofalexandria.com/archdioceses/?lang=en",
+        "https://exarchate-africa.ru/en/dioceses_cat/south-african-diocese/"
+      ]
+    }
+  ],
+  "exclusions": [
+    {
+      "scope": "Coptic and other Oriental Orthodox bodies",
+      "result": "Oriental Orthodox bodies are outside this Eastern Orthodox directory and are not converted into rows. The Coptic Orthodox mission's Zambia presence is recorded only to prevent accidental inclusion or confusion with the Eastern Orthodox Patriarchate of Alexandria.",
+      "sources": [
+        "https://copticmission.org/about-us",
+        "https://orthodox-world.org/en/c/238/zambia"
+      ]
+    },
+    {
+      "scope": "Independent and affiliation-unclear bodies",
+      "result": "Bodies remain outside the publication set unless a current autocephalous Eastern Orthodox Church names the exact body among its own. An independent body using an OCA-like title, a map label, or a general directory entry does not establish current canonical reception or parentage.",
+      "sources": [
+        "https://oca-uaoc.org/african-province.html",
+        "https://www.oca.org/parishes/search",
+        "https://orthodox-world.org/en/c/238/zambia"
+      ]
+    }
+  ]
+}
