@@ -24,6 +24,7 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 import directory_rows
 import directory_branches
+import directory_brazil
 
 ROOT = Path(__file__).resolve().parent.parent
 OUT = ROOT / "data" / "directory.v1.json"
@@ -781,7 +782,8 @@ def build(branch_payloads=None):
         r.setdefault("checked", READ)
         rows.append(r)
     order = dict((r["id"], r["order"]) for r in rows)
-    every = DIOCESES + directory_rows.all_rows()
+    every = (DIOCESES + directory_rows.all_rows() +
+             list(directory_brazil.build_all()[1]))
     for c in more:
         if c["id"] not in directory_rows.CHURCHES:
             every = every + directory_rows.rows(c["id"])

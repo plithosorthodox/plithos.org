@@ -1,0 +1,290 @@
+{
+  "v": 1,
+  "country": "BR",
+  "checked": "2026-11-15",
+  "method": "Current official patriarchal, diocesan, eparchial, and parish directories were used to establish named Eastern Orthodox bodies in Brazil. Search engines, maps, and the 2025 Brazilian inter-Orthodox directory were used only for discovery. Historical bodies, construction-only sites, bodies outside Eastern Orthodox communion, and communities without current competent jurisdictional confirmation were not converted into directory rows.",
+  "published_summary": {
+    "ep-buenos-aires": 13,
+    "an-sao-paulo": 20,
+    "ep-ukrainian-south-america": 18,
+    "ru-argentina-and-south-america": 9,
+    "sr-buenos-aires": 10,
+    "pl-rio-recife": 12,
+    "ru-south-america-rocor": 7,
+    "antioch-direct": 1,
+    "worship_bodies": 89,
+    "total_rows_including_vicariate": 90
+  },
+  "candidates": [
+    {
+      "candidate_id": "br-an-rio-saint-nicholas-cathedral",
+      "parent": "an-rio-vicariate",
+      "country": "BR",
+      "name": "Saint Nicholas Cathedral in Rio de Janeiro",
+      "status": "hold until a current first-party vicariate roster names it",
+      "reason": "The 2025 Brazilian inter-Orthodox directory names this cathedral under the Antiochian Patriarchal Vicariate of Rio de Janeiro, but the competent current patriarchal source presently establishes only the vicariate itself and does not expose a subordinate parish roster. The vicariate is published while this discovered body remains held.",
+      "sources": [
+        "https://www.antiochpatriarchate.org/en/category/108/",
+        "https://ecclesia.org.br/wp-content/uploads/2025/09/DiretorioBrasil-09.pdf"
+      ]
+    },
+    {
+      "candidate_id": "br-an-sao-goncalo-cosmas-damian",
+      "parent": "an-rio-vicariate",
+      "country": "BR",
+      "name": "Saints Cosmas and Damian Mission in São Gonçalo",
+      "status": "hold until a current first-party vicariate roster names it",
+      "reason": "The 2025 Brazilian inter-Orthodox directory names this mission under the Antiochian Patriarchal Vicariate of Rio de Janeiro. No current roster published by the vicariate or patriarchate was found that independently confirms the subordinate body.",
+      "sources": [
+        "https://www.antiochpatriarchate.org/en/category/108/",
+        "https://ecclesia.org.br/wp-content/uploads/2025/09/DiretorioBrasil-09.pdf"
+      ]
+    },
+    {
+      "candidate_id": "br-an-duque-caxias-archangel-michael",
+      "parent": "an-rio-vicariate",
+      "country": "BR",
+      "name": "Archangel Michael Parish in Duque de Caxias",
+      "status": "hold until a current first-party vicariate roster names it",
+      "reason": "The 2025 Brazilian inter-Orthodox directory names this parish under the Antiochian Patriarchal Vicariate of Rio de Janeiro. No current roster published by the vicariate or patriarchate was found that independently confirms the subordinate body.",
+      "sources": [
+        "https://www.antiochpatriarchate.org/en/category/108/",
+        "https://ecclesia.org.br/wp-content/uploads/2025/09/DiretorioBrasil-09.pdf"
+      ]
+    },
+    {
+      "candidate_id": "br-an-duque-caxias-mary-mother-god",
+      "parent": "an-rio-vicariate",
+      "country": "BR",
+      "name": "Saint Mary Mother of God Parish in Duque de Caxias",
+      "status": "hold until a current first-party vicariate roster names it",
+      "reason": "The 2025 Brazilian inter-Orthodox directory names this parish under the Antiochian Patriarchal Vicariate of Rio de Janeiro. No current roster published by the vicariate or patriarchate was found that independently confirms the subordinate body.",
+      "sources": [
+        "https://www.antiochpatriarchate.org/en/category/108/",
+        "https://ecclesia.org.br/wp-content/uploads/2025/09/DiretorioBrasil-09.pdf"
+      ]
+    },
+    {
+      "candidate_id": "br-an-duque-caxias-saint-george-chapel",
+      "parent": "an-rio-vicariate",
+      "country": "BR",
+      "name": "Saint George Chapel in Duque de Caxias",
+      "status": "hold until a current first-party vicariate roster names it",
+      "reason": "The 2025 Brazilian inter-Orthodox directory names this chapel under the Antiochian Patriarchal Vicariate of Rio de Janeiro. No current roster published by the vicariate or patriarchate was found that independently confirms the subordinate body.",
+      "sources": [
+        "https://www.antiochpatriarchate.org/en/category/108/",
+        "https://ecclesia.org.br/wp-content/uploads/2025/09/DiretorioBrasil-09.pdf"
+      ]
+    },
+    {
+      "candidate_id": "br-pl-bangu-cosmas-damian",
+      "parent": "pl-rio-recife",
+      "country": "BR",
+      "name": "Saints Cosmas and Damian Mission in Bangu",
+      "status": "hold until the current Polish Church roster names it",
+      "reason": "The body appears in the 2025 Brazilian inter-Orthodox directory but is absent from the current official Polish Orthodox Church list of foreign ecclesiastical units. The twelve Brazil bodies on the current Polish roster are published without inferring continuity for this omitted body.",
+      "sources": [
+        "https://www.orthodox.pl/administracja/diecezje/koscielne-jednostki-zagraniczne/",
+        "https://ecclesia.org.br/wp-content/uploads/2025/09/DiretorioBrasil-09.pdf"
+      ]
+    },
+    {
+      "candidate_id": "br-pl-sorocaba-constantine-helen",
+      "parent": "pl-rio-recife",
+      "country": "BR",
+      "name": "Saints Constantine and Helen Mission in Sorocaba",
+      "status": "hold until the current Polish Church roster names it",
+      "reason": "The body appears in the 2025 Brazilian inter-Orthodox directory but is absent from the current official Polish Orthodox Church list of foreign ecclesiastical units. The current official omission prevents publication as a presently confirmed mission.",
+      "sources": [
+        "https://www.orthodox.pl/administracja/diecezje/koscielne-jednostki-zagraniczne/",
+        "https://ecclesia.org.br/wp-content/uploads/2025/09/DiretorioBrasil-09.pdf"
+      ]
+    },
+    {
+      "candidate_id": "br-pl-santa-maria-madalena-dormition-monastery",
+      "parent": "pl-rio-recife",
+      "country": "BR",
+      "name": "Dormition Monastery in Santa Maria Madalena",
+      "status": "hold until the current Polish Church roster names it",
+      "reason": "The monastery appears in the 2025 Brazilian inter-Orthodox directory but is absent from the current official Polish Orthodox Church list of foreign ecclesiastical units. It remains discoverable evidence rather than a published current row.",
+      "sources": [
+        "https://www.orthodox.pl/administracja/diecezje/koscielne-jednostki-zagraniczne/",
+        "https://ecclesia.org.br/wp-content/uploads/2025/09/DiretorioBrasil-09.pdf"
+      ]
+    },
+    {
+      "candidate_id": "br-pl-belo-horizonte-cyril-methodius",
+      "parent": "pl-rio-recife",
+      "country": "BR",
+      "name": "Saints Cyril and Methodius Mission in Belo Horizonte",
+      "status": "hold until the current Polish Church roster names it",
+      "reason": "The mission appears in the 2025 Brazilian inter-Orthodox directory but is absent from the current official Polish Orthodox Church list of foreign ecclesiastical units. No current row is inferred from the external directory alone.",
+      "sources": [
+        "https://www.orthodox.pl/administracja/diecezje/koscielne-jednostki-zagraniczne/",
+        "https://ecclesia.org.br/wp-content/uploads/2025/09/DiretorioBrasil-09.pdf"
+      ]
+    },
+    {
+      "candidate_id": "br-pl-aquiraz-seraphim-dormition",
+      "parent": "pl-rio-recife",
+      "country": "BR",
+      "name": "Saint Seraphim of Sarov and Dormition Mission in Aquiraz",
+      "status": "hold until the current Polish Church roster names it",
+      "reason": "The mission appears in the 2025 Brazilian inter-Orthodox directory but is absent from the current official Polish Orthodox Church list of foreign ecclesiastical units. The current official omission prevents treating it as a confirmed operating mission.",
+      "sources": [
+        "https://www.orthodox.pl/administracja/diecezje/koscielne-jednostki-zagraniczne/",
+        "https://ecclesia.org.br/wp-content/uploads/2025/09/DiretorioBrasil-09.pdf"
+      ]
+    }
+  ],
+  "exclusions": [
+    {
+      "scope": "Former Antiochian bodies in Penha",
+      "result": "The Antiochian Patriarchal Vicariate stated in 2020 that the named Penha communities and clergy had severed communion with the Patriarchate of Antioch. They are not published as current Antiochian bodies. This is based on the competent jurisdiction's own notice and does not extend to other communities.",
+      "sources": [
+        "https://news.ecclesia.org.br/comunicado-do-vicariato-patriarcal-do-rio-de-janeiro-da-igreja-ortodoxa-antioquina/"
+      ]
+    },
+    {
+      "scope": "Armenian Apostolic, Syriac Orthodox, and Coptic Orthodox bodies",
+      "result": "These communities belong to the Oriental Orthodox family and are outside this Eastern Orthodox directory. Their exclusion is a scope boundary and makes no judgment about their religious identity or history.",
+      "sources": [
+        "https://www.armenianchurch.org/en/Dioceses/",
+        "https://syriacpatriarchate.org/",
+        "https://copticorthodox.church/en/"
+      ]
+    },
+    {
+      "scope": "Ukrainian Greek Catholic bodies",
+      "result": "Searches for Ukrainian churches in Brazil prominently return Eastern Catholic parishes and eparchial bodies. They are not Eastern Orthodox and are not converted into directory rows.",
+      "sources": [
+        "https://ugcc.ua/en/eparchies/archeparchy-of-st-john-the-baptist-in-curitiba-23/"
+      ]
+    },
+    {
+      "scope": "Historical and omitted ROCOR bodies",
+      "result": "Only the seven Brazil worship bodies returned by the current official ROCOR worldwide directory are published. Older directories, social pages, and map records do not establish current diocesan placement for omitted bodies.",
+      "sources": [
+        "https://directory.synod.com/listings/",
+        "https://iglesiarusa.info/"
+      ]
+    },
+    {
+      "scope": "Independent and self-described Orthodox bodies",
+      "result": "Search and map listings using Orthodox names are not published without a current competent canonical synodal or diocesan source that establishes jurisdictional placement. This is an evidence threshold, not a general judgment about every independently named community.",
+      "sources": [
+        "https://ec-patr.org/en/ecumenical-patriarchate/directory/",
+        "https://directory.synod.com/listings/"
+      ]
+    }
+  ],
+  "official_jurisdiction_audit": [
+    {
+      "jurisdiction": "Ecumenical Patriarchate, Greek Orthodox Metropolis of Buenos Aires",
+      "result": "The official 2024 archdiocesan clarification names thirteen Brazil bodies and states that other bodies outside its list do not belong to its jurisdiction. All thirteen named bodies are published. The source was recounted directly rather than relying on an earlier seven-body expectation.",
+      "sources": [
+        "https://www.paroquia-ortodoxa-grega-rj.org/NOTA_ARQUIDIOCESE_2024.pdf"
+      ]
+    },
+    {
+      "jurisdiction": "Ecumenical Patriarchate, Ukrainian Orthodox Eparchy of South America",
+      "result": "The current official roster names eighteen Brazil bodies. All eighteen are published under the existing South America eparchy parent. The direct eparchy row created by the Argentina module is not duplicated here.",
+      "sources": [
+        "https://ec-patr.org/entities/orthodoksoi-oykranoi-stis-ipa/"
+      ]
+    },
+    {
+      "jurisdiction": "Antiochian Orthodox Archdiocese of São Paulo and All Brazil",
+      "result": "The current official parish page names nineteen subordinate bodies. The archdiocese's official history identifies its São Paulo cathedral. The cathedral and all nineteen roster bodies are published for a total of twenty.",
+      "sources": [
+        "https://www.arquidioceseortodoxa.com.br/par%C3%B3quias",
+        "https://www.arquidioceseortodoxa.com.br/hist%C3%B3rico"
+      ]
+    },
+    {
+      "jurisdiction": "Antiochian Patriarchal Vicariate of Rio de Janeiro",
+      "result": "The current Antiochian Patriarchate directory establishes the Rio de Janeiro patriarchal vicariate, which is published as one direct child of Antioch. Five subordinate bodies discovered in the 2025 Brazilian inter-Orthodox directory remain held because no current first-party vicariate roster was found.",
+      "sources": [
+        "https://www.antiochpatriarchate.org/en/category/108/",
+        "https://ecclesia.org.br/wp-content/uploads/2025/09/DiretorioBrasil-09.pdf"
+      ]
+    },
+    {
+      "jurisdiction": "Moscow Patriarchate, Diocese of Argentina and South America",
+      "result": "The current official diocesan roster names nine Brazil worship bodies. All nine are published under the existing Argentina and South America diocese parent.",
+      "sources": [
+        "https://southamerica.cerkov.ru/xramy-eparxii/",
+        "https://patriarchia.ru/org/141"
+      ]
+    },
+    {
+      "jurisdiction": "Serbian Orthodox Eparchy of Buenos Aires and South-Central America",
+      "result": "The current official 2025 diocesan directory names ten Brazil bodies. All ten are published with their present directory ranks. The Raposa body is also named by the current Polish Orthodox Church roster; both competent current claims are preserved neutrally under their respective parents.",
+      "sources": [
+        "https://www.iglesiaortodoxaserbiasca.org/_files/ugd/e8757a_bcd3fd85dc81441196589a1b3065f8bd.pdf",
+        "https://www.iglesiaortodoxaserbiasca.org/diocesis"
+      ]
+    },
+    {
+      "jurisdiction": "Polish Orthodox Church, Missionary Diocese of Rio de Janeiro and Olinda-Recife",
+      "result": "The current official Polish Orthodox Church page names twelve Brazil bodies. All twelve are published. The Raposa body overlaps a current Serbian diocesan listing at the same address and with the same priest; each jurisdiction's current first-party claim is preserved without choosing between them. The Recife entry's Portuguese dedication is Teofania do Senhor while its Polish parenthetical differs, so the row preserves the local title. Five bodies found in an external 2025 directory but omitted from the current Polish roster remain held.",
+      "sources": [
+        "https://www.orthodox.pl/administracja/diecezje/koscielne-jednostki-zagraniczne/",
+        "https://ecclesia.org.br/wp-content/uploads/2025/09/DiretorioBrasil-09.pdf"
+      ]
+    },
+    {
+      "jurisdiction": "Russian Orthodox Church Outside of Russia, Diocese of South America",
+      "result": "The current official worldwide directory contains seven Brazil worship-body listings. All seven are published under the existing South America diocese parent.",
+      "sources": [
+        "https://directory.synod.com/listings/",
+        "https://iglesiarusa.info/"
+      ]
+    },
+    {
+      "jurisdiction": "Romanian Orthodox Metropolia of the Americas",
+      "result": "The current official parish directory and current almanac were checked and did not name a Brazil body. This is a bounded roster result, not a country-level absence claim.",
+      "sources": [
+        "https://www.mitropolia.us/index.php/en/structure/parish-directory",
+        "https://www.mitropolia.us/pdf/2025.05.15-almanah.pdf"
+      ]
+    },
+    {
+      "jurisdiction": "Orthodox Church in America",
+      "result": "The current official parish directory was checked and did not name a Brazil body. This is a bounded roster result, not a country-level absence claim.",
+      "sources": [
+        "https://www.oca.org/parishes"
+      ]
+    },
+    {
+      "jurisdiction": "Bulgarian Orthodox Church",
+      "result": "The current official diaspora structures checked for this audit did not establish an exact current Brazil body. Search-discovered True Orthodox and independently named communities were not published without a competent current Bulgarian synodal or diocesan citation.",
+      "sources": [
+        "https://bg-patriarshia.bg/dioceses"
+      ]
+    },
+    {
+      "jurisdiction": "Georgian Orthodox Church",
+      "result": "No exact current Brazil worship body is published without a current first-party patriarchal or diocesan citation. General references to South America do not establish a specific operating Brazil body. This is a bounded source result, not a general absence claim.",
+      "sources": [
+        "https://patriarchate.ge/"
+      ]
+    },
+    {
+      "jurisdiction": "Ukrainian Orthodox Church and Orthodox Church of Ukraine",
+      "result": "No separate current Brazil body is published under either jurisdiction. The competent current source for the named Ukrainian Orthodox communities in Brazil is the Ecumenical Patriarchate's South America eparchy roster. This placement avoids duplicating the same communities under another jurisdiction.",
+      "sources": [
+        "https://ec-patr.org/entities/orthodoksoi-oykranoi-stis-ipa/",
+        "https://news.church.ua/2026/02/09/pro-sluzhinnya-zaxidnojevropejskogo-vikariatstva-ukrajinskoji-pravoslavnoji-cerkvi/"
+      ]
+    },
+    {
+      "jurisdiction": "Other canonical Local Churches and diaspora structures",
+      "result": "No additional Brazil row is published without an exact current first-party jurisdictional citation. This records incomplete verification for jurisdictions not individually listed above and makes no general country-level absence claim.",
+      "sources": [
+        "https://ec-patr.org/en/ecumenical-patriarchate/directory/",
+        "https://directory.synod.com/listings/"
+      ]
+    }
+  ]
+}
