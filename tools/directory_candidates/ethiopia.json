@@ -1,0 +1,55 @@
+{
+  "v": 1,
+  "country": "ET",
+  "checked": "2026-11-15",
+  "method": "Current official Alexandrian and Russian records were reconciled with search and map discovery. The Ethiopian Orthodox Tewahedo Church is outside the Eastern Orthodox communion and is not part of this directory. Search engines and map services were used only to discover possible bodies and addresses.",
+  "published_summary": {
+    "ax-aksum": 1,
+    "worship_bodies": 1
+  },
+  "candidates": [
+    {
+      "candidate_id": "et-ax-dire-dawa-holy-trinity",
+      "parent": "ax-aksum",
+      "country": "ET",
+      "name": "Holy Trinity Greek Orthodox Church in Dire Dawa",
+      "status": "hold until the archdiocese publishes current parish status",
+      "reason": "Map and independent directory records locate the historic Greek Orthodox church, and a 2023 Alexandrian record says the archdiocese served the Greek community in Dire Dawa. The current archdiocese page does not list the church or confirm its present institutional status.",
+      "sources": [
+        "https://www.patriarchateofalexandria.com/passing-of-the-great-archimandrite-chrysostomos-barberis/?lang=en",
+        "https://orthodox-world.org/en/z/1079/ethiopia/dire-dawa"
+      ]
+    },
+    {
+      "candidate_id": "et-ru-addis-ababa-russian-house",
+      "parent": "ru-north-africa",
+      "country": "ET",
+      "name": "Russian Orthodox worship group at the Russian House in Addis Ababa",
+      "status": "hold until the diocese adds a current parish or community to its roster",
+      "reason": "The Exarchate called the gathering a Russian parish in 2024, but its current diocesan roster says its parishes are in ten countries and does not include Ethiopia. A 2026 Moscow record describes regular lay services in a prayer room rather than a current constituted parish.",
+      "sources": [
+        "https://exarchate-africa.ru/en/news/on-the-feast-of-the-exaltation-of-the-cross-a-divine-liturgy-was-held-at-the-russian-parish-in-addis-ababa/",
+        "https://exarchate-africa.ru/en/dioceses_cat/diocese-of-north-africa/",
+        "https://mospat.ru/ru/news/94359/"
+      ]
+    }
+  ],
+  "exclusions": [
+    {
+      "scope": "Ethiopian Orthodox Tewahedo Church",
+      "result": "Not included because it belongs to the Oriental Orthodox communion rather than the Eastern Orthodox communion covered by this directory.",
+      "sources": [
+        "https://portal.eotc.et/en/home",
+        "https://www.oikoumene.org/church-families/orthodox-churches-oriental"
+      ]
+    },
+    {
+      "scope": "Other canonical Eastern Orthodox jurisdictions",
+      "result": "No current first-party synodal, diocesan, parish, or monastery source found in this pass establishes another current canonical Eastern Orthodox worship body in Ethiopia.",
+      "sources": [
+        "https://www.patriarchateofalexandria.com/archdioceses/holy-archdiocese-of-aksum/?lang=en",
+        "https://exarchate-africa.ru/en/dioceses_cat/diocese-of-north-africa/"
+      ]
+    }
+  ]
+}
