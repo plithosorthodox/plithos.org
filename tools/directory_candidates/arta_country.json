@@ -1,0 +1,172 @@
+{
+  "v": 1,
+  "countries": [
+    "GR"
+  ],
+  "checked": "2026-11-15",
+  "method": "Publish exact current worship bodies established by the 2019 Church of Greece legal parish roster, the current body-owned Metropolis of Arta parish and monastery directories and detail pages, and the current Church of Greece profile. Preserve every body-specific public phone, including officially published mobile or clergy-associated routes, without naming clergy or describing those routes as office lines. Do not copy parent, district, parish, or monastery contacts to another body. Hold unnamed, aggregate-only, dissolved, historic-only, ambiguous, map-only, search-only, and program-only leads.",
+  "published_summary": {
+    "gr-arta": 138,
+    "total": 138,
+    "legal_parish_rows": 97,
+    "parish_kind_rows": 127,
+    "monastery_kind_rows": 11,
+    "current_exact_dependent_worship_rows": 41,
+    "contact_bodies": 14,
+    "phone_bodies": 14,
+    "public_phone_values": 18,
+    "email_bodies": 0,
+    "public_email_values": 0,
+    "body_owned_sites": 0,
+    "address_bodies": 138
+  },
+  "candidates": [
+    {
+      "candidate_id": "gr-arta-unnamed-kato-panagia-metochia",
+      "parent": "gr-arta",
+      "country": "GR",
+      "category": "aggregate-or-unnamed",
+      "status": "held",
+      "reason": "The current Kato Panagia page refers generally to the monastery's metochia. Panagia Hodegetria and Vyliza are published because the page names them exactly and identifies their relationship. No additional unnamed metochion is inferred.",
+      "sources": [
+        "https://www.imartis.gr/μητρόπολη/ιερές-μονές/20-ιερά-μονή-κάτω-παναγιάς.html"
+      ]
+    },
+    {
+      "candidate_id": "gr-arta-dissolved-theotokio-dependencies",
+      "parent": "gr-arta",
+      "country": "GR",
+      "category": "dissolved-not-current",
+      "status": "held",
+      "reason": "The Theotokio narrative identifies Chrysospiliotissa at Gouriana, Panagia at Skoulikaria, and Dormition of the Theotokos at Sellades as dissolved monasteries. They are not published as current bodies. Saint Catherine at Katarraktis is treated separately because a current dedicated directory page establishes a resident monastic body and public phone.",
+      "sources": [
+        "https://www.imartis.gr/μητρόπολη/ιερές-μονές/21-ιερά-μονή-θεοτοκιού.html",
+        "https://www.imartis.gr/μητρόπολη/ιερές-μονές/902-ιερά-μονή-μελατών-3.html"
+      ]
+    },
+    {
+      "candidate_id": "gr-arta-historic-monuments-and-former-monasteries",
+      "parent": "gr-arta",
+      "country": "GR",
+      "category": "historic-status-unclear",
+      "status": "held",
+      "reason": "Historic church and monastery narratives do not by themselves establish a separate current worship body. Panagia Faneromeni is published only as the current metropolitan chapel at the care home, not as the dissolved monastery described in its history.",
+      "sources": [
+        "https://www.imartis.gr/component/content/article/147-ιερός-ναός-παναγίας-φανερωμένης.html?catid=20",
+        "https://www.imartis.gr/μητρόπολη/ενορίες/μητροπολιτικά-παρεκκλήσια.html"
+      ]
+    },
+    {
+      "candidate_id": "gr-arta-program-map-and-search-leads",
+      "parent": "gr-arta",
+      "country": "GR",
+      "category": "insufficient-current-authority",
+      "status": "discovery-only",
+      "reason": "Feast programs, news reports, search results, maps, tourism pages, and commercial directories can identify worship at a place without establishing a distinct current directory body or its canonical parentage. Such leads remain unpublished until a competent current first-party source supplies exact institutional identity.",
+      "sources": [
+        "https://www.imartis.gr/",
+        "https://ecclesiagreece.gr/greek/press/ekklisia/2019_ioulios.pdf"
+      ]
+    },
+    {
+      "candidate_id": "gr-arta-non-worship-institutions",
+      "parent": "gr-arta",
+      "country": "GR",
+      "category": "outside-directory-kind",
+      "status": "held",
+      "reason": "The spiritual center, care home, hospital, camps, radio station, museums, schools, offices, councils, charities, archives, and other non-worship institutions are not forced into church or monastery rows. A named chapel located at an institution is published only when the current Metropolis directory establishes that worship body exactly.",
+      "sources": [
+        "https://www.imartis.gr/",
+        "https://www.ecclesiagreece.gr/ecclesiajoomla/index.php/el/metropoleis/iera-metropole-artes",
+        "https://www.imartis.gr/μητρόπολη/ενορίες/μητροπολιτικά-παρεκκλήσια.html"
+      ]
+    }
+  ],
+  "source_reconciliations": [
+    {
+      "topic": "exact-parish-roster",
+      "finding": "Regulation 974/866/2019 names exactly 97 parish rows and prints a total of 97. The six current body-owned regional pages independently list exactly 7, 16, 24, 24, 12, and 14 parishes, also totaling 97. All 97 exact current parish bodies are published once, without arithmetic inference.",
+      "sources": [
+        "https://ecclesiagreece.gr/greek/press/ekklisia/2019_ioulios.pdf",
+        "https://www.imartis.gr/μητρόπολη/ενορίες/α-περιφέρεια-άρτα.html",
+        "https://www.imartis.gr/μητρόπολη/ενορίες/β-περιφέρεια.html"
+      ]
+    },
+    {
+      "topic": "current-monastery-roster",
+      "finding": "The current Church of Greece profile names four monasteries. The current body-owned monastery directory names seven entries. Dedicated current pages establish six resident monasteries, while the Saint George Vourgareli page expressly says that body is now a metochion of Melates Monastery. The module therefore publishes six monasteries and one Vourgareli metochion, plus two other exact metochia and two exact dependent monastery worship bodies named by the Kato Panagia page.",
+      "sources": [
+        "https://www.ecclesiagreece.gr/ecclesiajoomla/index.php/el/metropoleis/iera-metropole-artes",
+        "https://www.imartis.gr/μητρόπολη/ιερές-μονές.html",
+        "https://www.imartis.gr/μητρόπολη/ιερές-μονές/24-ιερά-μονή-αγίου-γεωργίου-βουργαρελίου.html"
+      ]
+    },
+    {
+      "topic": "saint-catherine-current-status",
+      "finding": "The older Theotokio narrative groups Saint Catherine at Katarraktis among dissolved dependencies, but the current body-owned directory separately publishes a dedicated Saint Catherine page with strength one, a current location, and a public phone. The current dedicated record controls present status, while the source discrepancy remains recorded here.",
+      "sources": [
+        "https://www.imartis.gr/μητρόπολη/ιερές-μονές/21-ιερά-μονή-θεοτοκιού.html",
+        "https://www.imartis.gr/μητρόπολη/ιερές-μονές/902-ιερά-μονή-μελατών-3.html",
+        "https://www.imartis.gr/μητρόπολη/ιερές-μονές.html"
+      ]
+    },
+    {
+      "topic": "exact-dependent-worship-bodies",
+      "finding": "Current linked parish pages name 26 exact parish chapels. The current metropolitan chapel directory names four exact chapels. Current monastery pages name three metochia, one monastery chapel, and one monastery church. These 35 exact dependent bodies are published without inferring any unnamed remainder.",
+      "sources": [
+        "https://www.imartis.gr/μητρόπολη/ενορίες/α-περιφέρεια-άρτα/15-ενορία-αγίου-νικολάου.html",
+        "https://www.imartis.gr/μητρόπολη/ενορίες/β-περιφέρεια/149-ενορία-κλειδίου.html",
+        "https://www.imartis.gr/μητρόπολη/ιερές-μονές/20-ιερά-μονή-κάτω-παναγιάς.html"
+      ]
+    },
+    {
+      "topic": "contact-provenance",
+      "finding": "Fourteen bodies carry 18 public phone values from their own current first-party detail pages or the current Church of Greece profile. This includes officially published mobile or clergy-associated routes and the public Kato Panagia fax route. Names of people are omitted, and no parent or district number is copied to another body.",
+      "sources": [
+        "https://www.imartis.gr/μητρόπολη/ενορίες/α-περιφέρεια-άρτα/15-ενορία-αγίου-νικολάου.html",
+        "https://www.imartis.gr/μητρόπολη/ενορίες/β-περιφέρεια/145-ενορία-ζυγού.html",
+        "https://www.ecclesiagreece.gr/ecclesiajoomla/index.php/el/metropoleis/iera-metropole-artes"
+      ]
+    }
+  ],
+  "official_parent_audit": [
+    {
+      "finding": "The Church of Greece legal regulation is the exact 97-row parish authority and the body-owned current site supplies the matching regional roster and current subordinate detail pages.",
+      "sources": [
+        "https://ecclesiagreece.gr/greek/press/ekklisia/2019_ioulios.pdf",
+        "https://www.imartis.gr/μητρόπολη/ενορίες/α-περιφέρεια-περίχωρα.html",
+        "https://www.imartis.gr/μητρόπολη/ενορίες/γ-περιφέρεια.html"
+      ]
+    },
+    {
+      "finding": "The Church of Greece current profile independently confirms the Metropolis and four overlapping monasteries with three public monastery phones. The body-owned current directory provides the broader exact local monastery roster and current status details.",
+      "sources": [
+        "https://www.ecclesiagreece.gr/ecclesiajoomla/index.php/el/metropoleis/iera-metropole-artes",
+        "https://www.imartis.gr/μητρόπολη/ιερές-μονές.html"
+      ]
+    }
+  ],
+  "exclusions": [
+    {
+      "finding": "Central Metropolis telephone and email routes, district contacts, and non-worship institution contacts are excluded from subordinate rows unless an official source expressly ties the route to the specific worship body.",
+      "sources": [
+        "https://www.imartis.gr/",
+        "https://www.ecclesiagreece.gr/ecclesiajoomla/index.php/el/metropoleis/iera-metropole-artes"
+      ]
+    },
+    {
+      "finding": "Officially published clergy-associated mobile numbers are retained when tied to a specific parish, but clergy names, office holders, council members, monastics' names, and other personal names are omitted.",
+      "sources": [
+        "https://www.imartis.gr/μητρόπολη/ενορίες/α-περιφέρεια-άρτα/15-ενορία-αγίου-νικολάου.html",
+        "https://www.imartis.gr/μητρόπολη/ενορίες/β-περιφέρεια/149-ενορία-κλειδίου.html"
+      ]
+    },
+    {
+      "finding": "No current first-party source established a subordinate body-owned email address or independent website. The Metropolis detail URL remains an identity source, not a subordinate body's own site field.",
+      "sources": [
+        "https://www.imartis.gr/μητρόπολη/ενορίες/α-περιφέρεια-άρτα.html",
+        "https://www.imartis.gr/μητρόπολη/ιερές-μονές.html"
+      ]
+    }
+  ]
+}
