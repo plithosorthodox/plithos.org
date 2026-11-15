@@ -1,0 +1,237 @@
+{
+  "v": 1,
+  "country": "EG",
+  "checked": "2026-11-15",
+  "method": "Current first-party Church rosters and current official Church reports were used to establish exact Eastern Orthodox bodies in Egypt. Search engines and maps were used only to discover competent first-party sources. Parallel canonical jurisdictions are preserved without adjudication. An older report, a count without exact names, an inaccessible roster, or an isolated service does not establish a current body.",
+  "published_summary": {
+    "alexandria": 30,
+    "ax-pelusium": 1,
+    "sinai": 6,
+    "ru-north-africa": 5,
+    "new_subordinate_bodies": 42,
+    "canonical_jurisdictions_represented": 3
+  },
+  "candidates": [
+    {
+      "candidate_id": "eg-ax-pelusium-count-only-remainder",
+      "parent": "ax-pelusium",
+      "country": "EG",
+      "name": "Eight additional reported churches and cemetery worship sites in the Metropolis of Pelusium",
+      "status": "hold until the competent metropolis publishes exact current names and identities",
+      "reason": "An official patriarchal report states that the metropolis then had nine Greek and Arabic churches and cemeteries across Port Said, Damietta, and Mansoura. Only the Port Said cathedral is named exactly in current official material. The remaining count is not expanded into invented rows.",
+      "sources": [
+        "https://www.patriarchateofalexandria.com/patriarchiki-theia-leitoyrgia-stin-kathedra-tis-i-mitropoleos-piloysioy/",
+        "https://www.patriarchateofalexandria.com/archdioceses/iera-mitropoli-piloysioy/"
+      ]
+    },
+    {
+      "candidate_id": "eg-ax-tanta-presentation",
+      "parent": "ax-ermoupolis",
+      "country": "EG",
+      "name": "Church of the Presentation of the Lord in Tanta",
+      "status": "hold until current body and worship status are confirmed by the competent archdiocese",
+      "reason": "An official 2020 patriarchal report records the opening of the historic church. The current Archdiocese of Ermoupolis page does not publish a current worship-body roster, so the older opening report is not treated as current directory proof by itself.",
+      "sources": [
+        "https://www.patriarchateofalexandria.com/o-patriarchis-alechandreias-ston-istoriko-iero-nao-tis-ypapantis-sti-tanta/?print=print",
+        "https://www.patriarchateofalexandria.com/archdioceses/iera-mitropoli-ermoypoleos/"
+      ]
+    },
+    {
+      "candidate_id": "eg-ax-egyptian-eparchy-roster-gaps",
+      "parent": "alexandria",
+      "country": "EG",
+      "name": "Unpublished body-level rosters of the other Egyptian Alexandrian eparchies",
+      "status": "hold exact subordinate rows until each competent eparchy or the Patriarchate publishes them",
+      "reason": "The current patriarchal pages establish the Egyptian sees but do not give exact current worship-body rosters for Caesarea, Cyrene, Ermoupolis, Leontopolis, Heliopolis, Memphis, Ptolemais, or Diospolis. Their existing eparchial rows remain valid, but no subordinate body is inferred from a see title, address, or historical account.",
+      "sources": [
+        "https://www.patriarchateofalexandria.com/archdioceses/",
+        "https://www.patriarchateofalexandria.com/to-patriarcheio/dioikitiki-organosi/patriarchikes-epitropeies/",
+        "https://www.patriarchateofalexandria.com/archdioceses/iera-mitropoli-memfidos/"
+      ]
+    },
+    {
+      "candidate_id": "eg-ax-suez-catherine",
+      "parent": "ax-leontopolis",
+      "country": "EG",
+      "name": "Church of Saint Catherine in Suez",
+      "status": "hold until current body and worship status are confirmed by the competent metropolis",
+      "reason": "An older official pastoral report names the church while discussing a restoration survey. The current Metropolis of Leontopolis page does not publish a body-level roster or current worship status, so restoration intent and historical identity are not treated as current directory proof.",
+      "sources": [
+        "https://www.patriarchateofalexandria.com/poimantiki-episkepsi-tis-a-th-m-stin-tanta-kai-sto-soyez/",
+        "https://www.patriarchateofalexandria.com/archdioceses/iera-mitropoli-leontopoleos/"
+      ]
+    },
+    {
+      "candidate_id": "eg-sinai-four-operating-dependencies",
+      "parent": "sinai",
+      "country": "EG",
+      "name": "Four Sinai dependencies described as operating in South Sinai",
+      "status": "hold until the official body-level page answers and exact current identities can be reread",
+      "reason": "The official Sinai navigation identifies a page for dependencies in operation in Sinai, while the body-level page did not answer during this audit. The surrounding material refers to the Forty Martyrs, Saints Cosmas and Damian, the Holy Apostles at Ramba, and the Entrance of the Theotokos at Bostani, but inaccessible or summary-level evidence is not promoted into four current rows.",
+      "sources": [
+        "https://www.sinaimonastery.com/index.php/el/%CF%80%CE%B5%CF%81%CE%B9%CE%B3%CF%81%CE%B1%CF%86%CE%B7/%CE%BC%CE%B5%CF%84%CE%BF%CF%87%CE%B9%CE%B1-%CE%BA%CE%B1%CE%B9-%CE%BA%CE%B1%CE%B8%CE%B9%CF%83%CE%BC%CE%B1%CF%84%CE%B1",
+        "https://www.sinaimonastery.com/index.php/el/"
+      ]
+    },
+    {
+      "candidate_id": "eg-sinai-historical-shrines-and-chapels",
+      "parent": "sinai",
+      "country": "EG",
+      "name": "Historical Sinai shrines, hermitages, and unnamed chapels",
+      "status": "hold until exact present-day body identity and current use are published",
+      "reason": "The official Sinai site describes many ancient shrines, cells, chapels, and ruined churches. Historical survival, archaeological description, and pilgrimage interest do not alone establish a separate current body. Pharan's four additional functioning chapels also remain unnamed on the available official page and are not invented.",
+      "sources": [
+        "https://www.sinaimonastery.com/index.php/el/%CF%80%CE%B5%CF%81%CE%B9%CE%B3%CF%81%CE%B1%CF%86%CE%B7/%CE%BC%CE%B5%CF%84%CE%BF%CF%87%CE%B9%CE%B1-%CE%BA%CE%B1%CE%B9-%CE%BA%CE%B1%CE%B8%CE%B9%CF%83%CE%BC%CE%B1%CF%84%CE%B1",
+        "https://www.sinaimonastery.com/index.php/el/%CF%80%CE%B5%CF%81%CE%B9%CE%B3%CF%81%CE%B1%CF%86%CE%B7/%CE%BC%CE%B5%CF%84%CE%BF%CF%87%CE%B9%CE%B1-%CE%BA%CE%B1%CE%B9-%CE%BA%CE%B1%CE%B8%CE%B9%CF%83%CE%BC%CE%B1%CF%84%CE%B1/%CF%86%CE%B1%CF%81%CE%B1%CE%BD"
+      ]
+    },
+    {
+      "candidate_id": "eg-ru-alexandria-community",
+      "parent": "ru-north-africa",
+      "country": "EG",
+      "name": "Russian Orthodox community in Alexandria",
+      "status": "hold until a current regular body and exact official name are published",
+      "reason": "The Exarchate records a 2025 Divine Liturgy at the Russian House in Alexandria. A later official report discusses prospects for resuming regular worship, which confirms that the isolated service does not establish a current regular parish or church row.",
+      "sources": [
+        "https://exarchate-africa.ru/novosti/sovershena-bozhestvennaya-liturgiya-v-russkom-dome-v-aleksandrii/",
+        "https://exarchate-africa.ru/novosti/episkop-luhoviczkij-evfimij-vstretilsya-s-novonaznachennym-generalnym-konsulom-rf-v-aleksandrii/"
+      ]
+    }
+  ],
+  "reconciliation": [
+    {
+      "reconciliation_id": "eg-ax-central-roster-hierarchy",
+      "result": "The current patriarchal commissions page prints 15 Alexandria worship entries, 12 Cairo worship entries, and 3 patriarchal monasteries. The Cairo Sinai church belongs under the Church of Sinai. The remaining 29 exact Alexandrian entries are retained. Main churches and chapels inside a monastery are nested under the monastery, which preserves both the monastic body and its separately listed worship site without presenting either as a duplicate parish. The current roster already identifies the Ibrahimiya site as the women's Patriarchal Monastery of Saint Nicholas, and a 2026 act confirms that status. The New Administrative Capital construction site brings the alexandria branch to 30.",
+      "sources": [
+        "https://www.patriarchateofalexandria.com/to-patriarcheio/dioikitiki-organosi/patriarchikes-epitropeies/",
+        "https://www.patriarchateofalexandria.com/idrysi-gynaikeias-ieras-patriarchikis-monis-kai-monachiki-koyra-dyo-neon-monazoyson/",
+        "https://www.sinaimonastery.com/index.php/en/description/shrines-dependencies/cairo-dependency"
+      ]
+    },
+    {
+      "reconciliation_id": "eg-ax-zeitoun-demetrius-current-parent",
+      "result": "Saint Demetrius in Zeitoun is published once under Alexandria because the current Alexandrian Cairo roster lists it and the current Moscow Egypt roster does not. Older associations are not allowed to duplicate or override the current first-party rosters.",
+      "sources": [
+        "https://www.patriarchateofalexandria.com/to-patriarcheio/dioikitiki-organosi/patriarchikes-epitropeies/",
+        "https://exarchate-africa.ru/dioceses_cat/egipet/"
+      ]
+    },
+    {
+      "reconciliation_id": "eg-sinai-existing-autonomous-row",
+      "result": "The Church of Sinai and its Mount Sinai monastery are already represented by the existing autonomous sinai row. The Egypt module therefore does not duplicate the autonomous body. It adds four exact subordinate dependencies or hermitages and two separately named worship sites nested beneath them.",
+      "sources": [
+        "https://www.sinaimonastery.com/index.php/en/",
+        "https://www.sinaimonastery.com/index.php/el/%CF%80%CE%B5%CF%81%CE%B9%CE%B3%CF%81%CE%B1%CF%86%CE%B7/%CE%BC%CE%B5%CF%84%CE%BF%CF%87%CE%B9%CE%B1-%CE%BA%CE%B1%CE%B9-%CE%BA%CE%B1%CE%B8%CE%B9%CF%83%CE%BC%CE%B1%CF%84%CE%B1"
+      ]
+    },
+    {
+      "reconciliation_id": "eg-ru-madina-and-el-dabaa",
+      "result": "The Saint Seraphim parish in Madina and the All Saints church at the El Dabaa nuclear power plant site are published separately. Their current official records give different names and locations, and current reports identify the All Saints church after its minor consecration and first Liturgy.",
+      "sources": [
+        "https://exarchate-africa.ru/dioceses/prihod-prp-serafima-sarovskogo-v-pos-madina/",
+        "https://exarchate-africa.ru/novosti/episkop-luhoviczkij-evfimij-sovershil-pervuyu-liturgiyu-v-hrame-vseh-svyatyh-v-zemle-egipetskoj-prosiyavshih-v-g-el-dabaa-egipet/",
+        "https://exarchate-africa.ru/en/news/the-chairman-of-the-decr-attended-the-minor-consecration-of-a-church-at-the-construction-site-of-the-el-dabaa-nuclear-power-plant-in-egypt/"
+      ]
+    },
+    {
+      "reconciliation_id": "eg-ru-roster-and-interview-count",
+      "result": "A current Exarchate interview summarizes four Egypt parishes as Cairo, Alexandria, Hurghada, and El Dabaa, while the current Egypt roster gives exact entries for Cairo, Giza, Hurghada, and Madina. Exact roster entries and current body reports control publication. Alexandria remains held because regular worship was still described prospectively, and the separately consecrated All Saints church is published from its own current reports.",
+      "sources": [
+        "https://exarchate-africa.ru/pressa-o-nas/egipet-kak-portal-v-afriku/",
+        "https://exarchate-africa.ru/dioceses_cat/egipet/",
+        "https://exarchate-africa.ru/novosti/episkop-luhoviczkij-evfimij-vstretilsya-s-novonaznachennym-generalnym-konsulom-rf-v-aleksandrii/"
+      ]
+    }
+  ],
+  "official_jurisdiction_audit": [
+    {
+      "jurisdiction": "Patriarchate of Alexandria, central bodies",
+      "result": "The current central roster supports 29 Alexandrian bodies after reassignment of the Sinai church, with monastery churches nested under their monasteries. The roster already incorporates the women's Patriarchal Monastery of Saint Nicholas in Ibrahimiya, and its 2026 establishment act confirms the current rank. A separate 2026 official report establishes the New Administrative Capital church under construction. Thirty rows are published in the alexandria branch.",
+      "sources": [
+        "https://www.patriarchateofalexandria.com/to-patriarcheio/dioikitiki-organosi/patriarchikes-epitropeies/",
+        "https://www.patriarchateofalexandria.com/idrysi-gynaikeias-ieras-patriarchikis-monis-kai-monachiki-koyra-dyo-neon-monazoyson/",
+        "https://www.patriarchateofalexandria.com/o-patriarchis-theodoros-v-chtizei-to-ayrio-toy-patriarcheioy-stin-aigypto/"
+      ]
+    },
+    {
+      "jurisdiction": "Patriarchate of Alexandria, Holy Metropolis of Pelusium",
+      "result": "The current metropolis page establishes its Port Said see, while official patriarchal worship reports identify the Cathedral of the Transfiguration of the Saviour there. One exact current cathedral row is published. Eight count-only reported bodies remain held without exact current identities.",
+      "sources": [
+        "https://www.patriarchateofalexandria.com/archdioceses/iera-mitropoli-piloysioy/",
+        "https://www.patriarchateofalexandria.com/patriarchiki-theia-leitoyrgia-stin-kathedra-tis-i-mitropoleos-piloysioy/"
+      ]
+    },
+    {
+      "jurisdiction": "Church of Sinai",
+      "result": "The existing autonomous Church row is retained. Four exact current subordinate dependencies or hermitages are published: Cairo, Saint George at Raitho, the women's hermitage at Pharan, and Tarfa. The Saint Catherine chapel in Cairo and the Prophet Moses church at Pharan are separately named current worship sites and are nested under their institutions. Unnamed chapels and the inaccessible operating-dependencies roster remain held.",
+      "sources": [
+        "https://www.sinaimonastery.com/index.php/en/description/shrines-dependencies/cairo-dependency",
+        "https://www.sinaimonastery.com/st-catherine/index.php/en/description/shrines-dependencies/raitho-el-tur",
+        "https://www.sinaimonastery.com/index.php/en/description/shrines-dependencies/pharan"
+      ]
+    },
+    {
+      "jurisdiction": "Moscow Patriarchate, Patriarchal Exarchate of Africa",
+      "result": "The current Egypt roster supports four exact parishes in Cairo, Giza, Hurghada, and Madina. Current official reports separately establish the consecrated All Saints church at El Dabaa. Five rows are published under the existing North African Diocese, while Alexandria remains held.",
+      "sources": [
+        "https://exarchate-africa.ru/dioceses_cat/egipet/",
+        "https://exarchate-africa.ru/novosti/episkop-luhoviczkij-evfimij-sovershil-pervuyu-liturgiyu-v-hrame-vseh-svyatyh-v-zemle-egipetskoj-prosiyavshih-v-g-el-dabaa-egipet/",
+        "https://exarchate-africa.ru/novosti/episkop-luhoviczkij-evfimij-vstretilsya-s-novonaznachennym-generalnym-konsulom-rf-v-aleksandrii/"
+      ]
+    },
+    {
+      "jurisdiction": "Ecumenical Patriarchate, Antiochian Patriarchate, and Jerusalem Patriarchate",
+      "result": "Their current official jurisdictional directories were checked and did not name an additional Egyptian worship body. This is a bounded directory result, not a general country-level absence claim.",
+      "sources": [
+        "https://ec-patr.org/en/entities/",
+        "https://antiochpatriarchate.org/en/page/3011/",
+        "https://en.jerusalem-patriarchate.info/administrative-structure/"
+      ]
+    },
+    {
+      "jurisdiction": "Romanian Patriarchate, Serbian Patriarchate, and ROCOR",
+      "result": "Their current official external-community, diocesan, or parish directories were checked and did not name an additional Egyptian body. This is a bounded directory result, not a general country-level absence claim.",
+      "sources": [
+        "https://patriarhia.ro/organizarea-bisericii-ortodoxe-romane/reprezentante-si-comunitati-externe/",
+        "https://www.spc.rs/en/96.dioceses-of-the-soc.html",
+        "https://directory.synod.com/listings/"
+      ]
+    },
+    {
+      "jurisdiction": "Other canonical Local Churches and diaspora structures",
+      "result": "No additional Egypt row is published without an exact current first-party jurisdictional citation. Current official directory searches found no further exact body. This records incomplete verification for structures not individually named here and makes no universal absence claim.",
+      "sources": [
+        "https://www.oca.org/parishes",
+        "https://orthodoxalbania.org/2026/en/church-organization-2026/",
+        "https://www.ecclesiagreece.gr/"
+      ]
+    }
+  ],
+  "exclusions": [
+    {
+      "exclusion_id": "eg-oriental-orthodox-and-non-eastern-orthodox",
+      "result": "Coptic Orthodox, Armenian Apostolic, Syriac Orthodox, Ethiopian Orthodox, Catholic, and other non-Eastern-Orthodox bodies are outside this directory's scope and are not mixed into the Eastern Orthodox audit.",
+      "sources": [
+        "https://copticorthodox.church/en/",
+        "https://www.patriarchateofalexandria.com/"
+      ]
+    },
+    {
+      "exclusion_id": "eg-historical-or-archaeological-sites",
+      "result": "Ruins, ancient churches, former monasteries, and heritage sites are not published unless a competent Church source also establishes a current body or current worship identity.",
+      "sources": [
+        "https://www.sinaimonastery.com/index.php/el/%CF%80%CE%B5%CF%81%CE%B9%CE%B3%CF%81%CE%B1%CF%86%CE%B7/%CE%BC%CE%B5%CF%84%CE%BF%CF%87%CE%B9%CE%B1-%CE%BA%CE%B1%CE%B9-%CE%BA%CE%B1%CE%B8%CE%B9%CF%83%CE%BC%CE%B1%CF%84%CE%B1/%CF%86%CE%B1%CF%81%CE%B1%CE%BD",
+        "https://www.patriarchateofalexandria.com/archdioceses/"
+      ]
+    },
+    {
+      "exclusion_id": "eg-discovery-only-listings",
+      "result": "Search results, map listings, travel pages, social media, and secondary directories were used only for discovery. None establishes a row without current first-party Church evidence.",
+      "sources": [
+        "https://www.patriarchateofalexandria.com/to-patriarcheio/dioikitiki-organosi/patriarchikes-epitropeies/",
+        "https://exarchate-africa.ru/dioceses_cat/egipet/",
+        "https://www.sinaimonastery.com/index.php/en/description/shrines-dependencies/cairo-dependency"
+      ]
+    }
+  ]
+}
