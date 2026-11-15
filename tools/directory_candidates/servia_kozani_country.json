@@ -1,0 +1,255 @@
+{
+  "v": 1,
+  "countries": ["GR"],
+  "checked": "2026-11-15",
+  "method": "Exact current named bodies are retained from the six current Metropolis region pages, the current Metropolis monastery and parish program pages, the Ecumenical Patriarchate profile, current Metropolis reporting, and the official Church of Greece regulation. Exact named rows are not removed to force inconsistent aggregate totals. Unnamed, aggregate-only, historic-only, ambiguous, stale-site, search-only, and map-only leads remain held.",
+  "published_summary": {
+    "ep-servia-kozani": 115,
+    "total": 115,
+    "current_exact_parishes": 96,
+    "legal_named_parish_rows": 94,
+    "current_named_parish_additions": 2,
+    "pilgrimage_churches": 1,
+    "other_exact_worship_bodies": 12,
+    "active_monasteries": 4,
+    "other_monastic_bodies": 2,
+    "contact_bodies": 56,
+    "phone_bodies": 56,
+    "public_phone_values": 72,
+    "email_bodies": 1,
+    "public_email_values": 1,
+    "body_owned_sites": 3,
+    "address_bodies": 115
+  },
+  "candidates": [
+    {
+      "candidate_id": "gr-ep-servia-kozani-parish-aggregate-conflict",
+      "parent": "ep-servia-kozani",
+      "country": "GR",
+      "category": "aggregate-conflict",
+      "status": "held",
+      "reason": "The Patriarchate profile reports 95 parish churches. The official regulation contains 94 exact named parish rows, and the current Krokos page names two additional current parishes at Anatoli and Stavroti. All 96 exact current named parishes are retained without deleting one to force the aggregate.",
+      "aggregate_counts": {"patriarchate_parishes": 95, "exact_current_parishes": 96},
+      "sources": [
+        "https://ec-patr.org/entities/iera-mitropoli-servion-kozanis/",
+        "https://ecclesiagreece.gr/greek/press/ekklisia/2019_ioulios.pdf",
+        "https://imsk.gr/%CE%B1%CF%81%CF%87%CE%B9%CE%B5%CF%81%CE%B1%CF%84%CE%B9%CE%BA%CE%AE-%CF%80%CE%B5%CF%81%CE%B9%CF%86%CE%AD%CF%81%CE%B5%CE%B9%CE%B1-%CE%BA%CF%81%CF%8C%CE%BA%CE%BF%CF%85/"
+      ]
+    },
+    {
+      "candidate_id": "gr-ep-servia-kozani-legal-summary-conflict",
+      "parent": "ep-servia-kozani",
+      "country": "GR",
+      "category": "source-internal-conflict",
+      "status": "held",
+      "reason": "The 2019 regulation table contains 94 exact named parish rows, while its printed summary states 93 parishes. The exact rows are retained and the inconsistent summary is not used to remove a body.",
+      "aggregate_counts": {"legal_exact_rows": 94, "legal_printed_total": 93},
+      "sources": ["https://ecclesiagreece.gr/greek/press/ekklisia/2019_ioulios.pdf"]
+    },
+    {
+      "candidate_id": "gr-ep-servia-kozani-unnamed-chapels",
+      "parent": "ep-servia-kozani",
+      "country": "GR",
+      "category": "aggregate-only",
+      "status": "held",
+      "reason": "The Patriarchate profile reports eight chapels but does not name them. No unnamed chapel is inferred from the aggregate.",
+      "aggregate_counts": {"chapels": 8},
+      "sources": ["https://ec-patr.org/entities/iera-mitropoli-servion-kozanis/"]
+    },
+    {
+      "candidate_id": "gr-ep-servia-kozani-unnamed-country-churches",
+      "parent": "ep-servia-kozani",
+      "country": "GR",
+      "category": "aggregate-only",
+      "status": "held",
+      "reason": "The Patriarchate profile reports 350 country churches. Seven exact current country churches are published from the Kozani region page. The unnamed aggregate residual is not inferred.",
+      "aggregate_counts": {"reported_country_churches": 350, "exact_named_current_rows": 7},
+      "sources": [
+        "https://ec-patr.org/entities/iera-mitropoli-servion-kozanis/",
+        "https://imsk.gr/%CE%B1%CF%81%CF%87%CE%B9%CE%B5%CF%81%CE%B1%CF%84%CE%B9%CE%BA%CE%AE-%CF%80%CE%B5%CF%81%CE%B9%CF%86%CE%AD%CF%81%CE%B5%CE%B9%CE%B1-%CE%BA%CE%BF%CE%B6%CE%AC%CE%BD%CE%B7%CF%82/"
+      ]
+    },
+    {
+      "candidate_id": "gr-ep-servia-kozani-unnamed-cemetery-churches",
+      "parent": "ep-servia-kozani",
+      "country": "GR",
+      "category": "aggregate-only",
+      "status": "held",
+      "reason": "The Patriarchate profile reports 54 cemetery churches. The Saint George cemetery church in Kozani is the only exact current cemetery body named by the reviewed current pages. The unnamed residual is not inferred.",
+      "aggregate_counts": {"reported_cemetery_churches": 54, "exact_named_current_rows": 1},
+      "sources": [
+        "https://ec-patr.org/entities/iera-mitropoli-servion-kozanis/",
+        "https://imsk.gr/%CF%80%CF%81%CF%8C%CE%B3%CF%81%CE%B1%CE%BC%CE%BC%CE%B1-%CE%B5%CE%BD%CE%BF%CF%81%CE%B9%CF%8E%CE%BD/"
+      ]
+    },
+    {
+      "candidate_id": "gr-ep-servia-kozani-charalambos-ascension-heading",
+      "parent": "ep-servia-kozani",
+      "country": "GR",
+      "category": "identity-ambiguous",
+      "status": "held",
+      "reason": "The Kozani region page prints one compound heading, Saint Charalambos - Ascension, without clarifying whether it denotes one jointly named country church or two distinct bodies. It is held rather than split or merged by assumption.",
+      "sources": [
+        "https://imsk.gr/%CE%B1%CF%81%CF%87%CE%B9%CE%B5%CF%81%CE%B1%CF%84%CE%B9%CE%BA%CE%AE-%CF%80%CE%B5%CF%81%CE%B9%CF%86%CE%AD%CF%81%CE%B5%CE%B9%CE%B1-%CE%BA%CE%BF%CE%B6%CE%AC%CE%BD%CE%B7%CF%82/"
+      ]
+    },
+    {
+      "candidate_id": "gr-ep-servia-kozani-historic-monastic-narratives",
+      "parent": "ep-servia-kozani",
+      "country": "GR",
+      "category": "historic-only",
+      "status": "held",
+      "reason": "The Metropolis monastery page recounts dissolved monasteries, former dependencies, ruins, and historic properties in its narratives. They are not published as current bodies without a current exact classification.",
+      "sources": [
+        "https://imsk.gr/%CE%B9%CE%B5%CF%81%CE%AD%CF%82-%CE%BC%CE%BF%CE%BD%CE%AD%CF%82/"
+      ]
+    },
+    {
+      "candidate_id": "gr-ep-servia-kozani-stale-parish-sites",
+      "parent": "ep-servia-kozani",
+      "country": "GR",
+      "category": "stale-source",
+      "status": "held",
+      "reason": "The Metropolis parish program page links a Saint Demetrius domain that no longer resolves. The former Transfiguration domain now serves unrelated gambling content and is excluded. The still-valid official Transfiguration blog is retained instead.",
+      "sources": [
+        "https://imsk.gr/%CF%80%CF%81%CF%8C%CE%B3%CF%81%CE%B1%CE%BC%CE%BC%CE%B1-%CE%B5%CE%BD%CE%BF%CF%81%CE%B9%CF%8E%CE%BD/"
+      ]
+    },
+    {
+      "candidate_id": "gr-ep-servia-kozani-search-map-leads",
+      "parent": "ep-servia-kozani",
+      "country": "GR",
+      "category": "affiliation-unclear",
+      "status": "discovery-only",
+      "reason": "Search and map results cannot by themselves establish a current exact canonical body and parent. Such leads remain unpublished until a competent first-party Church or official legal source confirms identity and canonical parentage.",
+      "sources": [
+        "https://imsk.gr/%CE%B1%CF%81%CF%87%CE%B9%CE%B5%CF%81%CE%B1%CF%84%CE%B9%CE%BA%CE%AD%CF%82-%CF%80%CE%B5%CF%81%CE%B9%CF%86%CE%AD%CF%81%CE%B5%CE%B9%CE%B5%CF%82/",
+        "https://imsk.gr/%CE%B9%CE%B5%CF%81%CE%AD%CF%82-%CE%BC%CE%BF%CE%BD%CE%AD%CF%82/"
+      ]
+    }
+  ],
+  "source_reconciliations": [
+    {
+      "subject": "Exact current parish roster",
+      "decision": "The 94 exact named rows in the official 2019 regulation are retained. The current Krokos page independently names Dormition at Anatoli and Holy Trinity at Stavroti as current parishes, producing 96 exact current parish rows. The conflicting aggregate totals are recorded but do not erase exact bodies.",
+      "sources": [
+        "https://ecclesiagreece.gr/greek/press/ekklisia/2019_ioulios.pdf",
+        "https://imsk.gr/%CE%B1%CF%81%CF%87%CE%B9%CE%B5%CF%81%CE%B1%CF%84%CE%B9%CE%BA%CE%AE-%CF%80%CE%B5%CF%81%CE%B9%CF%86%CE%AD%CF%81%CE%B5%CE%B9%CE%B1-%CE%BA%CF%81%CF%8C%CE%BA%CE%BF%CF%85/",
+        "https://ec-patr.org/entities/iera-mitropoli-servion-kozanis/"
+      ]
+    },
+    {
+      "subject": "Avgi parish",
+      "decision": "The current Drepano page names Avgi in its current parish list but omits a separate body line. The official regulation supplies the exact Saint Panteleimon dedication, so the parish is retained without contact enrichment.",
+      "sources": [
+        "https://ecclesiagreece.gr/greek/press/ekklisia/2019_ioulios.pdf",
+        "https://imsk.gr/%CE%B1%CF%81%CF%87%CE%B9%CE%B5%CF%81%CE%B1%CF%84%CE%B9%CE%BA%CE%AE-%CF%80%CE%B5%CF%81%CE%B9%CF%86%CE%AD%CF%81%CE%B5%CE%B9%CE%B1-%CE%B4%CF%81%CE%B5%CF%80%CE%AC%CE%BD%CE%BF%CF%85/"
+      ]
+    },
+    {
+      "subject": "Current dedication changes",
+      "decision": "The current region pages call the Katafygio parish Saint Nicholas and the Lava parish Saint Achilles, while the 2019 regulation gives Dormition and Saint Demetrius. The current first-party titles are retained and the disagreement does not create duplicate bodies.",
+      "sources": [
+        "https://ecclesiagreece.gr/greek/press/ekklisia/2019_ioulios.pdf",
+        "https://imsk.gr/%CE%B1%CF%81%CF%87%CE%B9%CE%B5%CF%81%CE%B1%CF%84%CE%B9%CE%BA%CE%AE-%CF%80%CE%B5%CF%81%CE%B9%CF%86%CE%AD%CF%81%CE%B5%CE%B9%CE%B1-%CE%B2%CE%B5%CE%BB%CE%B2%CE%B5%CE%BD%CE%B4%CE%BF%CF%8D/",
+        "https://imsk.gr/%CE%B1%CF%81%CF%87%CE%B9%CE%B5%CF%81%CE%B1%CF%84%CE%B9%CE%BA%CE%AE-%CF%80%CE%B5%CF%81%CE%B9%CF%86%CE%AD%CF%81%CE%B5%CE%B9%CE%B1-%CF%83%CE%B5%CF%81%CE%B2%CE%AF%CF%89%CE%BD/"
+      ]
+    },
+    {
+      "subject": "Pilgrimage church classification",
+      "decision": "The Holy Unmercenaries pilgrimage church is separate from the parish rows and is established by the official regulation and current Metropolis pages. It is published once as a pilgrimage church.",
+      "sources": [
+        "https://ecclesiagreece.gr/greek/press/ekklisia/2019_ioulios.pdf",
+        "https://imsk.gr/%CF%80%CF%81%CF%8C%CE%B3%CF%81%CE%B1%CE%BC%CE%BC%CE%B1-%CE%B5%CE%BD%CE%BF%CF%81%CE%B9%CF%8E%CE%BD/",
+        "https://imsk.gr/%CE%B1%CF%81%CF%87%CE%B9%CE%B5%CF%81%CE%B1%CF%84%CE%B9%CE%BA%CE%AE-%CF%80%CE%B5%CF%81%CE%B9%CF%86%CE%AD%CF%81%CE%B5%CE%B9%CE%B1-%CE%BA%CE%BF%CE%B6%CE%AC%CE%BD%CE%B7%CF%82/"
+      ]
+    },
+    {
+      "subject": "Current monastic classification",
+      "decision": "Four current monasteries are published as monastery bodies. Holy Trinity at Velvento is published as a monastic church because the current local page says it no longer functions as a monastery but remains in liturgical use. Saint John the Forerunner of Vazelon is published separately as the institutional monastic body named by the Patriarchate.",
+      "sources": [
+        "https://imsk.gr/%CE%B9%CE%B5%CF%81%CE%AD%CF%82-%CE%BC%CE%BF%CE%BD%CE%AD%CF%82/",
+        "https://ec-patr.org/entities/iera-mitropoli-servion-kozanis/"
+      ]
+    },
+    {
+      "subject": "Saint Anthony of Siapka",
+      "decision": "The exact body is retained with the Patriarchal and Stavropegic rank explicitly used by current official sources. Its officially published landline and mobile routes are retained without the associated personal name.",
+      "sources": [
+        "https://imsk.gr/%CE%B9%CE%B5%CF%81%CE%AD%CF%82-%CE%BC%CE%BF%CE%BD%CE%AD%CF%82/",
+        "https://ec-patr.org/entities/iera-mitropoli-servion-kozanis/"
+      ]
+    },
+    {
+      "subject": "Saint Baradatos chapel",
+      "decision": "The Patriarchate profile and official Metropolis reporting both identify the exact Saint Baradatos metropolitan chapel at Lake Polyfytos. It is published once outside the parish roster.",
+      "sources": [
+        "https://ec-patr.org/entities/iera-mitropoli-servion-kozanis/",
+        "https://imsk.gr/%CE%B5%CE%BF%CF%81%CF%84%CE%AE-%CE%B1%CE%B3%CE%AF%CE%BF%CF%85-%CE%B2%CE%B1%CF%81%CE%B1%CE%B4%CE%AC%CF%84%CE%BF%CF%85/"
+      ]
+    },
+    {
+      "subject": "Public contact provenance",
+      "decision": "Every phone and email retained is explicitly associated by an official region page, official monastery page, Patriarchate profile, or body-owned site with the exact body. This includes clergy-linked and mobile numbers. Central office contacts are not copied to subordinate bodies.",
+      "sources": [
+        "https://imsk.gr/%CE%B1%CF%81%CF%87%CE%B9%CE%B5%CF%81%CE%B1%CF%84%CE%B9%CE%BA%CE%AE-%CF%80%CE%B5%CF%81%CE%B9%CF%86%CE%AD%CF%81%CE%B5%CE%B9%CE%B1-%CE%BA%CE%BF%CE%B6%CE%AC%CE%BD%CE%B7%CF%82/",
+        "https://imsk.gr/%CE%B9%CE%B5%CF%81%CE%AD%CF%82-%CE%BC%CE%BF%CE%BD%CE%AD%CF%82/",
+        "https://ec-patr.org/entities/iera-mitropoli-servion-kozanis/"
+      ]
+    },
+    {
+      "subject": "Body-owned sites",
+      "decision": "The live Saint Nicholas site and the Saint Athanasius and Transfiguration blogs linked by the official parish program page are retained as body sites. The unrelated content now occupying the former Transfiguration domain is excluded.",
+      "sources": [
+        "https://imsk.gr/%CF%80%CF%81%CF%8C%CE%B3%CF%81%CE%B1%CE%BC%CE%BC%CE%B1-%CE%B5%CE%BD%CE%BF%CF%81%CE%B9%CF%8E%CE%BD/",
+        "http://agiosnikolaoskozanis.gr/",
+        "https://inmetkoz.blogspot.com/"
+      ]
+    }
+  ],
+  "official_parent_audit": [
+    {
+      "body": "Holy Metropolis of Servia and Kozani",
+      "parent": "ep-servia-kozani",
+      "status": "canonical-current",
+      "decision": "The Metropolis is a current canonical diocese of the Church of Greece in the New Lands and is listed by the Ecumenical Patriarchate. Current local Metropolis pages control exact subordinate identity and body contacts.",
+      "sources": [
+        "https://ec-patr.org/entities/iera-mitropoli-servion-kozanis/",
+        "https://imsk.gr/"
+      ]
+    },
+    {
+      "body": "Current parish and monastic sources",
+      "parent": "ep-servia-kozani",
+      "status": "first-party-current",
+      "decision": "The six current region pages, current monastery page, parish program page, Patriarchate profile, and official Church of Greece regulation form the exact source set. Aggregate counts corroborate scale but do not create unnamed bodies.",
+      "sources": [
+        "https://imsk.gr/%CE%B1%CF%81%CF%87%CE%B9%CE%B5%CF%81%CE%B1%CF%84%CE%B9%CE%BA%CE%AD%CF%82-%CF%80%CE%B5%CF%81%CE%B9%CF%86%CE%AD%CF%81%CE%B5%CE%B9%CE%B5%CF%82/",
+        "https://imsk.gr/%CE%B9%CE%B5%CF%81%CE%AD%CF%82-%CE%BC%CE%BF%CE%BD%CE%AD%CF%82/",
+        "https://ecclesiagreece.gr/greek/press/ekklisia/2019_ioulios.pdf"
+      ]
+    }
+  ],
+  "exclusions": [
+    {
+      "subject": "Personal names",
+      "decision": "Clergy and monastic personal names are omitted. Officially published landlines, mobile numbers, and emails remain when the source explicitly associates them with the exact body.",
+      "sources": [
+        "https://imsk.gr/%CE%B1%CF%81%CF%87%CE%B9%CE%B5%CF%81%CE%B1%CF%84%CE%B9%CE%BA%CE%AD%CF%82-%CF%80%CE%B5%CF%81%CE%B9%CF%86%CE%AD%CF%81%CE%B5%CE%B9%CE%B5%CF%82/"
+      ]
+    },
+    {
+      "subject": "Central office contacts",
+      "decision": "Metropolis office, regional office, and administrative contacts are not copied to a church or monastery unless the same official page explicitly publishes the route with that body.",
+      "sources": [
+        "https://imsk.gr/%CE%B5%CF%80%CE%B9%CE%BA%CE%BF%CE%B9%CE%BD%CF%89%CE%BD%CE%AF%CE%B1/",
+        "https://imsk.gr/%CE%B1%CF%81%CF%87%CE%B9%CE%B5%CF%81%CE%B1%CF%84%CE%B9%CE%BA%CE%AD%CF%82-%CF%80%CE%B5%CF%81%CE%B9%CF%86%CE%AD%CF%81%CE%B5%CE%B9%CE%B5%CF%82/"
+      ]
+    },
+    {
+      "subject": "Arithmetic identities",
+      "decision": "No body is created from the difference between an aggregate and the exact named roster. Unnamed residuals remain held.",
+      "sources": ["https://ec-patr.org/entities/iera-mitropoli-servion-kozanis/"]
+    }
+  ]
+}
