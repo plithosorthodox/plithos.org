@@ -2,12 +2,13 @@
   "format": "plithos-library-catalog-i18n-language-source",
   "version": 1,
   "language": "ja",
-  "catalog_sha256": "cd6661d7259ef6f8a7cc16c8c682100780fe972796bf312d5ef65a85f8c5224b",
+  "catalog_sha256": "7d609d0ed997eff0a0a227cc1571db617b1505ba344ed85af8d4865f809545b7",
   "terms": {
     "19th century": "19世紀",
     "20th century": "20世紀",
     "Anonymous": "無名",
     "Evagrius Scholasticus": "エウアグリオス・スコラスティコス",
+    "St Innocent of Kherson and Taurida": "ヘルソンおよびタヴリダの聖インノケンティ",
     "The Great Church of Constantinople, Patriarch Anthimus VII and the Holy Synod": "コンスタンティノポリの大教会、総主教アンティモス七世および聖シノド",
     "The eighty-seven bishops at Carthage": "カルタゴの八十七名の主教",
     "21st century": "21世紀",
@@ -21,6 +22,16 @@
     "akathist-athanasius-athos-cu": {
       "title": "アトスの奇蹟者、我らの克肖にして載神なる父アファナシイへのアカフィストス",
       "description": "アトスの克肖者アファナシイへの教会スラヴ語アカフィストス。アトス山のロシア昇天スキテが刊行した、1908年モスクワ聖シノド印刷所版を再現する。同版の活字上の長い横線はハイフンに置き換えられている。"
+    },
+    "akathist-divine-passion-en": {
+      "description": "1859年版は著者をオデッサ大主教インノケンティと記しています。この方はヘルソンおよびタヴリダの聖インノケンティとして崇敬されています。聖インノケンティによる、ハリストスの神聖なる受難を讃える完備した奉神礼を、John Mason Nealeの英訳で収めます。始まりの祈祷、頌歌とカノン、十三のコンタキオンと十二のイコスから成る完全なアカフィストス、五つの聖傷への崇敬、そして結びの頌歌、讃詞、トロパリを含みます。語句、大文字表記、句読法、章節の順序は1859年版に従っています。",
+      "title": "我らの主イイスス・ハリストスの神聖なる受難を讃えるアカフィストス、または祈祷",
+      "date": "1857年以前に作成、この英訳は1859年"
+    },
+    "akathist-thanksgiving-en": {
+      "description": "ウクライナ語のAkafist podiaka Bohovi za vseからの完全な英訳です。創造、摂理、贖い、教会、永遠の生命という、神の目に見える賜物と見えない賜物への感謝を捧げる十三のコンタキオンと十二のイコスから成ります。2011年のTranscUlturAl版は著者を無名とし、聖金口イオアンの著作を基に編まれたと考えられていることを記します。本版では、誌面上の改行をつなぎ、一つの活字上の長い横線をハイフンで表記しています。",
+      "title": "ACATHISTUS: すべてのことを神に感謝するアカフィストス（英語）",
+      "date": "成立年代不明、この英訳は2011年"
     },
     "akathist-kazan-icon-cu": {
       "title": "至聖なる生神女の奇蹟を行うカザン聖像出現記念アカフィストス",

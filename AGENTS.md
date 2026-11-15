@@ -327,7 +327,10 @@ Georgian scripts.
 - Preserve diacritics and non-ASCII exactly; every page must declare
   `<meta charset="utf-8">`.
 - Record provenance for any added library work: translator, publication year,
-  source volume, and licence. Only public-domain texts.
+  source volume, and licence. Use public-domain texts or texts whose rights
+  holder grants an explicit licence permitting republication. Preserve every
+  required attribution and licence notice. A free download without stated
+  reuse terms is not permission to republish.
 - **Do not correct an edition.** Titles, headings, spellings and section names
   are reproduced as the translator set them, including where a Western
   translator gives a Western title: John of Damascus' Dormition sermons are

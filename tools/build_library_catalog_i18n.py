@@ -34,7 +34,7 @@ OUTPUT = ROOT / "data" / "library"
 FORMAT = "plithos-library-catalog-i18n"
 SOURCE_FORMAT = FORMAT + "-language-source"
 SOURCE_VERSION = 1
-VERSION = 3
+VERSION = 4
 
 UI_LANGS = (
     "el", "ru", "ka", "ro", "sr", "uk", "ar", "es", "pt", "it",
@@ -51,6 +51,7 @@ REQUIRED_TERMS = (
     "Anonymous",
     "Evagrius Scholasticus",
     "Orthodox Church",
+    "St Innocent of Kherson and Taurida",
     "The Great Church of Constantinople, Patriarch Anthimus VII and the Holy Synod",
     "The eighty-seven bishops at Carthage",
 )

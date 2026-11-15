@@ -60,6 +60,7 @@ AUTHORS = {
     "Orthodox Church":              (False, None),
     "Anonymous":                    (False, None),
     "Anonymous, of the sixth century": (False, None),
+    "St Innocent of Kherson and Taurida": (True, None),
     # The martyr acts and lives added with the hagiography. Sainthood is
     # stated here rather than read off a name, as it is for everyone else on
     # the shelf. Several of these works are not by a single man at all: a
@@ -173,6 +174,8 @@ WORKS = {
     "akathist-ambrose-optina":         ("Anonymous", "The life of prayer"),
  "akathist-kazan-icon":             ("Anonymous", "The life of prayer"),
  "akathist-athanasius-athos":       ("Anonymous", "The life of prayer"),
+ "akathist-divine-passion":          ("St Innocent of Kherson and Taurida", "The life of prayer"),
+ "akathist-thanksgiving":            ("Anonymous", "The life of prayer"),
  "cyprian-lords-prayer":            ("St Cyprian of Carthage", "The life of prayer"),
  "cyprian-on-mortality":            ("St Cyprian of Carthage", "The Christian life"),
  "cyprian-works-and-alms":          ("St Cyprian of Carthage", "The Christian life"),

@@ -2,7 +2,7 @@
   "format": "plithos-library-catalog-i18n-language-source",
   "version": 1,
   "language": "zh",
-  "catalog_sha256": "cd6661d7259ef6f8a7cc16c8c682100780fe972796bf312d5ef65a85f8c5224b",
+  "catalog_sha256": "7d609d0ed997eff0a0a227cc1571db617b1505ba344ed85af8d4865f809545b7",
   "terms": {
     "19th century": "19世纪",
     "20th century": "20世纪",
@@ -11,7 +11,8 @@
     "The Great Church of Constantinople, Patriarch Anthimus VII and the Holy Synod": "君士坦丁堡大教会、安提莫七世牧首与圣主教公会",
     "The eighty-seven bishops at Carthage": "迦太基的八十七位主教",
     "21st century": "21世纪",
-    "Orthodox Church": "正教会"
+    "Orthodox Church": "正教会",
+    "St Innocent of Kherson and Taurida": "赫尔松及陶里达的圣英诺肯提大主教"
   },
   "works": {
     "acts-of-sharbil": {
@@ -33,6 +34,16 @@
     "akathist-theotokos-en": {
       "title": "至圣诞神女阿卡菲斯特赞词（英文）",
       "description": "此赞词站立咏唱，其名称正有此意；大斋期每个星期五咏唱，并在第五周星期六全篇咏唱。全篇二十四节，各节首字母依字母表顺序排列，共有一百四十四句以「庆哉」开头的问安，每句都向神之母而发；前有一首孔达基，末尾还有第十三首孔达基。它出自六世纪；教会长期把谱曲者圣罗曼诺斯列为可能的作者之一，但并未作确切认定。本版英文取自1919年在伦敦为当地希腊正教会刊印的版本。该版希腊文与英文对页排印，并按实际咏唱次序编排两种文本，标明司祭部分与唱诗班应答。译者另造一套字母顺序来对应希腊文的字母顺序：二十四节从A至Z开头，略去J和X，使总数相同。"
+    },
+    "akathist-divine-passion-en": {
+      "title": "阿卡菲斯特赞词，或敬礼我主耶稣基督神圣苦难的祷文",
+      "description": "1859年版称作者为敖德萨大主教英诺肯提；教会敬礼他为赫尔松及陶里达的圣英诺肯提大主教。圣英诺肯提敬礼基督神圣苦难的完整礼仪，采用John Mason Neale的英文译本。内容包括起首祷文、颂歌与卡农、由十三篇孔达基和十二篇伊科斯组成的完整阿卡菲斯特赞词、对五伤的敬礼，以及结束的颂歌、赞词和赞颂词。措辞、大小写、标点及各部分次序均依1859年版。",
+      "date": "作于1857年以前；本英文译本刊于1859年"
+    },
+    "akathist-thanksgiving-en": {
+      "title": "ACATHISTUS：为一切事感谢上帝（英文）",
+      "description": "乌克兰文Akafist podiaka Bohovi za vse的完整英文译本：十三篇孔达基和十二篇伊科斯，为创造、眷顾、救赎、教会及永生中可见与不可见的恩赐感谢上帝。2011年TranscUlturAl版称作者不详，并指出此作被认为根据圣金口约安的著作编成。本版合并了期刊版面中的断行，并以连字符代替一处排印长横线。",
+      "date": "年代不详；本英文译本刊于2011年"
     },
     "aphrahat-select-demonstrations": {
       "title": "论证选篇",

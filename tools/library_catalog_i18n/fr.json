@@ -2,12 +2,13 @@
   "format": "plithos-library-catalog-i18n-language-source",
   "version": 1,
   "language": "fr",
-  "catalog_sha256": "cd6661d7259ef6f8a7cc16c8c682100780fe972796bf312d5ef65a85f8c5224b",
+  "catalog_sha256": "7d609d0ed997eff0a0a227cc1571db617b1505ba344ed85af8d4865f809545b7",
   "terms": {
     "19th century": "XIXe siècle",
     "20th century": "XXe siècle",
     "Anonymous": "Anonyme",
     "Evagrius Scholasticus": "Évagre le Scholastique",
+    "St Innocent of Kherson and Taurida": "Saint Innocent de Kherson et de Tauride",
     "The Great Church of Constantinople, Patriarch Anthimus VII and the Holy Synod": "La Grande Église de Constantinople, le patriarche Anthime VII et le Saint-Synode",
     "The eighty-seven bishops at Carthage": "Les quatre-vingt-sept évêques réunis à Carthage",
     "21st century": "XXIe siècle",
@@ -21,6 +22,16 @@
     "akathist-athanasius-athos-cu": {
       "title": "Acathiste à notre vénérable père Athanase l'Athonite, thaumaturge (slavon d'Église)",
       "description": "L'acathiste en slavon d'Église à saint Athanase l'Athonite, reproduit d'après l'édition de 1908 de la Presse synodale de Moscou publiée par le skite russe de l'Ascension au mont Athos. Des traits d'union remplacent les tirets typographiques de l'édition."
+    },
+    "akathist-divine-passion-en": {
+      "title": "Acathiste; ou, Prières en l'honneur de la divine Passion de notre Seigneur Jésus-Christ",
+      "description": "L'édition de 1859 donne pour auteur Innocent, archevêque d'Odessa; il est vénéré comme saint Innocent de Kherson et de Tauride. L'office complet de saint Innocent en l'honneur de la divine Passion du Christ est présenté dans la traduction anglaise de John Mason Neale. Il comprend les prières initiales, les odes et le canon, l'acathiste complet de treize kontakia et douze ikoi, l'adoration des cinq plaies, ainsi que les odes, les louanges et les tropaires de conclusion. Le vocabulaire, l'emploi des majuscules, la ponctuation et l'ordre des sections sont ceux de l'édition de 1859.",
+      "date": "composé avant 1857; cette traduction anglaise date de 1859"
+    },
+    "akathist-thanksgiving-en": {
+      "title": "ACATHISTUS: Gratitude à Dieu pour toutes choses (anglais)",
+      "description": "Traduction anglaise complète de l'Akafist podiaka Bohovi za vse ukrainien: treize kontakia et douze ikoi d'action de grâce à Dieu pour les dons visibles et invisibles de la création, de la providence, de la rédemption, de l'Église et de la vie éternelle. L'édition TranscUlturAl de 2011 donne l'auteur comme anonyme et indique que l'œuvre aurait été composée à partir d'écrits de saint Jean Chrysostome. Cette édition réunit les retours à la ligne matériels de la revue et rend un tiret typographique par un trait d'union.",
+      "date": "date inconnue; cette traduction anglaise date de 2011"
     },
     "akathist-kazan-icon-cu": {
       "title": "Acathiste à la Très Sainte Mère de Dieu devant son icône miraculeuse de Kazan (slavon d'Église)",

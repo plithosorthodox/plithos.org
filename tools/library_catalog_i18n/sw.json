@@ -1,5 +1,5 @@
 {
-  "catalog_sha256": "cd6661d7259ef6f8a7cc16c8c682100780fe972796bf312d5ef65a85f8c5224b",
+  "catalog_sha256": "7d609d0ed997eff0a0a227cc1571db617b1505ba344ed85af8d4865f809545b7",
   "format": "plithos-library-catalog-i18n-language-source",
   "language": "sw",
   "terms": {
@@ -10,7 +10,8 @@
     "The Great Church of Constantinople, Patriarch Anthimus VII and the Holy Synod": "Kanisa Kuu la Konstantinopoli, Patriarki Anthimo VII na Sinodi Takatifu",
     "The eighty-seven bishops at Carthage": "Maaskofu themanini na saba wa Carthage",
     "21st century": "karne ya 21",
-    "Orthodox Church": "Kanisa la Kiorthodoksi"
+    "Orthodox Church": "Kanisa la Kiorthodoksi",
+    "St Innocent of Kherson and Taurida": "Askofu Mkuu Mtakatifu Inosenti wa Kherson na Taurida"
   },
   "version": 1,
   "works": {
@@ -33,6 +34,16 @@
     "akathist-theotokos-en": {
       "description": "Huimbwa kwa kusimama, kama jina lake linavyosema, katika Ijumaa za Mfungo Mkuu na kwa ukamilifu wake Jumamosi ya juma la tano. Ina beti ishirini na nne ambazo herufi zake za kwanza zinafuata alfabeti, na salamu mia moja arobaini na nne zinazoanza kwa neno \"Salamu\", kila moja ikielekezwa kwa Mzazi-Mungu, zikitanguliwa na kontakio na kumaliziwa na kontakio ya kumi na tatu. Ni ya karne ya sita; kwa muda mrefu Kanisa limemtaja Romanos Mtunga-Melodia miongoni mwa wale ambao huenda waliiandika, bila kuthibitisha jambo hilo. Hii ni tafsiri ya Kiingereza ya toleo lililochapishwa London mwaka 1919 kwa matumizi ya Kanisa la Kigiriki la Orthodoksi huko. Toleo linaweka Kigiriki na Kiingereza katika kurasa zinazotazamana na kupanga yote mawili kwa utaratibu wa kuimba ibada, likionyesha sehemu ya kuhani na majibu ya kwaya. Wafasiri waliunda akrostiki yao wenyewe badala ya alfabeti ya Kigiriki: beti ishirini na nne zinaanza A hadi Z, huku J na X zikirukwa ili idadi ibaki ileile.",
       "title": "Wimbo wa Akathisti kwa Mzazi-Mungu Mtakatifu Sana (Kiingereza)"
+    },
+    "akathist-divine-passion-en": {
+      "title": "Akathisti, au Sala kwa heshima ya Mateso ya Kimungu ya Bwana wetu Yesu Kristo",
+      "description": "Toleo la 1859 linamtaja mwandishi kuwa Inosenti, Askofu Mkuu wa Odessa; anaheshimiwa kama Askofu Mkuu Mtakatifu Inosenti wa Kherson na Taurida. Ibada kamili ya Askofu Mkuu Mtakatifu Inosenti kwa heshima ya Mateso ya Kimungu ya Kristo, katika tafsiri ya Kiingereza ya John Mason Neale. Ina sala za mwanzo, oda na kanuni, Akathisti kamili yenye kondakia kumi na tatu na ikoi kumi na mbili, kuabudu majeraha matano, na oda, sifa na troparia za mwisho. Maneno, matumizi ya herufi kubwa, uakifishaji na mpangilio wa sehemu ni wa toleo la 1859.",
+      "date": "ilitungwa kabla ya 1857; tafsiri hii ya Kiingereza ni ya 1859"
+    },
+    "akathist-thanksgiving-en": {
+      "title": "ACATHISTUS: Shukrani kwa Mungu kwa Kila Jambo (Kiingereza)",
+      "description": "Tafsiri kamili ya Kiingereza kutoka Akafist podiaka Bohovi za vse ya Kiukrainia: kondakia kumi na tatu na ikoi kumi na mbili za kumshukuru Mungu kwa vipawa vinavyoonekana na visivyoonekana vya uumbaji, maongozi, ukombozi, Kanisa na uzima wa milele. Toleo la TranscUlturAl la 2011 linamtaja mtunzi kuwa hajulikani na kusema kuwa kazi hii inaaminika kuwa ilikusanywa kutoka maandishi ya Mtakatifu Yohane Krisostomo. Toleo hili linaunganisha mistari iliyokatwa kimwili katika jarida na kuandika mstari mmoja wa uchapaji kama kistari kifupi.",
+      "date": "tarehe haijulikani; tafsiri hii ya Kiingereza ni ya 2011"
     },
     "aphrahat-select-demonstrations": {
       "caution": "Afrahati hapewi cheo cha mtakatifu hapa. Kanisa la Orthodoksi linamkumbuka Mwajemi aitwaye Afraati tarehe ishirini na tisa Januari, lakini huyo ni mtu mwingine: mkaaji wa jangwani wa Antiokia ambaye Theodoret alikutana naye akiwa mvulana na ambaye alikufa karibu miaka sitini baada ya Mwenye Hekima. Watu hawa wawili hutazamwa mara nyingi kuwa mtu mmoja. Hakuna alichoandika Afrahati kilichowahi kulaaniwa, na hakuna mtaguso unaomtaja; aliandika karne moja kabla ya Efeso, katika kanisa ambalo halikuwa bado limegawanywa na mabishano yaliyokuwa yakija katika ulimwengu wa Kigiriki. Fundisho lake la nane linafundisha kwamba roho hulala kaburini hadi ufufuo, jambo ambalo si fundisho la Kanisa; fundisho la Kanisa linasemwa katika sala zake kwa waliolala.",

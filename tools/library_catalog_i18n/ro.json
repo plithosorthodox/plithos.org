@@ -2,7 +2,7 @@
   "format": "plithos-library-catalog-i18n-language-source",
   "version": 1,
   "language": "ro",
-  "catalog_sha256": "cd6661d7259ef6f8a7cc16c8c682100780fe972796bf312d5ef65a85f8c5224b",
+  "catalog_sha256": "7d609d0ed997eff0a0a227cc1571db617b1505ba344ed85af8d4865f809545b7",
   "terms": {
     "19th century": "secolul al XIX-lea",
     "20th century": "secolul al XX-lea",
@@ -11,7 +11,8 @@
     "The Great Church of Constantinople, Patriarch Anthimus VII and the Holy Synod": "Marea Biserică a Constantinopolului, Patriarhul Antim al VII-lea și Sfântul Sinod",
     "The eighty-seven bishops at Carthage": "Cei optzeci și șapte de episcopi de la Cartagina",
     "21st century": "secolul al XXI-lea",
-    "Orthodox Church": "Biserica Ortodoxă"
+    "Orthodox Church": "Biserica Ortodoxă",
+    "St Innocent of Kherson and Taurida": "Sfântul Ierarh Inochentie al Hersonului și Tauridei"
   },
   "works": {
     "acts-of-sharbil": {
@@ -33,6 +34,16 @@
     "akathist-theotokos-en": {
       "title": "Imnul Acatist către Preasfânta Născătoare de Dumnezeu (engleză)",
       "description": "Cântat în picioare, ceea ce spune și numele său, vinerea Postului Mare și întreg sâmbăta celei de-a cincea săptămâni. Douăzeci și patru de strofe ale căror prime litere parcurg alfabetul și o sută patruzeci și patru de saluturi începând cu \"Bucură-te\", fiecare adresată Maicii Domnului, cu un kontakion înaintea lor și un al treisprezecelea la sfârșit. Este din secolul al VI-lea; Biserica l-a numit de mult pe Romanos Melodul printre cei care ar fi putut să-l fi scris și nu afirmă acest lucru cu certitudine. Aceasta este versiunea în engleză a ediției publicate la Londra în 1919 pentru uzul Bisericii Ortodoxe Grecești de acolo, care pune greaca și engleza pe pagini opuse și aranjează ambele așa cum se cântă slujba, cu partea preotului și răspunsul corului marcate. Traducătorii săi au construit un alfabet propriu pentru a înlocui cel grecesc: cele douăzeci și patru de strofe se deschid de la A la Z, evitând J și X, astfel încât numărătoarea să iasă la fel."
+    },
+    "akathist-divine-passion-en": {
+      "title": "Acatist sau Rugăciuni în cinstea Dumnezeieștii Patimi a Domnului nostru Iisus Hristos",
+      "description": "Ediția din 1859 îl identifică pe autor drept Inochentie, Arhiepiscopul Odesei; el este cinstit ca Sfântul Ierarh Inochentie al Hersonului și Tauridei. Slujba completă a Sfântului Ierarh Inochentie în cinstea Dumnezeieștii Patimi a lui Hristos, în traducerea engleză a lui John Mason Neale. Cuprinde rugăciunile începătoare, odele și canonul, Acatistul complet cu treisprezece condace și douăsprezece icoase, închinarea la cele cinci răni și odele, laudele și troparele de încheiere. Formularea, majusculele, punctuația și ordinea secțiunilor sunt cele ale ediției din 1859.",
+      "date": "alcătuit înainte de 1857; această traducere engleză este din 1859"
+    },
+    "akathist-thanksgiving-en": {
+      "title": "ACATHISTUS: Recunoștință lui Dumnezeu pentru toate (engleză)",
+      "description": "O traducere engleză completă din ucraineanul Akafist podiaka Bohovi za vse: treisprezece condace și douăsprezece icoase de mulțumire către Dumnezeu pentru darurile văzute și nevăzute ale creației, proniei, răscumpărării, Bisericii și vieții veșnice. Ediția TranscUlturAl din 2011 îl numește pe autor anonim și spune că se crede că lucrarea a fost alcătuită din scrieri ale Sfântului Ioan Gură de Aur. Această ediție unește rândurile despărțite fizic în revistă și redă o linie tipografică printr-o cratimă.",
+      "date": "dată necunoscută; această traducere engleză este din 2011"
     },
     "aphrahat-select-demonstrations": {
       "title": "Demonstrații alese",

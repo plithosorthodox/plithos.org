@@ -2,7 +2,7 @@
   "format": "plithos-library-catalog-i18n-language-source",
   "version": 1,
   "language": "de",
-  "catalog_sha256": "cd6661d7259ef6f8a7cc16c8c682100780fe972796bf312d5ef65a85f8c5224b",
+  "catalog_sha256": "7d609d0ed997eff0a0a227cc1571db617b1505ba344ed85af8d4865f809545b7",
   "terms": {
     "19th century": "19. Jahrhundert",
     "20th century": "20. Jahrhundert",
@@ -11,7 +11,8 @@
     "The Great Church of Constantinople, Patriarch Anthimus VII and the Holy Synod": "Die Große Kirche von Konstantinopel, Patriarch Anthimos VII. und die Heilige Synode",
     "The eighty-seven bishops at Carthage": "Die siebenundachtzig in Karthago versammelten Bischöfe",
     "21st century": "21. Jahrhundert",
-    "Orthodox Church": "Orthodoxe Kirche"
+    "Orthodox Church": "Orthodoxe Kirche",
+    "St Innocent of Kherson and Taurida": "Hl. Innozenz von Cherson und Taurien"
   },
   "works": {
     "acts-of-sharbil": {
@@ -33,6 +34,16 @@
     "akathist-theotokos-en": {
       "title": "Akathistos-Hymnos an die Allerheiligste Gottesmutter (Englisch)",
       "description": "Wie sein Name sagt, wird der Hymnos an den Freitagen der Großen Fastenzeit stehend und am Samstag der fünften Woche vollständig gesungen. Er umfasst vierundzwanzig Strophen, deren Anfangsbuchstaben das Alphabet durchlaufen, und einhundertvierundvierzig Anrufungen mit dem Beginn Freue dich, jede an die Gottesmutter gerichtet, mit einem Kontakion davor und einem dreizehnten am Schluss. Er stammt aus dem 6. Jahrhundert; die Kirche hat Romanos den Meloden lange zu den möglichen Verfassern gezählt, ohne dies mit Gewissheit zu behaupten. Dies ist der englische Text der 1919 in London für die dortige griechisch-orthodoxe Kirche veröffentlichten Ausgabe. Sie stellt den griechischen und englischen Text auf gegenüberliegenden Seiten dar und ordnet beide nach dem Ablauf des Gottesdienstes, mit Kennzeichnung des Priesterteils und der Antwort des Chores. Die Übersetzer schufen als Gegenstück zum griechischen Akrostichon ein eigenes Alphabet: Die vierundzwanzig Strophen beginnen mit A bis Z, wobei J und X ausgelassen werden, damit die Zahl gleich bleibt."
+    },
+    "akathist-divine-passion-en": {
+      "description": "Die Ausgabe von 1859 nennt als Verfasser Innozenz, Erzbischof von Odessa; er wird als hl. Innozenz von Cherson und Taurien verehrt. Dies ist sein vollständiger Gottesdienst zu Ehren des göttlichen Leidens Christi in der englischen Übersetzung von John Mason Neale. Er enthält die Eingangsgebete, Oden und den Kanon, den vollständigen Akathistos mit dreizehn Kontakien und zwölf Ikoi, die Verehrung der fünf Wunden sowie die abschließenden Oden, Lobgesänge und Troparien. Wortlaut, Großschreibung, Zeichensetzung und Reihenfolge der Abschnitte folgen der Ausgabe von 1859.",
+      "title": "Akathistos oder Gebete zu Ehren des göttlichen Leidens unseres Herrn Jesus Christus",
+      "date": "vor 1857 verfasst; diese englische Übersetzung erschien 1859"
+    },
+    "akathist-thanksgiving-en": {
+      "description": "Eine vollständige englische Übersetzung des ukrainischen Akafist podiaka Bohovi za vse: dreizehn Kontakien und zwölf Ikoi des Dankes an Gott für die sichtbaren und unsichtbaren Gaben der Schöpfung, der Vorsehung, der Erlösung, der Kirche und des ewigen Lebens. Die TranscUlturAl-Ausgabe von 2011 nennt den Verfasser anonym und erklärt, das Werk sei vermutlich aus Schriften des heiligen Johannes Chrysostomos zusammengestellt worden. Diese Ausgabe fügt die durch den physischen Zeilenumbruch der Zeitschrift getrennten Zeilen zusammen und gibt einen typografischen Gedankenstrich als Bindestrich wieder.",
+      "title": "AKATHISTOS: Dank an Gott für alles (Englisch)",
+      "date": "Datum unbekannt; diese englische Übersetzung erschien 2011"
     },
     "aphrahat-select-demonstrations": {
       "title": "Ausgewählte Unterweisungen",

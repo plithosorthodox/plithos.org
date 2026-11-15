@@ -51,7 +51,12 @@
    21
   ],
   "century": 21,
-  "period": "21st century"
+  "period": "21st century",
+  "topics": [
+   "Prayer",
+   "The saints and their relics",
+   "The monastic life"
+  ]
  },
  {
   "work_id": "akathist-athanasius-athos-cu",
@@ -83,6 +88,38 @@
   ]
  },
  {
+  "work_id": "akathist-divine-passion-en",
+  "edition_of": "akathist-divine-passion",
+  "title": "Acathiston; or, Prayers in honour of the Divine Passion of our Lord Jesus Christ",
+  "author": "St Innocent of Kherson and Taurida",
+  "language": "en",
+  "date": "composed before 1857; this English translation 1859",
+  "translator": "John Mason Neale",
+  "pub_year": 1859,
+  "publisher": "Joseph Masters, London",
+  "source": "Innocent, Archbishop of Odessa, \"Acathiston; or, Prayers in honour of the Divine Passion of our Lord Jesus Christ,\" in Voices from the East: Documents on the Present State and Working of the Oriental Church, chapter VII (London: Joseph Masters, 1859), pp. 175-205",
+  "source_url": "https://anglicanhistory.org/neale/voices1859/07.html",
+  "facsimile_url": "https://archive.org/details/voicesfromeastd00macagoog",
+  "source_class": "liturgical",
+  "description": "The 1859 edition identifies the author as Innocent, Archbishop of Odessa; he is venerated as St Innocent of Kherson and Taurida. John Mason Neale's English translation contains the opening prayers, odes and canon, the complete Akathist of thirteen kontakia and twelve oikoi, the adoration of the five wounds, and the concluding odes, praises, and troparia. The wording, capitalization, punctuation, and section order are those of the 1859 edition.",
+  "digitized": "Project Canterbury; facsimile at Internet Archive",
+  "license": "Public Domain",
+  "rights_url": "https://archive.org/details/voicesfromeastd00macagoog",
+  "saint": null,
+  "is_saint": true,
+  "purpose": "The life of prayer",
+  "centuries": [
+   19
+  ],
+  "century": 19,
+  "period": "19th century",
+  "topics": [
+   "Christ, God and man",
+   "Prayer",
+   "Repentance and confession"
+  ]
+ },
+ {
   "work_id": "akathist-kazan-icon-cu",
   "edition_of": "akathist-kazan-icon",
   "title": "А҆КА́ѲІСТЪ ПРЕСТ҃Ѣ́Й БГ҃ОРО́ДИЦѢ, Ꙗ҆ВЛЕ́НІѦ РА́ДИ ЧꙊДОТВО́РНЫѦ Є҆Ѧ̀ І҆КѠ́НЫ КАЗА́НСКІѦ",
@@ -109,6 +146,44 @@
    "The Theotokos",
    "Prayer",
    "Icons and images"
+  ]
+ },
+ {
+  "work_id": "akathist-thanksgiving-en",
+  "edition_of": "akathist-thanksgiving",
+  "title": "ACATHISTUS: Gratitude to God for Everything (English)",
+  "author": "Anonymous",
+  "language": "en",
+  "date": "date unknown; this English translation 2011",
+  "translator": "Iaroslav Pankovskyi",
+  "pub_year": 2011,
+  "source": "Iaroslav Pankovskyi, \"ACATHISTUS: Gratitude to God for Everything,\" TranscUlturAl 1, no. 4 (2011): 91-102",
+  "source_url": "https://journals.library.ualberta.ca/tc/index.php/TC/article/download/9850/7751/24819",
+  "source_pdf_sha256": "b406abdba380bf716077c2d62f1d3eaa5735d97ba19b9cf78a664ff3b4c5f479",
+  "source_class": "liturgical",
+  "description": "A complete English translation from the Ukrainian Akafist podiaka Bohovi za vse: thirteen kontakia and twelve oikoi in thanksgiving to God for the visible and invisible gifts of creation, providence, redemption, the Church, and eternal life. The 2011 TranscUlturAl edition names the author as anonymous and says the work is believed to have been compiled from writings of St John Chrysostom. This edition joins the journal's physical line wrapping and renders one typographic dash as a hyphen.",
+  "digitized": "University of Alberta Libraries",
+  "rights": "This work is licensed under a Creative Commons Attribution 3.0 License.",
+  "license": "Creative Commons Attribution 3.0",
+  "rights_url": "https://creativecommons.org/licenses/by/3.0/",
+  "attribution": "Introduction and translation from Ukrainian by Iaroslav Pankovskyi, University of Alberta",
+  "license_attribution": "Iaroslav Pankovskyi, \"ACATHISTUS: Gratitude to God for Everything,\" TranscUlturAl 1, no. 4 (2011): 91-102, https://journals.library.ualberta.ca/tc/index.php/TC/article/download/9850/7751/24819, licensed CC BY 3.0",
+  "license_changes": "The journal's physical line wrapping is omitted. Its en dash in Kontakion 1 is set as a hyphen under the Plithos house text rule.",
+  "original_source": "Akafist podiaka Bohovi za vse (Lviv: Strim, 2002)",
+  "source_language": "Ukrainian",
+  "saint": null,
+  "is_saint": false,
+  "purpose": "The life of prayer",
+  "centuries": [
+   21
+  ],
+  "century": 21,
+  "period": "21st century",
+  "topics": [
+   "Prayer",
+   "Creation",
+   "Free will and providence",
+   "The Holy Trinity"
   ]
  },
  {
@@ -2542,7 +2617,14 @@
   "century": 19,
   "period": "19th century",
   "service_count": 39,
-  "unit_count": 157
+  "unit_count": 157,
+  "topics": [
+   "Prayer",
+   "Baptism and chrismation",
+   "Marriage and virginity",
+   "The departed",
+   "Bishops, priests and deacons"
+  ]
  },
  {
   "work_id": "eusebius-church-history",
@@ -2635,7 +2717,15 @@
    19
   ],
   "century": 19,
-  "period": "19th century"
+  "period": "19th century",
+  "topics": [
+   "Prayer",
+   "Baptism and chrismation",
+   "Marriage and virginity",
+   "The departed",
+   "Bishops, priests and deacons",
+   "Angels and demons"
+  ]
  },
  {
   "work_id": "gregory-great-pastoral-rule",
@@ -4283,7 +4373,14 @@
    20
   ],
   "century": 20,
-  "period": "20th century"
+  "period": "20th century",
+  "topics": [
+   "Prayer",
+   "Baptism and chrismation",
+   "Marriage and virginity",
+   "The departed",
+   "Bishops, priests and deacons"
+  ]
  },
  {
   "work_id": "seventh-council-of-carthage",

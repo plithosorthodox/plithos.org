@@ -2,7 +2,7 @@
   "format": "plithos-library-catalog-i18n-language-source",
   "version": 1,
   "language": "pt",
-  "catalog_sha256": "cd6661d7259ef6f8a7cc16c8c682100780fe972796bf312d5ef65a85f8c5224b",
+  "catalog_sha256": "7d609d0ed997eff0a0a227cc1571db617b1505ba344ed85af8d4865f809545b7",
   "terms": {
     "19th century": "século XIX",
     "20th century": "século XX",
@@ -11,7 +11,8 @@
     "The Great Church of Constantinople, Patriarch Anthimus VII and the Holy Synod": "A Grande Igreja de Constantinopla, o patriarca Ântimo VII e o Santo Sínodo",
     "The eighty-seven bishops at Carthage": "Os oitenta e sete bispos reunidos em Cartago",
     "21st century": "século XXI",
-    "Orthodox Church": "Igreja Ortodoxa"
+    "Orthodox Church": "Igreja Ortodoxa",
+    "St Innocent of Kherson and Taurida": "São Inocêncio de Quérson e Táurida"
   },
   "works": {
     "acts-of-sharbil": {
@@ -33,6 +34,16 @@
     "akathist-theotokos-en": {
       "title": "Hino Acátisto à Santíssima Mãe de Deus (inglês)",
       "description": "Cantado de pé, como indica o nome, nas sextas-feiras do Grande Jejum e por inteiro no sábado da quinta semana. São vinte e quatro estrofes cujas iniciais percorrem o alfabeto e cento e quarenta e quatro saudações que começam com Salve, cada uma dirigida à Mãe de Deus, precedidas por um kontakion e seguidas por um décimo terceiro. O hino data do século VI; a Igreja há muito inclui Romano, o Melodista, entre seus possíveis autores, sem afirmá-lo com certeza. Este é o texto inglês da edição publicada em Londres em 1919 para uso da Igreja Ortodoxa Grega local. Ela apresenta o grego e o inglês em páginas opostas e organiza ambos segundo o andamento do ofício, indicando a parte do sacerdote e a resposta do coro. Os tradutores criaram um alfabeto próprio em paralelo ao acróstico grego: as vinte e quatro estrofes começam com as letras de A a Z, omitindo J e X para manter o mesmo total."
+    },
+    "akathist-divine-passion-en": {
+      "title": "Acátisto, ou Orações em honra da Divina Paixão de nosso Senhor Jesus Cristo",
+      "description": "A edição de 1859 identifica o autor como Inocêncio, Arcebispo de Odessa; ele é venerado como São Inocêncio de Quérson e Táurida. O ofício completo de São Inocêncio em honra da Divina Paixão de Cristo, na tradução inglesa de John Mason Neale. Contém as orações iniciais, odes e cânone, o Acátisto completo de treze kontakia e doze ikoi, a adoração das cinco chagas e as odes, louvores e tropários finais. A redação, as maiúsculas, a pontuação e a ordem das seções são as da edição de 1859.",
+      "date": "composto antes de 1857; esta tradução inglesa é de 1859"
+    },
+    "akathist-thanksgiving-en": {
+      "title": "ACATHISTUS: Gratidão a Deus por tudo (inglês)",
+      "description": "Tradução inglesa completa do ucraniano Akafist podiaka Bohovi za vse: treze kontakia e doze ikoi em ação de graças a Deus pelos dons visíveis e invisíveis da criação, da providência, da redenção, da Igreja e da vida eterna. A edição de 2011 da TranscUlturAl declara que o autor é anônimo e que se acredita que a obra tenha sido compilada a partir de escritos de São João Crisóstomo. Esta edição reúne as quebras físicas de linha da revista e apresenta um traço tipográfico como hífen.",
+      "date": "data desconhecida; esta tradução inglesa é de 2011"
     },
     "aphrahat-select-demonstrations": {
       "title": "Demonstrações escolhidas",

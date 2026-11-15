@@ -2,12 +2,13 @@
   "format": "plithos-library-catalog-i18n-language-source",
   "version": 1,
   "language": "ko",
-  "catalog_sha256": "cd6661d7259ef6f8a7cc16c8c682100780fe972796bf312d5ef65a85f8c5224b",
+  "catalog_sha256": "7d609d0ed997eff0a0a227cc1571db617b1505ba344ed85af8d4865f809545b7",
   "terms": {
     "19th century": "19세기",
     "20th century": "20세기",
     "Anonymous": "익명",
     "Evagrius Scholasticus": "에바그리오스 스콜라스티코스",
+    "St Innocent of Kherson and Taurida": "헤르손과 타우리다의 성 인노켄티",
     "The Great Church of Constantinople, Patriarch Anthimus VII and the Holy Synod": "콘스탄티노폴리스 대교회, 총대주교 안티모스 7세와 성 시노드",
     "The eighty-seven bishops at Carthage": "카르타고의 87명 주교",
     "21st century": "21세기",
@@ -21,6 +22,16 @@
     "akathist-athanasius-athos-cu": {
       "title": "아토스의 기적행자, 우리 존경하올 하느님을 모신 아버지 아타나시오스에게 드리는 아카티스토스",
       "description": "아토스의 성 아타나시오스에게 드리는 교회 슬라브어 아카티스토스. 아토스 산 러시아 승천 스키테가 발행하고 모스크바 시노드 인쇄소가 1908년에 인쇄한 판본을 재현하였다. 판본의 활자상 긴 줄표는 하이픈으로 바꾸었다."
+    },
+    "akathist-divine-passion-en": {
+      "title": "우리 주 예수 그리스도의 거룩한 수난을 공경하는 아카티스토스 또는 기도문",
+      "description": "1859년 판본은 저자를 오데사의 인노켄티 대주교로 밝힙니다. 그는 헤르손과 타우리다의 성 인노켄티로 공경받습니다. 성 인노켄티가 그리스도의 거룩한 수난을 공경하여 지은 완전한 예식으로, John Mason Neale의 영어 번역입니다. 시작 기도, 송가와 정경, 13개의 콘타키온과 12개의 이코스로 이루어진 완전한 아카티스토스, 다섯 상처에 대한 경배, 마침 송가와 찬양과 트로파리온을 수록합니다. 어휘, 대문자 표기, 문장 부호와 절의 순서는 1859년 판본을 따릅니다.",
+      "date": "1857년 이전에 지음; 이 영어 번역은 1859년"
+    },
+    "akathist-thanksgiving-en": {
+      "title": "ACATHISTUS: 모든 것에 대하여 하느님께 드리는 감사 (영어)",
+      "description": "우크라이나어 Akafist podiaka Bohovi za vse의 완전한 영어 번역입니다. 창조, 섭리, 구원, 교회와 영원한 생명이라는 하느님의 보이는 은사와 보이지 않는 은사에 감사드리는 13개의 콘타키온과 12개의 이코스로 이루어집니다. 2011년 TranscUlturAl 판본은 저자를 익명으로 밝히고, 이 작품이 성 요한 크리소스토모스의 저술을 바탕으로 편찬된 것으로 여겨진다고 설명합니다. 이 판본은 학술지 지면에서 나뉜 줄을 이어 붙이고 활자상 긴 줄표 하나를 하이픈으로 바꾸었습니다.",
+      "date": "연대 미상; 이 영어 번역은 2011년"
     },
     "akathist-kazan-icon-cu": {
       "title": "지극히 거룩하신 하느님의 어머니의 기적을 행하는 카잔 이콘 출현 아카티스토스",

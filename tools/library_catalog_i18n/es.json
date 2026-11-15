@@ -1,5 +1,5 @@
 {
-  "catalog_sha256": "cd6661d7259ef6f8a7cc16c8c682100780fe972796bf312d5ef65a85f8c5224b",
+  "catalog_sha256": "7d609d0ed997eff0a0a227cc1571db617b1505ba344ed85af8d4865f809545b7",
   "format": "plithos-library-catalog-i18n-language-source",
   "language": "es",
   "terms": {
@@ -10,7 +10,8 @@
     "The Great Church of Constantinople, Patriarch Anthimus VII and the Holy Synod": "La Gran Iglesia de Constantinopla, el patriarca Ántimo VII y el Santo Sínodo",
     "The eighty-seven bishops at Carthage": "Los ochenta y siete obispos de Cartago",
     "21st century": "siglo XXI",
-    "Orthodox Church": "Iglesia Ortodoxa"
+    "Orthodox Church": "Iglesia Ortodoxa",
+    "St Innocent of Kherson and Taurida": "San Inocencio, arzobispo de Jersón y Táurida"
   },
   "version": 1,
   "works": {
@@ -33,6 +34,16 @@
     "akathist-theotokos-en": {
       "description": "Se canta de pie, como indica su nombre, los viernes de la Gran Cuaresma y completo el sábado de la quinta semana. Consta de veinticuatro estrofas cuyas letras iniciales recorren el alfabeto y de ciento cuarenta y cuatro salutaciones que comienzan con \"Salve\", cada una dirigida a la Madre de Dios. Un kontakion las precede y un decimotercer kontakion cierra el himno. Data del siglo VI; la Iglesia ha contado desde antiguo a Romanos el Melodista entre sus posibles autores, sin afirmarlo con certeza. Esta es la versión inglesa de la edición publicada en Londres en 1919 para uso de la Iglesia Ortodoxa Griega local. Presenta el griego y el inglés en páginas enfrentadas y ordena ambos textos según se canta el oficio, señalando la parte del sacerdote y la respuesta del coro. Los traductores construyeron un alfabeto propio que corresponde al acróstico griego: las veinticuatro estrofas van de la A a la Z, omitiendo J y X para conservar el mismo número.",
       "title": "Himno acatisto a la Santísima Madre de Dios (inglés)"
+    },
+    "akathist-divine-passion-en": {
+      "description": "La edición de 1859 identifica al autor como Inocencio, arzobispo de Odesa; es venerado como san Inocencio de Jersón y Táurida. Este es su oficio completo en honor de la Divina Pasión de Cristo, en la traducción inglesa de John Mason Neale. Contiene las oraciones iniciales, odas y canon, el acatisto completo de trece kontakion y doce ikos, la veneración de las cinco llagas y las odas, alabanzas y troparios finales. La redacción, el uso de mayúsculas, la puntuación y el orden de las secciones siguen la edición de 1859.",
+      "title": "Acatisto, o oraciones en honor de la Divina Pasión de nuestro Señor Jesucristo",
+      "date": "compuesto antes de 1857; esta traducción inglesa es de 1859"
+    },
+    "akathist-thanksgiving-en": {
+      "description": "Traducción inglesa completa del ucraniano Akafist podiaka Bohovi za vse: trece kontakion y doce ikos de acción de gracias a Dios por los dones visibles e invisibles de la creación, la providencia, la redención, la Iglesia y la vida eterna. La edición de TranscUlturAl de 2011 indica que el autor es anónimo y que se cree que la obra fue compilada a partir de escritos de san Juan Crisóstomo. Esta edición une las líneas separadas por la disposición física de la revista y representa una raya tipográfica como guion corto.",
+      "title": "ACATISTO: Gratitud a Dios por todo (inglés)",
+      "date": "fecha desconocida; esta traducción inglesa es de 2011"
     },
     "aphrahat-select-demonstrations": {
       "caution": "Aquí no se da a Afraates el título de santo. La Iglesia ortodoxa conmemora el 29 de enero a un persa llamado Afraates, pero se trata de otro hombre: el ermitaño de Antioquía a quien Teodoreto conoció de niño y que murió unos sesenta años después que el Sabio. Ambos se confunden constantemente. Nada de lo escrito por Afraates fue censurado jamás, y ningún concilio lo menciona; escribió un siglo antes de Éfeso, en una Iglesia que todavía no había sido dividida por las controversias que pronto surgirían en el mundo griego. Su octava Demostración enseña que el alma duerme en la tumba hasta la resurrección, doctrina que la Iglesia no sostiene; lo que ella enseña se expresa en sus propias oraciones por los difuntos.",

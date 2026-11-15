@@ -75,6 +75,7 @@ CATALOG_OVERLAY_TERMS = {
     "20th century",
     "Anonymous",
     "Evagrius Scholasticus",
+    "St Innocent of Kherson and Taurida",
     "The Great Church of Constantinople, Patriarch Anthimus VII and the Holy Synod",
     "The eighty-seven bishops at Carthage",
 }

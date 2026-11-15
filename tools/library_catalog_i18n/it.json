@@ -2,12 +2,13 @@
   "format": "plithos-library-catalog-i18n-language-source",
   "version": 1,
   "language": "it",
-  "catalog_sha256": "cd6661d7259ef6f8a7cc16c8c682100780fe972796bf312d5ef65a85f8c5224b",
+  "catalog_sha256": "7d609d0ed997eff0a0a227cc1571db617b1505ba344ed85af8d4865f809545b7",
   "terms": {
     "19th century": "XIX secolo",
     "20th century": "XX secolo",
     "Anonymous": "Anonimo",
     "Evagrius Scholasticus": "Evagrio Scolastico",
+    "St Innocent of Kherson and Taurida": "Sant'Innocenzo di Cherson e Tauride",
     "The Great Church of Constantinople, Patriarch Anthimus VII and the Holy Synod": "La Grande Chiesa di Costantinopoli, il Patriarca Antimo VII e il Santo Sinodo",
     "The eighty-seven bishops at Carthage": "Gli ottantasette vescovi a Cartagine",
     "21st century": "XXI secolo",
@@ -21,6 +22,16 @@
     "akathist-athanasius-athos-cu": {
       "title": "Acatisto al nostro venerabile padre Atanasio l'Atonita, taumaturgo (slavo ecclesiastico)",
       "description": "L'acatisto in slavo ecclesiastico a Sant'Atanasio dell'Athos, riprodotto dall'edizione del 1908 della Tipografia sinodale di Mosca, pubblicata dallo skite russo dell'Ascensione sul Monte Athos. I trattini sostituiscono i segni tipografici dell'edizione."
+    },
+    "akathist-divine-passion-en": {
+      "description": "L'edizione del 1859 identifica l'autore come Innocenzo, arcivescovo di Odessa; egli è venerato come sant'Innocenzo di Cherson e Tauride. L'ufficio completo di sant'Innocenzo in onore della divina Passione di Cristo è presentato nella traduzione inglese di John Mason Neale. Comprende le preghiere iniziali, le odi e il canone, l'acatisto completo di tredici kontakia e dodici ikoi, l'adorazione delle cinque piaghe e le odi, le lodi e i tropari conclusivi. Le parole, l'uso delle maiuscole, la punteggiatura e l'ordine delle sezioni sono quelli dell'edizione del 1859.",
+      "title": "Acatisto; ovvero, preghiere in onore della divina Passione di nostro Signore Gesù Cristo",
+      "date": "composto prima del 1857; questa traduzione inglese è del 1859"
+    },
+    "akathist-thanksgiving-en": {
+      "description": "Traduzione inglese completa dell'ucraino Akafist podiaka Bohovi za vse: tredici kontakia e dodici ikoi di ringraziamento a Dio per i doni visibili e invisibili della creazione, della provvidenza, della redenzione, della Chiesa e della vita eterna. L'edizione TranscUlturAl del 2011 indica l'autore come anonimo e afferma che si ritiene che l'opera sia stata composta sulla base degli scritti di san Giovanni Crisostomo. Questa edizione ricongiunge le righe spezzate dall'impaginazione della rivista e sostituisce un tratto tipografico lungo con un trattino breve.",
+      "title": "ACATHISTUS: Gratitudine a Dio per ogni cosa (inglese)",
+      "date": "data sconosciuta; questa traduzione inglese è del 2011"
     },
     "akathist-kazan-icon-cu": {
       "title": "Acatisto alla Santissima Madre di Dio davanti alla sua miracolosa icona di Kazan (slavo ecclesiastico)",
