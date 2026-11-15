@@ -1,0 +1,272 @@
+{
+  "v": 1,
+  "countries": [
+    "GR"
+  ],
+  "checked": "2026-11-15",
+  "method": "Publish all 85 exact bodies displayed by the four official regional tables, the current monastic institutions and metochia named by the Metropolis and Ecumenical Patriarchate, and only additional worship bodies whose current use is stated by a first-party Church source. Preserve exact monastic churches and chapels named by the monastery-owned source. Hold aggregate-only gaps, historic-only profiles, unresolved identities, non-worship institutions, and search or map leads.",
+  "published_summary": {
+    "ep-kitros": 139,
+    "total": 139,
+    "displayed_regional_church_rows": 85,
+    "regional_parish_church_rows": 81,
+    "parish_kind_rows": 94,
+    "monastery_kind_rows": 45,
+    "contact_bodies": 95,
+    "phone_bodies": 95,
+    "public_phone_values": 99,
+    "email_bodies": 3,
+    "public_email_values": 4,
+    "body_owned_sites": 3,
+    "address_bodies": 139
+  },
+  "candidates": [
+    {
+      "candidate_id": "gr-ep-kitros-parish-aggregate-gap",
+      "parent": "ep-kitros",
+      "country": "GR",
+      "category": "aggregate-only",
+      "status": "held",
+      "reason": "The current local services page reports 91 parish churches, while the current Ecumenical Patriarchate profile reports 92. The four regional tables display 85 exact church rows, of which 81 are represented as parish churches, two as cemetery churches, one as a hospital church, and one as the cathedral. No row is invented to force either aggregate.",
+      "local_aggregate": 91,
+      "patriarchate_aggregate": 92,
+      "displayed_exact_rows": 85,
+      "sources": [
+        "https://imkitrous.gr/%CE%BC%CE%B7%CF%84%CF%81%CF%8C%CF%80%CE%BF%CE%BB%CE%B7/%CF%85%CF%80%CE%B7%CF%81%CE%B5%CF%83%CE%AF%CE%B5%CF%82/",
+        "https://imkitrous.gr/%CE%BC%CE%B7%CF%84%CF%81%CF%8C%CF%80%CE%BF%CE%BB%CE%B7/%CE%B1%CF%81%CF%87%CE%B9%CE%B5%CF%81%CE%B1%CF%84%CE%B9%CE%BA%CE%AD%CF%82-%CF%80%CE%B5%CF%81%CE%B9%CF%86%CE%AD%CF%81%CE%B5%CE%B9%CE%B5%CF%82/",
+        "https://ec-patr.org/entities/iera-mitropoli-kitroys/"
+      ]
+    },
+    {
+      "candidate_id": "gr-ep-kitros-unnamed-chapel-aggregate",
+      "parent": "ep-kitros",
+      "country": "GR",
+      "category": "aggregate-only",
+      "status": "held",
+      "reason": "The local services page and Ecumenical Patriarchate each report 155 inland chapels. Exact current chapels and pilgrimage bodies are published only when an official body page names and describes them. No unnamed remainder is created from the aggregate.",
+      "aggregate_count": 155,
+      "sources": [
+        "https://imkitrous.gr/%CE%BC%CE%B7%CF%84%CF%81%CF%8C%CF%80%CE%BF%CE%BB%CE%B7/%CF%85%CF%80%CE%B7%CF%81%CE%B5%CF%83%CE%AF%CE%B5%CF%82/",
+        "https://ec-patr.org/entities/iera-mitropoli-kitroys/"
+      ]
+    },
+    {
+      "candidate_id": "gr-ep-kitros-historic-monument-profiles",
+      "parent": "ep-kitros",
+      "country": "GR",
+      "category": "historic-status-unclear",
+      "status": "held",
+      "reason": "Several official monument profiles identify a historic church building but do not establish a current independent worship role. These include Panagia Kontariotissa, Saint Athanasius and the Dormition at Old Skotina, Saint George at Mesea Milia, Saint Nicholas at Morna, Saint Nicholas at Old Vrontou, Holy Trinity Cemetery Church at Old Leptokarya, Saint Demetrius at Kolindros, Saint Panteleimon at Old Panteleimon, and Saint Nicholas at Old Elatochori. They remain held until a current first-party source establishes present worship status and exact dependency.",
+      "sources": [
+        "https://imkitrous.gr/%CE%B8%CF%81%CE%B7%CF%83%CE%BA%CE%B5%CF%85%CF%84%CE%B9%CE%BA%CE%AC-%CE%BC%CE%BD%CE%B7%CE%BC%CE%B5%CE%AF%CE%B1/"
+      ]
+    },
+    {
+      "candidate_id": "gr-ep-kitros-nea-ephesus-john-dedication-conflict",
+      "parent": "ep-kitros",
+      "country": "GR",
+      "category": "identity-conflict",
+      "status": "held",
+      "reason": "The regional table names Saint John the Theologian as the second church at Nea Ephesus and supplies its telephone. The monument profile calls Saint John the Forerunner the second parish at Nea Ephesus. Because both descriptions claim the same ordinal role, no second Saint John body is created and the regional roster form is retained pending competent clarification.",
+      "sources": [
+        "https://imkitrous.gr/%CE%BC%CE%B7%CF%84%CF%81%CF%8C%CF%80%CE%BF%CE%BB%CE%B7/%CE%B1%CF%81%CF%87%CE%B9%CE%B5%CF%81%CE%B1%CF%84%CE%B9%CE%BA%CE%AD%CF%82-%CF%80%CE%B5%CF%81%CE%B9%CF%86%CE%AD%CF%81%CE%B5%CE%B9%CE%B5%CF%82/%CE%B3-%CE%B1%CF%81%CF%87%CE%B9%CE%B5%CF%81%CE%B1%CF%84%CE%B9%CE%BA%CE%AE-%CF%80%CE%B5%CF%81%CE%B9%CF%86%CE%AD%CF%81%CE%B5%CE%B9%CE%B1-%CE%BA%CE%B1%CF%84%CE%B5%CF%81%CE%AF%CE%BD%CE%B7%CF%82/",
+        "https://imkitrous.gr/monuments/%CE%B9%CE%B5%CF%81%CF%8C%CF%82-%CE%BD%CE%B1%CF%8C%CF%82-%CF%80%CF%81%CE%BF%CE%B4%CF%81%CF%8C%CE%BC%CE%BF%CF%85-%CE%BD-%CE%B5%CF%86%CE%AD%CF%83%CE%BF%CF%85/"
+      ]
+    },
+    {
+      "candidate_id": "gr-ep-kitros-prophet-elijah-olympus",
+      "parent": "ep-kitros",
+      "country": "GR",
+      "category": "current-status-unclear",
+      "status": "held",
+      "reason": "The official pilgrimage profile has the title Prophet Elijah of Olympus but no body text establishing its exact present rank, dependency, or worship status. The title alone is not expanded into a directory body.",
+      "sources": [
+        "https://imkitrous.gr/monuments/%CF%80%CF%81%CE%BF%CF%86%CE%AE%CF%84%CE%B7%CF%82-%CE%B7%CE%BB%CE%AF%CE%B1%CF%82-%CE%BF%CE%BB%CF%8D%CE%BC%CF%80%CE%BF%CF%85/"
+      ]
+    },
+    {
+      "candidate_id": "gr-ep-kitros-livadi-anastasia-church",
+      "parent": "ep-kitros",
+      "country": "GR",
+      "category": "current-status-unclear",
+      "status": "held",
+      "reason": "The Prophet Elijah metochion profile says that a church of Venerable Anastasia the Roman was founded in 1990 but gives no current completion or operation statement. The exact current metochion and its Prophet Elijah church are published, while this additional church remains held.",
+      "sources": [
+        "https://imkitrous.gr/monuments/%CE%BC%CE%BF%CE%BD%CE%B1%CF%83%CF%84%CE%AE%CF%81%CE%B9-%CF%80%CF%81%CE%BF%CF%86%CE%AE%CF%84%CE%B7-%CE%B7%CE%BB%CE%AF%CE%B1/"
+      ]
+    },
+    {
+      "candidate_id": "gr-ep-kitros-ephraim-unnamed-small-chapels",
+      "parent": "ep-kitros",
+      "country": "GR",
+      "category": "aggregate-only",
+      "status": "held",
+      "reason": "The monastery-owned page says that other small chapels and sacred shrines surround the monastery without naming them. Every exact named worship space on that page is published, but no row is inferred for an unnamed space.",
+      "sources": [
+        "http://imociosefraimsyr.gr/peribalon.html"
+      ]
+    },
+    {
+      "candidate_id": "gr-ep-kitros-panorama-hesychasterion-metochion",
+      "parent": "ep-kitros",
+      "country": "GR",
+      "category": "external-dependency",
+      "status": "held",
+      "reason": "The local monastery page names a metochion at Ritini of the Nativity of the Theotokos Hesychasterion in Panorama, Thessaloniki and prints 2310-343901. Its own title makes it a dependency of an external mother house rather than a subordinate body of ep-kitros. It remains held here for correct parent reconciliation, and its telephone is not attached to another Kitros body.",
+      "sources": [
+        "https://imkitrous.gr/%CE%BC%CE%B7%CF%84%CF%81%CF%8C%CF%80%CE%BF%CE%BB%CE%B7/%CE%B9%CE%B5%CF%81%CE%AD%CF%82-%CE%BC%CE%BF%CE%BD%CE%AD%CF%82/"
+      ]
+    },
+    {
+      "candidate_id": "gr-ep-kitros-non-worship-institutions",
+      "parent": "ep-kitros",
+      "country": "GR",
+      "category": "outside-directory-kind",
+      "status": "held",
+      "reason": "The Ecumenical Patriarchate profile names the Barnabeios Ecclesiastical Library, an Episcopal Museum, the Ecclesiastical Byzantine Museum at Saint Dionysius Monastery, an archive of ecclesiastical treasures, a Byzantine Music School, the Metropolitan Council, and the Episcopal Court. They are exact current Church institutions but not worship or monastic bodies within the directory's permitted kinds, so they remain documented here rather than forced into a church row.",
+      "sources": [
+        "https://ec-patr.org/entities/iera-mitropoli-kitroys/"
+      ]
+    },
+    {
+      "candidate_id": "gr-ep-kitros-search-map-leads",
+      "parent": "ep-kitros",
+      "country": "GR",
+      "category": "affiliation-unclear",
+      "status": "discovery-only",
+      "reason": "Search and map results may identify further buildings or contact routes but cannot establish current exact identity, canonical parentage, or body ownership. Such leads remain unpublished until a competent first-party Church source confirms them.",
+      "sources": [
+        "https://imkitrous.gr/%CE%BC%CE%B7%CF%84%CF%81%CF%8C%CF%80%CE%BF%CE%BB%CE%B7/%CE%B1%CF%81%CF%87%CE%B9%CE%B5%CF%81%CE%B1%CF%84%CE%B9%CE%BA%CE%AD%CF%82-%CF%80%CE%B5%CF%81%CE%B9%CF%86%CE%AD%CF%81%CE%B5%CE%B9%CE%B5%CF%82/",
+        "https://ec-patr.org/entities/iera-mitropoli-kitroys/"
+      ]
+    }
+  ],
+  "source_reconciliations": [
+    {
+      "topic": "regional-roster-and-aggregate",
+      "finding": "The four official regional pages display 33, 18, 16, and 18 exact rows, totaling 85. They are all published in source order. Their displayed roles resolve to 81 parish churches, two cemetery churches, one hospital church, and one cathedral. The local aggregate of 91 and Patriarchate aggregate of 92 remain separate unresolved counts.",
+      "sources": [
+        "https://imkitrous.gr/%CE%BC%CE%B7%CF%84%CF%81%CF%8C%CF%80%CE%BF%CE%BB%CE%B7/%CE%B1%CF%81%CF%87%CE%B9%CE%B5%CF%81%CE%B1%CF%84%CE%B9%CE%BA%CE%AD%CF%82-%CF%80%CE%B5%CF%81%CE%B9%CF%86%CE%AD%CF%81%CE%B5%CE%B9%CE%B5%CF%82/",
+        "https://imkitrous.gr/%CE%BC%CE%B7%CF%84%CF%81%CF%8C%CF%80%CE%BF%CE%BB%CE%B7/%CF%85%CF%80%CE%B7%CF%81%CE%B5%CF%83%CE%AF%CE%B5%CF%82/",
+        "https://ec-patr.org/entities/iera-mitropoli-kitroys/"
+      ]
+    },
+    {
+      "topic": "monastic-institutions-and-metochia",
+      "finding": "Nine current or under-foundation monastic communities are published from the current Patriarchate profile and local monastery page: three male communities and six female communities. Saint Solomone at Litochoro and the Prophet Elijah dependency of Gregoriou Monastery at Livadi Kolindros are published as two exact metochia. The Panorama Hesychasterion metochion at Ritini is held for its external mother-house parent. Under-foundation status is stated in the rank rather than concealed.",
+      "sources": [
+        "https://ec-patr.org/entities/iera-mitropoli-kitroys/",
+        "https://imkitrous.gr/%CE%BC%CE%B7%CF%84%CF%81%CF%8C%CF%80%CE%BF%CE%BB%CE%B7/%CE%B9%CE%B5%CF%81%CE%AD%CF%82-%CE%BC%CE%BF%CE%BD%CE%AD%CF%82/"
+      ]
+    },
+    {
+      "topic": "exact-monastic-worship-spaces",
+      "finding": "The institution rows remain distinct from 34 exact dependent worship spaces named by the first-party sources: monastery churches, chapels, one cemetery church, one kathisma, and the Old Saint Dionysius Holy Trinity church in its separately confirmed present pilgrimage and feast use. The unnamed small-chapel remainder at Venerable Ephraim Monastery is held.",
+      "sources": [
+        "http://imociosefraimsyr.gr/peribalon.html",
+        "https://imkitrous.gr/%CE%B8%CF%81%CE%B7%CF%83%CE%BA%CE%B5%CF%85%CF%84%CE%B9%CE%BA%CE%AC-%CE%BC%CE%BD%CE%B7%CE%BC%CE%B5%CE%AF%CE%B1/",
+        "https://ec-patr.org/entities/iera-mitropoli-kitroys/"
+      ]
+    },
+    {
+      "topic": "monument-profile-boundary",
+      "finding": "The official monuments collection contains 43 profiles across nine monastery profiles, 25 church or parish-chapel profiles, five pilgrimages, and four archaeological sites. Regional-roster overlaps are published once. Additional rows are added only where the profile expressly establishes current parish, chapel, country-church, public-worship, shrine, or pilgrimage use. Historic-only and archaeological profiles remain held.",
+      "sources": [
+        "https://imkitrous.gr/%CE%B8%CF%81%CE%B7%CF%83%CE%BA%CE%B5%CF%85%CF%84%CE%B9%CE%BA%CE%AC-%CE%BC%CE%BD%CE%B7%CE%BC%CE%B5%CE%AF%CE%B1/"
+      ]
+    },
+    {
+      "topic": "saint-george-ritini-telephone-conflict",
+      "finding": "The current local monastery page prints 694 9221787 for Saint George Monastery at Ritini, while the current Ecumenical Patriarchate profile prints 6946.057.706. Both public body-associated values are retained with both sources rather than choosing one silently.",
+      "sources": [
+        "https://imkitrous.gr/%CE%BC%CE%B7%CF%84%CF%81%CF%8C%CF%80%CE%BF%CE%BB%CE%B7/%CE%B9%CE%B5%CF%81%CE%AD%CF%82-%CE%BC%CE%BF%CE%BD%CE%AD%CF%82/",
+        "https://ec-patr.org/entities/iera-mitropoli-kitroys/"
+      ]
+    },
+    {
+      "topic": "body-contact-and-site-boundary",
+      "finding": "Every public telephone, email, and body-owned site tied by a first-party source to a published body is carried. This includes mobile and potentially clergy-linked routes, but no clergy name is copied and no route is characterized as an office line unless its source does so. Parent Metropolis office contacts are not copied to subordinate bodies. Saint Anna, Saint Dionysius Monastery, and Venerable Ephraim Monastery have body-owned sites; all other rows retain the higher-level source only.",
+      "sources": [
+        "https://www.agiaanna.net/Contact.aspx",
+        "https://imado.gr/",
+        "http://imociosefraimsyr.gr/contact.html"
+      ]
+    },
+    {
+      "topic": "saint-dionysius-email-display-conflict",
+      "finding": "The Saint Dionysius monastery-owned site visibly prints m@imado.gr while its mail link targets info@imado.gr. Both public values are retained as published, without treating either as corrected or preferred.",
+      "sources": [
+        "https://imado.gr/"
+      ]
+    }
+  ],
+  "official_parent_audit": [
+    {
+      "topic": "canonical-parent",
+      "finding": "The Ecumenical Patriarchate identifies the Holy Metropolis of Kitros, Katerini and Platamon and supplies its current church aggregates, monastic institutions, metochion, contacts, and institutional context. The local Metropolis site supplies the exact regional rosters and current subordinate profiles.",
+      "sources": [
+        "https://ec-patr.org/entities/iera-mitropoli-kitroys/",
+        "https://imkitrous.gr/%CE%BC%CE%B7%CF%84%CF%81%CF%8C%CF%80%CE%BF%CE%BB%CE%B7/%CE%B1%CF%81%CF%87%CE%B9%CE%B5%CF%81%CE%B1%CF%84%CE%B9%CE%BA%CE%AD%CF%82-%CF%80%CE%B5%CF%81%CE%B9%CF%86%CE%AD%CF%81%CE%B5%CE%B9%CE%B5%CF%82/",
+        "https://imkitrous.gr/%CE%BC%CE%B7%CF%84%CF%81%CF%8C%CF%80%CE%BF%CE%BB%CE%B7/%CE%B9%CE%B5%CF%81%CE%AD%CF%82-%CE%BC%CE%BF%CE%BD%CE%AD%CF%82/"
+      ]
+    },
+    {
+      "topic": "current-published-coverage",
+      "finding": "The tranche publishes 139 exact current bodies: 94 parish-kind rows and 45 monastery-kind rows. These comprise the 85 displayed regional rows, nine additional current worship bodies, 11 monastic institutions or metochia, and 34 exact dependent monastic worship spaces. Every row carries a Greek local name, locality or address, and one to three first-party sources.",
+      "sources": [
+        "https://imkitrous.gr/%CE%BC%CE%B7%CF%84%CF%81%CF%8C%CF%80%CE%BF%CE%BB%CE%B7/%CE%B1%CF%81%CF%87%CE%B9%CE%B5%CF%81%CE%B1%CF%84%CE%B9%CE%BA%CE%AD%CF%82-%CF%80%CE%B5%CF%81%CE%B9%CF%86%CE%AD%CF%81%CE%B5%CE%B9%CE%B5%CF%82/",
+        "https://imkitrous.gr/%CE%B8%CF%81%CE%B7%CF%83%CE%BA%CE%B5%CF%85%CF%84%CE%B9%CE%BA%CE%AC-%CE%BC%CE%BD%CE%B7%CE%BC%CE%B5%CE%AF%CE%B1/",
+        "https://ec-patr.org/entities/iera-mitropoli-kitroys/"
+      ]
+    }
+  ],
+  "exclusions": [
+    {
+      "topic": "archaeological-and-memorial-profiles",
+      "finding": "The Ancient Dion cemetery basilica, the Louloudies episcopal complex, the Ancient Dion episcopal basilica, the Apostle Paul passage monument, and the Ancient Pydna departure-harbor profile are archaeological or memorial places rather than exact current worship or monastic bodies. They are reconciled against the 43-profile monuments collection but are not published as directory bodies.",
+      "sources": [
+        "https://imkitrous.gr/%CE%B8%CF%81%CE%B7%CF%83%CE%BA%CE%B5%CF%85%CF%84%CE%B9%CE%BA%CE%AC-%CE%BC%CE%BD%CE%B7%CE%BC%CE%B5%CE%AF%CE%B1/"
+      ]
+    },
+    {
+      "topic": "aggregate-only-bodies",
+      "finding": "No parish, chapel, monastery, church, shrine, or other body is inferred solely from an aggregate count.",
+      "sources": [
+        "https://imkitrous.gr/%CE%BC%CE%B7%CF%84%CF%81%CF%8C%CF%80%CE%BF%CE%BB%CE%B7/%CF%85%CF%80%CE%B7%CF%81%CE%B5%CF%83%CE%AF%CE%B5%CF%82/",
+        "https://ec-patr.org/entities/iera-mitropoli-kitroys/"
+      ]
+    },
+    {
+      "topic": "historic-and-ambiguous-bodies",
+      "finding": "Historic monument profiles lacking a current worship statement, unresolved duplicate identities, incomplete additional churches, and title-only profiles remain in this ledger rather than appearing as current directory bodies.",
+      "sources": [
+        "https://imkitrous.gr/%CE%B8%CF%81%CE%B7%CF%83%CE%BA%CE%B5%CF%85%CF%84%CE%B9%CE%BA%CE%AC-%CE%BC%CE%BD%CE%B7%CE%BC%CE%B5%CE%AF%CE%B1/"
+      ]
+    },
+    {
+      "topic": "non-worship-institutions",
+      "finding": "Libraries, museums, archives, schools, councils, courts, and parent administrative offices are not forced into the directory's church, parish, monastery, or seat kinds. Saint Sophia is published because the official current post establishes an exact active worship body at the institutions complex.",
+      "sources": [
+        "https://ec-patr.org/entities/iera-mitropoli-kitroys/",
+        "https://imkitrous.gr/%CF%80%CE%B1%CE%BD%CE%B7%CE%B3%CF%8D%CF%81%CE%B9%CF%83%CE%B5-%CE%BF-%CE%B9%CE%B5%CF%81%CF%8C%CF%82-%CE%BD%CE%B1%CF%8C%CF%82-%CE%B1%CE%B3%CE%AF%CE%B1%CF%82-%CF%83%CE%BF%CF%86%CE%AF%CE%B1%CF%82-%CF%84/"
+      ]
+    },
+    {
+      "topic": "contact-provenance",
+      "finding": "Public body-associated routes are published even when mobile or potentially clergy-linked, but clergy names are omitted and the routes are not described as office lines. Fax numbers, parent-office contacts, and numbers with no exact body association are excluded.",
+      "sources": [
+        "https://imkitrous.gr/%CE%BC%CE%B7%CF%84%CF%81%CF%8C%CF%80%CE%BF%CE%BB%CE%B7/%CE%B1%CF%81%CF%87%CE%B9%CE%B5%CF%81%CE%B1%CF%84%CE%B9%CE%BA%CE%AD%CF%82-%CF%80%CE%B5%CF%81%CE%B9%CF%86%CE%AD%CF%81%CE%B5%CE%B9%CE%B5%CF%82/",
+        "https://imkitrous.gr/%CE%BC%CE%B7%CF%84%CF%81%CF%8C%CF%80%CE%BF%CE%BB%CE%B7/%CE%B9%CE%B5%CF%81%CE%AD%CF%82-%CE%BC%CE%BF%CE%BD%CE%AD%CF%82/",
+        "https://ec-patr.org/entities/iera-mitropoli-kitroys/"
+      ]
+    },
+    {
+      "topic": "discovery-only-sources",
+      "finding": "Search engines and maps may aid discovery but do not establish exact identity, present status, body ownership, or canonical parentage. They contribute no published row or contact value without first-party confirmation.",
+      "sources": [
+        "https://imkitrous.gr/%CE%BC%CE%B7%CF%84%CF%81%CF%8C%CF%80%CE%BF%CE%BB%CE%B7/%CE%B1%CF%81%CF%87%CE%B9%CE%B5%CF%81%CE%B1%CF%84%CE%B9%CE%BA%CE%AD%CF%82-%CF%80%CE%B5%CF%81%CE%B9%CF%86%CE%AD%CF%81%CE%B5%CE%B9%CE%B5%CF%82/",
+        "https://ec-patr.org/entities/iera-mitropoli-kitroys/"
+      ]
+    }
+  ]
+}

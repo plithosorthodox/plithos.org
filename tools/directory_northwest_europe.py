@@ -69,6 +69,7 @@ import directory_italy
 import directory_kazakhstan
 import directory_kenya
 import directory_kastoria_country
+import directory_kitros_country
 import directory_kyrgyzstan
 import directory_lagadas_country
 import directory_laos
@@ -181,6 +182,7 @@ SOURCE_MODULES = (
     directory_kazakhstan,
     directory_kenya,
     directory_kastoria_country,
+    directory_kitros_country,
     directory_kyrgyzstan,
     directory_lagadas_country,
     directory_laos,
@@ -374,9 +376,9 @@ def build():
         else:
             payload["countries"] = scope
     row_count = sum(len(p["rows"]) for p in payloads.values())
-    if len(payloads) != 380 or row_count != 27733:
+    if len(payloads) != 381 or row_count != 27872:
         raise ValueError(
-            "combined country branches must publish 380 parents and 27733 "
+            "combined country branches must publish 381 parents and 27872 "
             "rows, got %d parents and %d rows" %
             (len(payloads), row_count))
     return dict(sorted(payloads.items()))
@@ -445,7 +447,7 @@ def main():
         for error in errors:
             print(error, file=sys.stderr)
         return 1
-    print("Combined country branches: 380 parents, 27733 subordinate bodies")
+    print("Combined country branches: 381 parents, 27872 subordinate bodies")
     return 0
 
 
