@@ -1,0 +1,173 @@
+{
+  "v": 1,
+  "countries": [
+    "GR"
+  ],
+  "checked": "2026-11-15",
+  "method": "The five current official metropolis region rosters are transcribed exactly. The combined Arkadikos record is resolved into the two current church bodies named on its official detail page. The current official 2026 feast list, current local church news, the Ecumenical Patriarchate overview, and current official monastery pages supply additional exact named bodies. Unnamed aggregates, historical-only bodies, clergy-personal contacts, and search or map leads remain held.",
+  "published_summary": {
+    "ep-drama": 139,
+    "total": 139,
+    "parish_kind_rows": 133,
+    "monastery_kind_rows": 6,
+    "contact_bodies": 26,
+    "phone_bodies": 26,
+    "public_phone_values": 26,
+    "email_bodies": 1,
+    "public_email_values": 1,
+    "body_owned_sites": 1,
+    "address_bodies": 139
+  },
+  "candidates": [
+    {
+      "candidate_id": "gr-ep-drama-old-metropolitan-entry-church",
+      "parent": "ep-drama",
+      "country": "GR",
+      "category": "historical-only",
+      "status": "held",
+      "reason": "The Patriarchate overview mentions the old Metropolitan Church of the Entry of the Theotokos as a historical monument. The current local roster already publishes the present Metropolitan Cathedral of the Entry. The overview does not establish the old structure as a separate current worship body.",
+      "sources": [
+        "https://ec-patr.org/entities/iera-mitropoli-dramas/",
+        "http://www.imdramas.gr/Ενορίες-Εφημέριοι/Περιφέρεια/10/Α!-ΑΡΧΙΕΡΑΤΙΚΗ-ΠΕΡΙΦΕΡΕΙΑ-ΔΡΑΜΑΣ"
+      ]
+    },
+    {
+      "candidate_id": "gr-ep-drama-kokkinoia-holy-archangels",
+      "parent": "ep-drama",
+      "country": "GR",
+      "category": "historical-only",
+      "status": "held",
+      "reason": "The Patriarchate overview names Holy Archangels at Kokkinoia among historical monuments. The current local roster names Saint George as the parish church at Kokkinoia, and no current first-party roster identifies Holy Archangels there as a separate active body.",
+      "sources": [
+        "https://ec-patr.org/entities/iera-mitropoli-dramas/",
+        "http://www.imdramas.gr/Ενορίες-Εφημέριοι/Περιφέρεια/50/Ε!-ΑΡΧΙΕΡΑΤΙΚΗ-ΠΕΡΙΦΕΡΕΙΑ-ΠΡΟΣΟΤΣΑΝΗΣ-"
+      ]
+    },
+    {
+      "candidate_id": "gr-ep-drama-unnamed-parish-aggregate",
+      "parent": "ep-drama",
+      "country": "GR",
+      "category": "aggregate-mismatch",
+      "status": "held",
+      "reason": "The Patriarchate overview reports 102 parish churches, while the current local roster displays 106 records and its Arkadikos detail resolves one record into two exact church bodies. The unnamed aggregate is not used to add or remove any exact named body.",
+      "sources": [
+        "https://ec-patr.org/entities/iera-mitropoli-dramas/",
+        "http://www.imdramas.gr/Ενορίες-Εφημέριοι/"
+      ]
+    },
+    {
+      "candidate_id": "gr-ep-drama-other-current-chapels",
+      "parent": "ep-drama",
+      "country": "GR",
+      "category": "incomplete-roster",
+      "status": "held",
+      "reason": "The current official feast list supplies 25 unambiguous nonduplicate churches beyond the main roster, and current local news identifies the Holy Archangels Byzantine chapel in Drama. The source is not presented as a complete all-year chapel roster, so no additional chapel is inferred from unnamed counts or isolated feast references.",
+      "sources": [
+        "http://www.imdramas.gr/files/eortazontes-ieroi-naoi-mitropolis-dramas.pdf",
+        "http://www.imdramas.gr/n/12197/ΠΑΝΗΓΥΡΙΣ-ΒΥΖΑΝΤΙΝΟΥ-ΠΑΡΕΚΚΛΗΣΙΟΥ-ΠΑΜΜΕΓΙΣΤΩΝ-ΤΑΞΙΑΡΧΩΝ"
+      ]
+    },
+    {
+      "candidate_id": "gr-ep-drama-search-map-leads",
+      "parent": "ep-drama",
+      "country": "GR",
+      "category": "affiliation-unclear",
+      "status": "discovery-only",
+      "reason": "Search and map results cannot establish a current exact ecclesial body or competent parent. Leads remain unpublished until a current first-party Church source names them unambiguously.",
+      "sources": [
+        "https://ec-patr.org/entities/iera-mitropoli-dramas/"
+      ]
+    }
+  ],
+  "source_reconciliations": [
+    {
+      "subject": "Current local roster and Patriarchate aggregate",
+      "decision": "The five current local region pages contain 44, 18, 15, 17, and 12 displayed records, for 106 records. The official Arkadikos detail page names two current church buildings within one displayed record, yielding 107 exact named local roster bodies. The Patriarchate overview reports 102 parish churches, but does not name the differing set. Exact current local identities are preserved without forcing them to the aggregate.",
+      "sources": [
+        "http://www.imdramas.gr/Ενορίες-Εφημέριοι/",
+        "http://www.imdramas.gr/Ενορίες-Εφημέριοι/Ναός/43/Ἀρκαδικός-Ἁγ-Παντελεήμων,-ἉγΕὐγενίου-τοῦ-Τραπεζουντίου",
+        "https://ec-patr.org/entities/iera-mitropoli-dramas/"
+      ]
+    },
+    {
+      "subject": "Current feast churches and chapel coverage",
+      "decision": "The official 2026 feast list names 25 current churches that do not duplicate exact bodies in the region roster. They are published as churches because the source identifies each as an Ι.Ν. but does not label them parishes. A current metropolis news item separately identifies the Holy Archangels Byzantine chapel in Drama.",
+      "sources": [
+        "http://www.imdramas.gr/files/eortazontes-ieroi-naoi-mitropolis-dramas.pdf",
+        "http://www.imdramas.gr/n/12197/ΠΑΝΗΓΥΡΙΣ-ΒΥΖΑΝΤΙΝΟΥ-ΠΑΡΕΚΚΛΗΣΙΟΥ-ΠΑΜΜΕΓΙΣΤΩΝ-ΤΑΞΙΑΡΧΩΝ"
+      ]
+    },
+    {
+      "subject": "Monasteries and metochia",
+      "decision": "The Patriarchate overview reports four monastic churches and names four current monasteries. All four are published, including Prasinada under its stated re-establishment status. The same overview names two metochia of Panagia Eikosifoinissa, which are published separately from the four-monastery aggregate.",
+      "sources": [
+        "https://ec-patr.org/entities/iera-mitropoli-dramas/",
+        "http://www.imdramas.gr/n/10336/Μεταμορφώσεως-του-Σωτήρος-Πρασινάδος",
+        "https://immsdramas.gr/"
+      ]
+    },
+    {
+      "subject": "Public contact boundary",
+      "decision": "Only fixed public institutional telephone numbers shown for a church or monastery are copied. Mobile values that repeat a priest's number or are presented in clergy context are excluded. Clergy names and personal mobile numbers are not published. The Prasinada monastery's public institutional email and fixed telephone are copied from its body-owned contact page.",
+      "sources": [
+        "http://www.imdramas.gr/Ενορίες-Εφημέριοι/",
+        "https://ec-patr.org/entities/iera-mitropoli-dramas/",
+        "https://immsdramas.gr/?page_id=591"
+      ]
+    },
+    {
+      "subject": "Website distinction",
+      "decision": "The metropolis site and Patriarchate page are higher-level identity sources, not body-owned websites. Only the Prasinada monastery has a verified body-owned website. No subordinate body is assigned a website merely because its name appears on the metropolis site.",
+      "sources": [
+        "http://www.imdramas.gr/Ενορίες-Εφημέριοι/",
+        "https://ec-patr.org/entities/iera-mitropoli-dramas/",
+        "https://immsdramas.gr/"
+      ]
+    }
+  ],
+  "official_parent_audit": [
+    {
+      "parent": "ep-drama",
+      "result": "139 exact named current bodies published: 107 exact bodies from 106 current region-roster records, 25 additional current churches from the official 2026 feast list, one current Byzantine chapel, four monasteries, and two metochia.",
+      "roster_status": "complete current region records, complete current named monastery list from the Patriarchate overview, exact 2026 feast additions, partial chapel coverage",
+      "sources": [
+        "http://www.imdramas.gr/Ενορίες-Εφημέριοι/",
+        "http://www.imdramas.gr/files/eortazontes-ieroi-naoi-mitropolis-dramas.pdf",
+        "https://ec-patr.org/entities/iera-mitropoli-dramas/"
+      ]
+    }
+  ],
+  "exclusions": [
+    {
+      "category": "personal-contact",
+      "decision": "Clergy-personal names and mobile telephone numbers are excluded. Saint Barbara's printed mobile repeats the priest number, and the mobile values shown for Kallifytos and Makryplagio are not established as fixed institutional lines. Makryplagio's separately listed landline is retained.",
+      "sources": [
+        "http://www.imdramas.gr/Ενορίες-Εφημέριοι/Περιφέρεια/10/Α!-ΑΡΧΙΕΡΑΤΙΚΗ-ΠΕΡΙΦΕΡΕΙΑ-ΔΡΑΜΑΣ"
+      ]
+    },
+    {
+      "category": "historical-only",
+      "decision": "Historical monuments are not converted into current directory rows without current first-party evidence that they remain separate active ecclesial bodies. The current Holy Archangels Byzantine chapel in Drama is published because current local news supplies that evidence.",
+      "sources": [
+        "http://www.imdramas.gr/Ἱστορικοί-Ναοί-Μουσείο/",
+        "http://www.imdramas.gr/n/12197/ΠΑΝΗΓΥΡΙΣ-ΒΥΖΑΝΤΙΝΟΥ-ΠΑΡΕΚΚΛΗΣΙΟΥ-ΠΑΜΜΕΓΙΣΤΩΝ-ΤΑΞΙΑΡΧΩΝ",
+        "https://ec-patr.org/entities/iera-mitropoli-dramas/"
+      ]
+    },
+    {
+      "category": "unnamed-aggregate",
+      "decision": "Unnamed aggregate counts never create rows and never erase exact current bodies named by competent first-party sources.",
+      "sources": [
+        "https://ec-patr.org/entities/iera-mitropoli-dramas/",
+        "http://www.imdramas.gr/Ενορίες-Εφημέριοι/"
+      ]
+    },
+    {
+      "category": "discovery-only",
+      "decision": "Search and map leads are held until a competent current first-party Church source establishes exact identity, active status, and canonical parentage.",
+      "sources": [
+        "https://ec-patr.org/entities/iera-mitropoli-dramas/"
+      ]
+    }
+  ]
+}
