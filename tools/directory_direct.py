@@ -17,6 +17,7 @@ from pathlib import Path
 import directory_australia
 import directory_belgium
 import directory_croatia
+import directory_czechia
 import directory_denmark
 import directory_estonia
 import directory_finland
@@ -119,6 +120,7 @@ ROWS["russia"].extend(directory_ireland.ROWS["russia"])
 ROWS["russia"].extend(directory_italy.build()["russia"]["rows"])
 ROWS["russia"].extend(directory_malta_gibraltar.build()["russia"]["rows"])
 ROWS["russia"].extend(directory_australia.build()["russia"])
+ROWS["russia"].extend(directory_czechia.build()["russia"]["rows"])
 ROWS["russia"].extend(directory_norway.build()["russia"]["rows"])
 ROWS["russia"].extend(directory_sweden.DIRECT_RUSSIA_ROWS)
 ROWS["russia"].extend(directory_switzerland.build()["russia"]["rows"])
@@ -180,8 +182,8 @@ def build():
             "countries": sorted(countries),
             "rows": rows,
         }
-    if len(payloads["russia"]["rows"]) != 46:
-        raise ValueError("the direct Russia branch must have 46 rows")
+    if len(payloads["russia"]["rows"]) != 48:
+        raise ValueError("the direct Russia branch must have 48 rows")
     if len(payloads["romania"]["rows"]) != 7:
         raise ValueError("the direct Romania branch must have 7 rows")
     return payloads
@@ -248,7 +250,7 @@ def main():
         for error in errors:
             print(error, file=sys.stderr)
         return 1
-    print("2 direct parents, 51 subordinate bodies")
+    print("2 direct parents, 55 subordinate bodies")
     return 0
 
 

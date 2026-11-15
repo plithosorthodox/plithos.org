@@ -1,0 +1,208 @@
+{
+  "v": 1,
+  "countries": [
+    "CZ"
+  ],
+  "checked": "2026-11-15",
+  "method": "Current official Church, eparchy, mission, patriarchal, and Czech Ministry of Culture sources establish published rows. The Prague Eparchy site is currently compromised by unrelated casino content and its parish page conflicts with the live state register, so the current active legal register is used for Prague parish-community existence and the eparchy page only for reconciliation. Search engines, maps, civil associations, media, and independent directories were used only for discovery. Unclear, historical, erased, conflicting, and outside-scope bodies remain here rather than being silently merged or published. Overlapping canonical jurisdictions are preserved neutrally.",
+  "published_summary": {
+    "cs-olomouc-brno": 50,
+    "cs-prague": 58,
+    "russia": 2,
+    "ukraine-ocu": 1,
+    "CZ": 111,
+    "total": 111
+  },
+  "candidates": [
+    {
+      "candidate_id": "cz-cs-prague-milovice-catherine",
+      "parent": "cs-prague",
+      "country": "CZ",
+      "name": "St Catherine of Alexandria Orthodox Church in Milovice",
+      "status": "hold for current parent roster reconciliation",
+      "reason": "The Prague Eparchy parish page names the Milovice church, while the live state register shows the same historic legal identifier under the Brandys nad Labem-Stara Boleslav parish title. Current evidence does not establish whether Milovice is a separate body, a worship site of Brandys, or the current name of that legal parish.",
+      "sources": [
+        "https://pravoslavnacirkev.cz/Farnosti/",
+        "https://www-cns.mkcr.cz/cns_internet/CNS/Seznam_cpo.aspx?id_subj=1198&str_zpet=Seznam_CPO.aspx",
+        "https://www.mesto-milovice.cz/assets/File.ashx?id_dokumenty=3631&id_org=9519"
+      ]
+    },
+    {
+      "candidate_id": "cz-cs-prague-lodenice-wenceslas-ludmila-monastery",
+      "parent": "cs-prague",
+      "country": "CZ",
+      "name": "Sts Wenceslas and Ludmila Monastery in Lodenice",
+      "status": "hold for current first-party monastery roster",
+      "reason": "Current reporting quotes the Prague Eparchy as claiming the monastery and resuming services in 2026, but the official statement was not available on an accessible current eparchial roster and the institution remains in a live civil dispute.",
+      "sources": [
+        "https://svazpn.cz/cz/zashhita-very/91065-spor-o-monastyr-v-lodenici-co-rozhodly-soudy",
+        "https://pravoslavnacirkev.cz/"
+      ]
+    },
+    {
+      "candidate_id": "cz-cs-prague-tesov-transfiguration-monastery",
+      "parent": "cs-prague",
+      "country": "CZ",
+      "name": "Transfiguration Monastery in Tesov",
+      "status": "hold for current first-party monastery confirmation",
+      "reason": "A current Czech Orthodox portal identifies the monastery, but no current official Prague Eparchy monastery roster or direct monastery page was located.",
+      "sources": [
+        "https://pravoslavi.cz/",
+        "https://pravoslavnacirkev.cz/"
+      ]
+    },
+    {
+      "candidate_id": "cz-cs-prague-most-procopius-monastery",
+      "parent": "cs-prague",
+      "country": "CZ",
+      "name": "St Procopius of Sazava Monastery in Most",
+      "status": "hold for current first-party monastery confirmation",
+      "reason": "Official Church publications establish the monastery historically, but no current Prague Eparchy monastery roster or current monastery site was located.",
+      "sources": [
+        "https://hlas.pravoslavi.cz/html/2002-03/index.html",
+        "https://pravoslavnacirkev.cz/"
+      ]
+    },
+    {
+      "candidate_id": "cz-ru-prague-ludmila-embassy",
+      "parent": "russia",
+      "country": "CZ",
+      "name": "St Ludmila of Bohemia Church at the Russian Embassy in Prague",
+      "status": "hold for current first-party confirmation",
+      "reason": "Moscow official sources establish the church and document it through 2018. Current 2025 and 2026 official reports identify the same priest as rector of the St George Embassy Church instead, and no current separate St Ludmila service or roster record was located.",
+      "sources": [
+        "https://patriarchia.ru/article/14305",
+        "https://mospat.ru/ru/news/46842/pdf/",
+        "https://mospat.ru/en/news/92900/"
+      ]
+    },
+    {
+      "candidate_id": "cz-bg-prague-nicholas",
+      "parent": "bg-western-central-europe",
+      "country": "CZ",
+      "name": "St Nicholas of Myra Bulgarian Orthodox Church Community in Prague",
+      "status": "historical or unconfirmed",
+      "reason": "An official Bulgarian source documents the community in 2010, but it is absent from the complete current diocesan temple directory.",
+      "sources": [
+        "https://bg-patriarshia.bg/news/opovestyavame-molbata-na-bivshia-zapadno-i-srednoevropeyski",
+        "https://bg-patriarshia.bg/west-eu-diocese-temples"
+      ]
+    },
+    {
+      "candidate_id": "cz-ep-dormition-claimed-stavropegic-monastery",
+      "parent": "constantinople",
+      "country": "CZ",
+      "name": "Claimed Patriarchal Stavropegic Monastery of the Dormition of the Most Holy Theotokos",
+      "status": "hold for current official Ecumenical Patriarchate confirmation",
+      "reason": "A Czech civil organization uses this title, while the local Church reported that it lacked consent and the body is absent from the current Ecumenical Patriarchate roster of patriarchal and stavropegic monasteries.",
+      "sources": [
+        "https://mospat.ru/en/news/45656/",
+        "https://ec-patr.org/en/eparchies-of-the-throne/patriarchal-and-stavropegic-monasteries/"
+      ]
+    }
+  ],
+  "reconciliations": [
+    {
+      "scope": "Prague Eparchy current legal register",
+      "result": "Published the 58 parish communities not marked erased in the live Czech Ministry of Culture register. The register groups them explicitly as parish communities in the Prague Eparchy. The compromised eparchy parish page is not treated as evidence of current status where it conflicts with the register.",
+      "sources": [
+        "https://www-cns.mkcr.cz/cns_internet/CNS/Seznam_cpo.aspx?id_subj=1198&str_zpet=Seznam_CPO.aspx",
+        "https://pravoslavnacirkev.cz/Farnosti/"
+      ]
+    },
+    {
+      "scope": "Prague Eparchy erased legal entities",
+      "result": "Did not publish the registry entries marked erased: the original As parish, Ceska Lipa, Decin, Drisy, Horovicky, Cheb, Jaromer II, Karlovy Vary, Koclirov, Kryry, Olovi, Podborany, Rokytnice in the Orlicke Mountains, Rovna, and Tepla u Touzim. Some still appear on the stale or compromised eparchy page, which is not enough to establish current status.",
+      "sources": [
+        "https://www-cns.mkcr.cz/cns_internet/CNS/Seznam_cpo.aspx?id_subj=1198&str_zpet=Seznam_CPO.aspx",
+        "https://pravoslavnacirkev.cz/Farnosti/"
+      ]
+    },
+    {
+      "scope": "Olomouc and Brno Eparchy current schematism",
+      "result": "Published every distinct current church, chapel, filial community, monastery, and named worship site in Czechia from the schematism updated 5 November 2026. Shared buildings used by distinct parish communities remain distinct rows; separately named chapels at the same complex remain separate sites.",
+      "sources": [
+        "https://www.ob-eparchie.cz/schematismus/"
+      ]
+    },
+    {
+      "scope": "Karlovy Vary Russian metochion",
+      "result": "Published under the direct Russian Church parent. A 2025 civil-title report suggested a transfer to the Russian Diocese of Hungary, but the current Hungarian diocesan temple directory does not list Karlovy Vary and no first-party ecclesiastical transfer statement was located.",
+      "sources": [
+        "https://orthodox.sk/zastupitelstvo-pri-moskovskom-patriarchate/",
+        "https://mospat.ru/en/news/45656/"
+      ]
+    }
+  ],
+  "jurisdiction_audits": [
+    {
+      "jurisdiction": "Ukrainian Orthodox Church",
+      "result": "No separate Czech body. The official Western European Vicariate document states that the UOC does not open its own parishes in Czechia; clergy serving local structures are not duplicated.",
+      "sources": [
+        "https://vzcz.church.ua/2026/02/09/pro-sluzhinnya-zaxidnojevropejskogo-vikariatstva-ukrajinskoji-pravoslavnoji-cerkvi/"
+      ]
+    },
+    {
+      "jurisdiction": "Romanian Orthodox Church",
+      "result": "No separately governed Romanian body. Romanian Patriarchate sources state that the Romanian-language Prague parish belongs canonically to the local Church under the Archbishop of Prague.",
+      "sources": [
+        "https://arhiva.basilica.ro/romani-din-praga-in-radacina-noastra-credinta-are-un-loc-foarte-important/",
+        "https://next.basilica.ro/romanii-din-praga-au-un-nou-lacas-de-cult-slujba-de-binecuvantare-a-fost-oficiata-de-ierarhi-din-cehia-si-romania/"
+      ]
+    },
+    {
+      "jurisdiction": "Macedonian Orthodox Church",
+      "result": "No Czech body in the current official European Diocese country roster.",
+      "sources": [
+        "https://mpee.mk/"
+      ]
+    },
+    {
+      "jurisdiction": "Russian Tradition",
+      "result": "No Czech body in the current official parish and community directory.",
+      "sources": [
+        "https://archeveche.eu/lieux/"
+      ]
+    },
+    {
+      "jurisdiction": "Russian Orthodox Church Outside Russia",
+      "result": "No Czech body in the current worldwide, Western European, or German diocesan directories.",
+      "sources": [
+        "https://directory.synod.com/listings/",
+        "https://orthodox-europe.org/english/diocese/",
+        "https://rocor.de/de/gemeinden-liste"
+      ]
+    },
+    {
+      "jurisdiction": "Bulgarian Orthodox Church",
+      "result": "No current Czech body in the official current directory. The historical Prague community remains a candidate.",
+      "sources": [
+        "https://bg-patriarshia.bg/west-eu-diocese-temples"
+      ]
+    },
+    {
+      "jurisdiction": "Serbian Orthodox Church",
+      "result": "No current separately governed Czech parish found in official diocesan sources. Serbian-language services and visits located in Czechia were in local Church temples.",
+      "sources": [
+        "https://spc.rs/",
+        "https://eparhija-nemacka.com/"
+      ]
+    },
+    {
+      "jurisdiction": "Ecumenical Patriarchate",
+      "result": "No current Czech eparchy, parish, or monastery in the official rosters. The claimed stavropegic organization remains a candidate.",
+      "sources": [
+        "https://ec-patr.org/en/eparchies-of-the-throne/patriarchal-and-stavropegic-monasteries/"
+      ]
+    },
+    {
+      "jurisdiction": "Other canonical Local Churches",
+      "result": "Current official searches and directories did not establish a separately governed Georgian, Antiochian, Polish, OCA, Alexandrian, Jerusalem, Cypriot, Greek, or Albanian body in Czechia.",
+      "sources": [
+        "https://patriarchate.ge/sinodi/members/all",
+        "https://www.antiochpatriarchate.org/en/page/224/",
+        "https://www.oca.org/parishes"
+      ]
+    }
+  ]
+}
