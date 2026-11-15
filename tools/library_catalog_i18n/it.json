@@ -2,7 +2,7 @@
   "format": "plithos-library-catalog-i18n-language-source",
   "version": 1,
   "language": "it",
-  "catalog_sha256": "7d609d0ed997eff0a0a227cc1571db617b1505ba344ed85af8d4865f809545b7",
+  "catalog_sha256": "ec91054165e05f1fec625c0738464d46aabcd53b7d589caecc1c979ef088131d",
   "terms": {
     "19th century": "XIX secolo",
     "20th century": "XX secolo",
@@ -44,6 +44,14 @@
     "akathist-theotokos-en": {
       "title": "Inno Acatisto alla Santissima Madre di Dio (inglese)",
       "description": "Cantato in piedi, come indica il nome, nei venerdì della Grande Quaresima e per intero il sabato della quinta settimana. Comprende ventiquattro strofe le cui iniziali seguono l'alfabeto e centoquarantaquattro salutazioni che iniziano con Ave, ciascuna rivolta alla Madre di Dio, precedute da un kontakion e seguite da un tredicesimo. Risale al VI secolo; la Chiesa annovera da tempo Romano il Melode tra i possibili autori, senza affermarlo con certezza. Questa è la versione inglese dell'edizione pubblicata a Londra nel 1919 per l'uso della Chiesa greco-ortodossa locale, con il greco e l'inglese su pagine affiancate e disposti secondo lo svolgimento del servizio, indicando la parte del sacerdote e la risposta del coro. I traduttori costruirono un proprio alfabeto in luogo di quello greco: le ventiquattro strofe vanno dalla A alla Z, omettendo J e X per mantenere lo stesso numero."
+    },
+    "akathist-theotokos-cu": {
+      "title": "Inno Acatisto alla Santissima Madre di Dio (slavo ecclesiastico)",
+      "description": "Il Grande Acatisto completo in slavo ecclesiastico, secondo il testo ricevuto del Triodion quaresimale: il kontakion iniziale, dodici ikoi e altri dodici kontakia, la rubrica della ripetizione e la preghiera conclusiva. La trascrizione HIP di Orthlib, di pubblico dominio, conserva gli accenti, i titla, le lettere storiche, i titoli e le abbreviazioni ricevuti."
+    },
+    "akathist-ambrose-optina-cu": {
+      "title": "Acatisto a sant'Ambrogio di Optina (slavo ecclesiastico)",
+      "description": "L'Acatisto completo in slavo ecclesiastico a sant'Ambrogio di Optina: tredici kontakia, dodici ikoi, l'indicazione di ripetere l'ultimo kontakion e tornare al primo ikos e kontakion, e la preghiera conclusiva. Questo è il testo approvato dalla Chiesa Ortodossa Russa sotto il patriarca Pimen il 22 settembre 1988 e pubblicato dal Monastero di Optina."
     },
     "aphrahat-select-demonstrations": {
       "title": "Dimostrazioni scelte",

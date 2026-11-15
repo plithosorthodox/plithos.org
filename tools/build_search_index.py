@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Build data/search-index.v16.<lang>.json: one compact index per language,
+Build data/search-index.v17.<lang>.json: one compact index per language,
 covering every kind of thing on the site, so a single search box can reach
 all of it and answer in the language the reader chose.
 
@@ -47,7 +47,7 @@ from urllib.parse import quote
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
-OUT = ROOT / "data" / "search-index.v16.%s.json"
+OUT = ROOT / "data" / "search-index.v17.%s.json"
 
 
 def one_line_assignment(src, name, opener):
@@ -318,7 +318,7 @@ class Tongue(object):
         self.prayers = {} if self.en else load_json(d / ("prayers-i18n.v2.%s.json" % lang))
         self.gloss = {} if self.en else load_json(d / ("glossary-i18n.v1.%s.json" % lang))
         catalog = {} if self.en else load_json(
-            d / "library" / ("catalog-i18n.v4.%s.json" % lang)
+            d / "library" / ("catalog-i18n.v5.%s.json" % lang)
         )
         self.catalog = catalog.get("works") or {}
         self.catalog_terms = catalog.get("terms") or {}

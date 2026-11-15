@@ -27,6 +27,39 @@
   ]
  },
  {
+  "work_id": "akathist-ambrose-optina-cu",
+  "edition_of": "akathist-ambrose-optina",
+  "title": "Акафист преподобному Амвросию Оптинскому",
+  "author": "Anonymous",
+  "language": "cu",
+  "date": "approved in 1988",
+  "translator": null,
+  "pub_year": 1988,
+  "source": "Акафист преподобному Амвросию Оптинскому, approved by the Russian Orthodox Church under Patriarch Pimen on September 22, 1988; published by Optina Monastery",
+  "source_url": "https://www.optina.ru/prayers_akafist_amvr/",
+  "source_class": "liturgical",
+  "description": "The complete Church Slavonic Akathist to St Ambrose of Optina: thirteen kontakia, twelve ikoi, the direction to repeat the final kontakion and return to the first ikos and kontakion, and the concluding prayer. This is the text approved by the Russian Orthodox Church under Patriarch Pimen on September 22, 1988 and published by Optina Monastery.",
+  "digitized": "Optina Monastery",
+  "license": "Reuse permitted with source attribution",
+  "rights": "Reuse permitted with a source link to www.optina.ru",
+  "rights_url": "https://www.optina.ru/prayers_akafist_amvr/",
+  "attribution": "Source: Optina Monastery, www.optina.ru",
+  "transcription_url": "https://www.optina.ru/prayers_akafist_amvr/",
+  "saint": null,
+  "is_saint": false,
+  "topics": [
+   "Prayer",
+   "The saints and their relics",
+   "The monastic life"
+  ],
+  "purpose": "The life of prayer",
+  "centuries": [
+   20
+  ],
+  "century": 20,
+  "period": "20th century"
+ },
+ {
   "work_id": "akathist-ambrose-optina-sr",
   "edition_of": "akathist-ambrose-optina",
   "title": "Акатист Светом Амвросију Оптинском",
@@ -185,6 +218,36 @@
    "Free will and providence",
    "The Holy Trinity"
   ]
+ },
+ {
+  "work_id": "akathist-theotokos-cu",
+  "edition_of": "akathist-theotokos",
+  "title": "А҆КА́ѲІСТЪ ПРЕСТ҃Ѣ́Й ВЛⷣЧЦѢ НА́ШЕЙ БЦⷣѢ",
+  "author": "Anonymous, of the sixth century",
+  "language": "cu",
+  "date": "6th century; received Church Slavonic text",
+  "translator": null,
+  "pub_year": null,
+  "source": "The Great Akathist to the Most Holy Theotokos from the received Church Slavonic Lenten Triodion text",
+  "source_url": "http://www.orthlib.ru/worship/akafist/akafbogor.rar",
+  "source_class": "liturgical",
+  "description": "The complete Church Slavonic Great Akathist from the received Lenten Triodion text: the opening kontakion, twelve ikoi and twelve further kontakia, the repetition rubric, and the concluding prayer. Orthlib's public-domain HIP transcription preserves the received accents, titla, historic letters, headings, and abbreviations.",
+  "digitized": "Orthlib.ru",
+  "license": "Public Domain",
+  "rights_url": "http://www.orthlib.info/Intellectual-Property.html",
+  "saint": null,
+  "is_saint": false,
+  "topics": [
+   "The Theotokos",
+   "Prayer",
+   "Christ, God and man"
+  ],
+  "purpose": "The life of prayer",
+  "centuries": [
+   6
+  ],
+  "century": 6,
+  "period": "6th century"
  },
  {
   "work_id": "akathist-theotokos-el",

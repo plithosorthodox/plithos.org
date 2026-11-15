@@ -1,5 +1,5 @@
 {
-  "catalog_sha256": "7d609d0ed997eff0a0a227cc1571db617b1505ba344ed85af8d4865f809545b7",
+  "catalog_sha256": "ec91054165e05f1fec625c0738464d46aabcd53b7d589caecc1c979ef088131d",
   "format": "plithos-library-catalog-i18n-language-source",
   "language": "es",
   "terms": {
@@ -44,6 +44,14 @@
       "description": "Traducción inglesa completa del ucraniano Akafist podiaka Bohovi za vse: trece kontakion y doce ikos de acción de gracias a Dios por los dones visibles e invisibles de la creación, la providencia, la redención, la Iglesia y la vida eterna. La edición de TranscUlturAl de 2011 indica que el autor es anónimo y que se cree que la obra fue compilada a partir de escritos de san Juan Crisóstomo. Esta edición une las líneas separadas por la disposición física de la revista y representa una raya tipográfica como guion corto.",
       "title": "ACATISTO: Gratitud a Dios por todo (inglés)",
       "date": "fecha desconocida; esta traducción inglesa es de 2011"
+    },
+    "akathist-theotokos-cu": {
+      "title": "Himno acatisto a la Santísima Madre de Dios (eslavo eclesiástico)",
+      "description": "El Gran Acatisto completo en eslavo eclesiástico según el texto recibido del Triodion de Cuaresma: el kontakion inicial, doce ikoi y otros doce kontakion, la rúbrica de repetición y la oración final. La transcripción HIP de Orthlib, de dominio público, conserva los acentos, titla, letras históricas, encabezamientos y abreviaturas recibidos."
+    },
+    "akathist-ambrose-optina-cu": {
+      "title": "Acatisto a san Ambrosio de Optina (eslavo eclesiástico)",
+      "description": "El Acatisto completo en eslavo eclesiástico a san Ambrosio de Optina: trece kontakion, doce ikoi, la indicación de repetir el último kontakion y volver al primer ikos y kontakion, y la oración final. Este es el texto aprobado por la Iglesia Ortodoxa Rusa bajo el patriarca Pimen el 22 de septiembre de 1988 y publicado por el monasterio de Optina."
     },
     "aphrahat-select-demonstrations": {
       "caution": "Aquí no se da a Afraates el título de santo. La Iglesia ortodoxa conmemora el 29 de enero a un persa llamado Afraates, pero se trata de otro hombre: el ermitaño de Antioquía a quien Teodoreto conoció de niño y que murió unos sesenta años después que el Sabio. Ambos se confunden constantemente. Nada de lo escrito por Afraates fue censurado jamás, y ningún concilio lo menciona; escribió un siglo antes de Éfeso, en una Iglesia que todavía no había sido dividida por las controversias que pronto surgirían en el mundo griego. Su octava Demostración enseña que el alma duerme en la tumba hasta la resurrección, doctrina que la Iglesia no sostiene; lo que ella enseña se expresa en sus propias oraciones por los difuntos.",

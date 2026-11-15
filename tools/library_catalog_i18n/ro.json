@@ -2,7 +2,7 @@
   "format": "plithos-library-catalog-i18n-language-source",
   "version": 1,
   "language": "ro",
-  "catalog_sha256": "7d609d0ed997eff0a0a227cc1571db617b1505ba344ed85af8d4865f809545b7",
+  "catalog_sha256": "ec91054165e05f1fec625c0738464d46aabcd53b7d589caecc1c979ef088131d",
   "terms": {
     "19th century": "secolul al XIX-lea",
     "20th century": "secolul al XX-lea",
@@ -44,6 +44,14 @@
       "title": "ACATHISTUS: Recunoștință lui Dumnezeu pentru toate (engleză)",
       "description": "O traducere engleză completă din ucraineanul Akafist podiaka Bohovi za vse: treisprezece condace și douăsprezece icoase de mulțumire către Dumnezeu pentru darurile văzute și nevăzute ale creației, proniei, răscumpărării, Bisericii și vieții veșnice. Ediția TranscUlturAl din 2011 îl numește pe autor anonim și spune că se crede că lucrarea a fost alcătuită din scrieri ale Sfântului Ioan Gură de Aur. Această ediție unește rândurile despărțite fizic în revistă și redă o linie tipografică printr-o cratimă.",
       "date": "dată necunoscută; această traducere engleză este din 2011"
+    },
+    "akathist-theotokos-cu": {
+      "title": "Imnul Acatist către Preasfânta Născătoare de Dumnezeu (slavonă bisericească)",
+      "description": "Marele Acatist complet în slavonă bisericească din textul primit al Triodului Postului: condacul de început, douăsprezece icoase și alte douăsprezece condace, indicația de repetare și rugăciunea de încheiere. Transcrierea HIP a Orthlib, aflată în domeniul public, păstrează accentele, semnele titlo, literele istorice, titlurile secțiunilor și abrevierile textului primit."
+    },
+    "akathist-ambrose-optina-cu": {
+      "title": "Acatistul Cuviosului Ambrozie de la Optina (slavonă bisericească)",
+      "description": "Acatistul slavon bisericesc complet al Cuviosului Ambrozie de la Optina: treisprezece condace, doisprezece icoase, îndrumarea de a repeta condacul final și de a reveni la primul icos și condac, precum și rugăciunea de încheiere. Acesta este textul aprobat de Biserica Ortodoxă Rusă sub Patriarhul Pimen la 22 septembrie 1988 și publicat de Mănăstirea Optina."
     },
     "aphrahat-select-demonstrations": {
       "title": "Demonstrații alese",

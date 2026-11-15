@@ -2,7 +2,7 @@
   "format": "plithos-library-catalog-i18n-language-source",
   "version": 1,
   "language": "fr",
-  "catalog_sha256": "7d609d0ed997eff0a0a227cc1571db617b1505ba344ed85af8d4865f809545b7",
+  "catalog_sha256": "ec91054165e05f1fec625c0738464d46aabcd53b7d589caecc1c979ef088131d",
   "terms": {
     "19th century": "XIXe siècle",
     "20th century": "XXe siècle",
@@ -44,6 +44,14 @@
     "akathist-theotokos-en": {
       "title": "Hymne acathiste à la Très Sainte Mère de Dieu (anglais)",
       "description": "Chanté debout, comme l'indique son nom, les vendredis du Grand Jeûne et en entier le samedi de la cinquième semaine. Vingt-quatre strophes dont les initiales parcourent l'alphabet, et cent quarante-quatre salutations commençant par Je vous salue, chacune adressée à la Mère de Dieu, précédées d'un kontakion et suivies d'un treizième. Il date du VIe siècle ; l'Église a longtemps compté Romanos le Mélode parmi ceux qui ont pu l'écrire, sans l'affirmer avec certitude. Voici le texte anglais de l'édition publiée à Londres en 1919 pour l'Église grecque orthodoxe locale. Elle présente le grec et l'anglais en regard et dispose les deux textes selon le déroulement de l'office, en indiquant la partie du prêtre et la réponse du chœur. Les traducteurs ont construit leur propre alphabet en parallèle de l'acrostiche grec : les vingt-quatre strophes commencent par les lettres A à Z, J et X étant omis afin de conserver le même nombre."
+    },
+    "akathist-theotokos-cu": {
+      "title": "Hymne acathiste à la Très Sainte Mère de Dieu (slavon d'Église)",
+      "description": "Le Grand Acathiste complet en slavon d'Église, tiré du texte reçu du Triode de Carême: le kontakion d'ouverture, douze ikoi et douze autres kontakia, la rubrique de répétition et la prière finale. La transcription HIP d'Orthlib, dans le domaine public, conserve les accents reçus, les titla, les lettres historiques, les titres et les abréviations."
+    },
+    "akathist-ambrose-optina-cu": {
+      "title": "Acathiste à saint Ambroise d'Optina (slavon d'Église)",
+      "description": "L'Acathiste complet en slavon d'Église à saint Ambroise d'Optina: treize kontakia, douze ikoi, l'indication de répéter le dernier kontakion puis de revenir au premier ikos et au premier kontakion, et la prière finale. Il s'agit du texte approuvé par l'Église orthodoxe russe sous le patriarche Pimène le 22 septembre 1988 et publié par le monastère d'Optina."
     },
     "aphrahat-select-demonstrations": {
       "title": "Démonstrations choisies",

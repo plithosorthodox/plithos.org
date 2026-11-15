@@ -34,7 +34,7 @@ OUTPUT = ROOT / "data" / "library"
 FORMAT = "plithos-library-catalog-i18n"
 SOURCE_FORMAT = FORMAT + "-language-source"
 SOURCE_VERSION = 1
-VERSION = 4
+VERSION = 5
 
 UI_LANGS = (
     "el", "ru", "ka", "ro", "sr", "uk", "ar", "es", "pt", "it",
@@ -340,7 +340,8 @@ def main():
                 path.write_bytes(raw)
                 print("wrote %s (%d bytes)" % (path.relative_to(ROOT), len(raw)))
             else:
-                if not path.exists() or path.read_bytes() != raw:
+                if (not path.exists() or
+                        path.read_bytes().replace(b"\r\n", b"\n") != raw):
                     print("stale or missing payload: " + str(path.relative_to(ROOT)),
                           file=sys.stderr)
                     return 1

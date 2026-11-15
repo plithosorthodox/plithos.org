@@ -17,7 +17,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 SOURCE = ROOT / "data" / "library" / "works-index.json"
-OUTPUT = ROOT / "data" / "library-index.v3.json"
+OUTPUT = ROOT / "data" / "library-index.v4.json"
 
 
 def read_catalog():
@@ -63,7 +63,7 @@ def main():
         print("error: %s is missing; run with --write" %
               OUTPUT.relative_to(ROOT), file=sys.stderr)
         return 1
-    if OUTPUT.read_bytes() != expected:
+    if OUTPUT.read_bytes().replace(b"\r\n", b"\n") != expected:
         print("error: %s is stale; run with --write" %
               OUTPUT.relative_to(ROOT), file=sys.stderr)
         return 1

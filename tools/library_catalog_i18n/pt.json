@@ -2,7 +2,7 @@
   "format": "plithos-library-catalog-i18n-language-source",
   "version": 1,
   "language": "pt",
-  "catalog_sha256": "7d609d0ed997eff0a0a227cc1571db617b1505ba344ed85af8d4865f809545b7",
+  "catalog_sha256": "ec91054165e05f1fec625c0738464d46aabcd53b7d589caecc1c979ef088131d",
   "terms": {
     "19th century": "século XIX",
     "20th century": "século XX",
@@ -44,6 +44,14 @@
       "title": "ACATHISTUS: Gratidão a Deus por tudo (inglês)",
       "description": "Tradução inglesa completa do ucraniano Akafist podiaka Bohovi za vse: treze kontakia e doze ikoi em ação de graças a Deus pelos dons visíveis e invisíveis da criação, da providência, da redenção, da Igreja e da vida eterna. A edição de 2011 da TranscUlturAl declara que o autor é anônimo e que se acredita que a obra tenha sido compilada a partir de escritos de São João Crisóstomo. Esta edição reúne as quebras físicas de linha da revista e apresenta um traço tipográfico como hífen.",
       "date": "data desconhecida; esta tradução inglesa é de 2011"
+    },
+    "akathist-theotokos-cu": {
+      "title": "Hino Acátisto à Santíssima Mãe de Deus (eslavônico eclesiástico)",
+      "description": "O Grande Acátisto completo em eslavônico eclesiástico, segundo o texto recebido do Triódion da Quaresma: o kontakion inicial, doze ikoi e outros doze kontakia, a rubrica de repetição e a oração final. A transcrição HIP de Orthlib, em domínio público, preserva os acentos, titla, letras históricas, cabeçalhos e abreviações recebidos."
+    },
+    "akathist-ambrose-optina-cu": {
+      "title": "Acátisto a santo Ambrósio de Optina (eslavônico eclesiástico)",
+      "description": "O Acátisto completo em eslavônico eclesiástico a santo Ambrósio de Optina: treze kontakia, doze ikoi, a indicação de repetir o último kontakion e retornar ao primeiro ikos e kontakion, e a oração final. Este é o texto aprovado pela Igreja Ortodoxa Russa sob o patriarca Pimen em 22 de setembro de 1988 e publicado pelo Mosteiro de Optina."
     },
     "aphrahat-select-demonstrations": {
       "title": "Demonstrações escolhidas",

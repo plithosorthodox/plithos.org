@@ -2,7 +2,7 @@
   "format": "plithos-library-catalog-i18n-language-source",
   "version": 1,
   "language": "de",
-  "catalog_sha256": "7d609d0ed997eff0a0a227cc1571db617b1505ba344ed85af8d4865f809545b7",
+  "catalog_sha256": "ec91054165e05f1fec625c0738464d46aabcd53b7d589caecc1c979ef088131d",
   "terms": {
     "19th century": "19. Jahrhundert",
     "20th century": "20. Jahrhundert",
@@ -44,6 +44,14 @@
       "description": "Eine vollständige englische Übersetzung des ukrainischen Akafist podiaka Bohovi za vse: dreizehn Kontakien und zwölf Ikoi des Dankes an Gott für die sichtbaren und unsichtbaren Gaben der Schöpfung, der Vorsehung, der Erlösung, der Kirche und des ewigen Lebens. Die TranscUlturAl-Ausgabe von 2011 nennt den Verfasser anonym und erklärt, das Werk sei vermutlich aus Schriften des heiligen Johannes Chrysostomos zusammengestellt worden. Diese Ausgabe fügt die durch den physischen Zeilenumbruch der Zeitschrift getrennten Zeilen zusammen und gibt einen typografischen Gedankenstrich als Bindestrich wieder.",
       "title": "AKATHISTOS: Dank an Gott für alles (Englisch)",
       "date": "Datum unbekannt; diese englische Übersetzung erschien 2011"
+    },
+    "akathist-theotokos-cu": {
+      "title": "Akathistos-Hymnos an die Allerheiligste Gottesmutter (Kirchenslawisch)",
+      "description": "Der vollständige Große Akathistos auf Kirchenslawisch aus dem überlieferten Text des Fastentriodions: das einleitende Kontakion, zwölf Ikoi und zwölf weitere Kontakien, die Wiederholungsanweisung und das Schlussgebet. Die gemeinfreie HIP-Transkription von Orthlib bewahrt die überlieferten Akzente, Titla, historischen Buchstaben, Überschriften und Abkürzungen."
+    },
+    "akathist-ambrose-optina-cu": {
+      "title": "Akathistos zum heiligen Ambrosius von Optina (Kirchenslawisch)",
+      "description": "Der vollständige kirchenslawische Akathistos zum heiligen Ambrosius von Optina: dreizehn Kontakien, zwölf Ikoi, die Anweisung, das letzte Kontakion zu wiederholen und zum ersten Ikos und Kontakion zurückzukehren, sowie das Schlussgebet. Dies ist der Text, den die Russische Orthodoxe Kirche unter Patriarch Pimen am 22. September 1988 genehmigte und den das Kloster Optina veröffentlichte."
     },
     "aphrahat-select-demonstrations": {
       "title": "Ausgewählte Unterweisungen",

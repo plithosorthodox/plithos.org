@@ -1,5 +1,5 @@
 {
-  "catalog_sha256": "7d609d0ed997eff0a0a227cc1571db617b1505ba344ed85af8d4865f809545b7",
+  "catalog_sha256": "ec91054165e05f1fec625c0738464d46aabcd53b7d589caecc1c979ef088131d",
   "format": "plithos-library-catalog-i18n-language-source",
   "language": "sw",
   "terms": {
@@ -22,6 +22,14 @@
     "akathist-athanasius-athos-cu": {
       "description": "Akathisti ya Kislavoni cha Kanisa kwa Mtakatifu Athanasi wa Athos, iliyochapishwa tena kutoka toleo la Moscow Synodal Press la 1908 lililotolewa na Skiti ya Kirusi ya Kupaa kwa Bwana katika Mlima Athos. Vistari vifupi vinachukua nafasi ya vistari vya uchapaji vya toleo.",
       "title": "Akathisti kwa Mtakatifu Athanasi wa Athos, Mtenda Miujiza (Kislavoni cha Kanisa)"
+    },
+    "akathist-theotokos-cu": {
+      "description": "Akathisti Mkuu kamili ya Kislavoni cha Kanisa kutoka maandishi yaliyopokelewa ya Triodioni ya Mfungo Mkuu: kontakio ya mwanzo, ikoi kumi na mbili na kondakia nyingine kumi na mbili, agizo la kurudia, na sala ya mwisho. Unakili wa HIP wa Orthlib ulio katika milki ya umma unahifadhi alama za mkazo, titla, herufi za kale, vichwa na vifupisho vilivyopokelewa.",
+      "title": "Wimbo wa Akathisti kwa Mzazi-Mungu Mtakatifu Sana (Kislavoni cha Kanisa)"
+    },
+    "akathist-ambrose-optina-cu": {
+      "description": "Akathisti kamili ya Kislavoni cha Kanisa kwa Mtakatifu Ambrosi wa Optina: kondakia kumi na tatu, ikoi kumi na mbili, agizo la kurudia kontakio ya mwisho na kurudi kwenye ikos na kontakio ya kwanza, na sala ya mwisho. Haya ndiyo maandishi yaliyoidhinishwa na Kanisa la Kiorthodoksi la Urusi chini ya Patriarki Pimen tarehe 22 Septemba 1988 na kuchapishwa na Monasteri ya Optina.",
+      "title": "Akathisti kwa Mtakatifu Ambrosi wa Optina (Kislavoni cha Kanisa)"
     },
     "akathist-kazan-icon-cu": {
       "description": "Akathisti ya Kislavoni cha Kanisa mbele ya Ikoni ya Kazan ya Mzazi-Mungu Mtakatifu Sana, iliyochapishwa tena kutoka toleo la kumi na moja lililochapishwa na Synodal Press mwaka 1897. Vistari vifupi vinachukua nafasi ya vistari vya uchapaji vya toleo.",

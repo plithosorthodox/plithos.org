@@ -2,7 +2,7 @@
   "format": "plithos-library-catalog-i18n-language-source",
   "version": 1,
   "language": "zh",
-  "catalog_sha256": "7d609d0ed997eff0a0a227cc1571db617b1505ba344ed85af8d4865f809545b7",
+  "catalog_sha256": "ec91054165e05f1fec625c0738464d46aabcd53b7d589caecc1c979ef088131d",
   "terms": {
     "19th century": "19世纪",
     "20th century": "20世纪",
@@ -22,6 +22,14 @@
     "akathist-athanasius-athos-cu": {
       "title": "献给我们可敬且载神之父、阿托斯显行灵迹者阿塔纳修斯的阿卡菲斯特赞词",
       "description": "献给阿托斯可敬阿塔纳修斯的教会斯拉夫文阿卡菲斯特赞词，照录自阿托斯山升天俄罗斯修院委托莫斯科主教公会出版社于1908年刊印的版本。本站以连字符代替该版的排印长横线。"
+    },
+    "akathist-theotokos-cu": {
+      "description": "取自教会所领受的大斋期三歌经文本的完整教会斯拉夫文大阿卡菲斯特赞词：开篇孔达基、十二篇赞美词、另十二篇孔达基、重复诵读的规程和结束祷文。Orthlib的公版HIP转写保留了所领受文本的重音、提特洛符号、历史字母、标题和缩写。",
+      "title": "至圣诞神女阿卡菲斯特赞词（教会斯拉夫文）"
+    },
+    "akathist-ambrose-optina-cu": {
+      "description": "献给奥普蒂纳的圣安布罗斯的完整教会斯拉夫文阿卡菲斯特赞词，包含十三篇孔达基、十二篇赞美词、重复最后一篇孔达基后返回第一篇赞美词和第一篇孔达基的指示，以及结束祷文。此文本于1988年9月22日在牧首皮缅任内由俄罗斯正教会批准，并由奥普蒂纳修道院出版。",
+      "title": "献给奥普蒂纳的圣安布罗斯的阿卡菲斯特赞词（教会斯拉夫文）"
     },
     "akathist-kazan-icon-cu": {
       "title": "至圣诞神女喀山显灵圣像阿卡菲斯特赞词",

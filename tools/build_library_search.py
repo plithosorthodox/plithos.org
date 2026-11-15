@@ -24,7 +24,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 LIBRARY = ROOT / "data" / "library"
-VERSION = 9
+VERSION = 10
 SHARD_COUNT = 64
 OUTPUT = LIBRARY / ("search-v%d" % VERSION)
 
@@ -174,7 +174,7 @@ def compare(files):
         path = OUTPUT / name
         if not path.exists():
             problems.append("missing %s" % path.relative_to(ROOT))
-        elif path.read_bytes() != body:
+        elif path.read_bytes().replace(b"\r\n", b"\n") != body:
             problems.append("stale %s" % path.relative_to(ROOT))
     if OUTPUT.exists():
         expected = set(files)
@@ -188,7 +188,8 @@ def write(files):
     OUTPUT.mkdir(parents=True, exist_ok=True)
     for name, body in sorted(files.items()):
         path = OUTPUT / name
-        if path.exists() and path.read_bytes() != body:
+        if (path.exists() and
+                path.read_bytes().replace(b"\r\n", b"\n") != body):
             raise ValueError(
                 "%s is immutable and differs; increment VERSION" %
                 path.relative_to(ROOT))
