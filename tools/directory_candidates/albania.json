@@ -1,0 +1,124 @@
+{
+  "v": 1,
+  "countries": [
+    "AL"
+  ],
+  "checked": "2026-11-15",
+  "method": "The Church of Albania's current 2026 organization page and current official diocesan reports control the published union. The organization page names fifteen current cathedrals and churches and seven current monastic houses. Current Fier material names another six active churches. Older construction and restoration galleries and isolated historical mentions were used for discovery but not treated as a complete current parish roster. Other canonical Churches' current structures were checked for separately administered bodies.",
+  "published_summary": {
+    "al-apollonia-fier": 6,
+    "al-berat": 3,
+    "al-elbasan": 2,
+    "al-gjirokaster": 3,
+    "al-korce": 2,
+    "al-tirana-durres": 5,
+    "albania": 7,
+    "total": 28
+  },
+  "candidates": [
+    {
+      "candidate_id": "al-local-church-complete-current-parish-roster",
+      "parent": "albania",
+      "country": "AL",
+      "name": "Complete current parish and worship-site roster of the Orthodox Autocephalous Church of Albania",
+      "status": "hold for a complete current official roster",
+      "reason": "Current official material expressly names twenty-one cathedrals and churches and seven monastic houses, all of which are published. The organization page also reports 157 clergy and many local vicariates, so these names are plainly not a complete national parish roster. Older construction and restoration galleries list many additional churches but do not consistently establish current parish, building, or worship status. Additional rows remain held until a competent current roster can be reconciled.",
+      "sources": [
+        "https://orthodoxalbania.org/2026/organizimi-kishtar-kisha-orthodhokse-autoqefale-e-shqiperise-2026/",
+        "https://orthodoxalbania.org/2026/2013/04/13/fier/",
+        "https://orthodoxalbania.org/2026/lajme-blog-shqip/"
+      ]
+    }
+  ],
+  "source_reconciliations": [
+    {
+      "subject": "Current organization page and older construction galleries",
+      "decision": "Every church and monastic house expressly named by the current 2026 organization page is published. Current March 2026 material from the Metropolis of Apollonia and Fier also confirms its Saint George Cathedral and five additional active churches, all six of which are published. Older galleries are retained as discovery evidence only because construction or restoration history does not by itself establish current parish or worship status.",
+      "sources": [
+        "https://orthodoxalbania.org/2026/organizimi-kishtar-kisha-orthodhokse-autoqefale-e-shqiperise-2026/",
+        "https://orthodoxalbania.org/2026/2026/04/02/radio-ngjallja-vepra-katekitike-e-mitropolise-se-apollonise-dhe-fierit-ne-muajin-mars-2026/",
+        "https://orthodoxalbania.org/2026/2020/04/14/informacione-kontakti/"
+      ]
+    },
+    {
+      "subject": "Monastic houses and diocesan assignment",
+      "decision": "The current organization page lists seven monastic houses nationally rather than under a particular metropolis. They are therefore published directly under the Church of Albania instead of inferring a diocesan parent from geography.",
+      "sources": [
+        "https://orthodoxalbania.org/2026/organizimi-kishtar-kisha-orthodhokse-autoqefale-e-shqiperise-2026/",
+        "https://orthodoxalbania.org/2026/en/church-organization-2026/"
+      ]
+    }
+  ],
+  "official_jurisdiction_audit": [
+    {
+      "jurisdiction": "Orthodox Autocephalous Church of Albania",
+      "result": "The current official organization page establishes fifteen named cathedrals and churches and seven named monastic houses. Current official Fier material establishes six more active churches. All twenty-eight bodies are included. The unenumerated remainder of the national parish network is held for a complete current official roster.",
+      "sources": [
+        "https://orthodoxalbania.org/2026/organizimi-kishtar-kisha-orthodhokse-autoqefale-e-shqiperise-2026/",
+        "https://orthodoxalbania.org/2026/en/church-organization-2026/",
+        "https://orthodoxalbania.org/2026/2026/04/02/radio-ngjallja-vepra-katekitike-e-mitropolise-se-apollonise-dhe-fierit-ne-muajin-mars-2026/"
+      ]
+    },
+    {
+      "jurisdiction": "Ecumenical Patriarchate and Church of Greece",
+      "result": "No separately administered current parish, mission, monastery, chapel, or recurring worship site in Albania was established by the current official structures reviewed. The Albanian Church's statute identifies it as the canonical continuation for Orthodox parishes, monasteries, and communities within Albania.",
+      "sources": [
+        "https://orthodoxalbania.org/2026/2015/03/24/statuti-i-kishes-orthodhokse-autoqefale-te-shqiperise/",
+        "https://ec-patr.org/en/entities/",
+        "https://www.ecclesia.gr/"
+      ]
+    },
+    {
+      "jurisdiction": "Serbian, Romanian, Bulgarian, and Macedonian Orthodox Churches",
+      "result": "No separately administered current Albanian body was established in the current official diocesan and external-community structures reviewed. Language, nationality, clergy visits, and concelebration were not treated as evidence of a separate body.",
+      "sources": [
+        "https://spc.rs/en/eparchies/",
+        "https://patriarhia.ro/organizarea-bisericii-ortodoxe-romane/reprezentante-si-comunitati-externe/",
+        "https://bg-patriarshia.bg/dioceses",
+        "https://mpee.mk/category/za-eparxijata"
+      ]
+    },
+    {
+      "jurisdiction": "Russian and Georgian Orthodox Churches",
+      "result": "No separately administered current Albanian body was established in the current official foreign-institution and hierarchy material reviewed.",
+      "sources": [
+        "https://mospat.ru/ru/news/53765/pdf/",
+        "https://patriarchate.ge/foreign/bycategories/4",
+        "https://patriarchate.ge/sinodi/members/all"
+      ]
+    },
+    {
+      "jurisdiction": "Ukrainian Orthodox Church, Orthodox Church of Ukraine, ROCOR, and Russian Tradition",
+      "result": "No separately administered current Albanian parish, mission, monastery, chapel, or recurring worship site was established by the current official structures reviewed.",
+      "sources": [
+        "https://vzcz.church.ua/2026/02/09/pro-sluzhinnya-zaxidnojevropejskogo-vikariatstva-ukrajinskoji-pravoslavnoji-cerkvi/",
+        "https://www.pomisna.info/uk/tserkva/synodalni-ustanovy/",
+        "https://orthodox-europe.org/english/parishes/",
+        "https://archeveche.eu/lieux/"
+      ]
+    },
+    {
+      "jurisdiction": "Patriarchates of Alexandria, Antioch, and Jerusalem, and the Orthodox Church in America",
+      "result": "No current Albania body was established in the official territorial and parish structures reviewed.",
+      "sources": [
+        "https://www.patriarchateofalexandria.com/archdioceses/?lang=en",
+        "https://www.antiochpatriarchate.org/en/category/dioceses/",
+        "https://en.jerusalem-patriarchate.info/holy-synod/",
+        "https://www.oca.org/parishes"
+      ]
+    },
+    {
+      "jurisdiction": "Other canonical local Churches",
+      "result": "No additional current Albanian body was established in the official structures reviewed for Cyprus, Poland, the Czech Lands and Slovakia, Finland, Estonia, Japan, or Sinai. Search and map results without a competent canonical parent were not published.",
+      "sources": [
+        "https://churchofcyprus.org.cy/",
+        "https://www.orthodox.pl/administracja/diecezje/",
+        "https://www.pravoslavnacirkev.cz/",
+        "https://ort.fi/en/parishes/",
+        "https://www.eoc.ee/",
+        "https://www.orthodoxjapan.jp/",
+        "https://www.sinaimonastery.com/"
+      ]
+    }
+  ]
+}
