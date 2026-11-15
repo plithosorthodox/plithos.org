@@ -3,7 +3,7 @@
 
 Country modules keep the official-source audit and exact local counts. This
 owner combines their rows under the regional parent IDs that also span Great
-Britain, Ireland, Iceland, and continental Europe. Bodies which answer
+Britain, Ireland, Iceland, Norway, and continental Europe. Bodies which answer
 directly to a patriarchate remain in directory_direct instead.
 """
 
@@ -17,6 +17,7 @@ import directory_denmark
 import directory_iceland
 import directory_ireland
 import directory_north_atlantic
+import directory_norway
 
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -26,6 +27,7 @@ SOURCE_MODULES = (
     directory_iceland,
     directory_ireland,
     directory_north_atlantic,
+    directory_norway,
 )
 DIRECT_PARENTS = {"russia"}
 
@@ -76,8 +78,8 @@ def build():
             payload["country"] = scope[0]
         else:
             payload["countries"] = scope
-    if len(payloads) != 15 or sum(len(p["rows"]) for p in payloads.values()) != 109:
-        raise ValueError("north-west Europe must publish 15 parents and 109 rows")
+    if len(payloads) != 18 or sum(len(p["rows"]) for p in payloads.values()) != 181:
+        raise ValueError("north-west Europe must publish 18 parents and 181 rows")
     return dict(sorted(payloads.items()))
 
 
@@ -144,7 +146,7 @@ def main():
         for error in errors:
             print(error, file=sys.stderr)
         return 1
-    print("North-west Europe branches: 15 parents, 109 subordinate bodies")
+    print("North-west Europe branches: 18 parents, 181 subordinate bodies")
     return 0
 
 

@@ -1,0 +1,320 @@
+{
+  "country": "NO",
+  "checked": "2026-11-14",
+  "method": "Official patriarchal, diocesan, parish, monastery, and Norwegian government sources were checked. Discovery sources were not accepted as proof of canonical parentage.",
+  "official_jurisdiction_audit": [
+    {
+      "jurisdiction": "Ecumenical Patriarchate, Metropolis of Sweden and All Scandinavia",
+      "result": "five current Norway bodies published",
+      "source": "https://gomos.se/en/about-the-metropolis/parishes/"
+    },
+    {
+      "jurisdiction": "Patriarchate of Alexandria",
+      "result": "no Norway body in the official territorial structure",
+      "source": "https://www.patriarchateofalexandria.com/archdioceses/?lang=en"
+    },
+    {
+      "jurisdiction": "Patriarchate of Antioch",
+      "result": "the Scandinavian vicariate is documented, but no subordinate Norway body is listed",
+      "source": "https://antiochpatriarchate.org/en/category/%D8%A7%D9%84%D9%85%D8%B9%D8%AA%D9%85%D8%AF%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D8%A3%D9%86%D8%B7%D8%A7%D9%83%D9%8A%D8%A9-%D9%88%D9%85%D9%85%D8%AB%D9%84%D9%88-%D8%B5%D8%A7%D8%AD%D8%A8-%D8%A7%D9%84%D8%BA%D8%A8%D8%B7%D8%A9/108/"
+    },
+    {
+      "jurisdiction": "Patriarchate of Jerusalem",
+      "result": "no Norway body in the official structure",
+      "source": "https://en.jerusalem-patriarchate.info/administrative-structure/holy-bishoprics/"
+    },
+    {
+      "jurisdiction": "Moscow Patriarchate, Norway deanery",
+      "result": "the current deanery, parishes, parish group, community, and subordinate worship sites were published separately",
+      "source": "https://www.ortodoks.no/"
+    },
+    {
+      "jurisdiction": "Moscow Patriarchate, Murmansk Metropolia",
+      "result": "the St Tryphon parish in Kirkenes was published under the Murmansk parent",
+      "source": "https://www.ortodoks.no/kirkenes"
+    },
+    {
+      "jurisdiction": "Archdiocese of Orthodox Churches of Russian Tradition in Western Europe",
+      "result": "the Bergen Annunciation and Oslo St Hallvard parishes were published",
+      "source": "https://archeveche.eu/en/lieux/parish-of-the-annunciation/"
+    },
+    {
+      "jurisdiction": "Russian Orthodox Church Outside Russia, Diocese of Great Britain and Western Europe",
+      "result": "no Norway body in the current official directory",
+      "source": "https://orthodox-europe.org/wp-content/uploads/2025/12/2026-Diocese-of-GB-and-W-Europe-Directory-PDF.pdf"
+    },
+    {
+      "jurisdiction": "Romanian Orthodox Diocese of Northern Europe",
+      "result": "twenty geographic bodies and two named episcopal chapels were published",
+      "source": "https://episcopiascandinavia.se/parohiile-ortodoxe-romanesti-din-regatul-norvegiei/"
+    },
+    {
+      "jurisdiction": "Serbian Orthodox Diocese of Britain and Scandinavia",
+      "result": "parallel parish systems, church associations, worship sites, and the Holy Tryphon Skete were published without collapsing them",
+      "source": "https://www.vasilijeostroski.com/"
+    },
+    {
+      "jurisdiction": "Bulgarian Orthodox Diocese of Western and Central Europe",
+      "result": "the Saints Cyril and Methodius church community in Oslo was published",
+      "source": "https://bg-patriarshia.bg/west-eu-diocese-temples"
+    },
+    {
+      "jurisdiction": "Georgian Orthodox Church",
+      "result": "no current officially documented Norway body found",
+      "source": "https://patriarchate.ge/"
+    },
+    {
+      "jurisdiction": "Church of Cyprus",
+      "result": "no Norway body in the official structure",
+      "source": "https://churchofcyprus.org.cy/diikitiki_diathrosi"
+    },
+    {
+      "jurisdiction": "Church of Greece",
+      "result": "no separately governed Norway body found; Greek parishes in Norway are under the Ecumenical Patriarchate metropolis",
+      "source": "https://www.ecclesia.gr/"
+    },
+    {
+      "jurisdiction": "Polish Autocephalous Orthodox Church",
+      "result": "no Norway body in the official foreign units",
+      "source": "https://www.orthodox.pl/administracja/"
+    },
+    {
+      "jurisdiction": "Orthodox Autocephalous Church of Albania",
+      "result": "no Norway body in the official structure",
+      "source": "https://orthodoxalbania.org/2026/en/church-organization-2026/"
+    },
+    {
+      "jurisdiction": "Orthodox Church of the Czech Lands and Slovakia",
+      "result": "no Norway body in the official schematism",
+      "source": "https://orthodox.sk/schematizmus/pravoslavna-eparchia/"
+    },
+    {
+      "jurisdiction": "Orthodox Church in America",
+      "result": "no Norway body in the official parish search",
+      "source": "https://www.oca.org/parishes/search"
+    },
+    {
+      "jurisdiction": "Orthodox Church of Finland",
+      "result": "no Norway body in the official structure",
+      "source": "https://ort.fi/en/finnish-orthodox-church/"
+    },
+    {
+      "jurisdiction": "Apostolic Orthodox Church of Estonia",
+      "result": "no Norway body in the official structure",
+      "source": "https://www.eoc.ee/fr/eglise-orthodoxe-destonie/structure/"
+    },
+    {
+      "jurisdiction": "Estonian Orthodox Christian Church",
+      "result": "no Norway body found in the official church material",
+      "source": "https://orthodox.ee/"
+    },
+    {
+      "jurisdiction": "Orthodox Church in Japan",
+      "result": "no Norway body in the official structure",
+      "source": "https://www.orthodoxjapan.jp/"
+    },
+    {
+      "jurisdiction": "Church of Sinai",
+      "result": "no Norway body in the official structure",
+      "source": "https://www.sinaimonastery.com/index.php/en/"
+    },
+    {
+      "jurisdiction": "Macedonian Orthodox Church, European Diocese",
+      "result": "the St Petka church community in Oslo was published",
+      "source": "https://www.svpetka.no/"
+    },
+    {
+      "jurisdiction": "Ukrainian Orthodox Church, Western European Vicariate",
+      "result": "the Scandinavian deanery and seven current Norway parishes or service communities were published",
+      "source": "https://ukrortodoks.no/menigheter"
+    },
+    {
+      "jurisdiction": "Orthodox Church of Ukraine",
+      "result": "the Norway association, national chaplain mission, and Holy Volodymyr community were published from OCU synodal and Norwegian legal-register evidence",
+      "source": "https://www.pomisna.info/uk/document-post/dokumenty-zasidannya-svyashhennogo-synodu-18-zhovtnya-2022-r/"
+    }
+  ],
+  "candidates": [
+    {
+      "candidate_id": "no-russian-archdiocese-parishes-association",
+      "name": "Association of Orthodox Parishes in Norway under the Archdiocese in Paris",
+      "status": "hold for official archdiocesan recognition",
+      "reason": "The Norwegian register confirms the current association, but the official Archdiocese directory directly identifies only its Bergen and Oslo parishes. The civil association is not published as a separate ecclesial body until the Archdiocese names it among its own.",
+      "sources": [
+        "https://virksomhet.brreg.no/nb/oppslag/enheter/925805475",
+        "https://archeveche.eu/en/lieux/parish-of-the-annunciation/",
+        "https://archeveche.eu/lieux/paroisse-saint-hallvard/"
+      ]
+    },
+    {
+      "candidate_id": "no-ukrainian-trondelag-yaroslav-wise",
+      "name": "Ukrainian Orthodox Community of Holy Yaroslav the Wise in Trondelag",
+      "status": "hold for canonical-parent verification",
+      "reason": "The Norwegian register confirms the current legal body, but neither an official UOC source nor an official OCU source identifies its canonical parent. It must not be assigned by ethnicity or name alone.",
+      "sources": [
+        "https://virksomhet.brreg.no/en/oppslag/enheter/937349750",
+        "https://www.kirken.no/contentassets/abae000de606442ba40e6c14e320befa/kr%202.1_26%20kartlegging%20fra%20vid_%20global%20kristendom%20i%20norge.pdf"
+      ]
+    },
+    {
+      "candidate_id": "no-ukrainian-archangel-michael-forsand",
+      "name": "Ukrainian Orthodox Community of Archangel Michael in Forsand",
+      "status": "hold for canonical-parent verification",
+      "reason": "The current Norwegian register confirms a Ukrainian Orthodox legal body founded in 2026, but the name and record do not identify UOC, OCU, or another canonical parent.",
+      "sources": [
+        "https://virksomhet.brreg.no/nb/oppslag/enheter/938656002"
+      ]
+    },
+    {
+      "candidate_id": "no-ukrainian-haugesund-peter-paul",
+      "name": "Ukrainian Orthodox Parish of the Holy Apostles Peter and Paul in Haugesund",
+      "status": "hold for canonical-parent verification",
+      "reason": "The active Norwegian legal body and worship address are current, but neither the official UOC Norway directory nor an official OCU source identifies its canonical parent.",
+      "sources": [
+        "https://virksomhet.brreg.no/nb/oppslag/enheter/934978609",
+        "https://ukrortodoks.no/menigheter",
+        "https://www.pomisna.info/"
+      ]
+    },
+    {
+      "candidate_id": "no-bg-bergen-saint-john-rila",
+      "name": "Bulgarian Orthodox Parish of St John of Rila in Bergen",
+      "status": "hold for official diocesan recognition",
+      "reason": "The Norwegian register confirms the legal body, but the current Bulgarian Patriarchate directory lists only the Saints Cyril and Methodius community in Oslo for Norway. No official diocesan source was found for the Bergen body.",
+      "sources": [
+        "https://virksomhet.brreg.no/nb/oppslag/enheter/936230318",
+        "https://bg-patriarshia.bg/west-eu-diocese-temples"
+      ]
+    },
+    {
+      "candidate_id": "no-sandnes-protection-theotokos",
+      "name": "Protection of the Mother of God Orthodox Parish in Sandnes",
+      "status": "hold for current canonical-parent verification",
+      "reason": "The legal body remains active. A 2009 publication of Holy Nicholas Parish listed it in Sandnes, but the current Holy Nicholas parish site no longer does, and no other current official church source establishes its parentage.",
+      "sources": [
+        "https://virksomhet.brreg.no/nb/oppslag/enheter/893140182",
+        "https://ortodoks.org/Kirkeside/MB4_2009.pdf",
+        "https://www.ortodokskirke.no/kirkeforeninger"
+      ]
+    },
+    {
+      "candidate_id": "no-tvedestrand-annunciation-monastery",
+      "name": "Annunciation Orthodox Monastery in Tvedestrand",
+      "status": "not published",
+      "reason": "The monastery and legal body are current, but the only jurisdictional source found identifies it with the Russian Church Abroad under Metropolitan Agafangel, outside the recognized canonical jurisdictions in scope.",
+      "sources": [
+        "https://virksomhet.brreg.no/nb/oppslag/enheter/926159895",
+        "https://www.maria-budskap-kloster.no/",
+        "https://www.ortodoxakyrkan.se/links"
+      ]
+    },
+    {
+      "candidate_id": "no-namsos-orthodox-church",
+      "name": "Namsos Orthodox Church",
+      "status": "not published",
+      "reason": "The Norwegian legal name is generic and no official canonical Eastern Orthodox parent was found. Available civil details indicate an East African community, so it cannot be assigned to an Eastern Orthodox jurisdiction without direct church evidence.",
+      "sources": [
+        "https://virksomhet.brreg.no/nb/oppslag/enheter/918348476"
+      ]
+    },
+    {
+      "candidate_id": "no-interorthodox-cooperation-association-drammen",
+      "name": "Cooperation Association for Orthodox Faithful in Norway",
+      "status": "not published as an ecclesial body",
+      "reason": "The Norwegian register confirms an active religious association, but no official canonical jurisdiction identifies it as a diocese, parish, mission, chapel, monastery, metochion, or subordinate worship site.",
+      "sources": [
+        "https://virksomhet.brreg.no/nb/oppslag/enheter/916713851"
+      ]
+    },
+    {
+      "candidate_id": "no-true-macedonian-orthodox-church",
+      "name": "Makedonska Vistinska Pravoslavna Crkva",
+      "status": "not published",
+      "reason": "The Norwegian legal body is separate from the St Petka community documented by the canonical Macedonian Orthodox Church European Diocese. No official Macedonian Orthodox Church source recognizes this body.",
+      "sources": [
+        "https://virksomhet.brreg.no/nb/oppslag/enheter/998401747",
+        "https://www.svpetka.no/",
+        "http://www.mpc.org.mk/"
+      ]
+    },
+    {
+      "candidate_id": "no-russian-catacomb-church-outside-russia",
+      "name": "Russian Orthodox Catacomb Church Outside Russia",
+      "status": "not published",
+      "reason": "The current Norwegian legal body is not documented under the Moscow Patriarchate, ROCOR, or another recognized canonical Eastern Orthodox authority. Its own name describes a separate catacomb body.",
+      "sources": [
+        "https://virksomhet.brreg.no/nb/oppslag/enheter/990465460",
+        "https://orthodox-europe.org/wp-content/uploads/2025/12/2026-Diocese-of-GB-and-W-Europe-Directory-PDF.pdf"
+      ]
+    },
+    {
+      "candidate_id": "no-serbian-valldal-saint-olav-elijah-monastery",
+      "name": "Monastery of St Olav and the Prophet Elijah in Valldal",
+      "status": "hold for current canonical-parent verification",
+      "reason": "The Norwegian register describes a Serbian Orthodox connection, but the monastery is absent from the current official Serbian diocesan sources checked and its current site does not name a canonical parent. Publication waits for a direct current church source.",
+      "sources": [
+        "https://virksomhet.brreg.no/nb/oppslag/enheter/913545826",
+        "https://saintolavmonastery.org/",
+        "https://www.spc.rs/sr/82.eparhije-srpske-pravoslavne-crkve.html"
+      ]
+    },
+    {
+      "candidate_id": "no-mp-bergen-theophany-withdrawn",
+      "name": "Theophany Parish in Bergen",
+      "status": "not published",
+      "reason": "The current Moscow Patriarchate Norway page says the body withdrew from the Russian Orthodox Church. No current official canonical parent was found.",
+      "sources": [
+        "https://www.ortodoks.no/bergen",
+        "https://www.ortodoks.no/"
+      ]
+    },
+    {
+      "candidate_id": "no-mp-tromso-historical",
+      "name": "Former Moscow Patriarchate activity in Tromso",
+      "status": "not published",
+      "reason": "Historical activity was reported, but no current Tromso parish or mission appears in the official Norway parish navigation or current deanery material.",
+      "sources": [
+        "https://www.ortodoks.no/",
+        "https://patriarchia.ru/article/105460"
+      ]
+    },
+    {
+      "candidate_id": "no-mp-arendal-transfiguration-hermitage",
+      "name": "Proposed Transfiguration Hermitage in Arendal",
+      "status": "not published",
+      "reason": "The official parish page describes the hermitage as a future possibility. The existing private house chapel is published, but the proposed hermitage is not an established body or site.",
+      "sources": [
+        "https://www.ortodoks.no/arendal"
+      ]
+    },
+    {
+      "candidate_id": "no-ro-nodeland-monastery",
+      "name": "Possible Romanian monastic body at Nodeland",
+      "status": "hold for name and legal identity",
+      "reason": "The official diocesan map marks the Nodeland location as monastic and names a nun, but it gives no separate monastery name. The published Kristiansand parish remains the only named body at the address.",
+      "sources": [
+        "https://episcopiascandinavia.se/parohiile-ortodoxe-romanesti-din-regatul-norvegiei/",
+        "https://episcopiascandinavia.se/wp-content/uploads/2026/10/3.-MOBIL_harta_parohii_Scandinavia_v3.html"
+      ]
+    },
+    {
+      "candidate_id": "no-georgian-valldal-historical",
+      "name": "Former Georgian monastic community in Valldal",
+      "status": "historical only",
+      "reason": "The current Georgian Patriarchate material checked does not document a Norway body, and the current Valldal monastery site does not claim Georgian jurisdiction. Historical affiliation is not current canonical parentage.",
+      "sources": [
+        "https://patriarchate.ge/",
+        "https://saintolavmonastery.org/"
+      ]
+    },
+    {
+      "candidate_id": "no-georgian-selja-historical",
+      "name": "Former Georgian monastic presence on Selja",
+      "status": "historical only",
+      "reason": "No current officially documented Georgian jurisdiction or subordinate body on Selja was found. Historical residence or service does not establish a present directory row.",
+      "sources": [
+        "https://patriarchate.ge/"
+      ]
+    }
+  ]
+}

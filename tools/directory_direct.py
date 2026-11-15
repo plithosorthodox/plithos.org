@@ -19,6 +19,7 @@ import directory_denmark
 import directory_estonia
 import directory_iceland
 import directory_ireland
+import directory_norway
 
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -106,6 +107,7 @@ ROWS["russia"].extend(directory_estonia.DIRECT_RUSSIA_ROWS)
 ROWS["russia"].extend(directory_iceland.build()["russia"]["rows"])
 ROWS["russia"].extend(directory_ireland.ROWS["russia"])
 ROWS["russia"].extend(directory_australia.build()["russia"])
+ROWS["russia"].extend(directory_norway.build()["russia"]["rows"])
 
 
 def clean(row):
@@ -133,15 +135,16 @@ def build():
     for parent, source_rows in ROWS.items():
         rows = []
         countries = set()
+        branch_seen = {parent}
         for source in source_rows:
             row = clean(source)
             row_id = row.get("id")
             if not row_id or row_id in seen:
                 raise ValueError("duplicate or missing id: %s" % row_id)
-            if row.get("parent") != parent:
-                raise ValueError("%s hangs off %r instead of %s"
-                                 % (row_id, row.get("parent"), parent))
-            if row.get("kind") not in {"parish", "monastery"}:
+            if row.get("parent") not in branch_seen:
+                raise ValueError("%s hangs off unknown parent %r"
+                                 % (row_id, row.get("parent")))
+            if row.get("kind") not in {"diocese", "parish", "monastery"}:
                 raise ValueError("%s has unsupported kind" % row_id)
             if row.get("kind") == "parish" and not row.get("local"):
                 raise ValueError("%s is a parish without its own name" % row_id)
@@ -150,6 +153,7 @@ def build():
             if row.get("site") and not row["site"].startswith("http"):
                 raise ValueError("%s carries a non-URL site" % row_id)
             seen.add(row_id)
+            branch_seen.add(row_id)
             countries.add(row["country"])
             rows.append(row)
         payloads[parent] = {
@@ -158,8 +162,8 @@ def build():
             "countries": sorted(countries),
             "rows": rows,
         }
-    if len(payloads["russia"]["rows"]) != 14:
-        raise ValueError("the direct Russia branch must have 14 rows")
+    if len(payloads["russia"]["rows"]) != 28:
+        raise ValueError("the direct Russia branch must have 28 rows")
     if len(payloads["romania"]["rows"]) != 3:
         raise ValueError("the direct Romania branch must have 3 rows")
     return payloads
