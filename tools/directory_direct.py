@@ -17,6 +17,7 @@ from pathlib import Path
 import directory_australia
 import directory_belgium
 import directory_botswana
+import directory_bulgaria
 import directory_croatia
 import directory_cyprus
 import directory_czechia
@@ -117,6 +118,7 @@ ROWS = {
 # a country also has a locally governed Church. Country modules export these
 # exceptional rows so this multi-country branch owns the single payload.
 ROWS["russia"].extend(directory_denmark.DIRECT_RUSSIA_ROWS)
+ROWS["russia"].extend(directory_bulgaria.DIRECT_RUSSIA_ROWS)
 ROWS["russia"].extend(directory_estonia.DIRECT_RUSSIA_ROWS)
 ROWS["russia"].extend(directory_finland.DIRECT_RUSSIA_ROWS)
 ROWS["russia"].extend(directory_iceland.build()["russia"]["rows"])
@@ -130,6 +132,7 @@ ROWS["russia"].extend(directory_serbia.DIRECT_RUSSIA_ROWS)
 ROWS["russia"].extend(directory_sweden.DIRECT_RUSSIA_ROWS)
 ROWS["russia"].extend(directory_switzerland.build()["russia"]["rows"])
 ROWS["romania"].extend(directory_liechtenstein.DIRECT_ROMANIA_ROWS)
+ROWS["romania"].extend(directory_bulgaria.DIRECT_ROMANIA_ROWS)
 ROWS["romania"].extend(directory_belgium.build()["romania"]["rows"])
 ROWS["romania"].extend(directory_croatia.build()["romania"]["rows"])
 ROWS["romania"].extend(directory_cyprus.DIRECT_ROMANIA_ROWS)
@@ -189,10 +192,10 @@ def build():
             "countries": sorted(countries),
             "rows": rows,
         }
-    if len(payloads["russia"]["rows"]) != 51:
-        raise ValueError("the direct Russia branch must have 51 rows")
-    if len(payloads["romania"]["rows"]) != 8:
-        raise ValueError("the direct Romania branch must have 8 rows")
+    if len(payloads["russia"]["rows"]) != 53:
+        raise ValueError("the direct Russia branch must have 53 rows")
+    if len(payloads["romania"]["rows"]) != 9:
+        raise ValueError("the direct Romania branch must have 9 rows")
     if len(payloads["serbia"]["rows"]) != 1:
         raise ValueError("the direct Serbia branch must have 1 row")
     return payloads

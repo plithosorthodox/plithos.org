@@ -1,0 +1,1327 @@
+{
+  "version": 1,
+  "country": "BG",
+  "checked": "2026-11-15",
+  "policy": "Only current named bodies supported by first-party rosters are published. Count-only rows, unnamed rows, noncurrent bodies, third-party discoveries, and unproven physical merges remain here.",
+  "published_summary": {
+    "deanery_rows": 74,
+    "diocesan_body_rows": 3068,
+    "synod_direct_rows": 6,
+    "bulgaria_rows": 3148,
+    "direct_russia_rows": 2,
+    "direct_romania_rows": 1,
+    "body_counts_by_diocese": {
+      "bg-sofia": 790,
+      "bg-varna": 176,
+      "bg-veliko-tarnovo": 336,
+      "bg-vidin": 52,
+      "bg-vratsa": 0,
+      "bg-dorostol": 50,
+      "bg-lovech": 148,
+      "bg-nevrokop": 199,
+      "bg-pleven": 1,
+      "bg-plovdiv": 497,
+      "bg-ruse": 220,
+      "bg-sliven": 370,
+      "bg-stara-zagora": 229
+    },
+    "row_counts_by_parent": {
+      "bulgaria": 6,
+      "bg-sofia": 799,
+      "bg-varna": 181,
+      "bg-veliko-tarnovo": 346,
+      "bg-vidin": 57,
+      "bg-vratsa": 4,
+      "bg-dorostol": 53,
+      "bg-lovech": 153,
+      "bg-nevrokop": 204,
+      "bg-pleven": 3,
+      "bg-plovdiv": 506,
+      "bg-ruse": 224,
+      "bg-sliven": 377,
+      "bg-stara-zagora": 235
+    }
+  },
+  "holds": [
+    {
+      "id": "sofia-noncurrent",
+      "count": 8,
+      "reason": "inactive or under construction",
+      "sources": [
+        "https://mitropolia-sofia.org/2015/02/19/hramove-v-sofiya/",
+        "https://mitropolia-sofia.org/2015/02/19/hramove-v-sofiiska-duhovna-okoliya/"
+      ],
+      "records": [
+        {
+          "label": "Възнесение Господне / Св. Спас",
+          "locality": "София",
+          "status": "inactive physical body with two source aliases"
+        },
+        {
+          "label": "Св. Николай",
+          "locality": "Локорско гробище",
+          "status": "inactive"
+        },
+        {
+          "label": "Св. Троица",
+          "locality": "Буковец / Оградище",
+          "status": "inactive"
+        },
+        {
+          "label": "Св. Троица",
+          "locality": "Гара Бов",
+          "status": "construction"
+        },
+        {
+          "label": "Св. Йоан Рилски",
+          "locality": "Искрец",
+          "status": "construction"
+        },
+        {
+          "label": "Св. св. Константин и Елена и Св. Мина",
+          "locality": "Костинброд",
+          "status": "construction"
+        },
+        {
+          "label": "Св. св. Константин и Елена",
+          "locality": "Костинброд",
+          "rank": "Chapel",
+          "status": "construction"
+        },
+        {
+          "label": "Св. Петка",
+          "locality": "Четирци",
+          "status": "new construction"
+        }
+      ]
+    },
+    {
+      "id": "sofia-unnamed-localities",
+      "count": 21,
+      "reason": "named locality rows have blank worship-body fields",
+      "records": [
+        {
+          "locality": "Бакьово",
+          "deanery": "bg-sofia-sofia-rural",
+          "source": "https://mitropolia-sofia.org/2015/02/19/hramove-v-sofiiska-duhovna-okoliya/"
+        },
+        {
+          "locality": "Брезовдол",
+          "deanery": "bg-sofia-sofia-rural",
+          "source": "https://mitropolia-sofia.org/2015/02/19/hramove-v-sofiiska-duhovna-okoliya/"
+        },
+        {
+          "locality": "Габровница",
+          "deanery": "bg-sofia-sofia-rural",
+          "source": "https://mitropolia-sofia.org/2015/02/19/hramove-v-sofiiska-duhovna-okoliya/"
+        },
+        {
+          "locality": "Губислав",
+          "deanery": "bg-sofia-sofia-rural",
+          "source": "https://mitropolia-sofia.org/2015/02/19/hramove-v-sofiiska-duhovna-okoliya/"
+        },
+        {
+          "locality": "Делян",
+          "deanery": "bg-sofia-sofia-rural",
+          "source": "https://mitropolia-sofia.org/2015/02/19/hramove-v-sofiiska-duhovna-okoliya/"
+        },
+        {
+          "locality": "Добравица",
+          "deanery": "bg-sofia-sofia-rural",
+          "source": "https://mitropolia-sofia.org/2015/02/19/hramove-v-sofiiska-duhovna-okoliya/"
+        },
+        {
+          "locality": "Добърчин",
+          "deanery": "bg-sofia-sofia-rural",
+          "source": "https://mitropolia-sofia.org/2015/02/19/hramove-v-sofiiska-duhovna-okoliya/"
+        },
+        {
+          "locality": "Дружево",
+          "deanery": "bg-sofia-sofia-rural",
+          "source": "https://mitropolia-sofia.org/2015/02/19/hramove-v-sofiiska-duhovna-okoliya/"
+        },
+        {
+          "locality": "Дръмша",
+          "deanery": "bg-sofia-sofia-rural",
+          "source": "https://mitropolia-sofia.org/2015/02/19/hramove-v-sofiiska-duhovna-okoliya/"
+        },
+        {
+          "locality": "Еленов дол",
+          "deanery": "bg-sofia-sofia-rural",
+          "source": "https://mitropolia-sofia.org/2015/02/19/hramove-v-sofiiska-duhovna-okoliya/"
+        },
+        {
+          "locality": "Завидовци",
+          "deanery": "bg-sofia-sofia-rural",
+          "source": "https://mitropolia-sofia.org/2015/02/19/hramove-v-sofiiska-duhovna-okoliya/"
+        },
+        {
+          "locality": "Заноге",
+          "deanery": "bg-sofia-sofia-rural",
+          "source": "https://mitropolia-sofia.org/2015/02/19/hramove-v-sofiiska-duhovna-okoliya/"
+        },
+        {
+          "locality": "Златуша",
+          "deanery": "bg-sofia-sofia-rural",
+          "source": "https://mitropolia-sofia.org/2015/02/19/hramove-v-sofiiska-duhovna-okoliya/"
+        },
+        {
+          "locality": "Извор",
+          "deanery": "bg-sofia-sofia-rural",
+          "source": "https://mitropolia-sofia.org/2015/02/19/hramove-v-sofiiska-duhovna-okoliya/"
+        },
+        {
+          "locality": "Левище",
+          "deanery": "bg-sofia-sofia-rural",
+          "source": "https://mitropolia-sofia.org/2015/02/19/hramove-v-sofiiska-duhovna-okoliya/"
+        },
+        {
+          "locality": "Мала Раковица",
+          "deanery": "bg-sofia-sofia-rural",
+          "source": "https://mitropolia-sofia.org/2015/02/19/hramove-v-sofiiska-duhovna-okoliya/"
+        },
+        {
+          "locality": "Манастирище",
+          "deanery": "bg-sofia-sofia-rural",
+          "source": "https://mitropolia-sofia.org/2015/02/19/hramove-v-sofiiska-duhovna-okoliya/"
+        },
+        {
+          "locality": "Миланово",
+          "deanery": "bg-sofia-sofia-rural",
+          "source": "https://mitropolia-sofia.org/2015/02/19/hramove-v-sofiiska-duhovna-okoliya/"
+        },
+        {
+          "locality": "Оплетня",
+          "deanery": "bg-sofia-sofia-rural",
+          "source": "https://mitropolia-sofia.org/2015/02/19/hramove-v-sofiiska-duhovna-okoliya/"
+        },
+        {
+          "locality": "Ракита",
+          "deanery": "bg-sofia-sofia-rural",
+          "source": "https://mitropolia-sofia.org/2015/02/19/hramove-v-sofiiska-duhovna-okoliya/"
+        },
+        {
+          "locality": "Ябланица",
+          "deanery": "bg-sofia-sofia-rural",
+          "source": "https://mitropolia-sofia.org/2015/02/19/hramove-v-sofiiska-duhovna-okoliya/"
+        }
+      ]
+    },
+    {
+      "id": "vidin-noncurrent",
+      "count": 2,
+      "reason": "construction or ruined historical body",
+      "sources": [
+        "https://bg-patriarshia.bg/vidin-diocese-temples",
+        "https://bg-patriarshia.bg/vidin-diocese-monasteries"
+      ],
+      "records": [
+        {
+          "label": "unnamed church",
+          "locality": "Новоселци",
+          "status": "finishing construction"
+        },
+        {
+          "label": "Алботински скален манастир",
+          "locality": "Алботин",
+          "status": "ruined historical site"
+        }
+      ]
+    },
+    {
+      "id": "vidin-no-temple",
+      "count": 1,
+      "reason": "official clergy row explicitly says there is no temple",
+      "records": [
+        {
+          "locality": "Акациево",
+          "status": "no temple",
+          "source": "https://bg-patriarshia.bg/vidin-diocese-temples"
+        }
+      ]
+    },
+    {
+      "id": "veliko-tarnovo-unnamed",
+      "count": 9,
+      "reason": "official clergy rows do not name a worship body; two explicitly say there is no temple",
+      "records": [
+        {
+          "deanery": "bg-veliko-tarnovo-gorna-oryahovitsa",
+          "locality": "Кавлак",
+          "status": "unnamed worship body",
+          "source": "https://bg-patriarshia.bg/turnovo-diocese-temples"
+        },
+        {
+          "deanery": "bg-veliko-tarnovo-dryanovo",
+          "locality": "Соколово",
+          "status": "unnamed worship body",
+          "source": "https://bg-patriarshia.bg/turnovo-diocese-temples"
+        },
+        {
+          "deanery": "bg-veliko-tarnovo-nikopol",
+          "locality": "Асеново",
+          "status": "unnamed worship body",
+          "source": "https://bg-patriarshia.bg/turnovo-diocese-temples"
+        },
+        {
+          "deanery": "bg-veliko-tarnovo-nikopol",
+          "locality": "Бацова махала",
+          "status": "unnamed worship body",
+          "source": "https://bg-patriarshia.bg/turnovo-diocese-temples"
+        },
+        {
+          "deanery": "bg-veliko-tarnovo-nikopol",
+          "locality": "Долни Вит",
+          "status": "unnamed worship body",
+          "source": "https://bg-patriarshia.bg/turnovo-diocese-temples"
+        },
+        {
+          "deanery": "bg-veliko-tarnovo-nikopol",
+          "locality": "Черквица",
+          "status": "no temple",
+          "source": "https://bg-patriarshia.bg/turnovo-diocese-temples"
+        },
+        {
+          "deanery": "bg-veliko-tarnovo-nikopol",
+          "locality": "Шияково",
+          "status": "no temple",
+          "source": "https://bg-patriarshia.bg/turnovo-diocese-temples"
+        },
+        {
+          "deanery": "bg-veliko-tarnovo-pavlikeni",
+          "locality": "Аспарухово",
+          "status": "unnamed worship body",
+          "source": "https://bg-patriarshia.bg/turnovo-diocese-temples"
+        },
+        {
+          "deanery": "bg-veliko-tarnovo-svishtov",
+          "locality": "Босилковци",
+          "status": "unnamed worship body",
+          "source": "https://bg-patriarshia.bg/turnovo-diocese-temples"
+        }
+      ]
+    },
+    {
+      "id": "vratsa-third-party",
+      "count": 45,
+      "reason": "discovery-only candidates lack a first-party diocesan roster",
+      "discovery_source": "https://svetopravoslavie.org/sveti-mesta/eparhii/vrachanska/",
+      "records": [
+        {
+          "label": "Катедрален храм \"Св. Дванадесет Апостоли\" - Враца бул. \"Христо Ботев\" 45, гр. Враца, България",
+          "source": "https://svetopravoslavie.org/sveti-mesta/#vratsa-twelve-apostles-cathedral"
+        },
+        {
+          "label": "Храм \"Св. Параскева\" - Бяла Слатина гр. Бяла Слатина, област Враца, България",
+          "source": "https://svetopravoslavie.org/sveti-mesta/#byala-slatina-st-paraskeva-church"
+        },
+        {
+          "label": "Митрополитски храм \"Св. Николай Мирликийски\" - Враца гр. Враца, България",
+          "source": "https://svetopravoslavie.org/sveti-mesta/vratsa-st-nicholas-metropolitan-church/"
+        },
+        {
+          "label": "Храм \"Вси Светии\" - Враца гр. Враца, България",
+          "source": "https://svetopravoslavie.org/sveti-mesta/#vratsa-all-saints-church"
+        },
+        {
+          "label": "Храм \"Св. Софроний Врачански\" - Враца гр. Враца, България",
+          "source": "https://svetopravoslavie.org/sveti-mesta/#vratsa-st-sophronius-church"
+        },
+        {
+          "label": "Храм \"Свети Царей\" - Враца гр. Враца, България",
+          "source": "https://svetopravoslavie.org/sveti-mesta/#vratsa-holy-tsars-church"
+        },
+        {
+          "label": "Храм \"Света Троица\" - Козлодуй гр. Козлодуй, област Враца, България",
+          "source": "https://svetopravoslavie.org/sveti-mesta/#kozloduy-holy-trinity-church"
+        },
+        {
+          "label": "Храм \"Св. Възнесение Христово\" - Мизия гр. Мизия, област Враца, България",
+          "source": "https://svetopravoslavie.org/sveti-mesta/#mizia-ascension-church"
+        },
+        {
+          "label": "Храм \"Св. св. апостоли Петър и Павел\" - Мизия гр. Мизия, област Враца, България",
+          "source": "https://svetopravoslavie.org/sveti-mesta/#mizia-peter-paul-church"
+        },
+        {
+          "label": "Храм \"Успение Богородично\" - Оряхово гр. Оряхово, област Враца, България",
+          "source": "https://svetopravoslavie.org/sveti-mesta/#oryahovo-dormition-church"
+        },
+        {
+          "label": "Храм \"Св. Георги\" - Оряхово гр. Оряхово, област Враца, България",
+          "source": "https://svetopravoslavie.org/sveti-mesta/#oryahovo-st-george-church"
+        },
+        {
+          "label": "Храм \"Св. Мина\" - Враца ж.к. Дъбника, гр. Враца, България",
+          "source": "https://svetopravoslavie.org/sveti-mesta/#vratsa-st-mina-church"
+        },
+        {
+          "label": "Черепишки манастир \"Успение Богородично\" Искърски пролом, край с. Лютиброд, община Мездра, област Враца, България",
+          "source": "https://svetopravoslavie.org/sveti-mesta/cherepish-monastery/"
+        },
+        {
+          "label": "Бистрецки манастир \"Св. Иван Рилски\" край кв. Бистрец, гр. Враца, България",
+          "source": "https://svetopravoslavie.org/sveti-mesta/#bistrets-st-john-rila-monastery"
+        },
+        {
+          "label": "Манастир \"Св. Иван Пусти\" - край Бели извор край с. Бели извор, община Враца, България",
+          "source": "https://svetopravoslavie.org/sveti-mesta/#st-ivan-pusti-monastery"
+        },
+        {
+          "label": "Манастир \"Св. Йоан Предтеча\" - край с. Градешница край с. Градешница, област Враца, България",
+          "source": "https://svetopravoslavie.org/sveti-mesta/#gradeshnitsa-st-john-forerunner-monastery"
+        },
+        {
+          "label": "Долнобешовишки манастир \"Св. Архангел Михаил\" край с. Долна Бешовица, община Роман, област Враца, България",
+          "source": "https://svetopravoslavie.org/sveti-mesta/#dolna-beshovitsa-archangel-monastery"
+        },
+        {
+          "label": "Мътнишки манастир \"Св. Николай Чудотворец\" край с. Краводер / Бели извор, област Враца, България",
+          "source": "https://svetopravoslavie.org/sveti-mesta/#mutnitsa-st-nicholas-monastery"
+        },
+        {
+          "label": "Струпецки манастир \"Св. пророк Илия\" край с. Струпец, област Враца, България",
+          "source": "https://svetopravoslavie.org/sveti-mesta/#strupets-prophet-elijah-monastery"
+        },
+        {
+          "label": "Храм \"Св. Възнесение\" - с. Баница с. Баница, община Враца, България",
+          "source": "https://svetopravoslavie.org/sveti-mesta/#banitsa-ascension-church"
+        },
+        {
+          "label": "Храм \"Св. Николай\" - с. Борован с. Борован, област Враца, България",
+          "source": "https://svetopravoslavie.org/sveti-mesta/#borovan-st-nicholas-church"
+        },
+        {
+          "label": "Храм \"Св. Йоан Кръстител\" - с. Брусен с. Брусен, община Мездра, област Враца, България",
+          "source": "https://svetopravoslavie.org/sveti-mesta/#brusen-st-john-baptist-church"
+        },
+        {
+          "label": "Храм \"Св. Йоан Рилски\" - с. Войводово с. Войводово, община Мизия, област Враца, България",
+          "source": "https://svetopravoslavie.org/sveti-mesta/#sv-yoan-rilski-voyvodovo"
+        },
+        {
+          "label": "Храм \"Св. Троица\" - с. Галиче с. Галиче, община Бяла Слатина, област Враца, България",
+          "source": "https://svetopravoslavie.org/sveti-mesta/#galiche-orthodox-church"
+        },
+        {
+          "label": "Храм \"Св. Троица\" - с. Гложене, община Козлодуй с. Гложене, община Козлодуй, област Враца, България",
+          "source": "https://svetopravoslavie.org/sveti-mesta/#glozhene-kozloduy-orthodox-church"
+        },
+        {
+          "label": "Храм \"Св. Стефан\" - с. Добруша с. Добруша, област Враца, България",
+          "source": "https://svetopravoslavie.org/sveti-mesta/#dobrusha-st-stephen-church"
+        },
+        {
+          "label": "Храм \"Св. Георги\" - с. Долни Вадин с. Долни Вадин, община Оряхово, област Враца, България",
+          "source": "https://svetopravoslavie.org/sveti-mesta/#dolni-vadin-st-george-church"
+        },
+        {
+          "label": "Храм \"Св. пророк Елисей\" - с. Елисейна с. Елисейна, община Мездра, област Враца, България",
+          "source": "https://svetopravoslavie.org/sveti-mesta/#eliseyna-prophet-elisha-church"
+        },
+        {
+          "label": "Храм \"Св. Игнатий Богоносец\" - с. Игнатица с. Игнатица, община Мездра, област Враца, България",
+          "source": "https://svetopravoslavie.org/sveti-mesta/#ignatitsa-st-ignatius-church"
+        },
+        {
+          "label": "Храм \"Св. Троица\" - с. Комарево с. Комарево, община Бяла Слатина, област Враца, България",
+          "source": "https://svetopravoslavie.org/sveti-mesta/#komarevo-orthodox-church"
+        },
+        {
+          "label": "Храм \"Св. Архангел Михаил\" - с. Курново с. Курново, област Враца, България",
+          "source": "https://svetopravoslavie.org/sveti-mesta/#kurnovo-archangel-michael-church"
+        },
+        {
+          "label": "Храм \"Св. Николай Чудотворец\" - с. Лик с. Лик, община Мездра, област Враца, България",
+          "source": "https://svetopravoslavie.org/sveti-mesta/#lik-st-nicholas-church"
+        },
+        {
+          "label": "Храм \"Св. Климент Охридски\" - с. Лютиброд с. Лютиброд, община Мездра, област Враца, България",
+          "source": "https://svetopravoslavie.org/sveti-mesta/#lyutibrod-st-clement-church"
+        },
+        {
+          "label": "Параклис \"Св. Георги Победоносец\" - с. Моравица с. Моравица, община Мездра, област Враца, България",
+          "source": "https://svetopravoslavie.org/sveti-mesta/#moravitsa-st-george-chapel"
+        },
+        {
+          "label": "Храм \"Св. Троица\" - с. Остров с. Остров, община Оряхово, област Враца, България",
+          "source": "https://svetopravoslavie.org/sveti-mesta/#ostrov-holy-trinity-church"
+        },
+        {
+          "label": "Храм \"Св. Параскева\" - с. Попица с. Попица, община Бяла Слатина, област Враца, България",
+          "source": "https://svetopravoslavie.org/sveti-mesta/#popitsa-orthodox-church"
+        },
+        {
+          "label": "Храм \"Всички български светии\" - с. Селановци с. Селановци, община Оряхово, област Враца, България",
+          "source": "https://svetopravoslavie.org/sveti-mesta/#selanovtsi-all-bulgarian-saints-church"
+        },
+        {
+          "label": "Православен храм - с. Соколаре с. Соколаре, община Бяла Слатина, област Враца, България",
+          "source": "https://svetopravoslavie.org/sveti-mesta/#sokolare-orthodox-church"
+        },
+        {
+          "label": "Православен храм - с. Тлачене с. Тлачене, община Бяла Слатина, област Враца, България",
+          "source": "https://svetopravoslavie.org/sveti-mesta/#tlachene-orthodox-church"
+        },
+        {
+          "label": "Храм \"Успение Богородично\" - с. Хърлец с. Хърлец, община Козлодуй, област Враца, България",
+          "source": "https://svetopravoslavie.org/sveti-mesta/#uspenie-bogorodichno-harlets"
+        },
+        {
+          "label": "Храм \"Св. Димитър\" - с. Царевец с. Царевец, област Враца, България",
+          "source": "https://svetopravoslavie.org/sveti-mesta/#tsarevets-st-demetrius-church"
+        },
+        {
+          "label": "Параклис \"Св. Георги Победоносец\" - с. Челопек с. Челопек, община Враца, България",
+          "source": "https://svetopravoslavie.org/sveti-mesta/#chelopek-st-george-chapel"
+        },
+        {
+          "label": "Храм \"Възнесение Господне\" - Враца ул. \"Генерал Леонов\" 3, гр. Враца, България",
+          "source": "https://svetopravoslavie.org/sveti-mesta/#vratsa-ascension-church"
+        },
+        {
+          "label": "Храм \"Св. св. Константин и Елена\" - Враца ул. \"Петропавловска\" 84, гр. Враца, България",
+          "source": "https://svetopravoslavie.org/sveti-mesta/#vratsa-constantine-helena-church"
+        },
+        {
+          "label": "Храм \"Свето Възнесение\" - с. Бутан Централен парк, ул. \"Георги Димитров\", 3326 с. Бутан, община Козлодуй, област Враца, България",
+          "source": "https://svetopravoslavie.org/sveti-mesta/sveto-vaznesenie-butan/"
+        }
+      ]
+    },
+    {
+      "id": "dorostol-unnamed",
+      "count": 1,
+      "reason": "current clergy row does not name a worship body",
+      "records": [
+        {
+          "locality": "Пайсиево",
+          "source": "https://bg-patriarshia.bg/dorostol-diocese-temples"
+        }
+      ]
+    },
+    {
+      "id": "dorostol-planned",
+      "count": 2,
+      "reason": "planned-only bodies absent from the current clergy roster",
+      "records": [
+        {
+          "label": "Св. Харалампи",
+          "locality": "Краново"
+        },
+        {
+          "label": "Св. Георги Победоносец",
+          "locality": "Силистра"
+        }
+      ],
+      "source": "https://bg-patriarshia.bg/dorostol-diocese-temples"
+    },
+    {
+      "id": "lovech-noncurrent",
+      "count": 3,
+      "reason": "demolished or under construction",
+      "records": [
+        {
+          "label": "Успение Богородично",
+          "locality": "Българене",
+          "status": "demolished"
+        },
+        {
+          "label": "Св. Мария Магдалена",
+          "locality": "Лакарево",
+          "rank": "Chapel",
+          "status": "construction"
+        },
+        {
+          "label": "Св. Параскева",
+          "locality": "Мала Желязна",
+          "status": "construction"
+        }
+      ],
+      "source": "https://bg-patriarshia.bg/lovech-diocese-temples"
+    },
+    {
+      "id": "lovech-unnamed",
+      "count": 5,
+      "reason": "current clergy rows do not name worship bodies",
+      "records": [
+        {
+          "deanery": "bg-lovech-lovech",
+          "locality": "Скобелево, Продимчец и Изворче",
+          "source": "https://bg-patriarshia.bg/lovech-diocese-temples"
+        },
+        {
+          "deanery": "bg-lovech-lovech",
+          "locality": "Кърпачево",
+          "source": "https://bg-patriarshia.bg/lovech-diocese-temples"
+        },
+        {
+          "deanery": "bg-lovech-lovech",
+          "locality": "Умаревци",
+          "source": "https://bg-patriarshia.bg/lovech-diocese-temples"
+        },
+        {
+          "deanery": "bg-lovech-lovech",
+          "locality": "Чавдарци",
+          "source": "https://bg-patriarshia.bg/lovech-diocese-temples"
+        },
+        {
+          "deanery": "bg-lovech-botevgrad",
+          "locality": "Лъга",
+          "source": "https://bg-patriarshia.bg/lovech-diocese-temples"
+        }
+      ]
+    },
+    {
+      "id": "plovdiv-unnamed",
+      "count": 13,
+      "reason": "official PDF rows contain ellipses or a blank title",
+      "records": [
+        {
+          "deanery": "bg-plovdiv-plovdiv",
+          "source_number": 64,
+          "locality": "с. Любен",
+          "source": "https://bg-patriarshia.bg/uploads/FD5733D83A7CEBED44CF9B92EF97CA61"
+        },
+        {
+          "deanery": "bg-plovdiv-plovdiv",
+          "source_number": 72,
+          "locality": "с. Неделево",
+          "source": "https://bg-patriarshia.bg/uploads/FD5733D83A7CEBED44CF9B92EF97CA61"
+        },
+        {
+          "deanery": "bg-plovdiv-plovdiv",
+          "source_number": 75,
+          "locality": "с. Отец Кирилово",
+          "source": "https://bg-patriarshia.bg/uploads/FD5733D83A7CEBED44CF9B92EF97CA61"
+        },
+        {
+          "deanery": "bg-plovdiv-pazardzhik",
+          "source_number": 6,
+          "locality": "с. Блатница",
+          "source": "https://bg-patriarshia.bg/uploads/FD5733D83A7CEBED44CF9B92EF97CA61"
+        },
+        {
+          "deanery": "bg-plovdiv-pazardzhik",
+          "source_number": 34,
+          "locality": "с. Крали Марко",
+          "source": "https://bg-patriarshia.bg/uploads/FD5733D83A7CEBED44CF9B92EF97CA61"
+        },
+        {
+          "deanery": "bg-plovdiv-panagyurishte",
+          "source_number": 3,
+          "locality": "с. Блатница",
+          "source": "https://bg-patriarshia.bg/uploads/FD5733D83A7CEBED44CF9B92EF97CA61"
+        },
+        {
+          "deanery": "bg-plovdiv-panagyurishte",
+          "source_number": 10,
+          "locality": "с. Крушево",
+          "source": "https://bg-patriarshia.bg/uploads/FD5733D83A7CEBED44CF9B92EF97CA61"
+        },
+        {
+          "deanery": "bg-plovdiv-panagyurishte",
+          "source_number": 13,
+          "locality": "с. Мътеница",
+          "source": "https://bg-patriarshia.bg/uploads/FD5733D83A7CEBED44CF9B92EF97CA61"
+        },
+        {
+          "deanery": "bg-plovdiv-smolyan",
+          "source_number": 17,
+          "locality": "кв. \"Езерово\" на гр. Смолян",
+          "source": "https://bg-patriarshia.bg/uploads/FD5733D83A7CEBED44CF9B92EF97CA61"
+        },
+        {
+          "deanery": "bg-plovdiv-smolyan",
+          "source_number": 18,
+          "locality": "с. Кожари",
+          "source": "https://bg-patriarshia.bg/uploads/FD5733D83A7CEBED44CF9B92EF97CA61"
+        },
+        {
+          "deanery": "bg-plovdiv-smolyan",
+          "source_number": 50,
+          "locality": "с. Студенец",
+          "source": "https://bg-patriarshia.bg/uploads/FD5733D83A7CEBED44CF9B92EF97CA61"
+        },
+        {
+          "deanery": "bg-plovdiv-smolyan",
+          "source_number": 52,
+          "locality": "с. Триград",
+          "source": "https://bg-patriarshia.bg/uploads/FD5733D83A7CEBED44CF9B92EF97CA61"
+        },
+        {
+          "deanery": "bg-plovdiv-haskovo",
+          "source_number": 11,
+          "locality": "с. Голям Извор",
+          "source": "https://bg-patriarshia.bg/uploads/FD5733D83A7CEBED44CF9B92EF97CA61"
+        }
+      ]
+    },
+    {
+      "id": "ruse-noncurrent",
+      "count": 9,
+      "reason": "destroyed and rebuilding, construction, or project status",
+      "source": "https://bg-patriarshia.bg/ruse-diocese-temples",
+      "records": [
+        {
+          "label": "Всех Святих",
+          "locality": "Русе",
+          "status": "destroyed in 1975 and now under construction"
+        },
+        {
+          "label": "Св. Георги",
+          "locality": "Кошарна",
+          "status": "construction"
+        },
+        {
+          "label": "Св. Димитър",
+          "locality": "Маково",
+          "status": "construction"
+        },
+        {
+          "label": "Св. Мина",
+          "locality": "Марчино",
+          "status": "construction"
+        },
+        {
+          "label": "Св. Дух",
+          "locality": "Белица",
+          "status": "construction"
+        },
+        {
+          "label": "Св. пророк Илия",
+          "locality": "Сяново",
+          "status": "construction"
+        },
+        {
+          "label": "Въздвижение Кръст Господен",
+          "locality": "Цар Самуил",
+          "status": "construction"
+        },
+        {
+          "label": "Св. Николай",
+          "locality": "Черногор",
+          "status": "construction"
+        },
+        {
+          "label": "Възкресение Лазарово",
+          "locality": "новите гробища, Русе",
+          "status": "project"
+        }
+      ]
+    },
+    {
+      "id": "sliven-abandoned",
+      "count": 1,
+      "reason": "abandoned monastery institution; only its church remains",
+      "records": [
+        {
+          "label": "Св. Петка",
+          "locality": "Сотиря"
+        }
+      ],
+      "source": "https://slivenskamitropolia.bg/eparhiya/teritorialno-ustrojstvo/manastiri/"
+    }
+  ],
+  "deduplications": [
+    {
+      "id": "sofia-temple-monastery-overlaps",
+      "count": 12,
+      "action": "temple-table copy suppressed; current monastery institution retained",
+      "records": [
+        "Св. Николай, Батулия",
+        "Възнесение Господне, Горна Василица",
+        "Възнесение Господне, Горна Врабча",
+        "Св. ап. Петър и Павел, Долни Пасарел",
+        "Св. Петка, Калкас",
+        "Св. Йоаким Осоговски, Кутугерци",
+        "Св. Четиридесет мъченици, Кътина",
+        "Св. пророк Илия, Очуша",
+        "Св. Николай Летни, Ребро",
+        "Св. Йоан Рилски, Скрино / Руен",
+        "Св. пророк Илия, Илиянци",
+        "Св. Мина, Обрадовци"
+      ],
+      "sources": [
+        "https://mitropolia-sofia.org/eparhya/manastiri/",
+        "https://mitropolia-sofia.org/2015/02/19/hramove-v-sofiya/",
+        "https://mitropolia-sofia.org/2015/02/19/hramove-v-sofiiska-duhovna-okoliya/",
+        "https://mitropolia-sofia.org/2015/02/19/transka-duhovna-okoliya/",
+        "https://mitropolia-sofia.org/2015/02/19/radomirska-duhovna-okoliya/",
+        "https://mitropolia-sofia.org/2015/02/19/ihtimanska-duhovna-okoliya/",
+        "https://mitropolia-sofia.org/2015/02/19/kyustendilska-duhovna-okoliya/",
+        "https://mitropolia-sofia.org/2015/02/19/dupnishka-duhovna-okoliya/"
+      ]
+    },
+    {
+      "id": "varna-repeated-temple-rows",
+      "count": 3,
+      "records": [
+        "Св. Николай Летни, Овчарово",
+        "Св. Параскева, Божурово",
+        "Св. Йоан Рилски, Камен"
+      ],
+      "source": "https://bg-patriarshia.bg/varna-diocese-temples"
+    },
+    {
+      "id": "veliko-tarnovo-monastery-parish",
+      "count": 1,
+      "records": [
+        "Манастирска енория при Соколски манастир"
+      ],
+      "sources": [
+        "https://bg-patriarshia.bg/turnovo-diocese-temples",
+        "https://bg-patriarshia.bg/turnovo-diocese-monasteries"
+      ]
+    },
+    {
+      "id": "vidin-bregovo",
+      "count": 1,
+      "records": [
+        "Успение Богородично, Брегово"
+      ],
+      "sources": [
+        "https://bg-patriarshia.bg/vidin-diocese-temples",
+        "https://vidinskamitropolia.bg/hramove-i-manastiri/"
+      ]
+    },
+    {
+      "id": "lovech-monastery-references",
+      "count": 11,
+      "action": "temple-roster reference suppressed and institution published from the monastery roster; Yastreb retained from the temple roster because it is absent from the monastery page",
+      "records": [
+        {
+          "deanery": "bg-lovech-lovech",
+          "dedication": "Рождество Богородично - Ястреб",
+          "locality": "Сливешки ливади",
+          "source": "https://bg-patriarshia.bg/lovech-diocese-temples"
+        },
+        {
+          "deanery": "bg-lovech-troyan",
+          "dedication": "Св. Троица",
+          "locality": "Априлци, Новоселски",
+          "source": "https://bg-patriarshia.bg/lovech-diocese-temples"
+        },
+        {
+          "deanery": "bg-lovech-teteven",
+          "dedication": "Св. вмчк Георги",
+          "locality": "Гложенски",
+          "source": "https://bg-patriarshia.bg/lovech-diocese-temples"
+        },
+        {
+          "deanery": "bg-lovech-teteven",
+          "dedication": "Св.прор.Илия",
+          "locality": "Тетевен",
+          "source": "https://bg-patriarshia.bg/lovech-diocese-temples"
+        },
+        {
+          "deanery": "bg-lovech-botevgrad",
+          "dedication": "Рождество Богородично",
+          "locality": "Ботевград, местност Зелин",
+          "source": "https://bg-patriarshia.bg/lovech-diocese-temples"
+        },
+        {
+          "deanery": "bg-lovech-botevgrad",
+          "dedication": "Св. 40 мъченици",
+          "locality": "Врачешки",
+          "source": "https://bg-patriarshia.bg/lovech-diocese-temples"
+        },
+        {
+          "deanery": "bg-lovech-botevgrad",
+          "dedication": "Св. Троица",
+          "locality": "Етрополски",
+          "source": "https://bg-patriarshia.bg/lovech-diocese-temples"
+        },
+        {
+          "deanery": "bg-lovech-botevgrad",
+          "dedication": "Св. вмчк Теодор Тирон",
+          "locality": "Правешки",
+          "source": "https://bg-patriarshia.bg/lovech-diocese-temples"
+        },
+        {
+          "deanery": "bg-lovech-botevgrad",
+          "dedication": "Св. Николай",
+          "locality": "Скравенски",
+          "source": "https://bg-patriarshia.bg/lovech-diocese-temples"
+        },
+        {
+          "deanery": "bg-lovech-botevgrad",
+          "dedication": "Св. Арх. Михаил",
+          "locality": "Чекотински",
+          "source": "https://bg-patriarshia.bg/lovech-diocese-temples"
+        },
+        {
+          "deanery": "bg-lovech-pirdop",
+          "dedication": "Възнесение Господне",
+          "locality": "Златишки",
+          "source": "https://bg-patriarshia.bg/lovech-diocese-temples"
+        }
+      ],
+      "sources": [
+        "https://bg-patriarshia.bg/lovech-diocese-temples",
+        "https://bg-patriarshia.bg/lovech-diocese-monasteries"
+      ]
+    },
+    {
+      "id": "plovdiv-proven-overlaps",
+      "count": 2,
+      "records": [
+        "Св. Йоан Предтеча, Кърджали",
+        "Св. св. Константин и Елена, Ивайловград / Лъджа"
+      ],
+      "sources": [
+        "https://bg-patriarshia.bg/uploads/FD5733D83A7CEBED44CF9B92EF97CA61",
+        "https://www.plovdivskamitropolia.bg/eparhiya/manastiri.html",
+        "https://www.plovdivskamitropolia.bg/eparhiya/manastiri.html?start=5"
+      ]
+    },
+    {
+      "id": "ruse-monastery-roster-overlaps",
+      "count": 4,
+      "records": [
+        "Св. Димитър Басарбовски",
+        "Св. Марина, Каран Върбовка",
+        "Св. Петка, Копривец",
+        "Св. Марина, Сяново"
+      ],
+      "sources": [
+        "https://bg-patriarshia.bg/ruse-diocese-temples",
+        "https://bg-patriarshia.bg/ruse-diocese-monasteries"
+      ]
+    }
+  ],
+  "routing_exceptions": {
+    "synod_direct": [
+      "Патриаршеска катедрала \"Св. Александър Невски\", София",
+      "Семинарски храм \"Св. Йоан Рилски\", София",
+      "Манастир \"Св. Йоан Рилски\", Рилски манастир",
+      "Манастир \"Успение Богородично\", Бачковски манастир",
+      "Манастир \"Успение Богородично\", Троянски манастир",
+      "Семинарски храм \"Св. св. Кирил и Методий\", Пловдив"
+    ],
+    "russia": [
+      "Руско православно подворие \"Св. Николай\", София",
+      "Храм \"Св. вмчк Пантелеймон\" при Руския старчески дом, Карпузица"
+    ],
+    "romania": [
+      "Храм на Румънската патриаршия \"Св. Троица\", София"
+    ],
+    "sofia_transfers": [
+      {
+        "id": "bg-direct-sofia-patriarchal-cathedral-saint-alexander-nevsky",
+        "target_parent": "bulgaria"
+      },
+      {
+        "id": "bg-direct-sofia-seminary-saint-john-of-rila",
+        "target_parent": "bulgaria"
+      },
+      {
+        "id": "bg-russian-sofia-saint-nicholas",
+        "target_parent": "russia"
+      },
+      {
+        "id": "bg-russian-karpuzitsa-great-martyr-panteleimon",
+        "target_parent": "russia"
+      },
+      {
+        "id": "bg-romanian-sofia-holy-trinity",
+        "target_parent": "romania"
+      }
+    ],
+    "note": "Five Sofia-roster bodies are routed outside bg-sofia: two to bulgaria, two to russia, and one to romania."
+  },
+  "foreign_jurisdiction_audit": {
+    "published": {
+      "russia": 2,
+      "romania": 1
+    },
+    "not_verified": [
+      "Greek resident body",
+      "Serbian resident body",
+      "Antiochian resident body",
+      "OCA resident body",
+      "other resident foreign body"
+    ],
+    "note": "First-party evidence supports no additional resident foreign jurisdiction. Clergy visits do not establish a resident directory body."
+  },
+  "source_gaps": [
+    {
+      "id": "varna-partial",
+      "count": null,
+      "note": "The official temple roster explicitly identifies itself as partial."
+    },
+    {
+      "id": "veliko-tarnovo-count-only",
+      "count": 134,
+      "qualifier": "about",
+      "note": "The diocesan overview gives 450 churches and 20 monasteries; 336 current named bodies are publishable."
+    },
+    {
+      "id": "vratsa-first-party-empty",
+      "count": 45,
+      "qualifier": "third-party candidates only",
+      "note": "Both official central rosters are empty and no official diocesan site is registered."
+    },
+    {
+      "id": "pleven-unquantified",
+      "count": null,
+      "note": "Only Holy Trinity in Pleven is officially named; no fuller roster is exposed."
+    },
+    {
+      "id": "sliven-count-only",
+      "count": 343,
+      "note": "The overview total exceeds the 362 named temple and chapel rows by 343 bodies."
+    }
+  ],
+  "uncertainties": [
+    {
+      "id": "plovdiv-unproven-monastery-overlaps",
+      "count": 15,
+      "decision": "preserve distinct institutions because same-site identity with a PDF worship body was not proven",
+      "records": [
+        {
+          "id": "bg-plovdiv-asenovgrad-gorni-voden-martyrs-cyricus-and-julitta",
+          "local": "Манастир \"Св. св. Кирик и Юлита\", Горни Воден",
+          "source": "https://www.plovdivskamitropolia.bg/eparhiya/manastiri.html"
+        },
+        {
+          "id": "bg-plovdiv-asenovgrad-kuklen-holy-unmercenaries-cosmas-and-damian",
+          "local": "Манастир \"Св. св. Козма и Дамян\", Куклен",
+          "source": "https://www.plovdivskamitropolia.bg/eparhiya/manastiri.html"
+        },
+        {
+          "id": "bg-plovdiv-asenovgrad-zlatovrah-great-martyr-kyriaki",
+          "local": "Манастир \"Св. Неделя\", Златовръх",
+          "source": "https://www.plovdivskamitropolia.bg/eparhiya/manastiri.html"
+        },
+        {
+          "id": "bg-plovdiv-smolyan-krastova-gora-holy-trinity",
+          "local": "Манастир \"Света Троица\", Кръстова гора",
+          "source": "https://www.plovdivskamitropolia.bg/eparhiya/manastiri.html"
+        },
+        {
+          "id": "bg-plovdiv-karlovo-kalofer-nativity-of-the-theotokos",
+          "local": "Манастир \"Рождество Богородично\", Калофер",
+          "source": "https://www.plovdivskamitropolia.bg/eparhiya/manastiri.html?start=5"
+        },
+        {
+          "id": "bg-plovdiv-smolyan-smolyan-saint-athanasius",
+          "local": "Манастир \"Свети Атанас\", Смолян",
+          "source": "https://www.plovdivskamitropolia.bg/eparhiya/manastiri.html?start=5"
+        },
+        {
+          "id": "bg-plovdiv-karlovo-sopot-ascension-of-the-lord",
+          "local": "Манастир \"Свети Спас\", Сопот",
+          "source": "https://www.plovdivskamitropolia.bg/eparhiya/manastiri.html?start=5"
+        },
+        {
+          "id": "bg-plovdiv-karlovo-sopot-presentation-of-the-theotokos",
+          "local": "Подворие \"Въведение Богородично\", Сопот",
+          "source": "https://www.plovdivskamitropolia.bg/eparhiya/manastiri.html?start=5"
+        },
+        {
+          "id": "bg-plovdiv-karlovo-kalofer-presentation-of-the-theotokos",
+          "local": "Манастир \"Св. Въведение Богородично\", Калофер",
+          "source": "https://www.plovdivskamitropolia.bg/eparhiya/manastiri.html?start=10"
+        },
+        {
+          "id": "bg-plovdiv-asenovgrad-muldava-saint-paraskeva",
+          "local": "Манастир \"Св. Петка\", Мулдава",
+          "source": "https://www.plovdivskamitropolia.bg/eparhiya/manastiri.html?start=10"
+        },
+        {
+          "id": "bg-plovdiv-plovdiv-krichim-nativity-of-the-theotokos",
+          "local": "Манастир \"Рождество Богородично\", Кричим",
+          "source": "https://www.plovdivskamitropolia.bg/eparhiya/manastiri.html?start=10"
+        },
+        {
+          "id": "bg-plovdiv-pazardzhik-kalugerovo-saint-nicholas",
+          "local": "Манастир \"Св. Николай\", Калугерово",
+          "source": "https://www.plovdivskamitropolia.bg/eparhiya/manastiri.html?start=10"
+        },
+        {
+          "id": "bg-plovdiv-plovdiv-byala-cherkva-apostles-peter-and-paul",
+          "local": "Манастир \"Св. св. ап. Петър и Павел\", Бяла Черква",
+          "source": "https://www.plovdivskamitropolia.bg/eparhiya/manastiri.html?start=10"
+        },
+        {
+          "id": "bg-plovdiv-plovdiv-belashtitsa-great-martyr-george-the-trophy-bearer",
+          "local": "Манастир \"Св. Великомъченик Георги Победоносец\", Белащица",
+          "source": "https://www.plovdivskamitropolia.bg/eparhiya/manastiri.html?start=15"
+        },
+        {
+          "id": "bg-plovdiv-pazardzhik-batkun-apostles-peter-and-paul",
+          "local": "Манастир \"Св. св. Петър и Павел\", Баткун",
+          "source": "https://www.plovdivskamitropolia.bg/eparhiya/manastiri.html?start=15"
+        }
+      ]
+    },
+    {
+      "id": "same-name-same-locality",
+      "count": 16,
+      "decision": "preserve distinct official roster rows because addresses or institutional identity do not prove a physical duplicate",
+      "records": [
+        {
+          "parent": "bg-plovdiv-asenovgrad",
+          "rank": "Church",
+          "name": "The Theotokos Church in Asenovgrad",
+          "ids": [
+            "bg-plovdiv-asenovgrad-asenovgrad-the-theotokos",
+            "bg-plovdiv-asenovgrad-asenovgrad-the-theotokos-2"
+          ]
+        },
+        {
+          "parent": "bg-plovdiv-plovdiv",
+          "rank": "Church",
+          "name": "Saint George Church in Plovdiv",
+          "ids": [
+            "bg-plovdiv-plovdiv-plovdiv-saint-george",
+            "bg-plovdiv-plovdiv-plovdiv-saint-george-2",
+            "bg-plovdiv-plovdiv-plovdiv-saint-george-3"
+          ]
+        },
+        {
+          "parent": "bg-plovdiv-plovdiv",
+          "rank": "Church",
+          "name": "Saint Paraskeva Church in Plovdiv",
+          "ids": [
+            "bg-plovdiv-plovdiv-plovdiv-saint-paraskeva",
+            "bg-plovdiv-plovdiv-plovdiv-saint-paraskeva-2"
+          ]
+        },
+        {
+          "parent": "bg-ruse-ruse",
+          "rank": "Church",
+          "name": "Archangel Michael Church in Ruse",
+          "ids": [
+            "bg-ruse-ruse-ruse-archangel-michael",
+            "bg-ruse-ruse-ruse-archangel-michael-2"
+          ]
+        },
+        {
+          "parent": "bg-sofia-dupnitsa",
+          "rank": "Chapel",
+          "name": "Saint Paraskeva Chapel in Vukovo",
+          "ids": [
+            "bg-sofia-dupnitsa-vukovo-saint-paraskeva",
+            "bg-sofia-dupnitsa-vukovo-saint-paraskeva-2"
+          ]
+        },
+        {
+          "parent": "bg-sofia-samokov",
+          "rank": "Church",
+          "name": "Apostles Peter and Paul Church in Dospey",
+          "ids": [
+            "bg-sofia-samokov-dospey-apostles-peter-and-paul",
+            "bg-sofia-samokov-dospey-apostles-peter-and-paul-2"
+          ]
+        },
+        {
+          "parent": "bg-sofia-sofia-city",
+          "rank": "Church",
+          "name": "Dormition of the Theotokos Church in Sofia",
+          "ids": [
+            "bg-sofia-sofia-city-sofia-dormition-of-the-theotokos",
+            "bg-sofia-sofia-city-sofia-dormition-of-the-theotokos-2"
+          ]
+        },
+        {
+          "parent": "bg-sofia-sofia-city",
+          "rank": "Church",
+          "name": "Great Martyr George the Trophy-bearer Church in Sofia",
+          "ids": [
+            "bg-sofia-sofia-city-sofia-great-martyr-george-the-trophy-bearer",
+            "bg-sofia-sofia-city-sofia-great-martyr-george-the-trophy-bearer-2",
+            "bg-sofia-sofia-city-sofia-great-martyr-george-the-trophy-bearer-3",
+            "bg-sofia-sofia-city-sofia-great-martyr-george-the-trophy-bearer-4",
+            "bg-sofia-sofia-city-sofia-great-martyr-george-the-trophy-bearer-5",
+            "bg-sofia-sofia-city-sofia-great-martyr-george-the-trophy-bearer-6",
+            "bg-sofia-sofia-city-sofia-great-martyr-george-the-trophy-bearer-7"
+          ]
+        },
+        {
+          "parent": "bg-sofia-sofia-city",
+          "rank": "Church",
+          "name": "Holy Trinity Church in Sofia",
+          "ids": [
+            "bg-sofia-sofia-city-sofia-holy-trinity",
+            "bg-sofia-sofia-city-sofia-holy-trinity-2"
+          ]
+        },
+        {
+          "parent": "bg-sofia-sofia-city",
+          "rank": "Church",
+          "name": "Saint Nicholas of Myra Church in Sofia",
+          "ids": [
+            "bg-sofia-sofia-city-sofia-saint-nicholas-of-myra",
+            "bg-sofia-sofia-city-sofia-saint-nicholas-of-myra-2"
+          ]
+        },
+        {
+          "parent": "bg-sofia-sofia-city",
+          "rank": "Church",
+          "name": "Saints Cyril and Methodius Church in Sofia",
+          "ids": [
+            "bg-sofia-sofia-city-sofia-saints-cyril-and-methodius",
+            "bg-sofia-sofia-city-sofia-saints-cyril-and-methodius-2"
+          ]
+        },
+        {
+          "parent": "bg-stara-zagora-stara-zagora",
+          "rank": "Church",
+          "name": "Holy Trinity Church in Stara Zagora",
+          "ids": [
+            "bg-stara-zagora-stara-zagora-stara-zagora-holy-trinity",
+            "bg-stara-zagora-stara-zagora-stara-zagora-holy-trinity-2"
+          ]
+        },
+        {
+          "parent": "bg-varna-varna",
+          "rank": "Church",
+          "name": "Dormition of the Theotokos Church in Varna",
+          "ids": [
+            "bg-varna-varna-varna-dormition-of-the-theotokos-2",
+            "bg-varna-varna-varna-dormition-of-the-theotokos-3"
+          ]
+        },
+        {
+          "parent": "bg-varna-varna",
+          "rank": "Church",
+          "name": "Saint Athanasius Church in Varna",
+          "ids": [
+            "bg-varna-varna-varna-saint-athanasius",
+            "bg-varna-varna-varna-saint-athanasius-2"
+          ]
+        },
+        {
+          "parent": "bg-veliko-tarnovo-gabrovo",
+          "rank": "Church",
+          "name": "Saint Demetrius Church in Gabrovo",
+          "ids": [
+            "bg-veliko-tarnovo-gabrovo-gabrovo-saint-demetrius",
+            "bg-veliko-tarnovo-gabrovo-gabrovo-saint-demetrius-2"
+          ]
+        },
+        {
+          "parent": "bg-veliko-tarnovo-pavlikeni",
+          "rank": "Church",
+          "name": "Saint John of Rila Church in Batak",
+          "ids": [
+            "bg-veliko-tarnovo-pavlikeni-batak-saint-john-of-rila",
+            "bg-veliko-tarnovo-pavlikeni-batak-saint-john-of-rila-2"
+          ]
+        }
+      ]
+    }
+  ],
+  "sources": {
+    "bg-dorostol": [
+      "https://bg-patriarshia.bg/dorostol-diocese-monasteries",
+      "https://bg-patriarshia.bg/dorostol-diocese-temples",
+      "https://bg-patriarshia.bg/statute"
+    ],
+    "bg-lovech": [
+      "https://bg-patriarshia.bg/lovech-diocese-monasteries",
+      "https://bg-patriarshia.bg/lovech-diocese-temples",
+      "https://bg-patriarshia.bg/statute"
+    ],
+    "bg-nevrokop": [
+      "https://bg-patriarshia.bg/statute",
+      "https://web.archive.org/web/20240717214012id_/https://nevrokop-eparhia.bg/manastiri/",
+      "https://web.archive.org/web/20240717215340id_/https://nevrokop-eparhia.bg/istoriya/czarkvi/goczedelchevska-duhovna-okoliya/",
+      "https://web.archive.org/web/20240717221832id_/https://nevrokop-eparhia.bg/istoriya/czarkvi/razlozhka-duhovna-okoliya/",
+      "https://web.archive.org/web/20240717221907id_/https://nevrokop-eparhia.bg/duhovenstvo/goczedelchevska-duhovna-okoliya/",
+      "https://web.archive.org/web/20240717224644id_/https://nevrokop-eparhia.bg/duhovenstvo/sandanska-duhovna-okoliya/",
+      "https://web.archive.org/web/20240717225951id_/https://nevrokop-eparhia.bg/duhovenstvo/blagoevgradska-duhovna-okoliya/",
+      "https://web.archive.org/web/20240717225959id_/https://nevrokop-eparhia.bg/istoriya/czarkvi/petrichka-duhovna-okoliya/",
+      "https://web.archive.org/web/20240717233452id_/https://nevrokop-eparhia.bg/duhovenstvo/petrichka-duhovna-okoliya/",
+      "https://web.archive.org/web/20240717234410id_/https://nevrokop-eparhia.bg/duhovenstvo/razlozhka-duhovna-okoliya/",
+      "https://web.archive.org/web/20240717234735id_/https://nevrokop-eparhia.bg/istoriya/czarkvi/blagoevgradska-duhovna-okoliya/",
+      "https://web.archive.org/web/20240717235117id_/https://nevrokop-eparhia.bg/istoriya/czarkvi/sandanska-duhovna-okoliya/"
+    ],
+    "bg-pleven": [
+      "https://bg-patriarshia.bg/pleven-diocese-monasteries",
+      "https://bg-patriarshia.bg/pleven-diocese-temples",
+      "https://bg-patriarshia.bg/statute"
+    ],
+    "bg-plovdiv": [
+      "https://bg-patriarshia.bg/plovdiv-diocese-temples",
+      "https://bg-patriarshia.bg/statute",
+      "https://bg-patriarshia.bg/uploads/FD5733D83A7CEBED44CF9B92EF97CA61",
+      "https://www.plovdivskamitropolia.bg/eparhiya/manastiri.html",
+      "https://www.plovdivskamitropolia.bg/eparhiya/manastiri.html?start=10",
+      "https://www.plovdivskamitropolia.bg/eparhiya/manastiri.html?start=15",
+      "https://www.plovdivskamitropolia.bg/eparhiya/manastiri.html?start=5"
+    ],
+    "bg-ruse": [
+      "https://bg-patriarshia.bg/ruse-diocese-monasteries",
+      "https://bg-patriarshia.bg/ruse-diocese-temples",
+      "https://bg-patriarshia.bg/statute"
+    ],
+    "bg-sliven": [
+      "https://bg-patriarshia.bg/statute",
+      "https://slivenskamitropolia.bg/eparhiya/teritorialno-ustrojstvo/manastiri/",
+      "https://slivenskamitropolia.bg/news/duhovna-okoliq/hramove-i-predsedateli-v-burgas-i-burgaska-duhovna-okoliya/",
+      "https://slivenskamitropolia.bg/news/duhovna-okoliq/hramove-i-predsedateli-v-karnobat-i-karnobatska-duhovna-okoliya/",
+      "https://slivenskamitropolia.bg/news/duhovna-okoliq/hramove-i-predsedateli-v-kotel-i-kotelska-duhovna-okoliya/",
+      "https://slivenskamitropolia.bg/news/duhovna-okoliq/hramove-i-predsedateli-v-malko-tarnovo-i-malkotarnovska-duhovna-okoliya/",
+      "https://slivenskamitropolia.bg/news/duhovna-okoliq/hramove-i-predsedateli-v-sliven-i-slivenska-duhovna-okoliya/",
+      "https://slivenskamitropolia.bg/news/duhovna-okoliq/hramove-i-predsedateli-v-topolovgrad-i-topolovgradska-duhovna-okoliya/",
+      "https://slivenskamitropolia.bg/news/duhovna-okoliq/hramove-i-predsedateli-v-yambol-i-yambolska-duhovna-okoliya/",
+      "https://slivenskamitropolia.bg/news/hramove/"
+    ],
+    "bg-sofia": [
+      "https://bg-patriarshia.bg/statute",
+      "https://mitropolia-sofia.org/2015/02/19/dupnishka-duhovna-okoliya/",
+      "https://mitropolia-sofia.org/2015/02/19/godechka-duhovna-okoliya/",
+      "https://mitropolia-sofia.org/2015/02/19/hramove-v-sofiiska-duhovna-okoliya/",
+      "https://mitropolia-sofia.org/2015/02/19/hramove-v-sofiya/",
+      "https://mitropolia-sofia.org/2015/02/19/ihtimanska-duhovna-okoliya/",
+      "https://mitropolia-sofia.org/2015/02/19/kyustendilska-duhovna-okoliya/",
+      "https://mitropolia-sofia.org/2015/02/19/radomirska-duhovna-okoliya/",
+      "https://mitropolia-sofia.org/2015/02/19/samokovska-duhovna-okoliya/",
+      "https://mitropolia-sofia.org/2015/02/19/transka-duhovna-okoliya/",
+      "https://mitropolia-sofia.org/eparhya/manastiri/"
+    ],
+    "bg-stara-zagora": [
+      "https://bg-patriarshia.bg/statute",
+      "https://bg-patriarshia.bg/zagora-diocese-monasteries",
+      "https://bg-patriarshia.bg/zagora-diocese-temples"
+    ],
+    "bg-varna": [
+      "https://bg-patriarshia.bg/statute",
+      "https://bg-patriarshia.bg/varna-diocese-monasteries",
+      "https://bg-patriarshia.bg/varna-diocese-temples"
+    ],
+    "bg-veliko-tarnovo": [
+      "https://bg-patriarshia.bg/statute",
+      "https://bg-patriarshia.bg/turnovo-diocese-monasteries",
+      "https://bg-patriarshia.bg/turnovo-diocese-temples"
+    ],
+    "bg-vidin": [
+      "https://bg-patriarshia.bg/statute",
+      "https://bg-patriarshia.bg/vidin-diocese-monasteries",
+      "https://bg-patriarshia.bg/vidin-diocese-temples",
+      "https://vidinskamitropolia.bg/arhierejski-namestnichestva/",
+      "https://vidinskamitropolia.bg/hramove-i-manastiri/"
+    ],
+    "bg-vratsa": [
+      "https://bg-patriarshia.bg/statute",
+      "https://bg-patriarshia.bg/vraca-diocese-monasteries",
+      "https://bg-patriarshia.bg/vraca-diocese-temples"
+    ],
+    "bulgaria": [
+      "https://bg-patriarshia.bg/temples-monasteries",
+      "https://mitropolia-sofia.org/2015/02/19/hramove-v-sofiya/"
+    ],
+    "foreign-exceptions": [
+      "https://mospat.ru/en/news/89856/",
+      "https://mospat.ru/en/news/92594/",
+      "https://patriarhia.ro/organizarea-bisericii-ortodoxe-romane/reprezentante-si-comunitati-externe/"
+    ],
+    "structure": [
+      "https://bg-patriarshia.bg/statute",
+      "https://bg-patriarshia.bg/temples-monasteries"
+    ]
+  }
+}

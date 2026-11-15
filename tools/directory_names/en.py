@@ -1299,6 +1299,13 @@ from directory_ghana import (
 NAMES.update(_GHANA_NAMES)
 del _GHANA_NAMES
 
+from directory_bulgaria import (
+    ENGLISH_NAMES as _BULGARIA_NAMES,
+    ENGLISH_SEATS as _BULGARIA_SEATS,
+)
+NAMES.update(_BULGARIA_NAMES)
+del _BULGARIA_NAMES
+
 SEATS = {
     "Istanbul": u"Istanbul",
     "Alexandria": u"Alexandria",
@@ -1996,3 +2003,5 @@ SEATS.update(_SERBIA_SEATS)
 del _SERBIA_SEATS
 SEATS.update(_GHANA_SEATS)
 del _GHANA_SEATS
+SEATS.update(_BULGARIA_SEATS)
+del _BULGARIA_SEATS
