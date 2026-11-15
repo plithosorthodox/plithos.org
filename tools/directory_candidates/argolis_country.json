@@ -1,0 +1,242 @@
+{
+  "v": 1,
+  "countries": ["GR"],
+  "checked": "2026-11-15",
+  "method": "The current official Metropolis church directory controls the exact current roster of 78 parish churches and three pilgrimage churches and supplies body-specific church phones. The current official monastery directory establishes ten monasteries or hesychasteria, three exact monastery dependencies, their body-specific phone routes, and seven dissolved monasteries that are held. The January 2019 Church of Greece regulation independently supplies the legal 78-parish and three-pilgrimage roster. Exact bodies are retained once at the most specific current identity established by a first-party source. No body is inferred from an aggregate, personal name, district contact, map result, search result, or historic mention.",
+  "published_summary": {
+    "gr-argolis": 94,
+    "total": 94,
+    "current_parishes": 78,
+    "current_pilgrimages": 3,
+    "current_monasteries_and_hesychasteria": 10,
+    "current_monastery_dependencies": 3,
+    "contact_bodies": 60,
+    "phone_bodies": 60,
+    "public_phone_values": 60,
+    "email_bodies": 0,
+    "public_email_values": 0,
+    "body_owned_sites": 0,
+    "address_bodies": 94
+  },
+  "candidates": [
+    {
+      "candidate_id": "gr-argolis-unnamed-chapels",
+      "parent": "gr-argolis",
+      "country": "GR",
+      "category": "aggregate-only",
+      "status": "held",
+      "reason": "The current official administration page reports 98 chapels but does not name them. No chapel row is inferred from this aggregate.",
+      "aggregate_counts": {"reported_chapels": 98, "exact_published_chapels": 0},
+      "sources": [
+        "https://www.imargolidos.gr/%CE%B4%CE%B9%CE%BF%CE%AF%CE%BA%CE%B7%CF%83%CE%B7-%CF%85%CF%80%CE%B7%CF%81%CE%B5%CF%83%CE%AF%CE%B5%CF%82/"
+      ]
+    },
+    {
+      "candidate_id": "gr-argolis-unnamed-country-churches",
+      "parent": "gr-argolis",
+      "country": "GR",
+      "category": "aggregate-only",
+      "status": "held",
+      "reason": "The current official administration page reports 270 country churches but does not name them. No row is inferred from this aggregate.",
+      "aggregate_counts": {"reported_country_churches": 270, "exact_published_country_churches": 0},
+      "sources": [
+        "https://www.imargolidos.gr/%CE%B4%CE%B9%CE%BF%CE%AF%CE%BA%CE%B7%CF%83%CE%B7-%CF%85%CF%80%CE%B7%CF%81%CE%B5%CF%83%CE%AF%CE%B5%CF%82/"
+      ]
+    },
+    {
+      "candidate_id": "gr-argolis-unnamed-cemetery-churches",
+      "parent": "gr-argolis",
+      "country": "GR",
+      "category": "aggregate-only",
+      "status": "held",
+      "reason": "The current official administration page reports 95 cemetery churches but does not name them. No row is inferred from this aggregate.",
+      "aggregate_counts": {"reported_cemetery_churches": 95, "exact_published_cemetery_churches": 0},
+      "sources": [
+        "https://www.imargolidos.gr/%CE%B4%CE%B9%CE%BF%CE%AF%CE%BA%CE%B7%CF%83%CE%B7-%CF%85%CF%80%CE%B7%CF%81%CE%B5%CF%83%CE%AF%CE%B5%CF%82/"
+      ]
+    },
+    {
+      "candidate_id": "gr-argolis-unnamed-private-churches",
+      "parent": "gr-argolis",
+      "country": "GR",
+      "category": "aggregate-only",
+      "status": "held",
+      "reason": "The current official administration page reports 59 private churches but does not name them. No row is inferred from this aggregate.",
+      "aggregate_counts": {"reported_private_churches": 59, "exact_published_private_churches": 0},
+      "sources": [
+        "https://www.imargolidos.gr/%CE%B4%CE%B9%CE%BF%CE%AF%CE%BA%CE%B7%CF%83%CE%B7-%CF%85%CF%80%CE%B7%CF%81%CE%B5%CF%83%CE%AF%CE%B5%CF%82/"
+      ]
+    },
+    {
+      "candidate_id": "gr-argolis-monastic-aggregate-conflict",
+      "parent": "gr-argolis",
+      "country": "GR",
+      "category": "aggregate-and-current-directory-conflict",
+      "status": "held",
+      "reason": "The current administration page reports nine monastic churches, while the current monastery directory names ten monasteries and hesychasteria plus three exact dependencies. All ten exact current monastic bodies and all three named dependencies are published. No unnamed row or deletion is inferred from the aggregate difference.",
+      "aggregate_counts": {"reported_monastic_churches": 9, "exact_current_monasteries_and_hesychasteria": 10, "exact_current_dependencies": 3},
+      "sources": [
+        "https://www.imargolidos.gr/%CE%B4%CE%B9%CE%BF%CE%AF%CE%BA%CE%B7%CF%83%CE%B7-%CF%85%CF%80%CE%B7%CF%81%CE%B5%CF%83%CE%AF%CE%B5%CF%82/",
+        "https://www.imargolidos.gr/%CE%B9%CE%B5%CF%81%CE%AD%CF%82-%CE%BC%CE%BF%CE%BD%CE%AD%CF%82/"
+      ]
+    },
+    {
+      "candidate_id": "gr-argolis-dissolved-monasteries",
+      "parent": "gr-argolis",
+      "country": "GR",
+      "category": "historic-or-dissolved",
+      "status": "held",
+      "reason": "The official monastery directory explicitly labels seven bodies dissolved: Entrance of the Theotokos Katakekrymmeni in Argos, Saint Mercurius in Lygourio, Dormition of the Theotokos in Karya, Dormition of the Theotokos Vouzi in Agia Triada, Transfiguration of the Savior Karathonos in Tsello of Asini, Dormition of the Theotokos Farmaka in Gymno, and Saint Thomas in Gymno. They are not published as current bodies.",
+      "aggregate_counts": {"dissolved_monasteries": 7},
+      "sources": [
+        "https://www.imargolidos.gr/%CE%B9%CE%B5%CF%81%CE%AD%CF%82-%CE%BC%CE%BF%CE%BD%CE%AD%CF%82/"
+      ]
+    },
+    {
+      "candidate_id": "gr-argolis-nea-kios-title-variant",
+      "parent": "gr-argolis",
+      "country": "GR",
+      "category": "legal-to-current-title-reconciliation",
+      "status": "reconciled",
+      "reason": "The legal table styles the Nea Kios parish Theomana-Hodegetria, while the current official church directory calls it Theomana. The exact current title controls and is published once. The legal variant does not create a second body.",
+      "sources": [
+        "https://ecclesiagreece.gr/greek/press/ekklisia/2019_january.pdf",
+        "https://www.imargolidos.gr/%CE%B9%CE%B5%CF%81%CE%BF%CE%AF-%CE%BD%CE%B1%CE%BF%CE%AF/"
+      ]
+    },
+    {
+      "candidate_id": "gr-argolis-koutsopodi-legal-blank-line",
+      "parent": "gr-argolis",
+      "country": "GR",
+      "category": "legal-to-current-row-reconciliation",
+      "status": "reconciled",
+      "reason": "The legal table visibly names Saint Kyriaki at Koutsopodi and leaves the second Koutsopodi dedication blank, while its total remains 78. The current official directory resolves the two current Koutsopodi parishes as Saint Kyriaki and Dormition of the Theotokos. Both exact current rows are published without inventing any further legal residual.",
+      "sources": [
+        "https://ecclesiagreece.gr/greek/press/ekklisia/2019_january.pdf",
+        "https://www.imargolidos.gr/%CE%B9%CE%B5%CF%81%CE%BF%CE%AF-%CE%BD%CE%B1%CE%BF%CE%AF/"
+      ]
+    },
+    {
+      "candidate_id": "gr-argolis-holy-archangels-fax",
+      "parent": "gr-argolis",
+      "country": "GR",
+      "category": "non-voice-contact",
+      "status": "held",
+      "reason": "The monastery directory prints 27530-31182 specifically as the fax for Holy Archangels Monastery. The separately printed voice phone is retained. The fax is not recast as a telephone route.",
+      "sources": [
+        "https://www.imargolidos.gr/%CE%B9%CE%B5%CF%81%CE%AD%CF%82-%CE%BC%CE%BF%CE%BD%CE%AD%CF%82/"
+      ]
+    },
+    {
+      "candidate_id": "gr-argolis-map-search-program-historic-leads",
+      "parent": "gr-argolis",
+      "country": "GR",
+      "category": "insufficient-current-canonical-evidence",
+      "status": "discovery-only",
+      "reason": "Map-only, search-only, program-only, historic-only, unnamed, aggregate-only, and canonically unclear leads remain held until a competent current first-party source establishes exact identity and current parentage under this Metropolis.",
+      "sources": [
+        "https://www.imargolidos.gr/%CE%B9%CE%B5%CF%81%CE%BF%CE%AF-%CE%BD%CE%B1%CE%BF%CE%AF/",
+        "https://www.imargolidos.gr/%CE%B9%CE%B5%CF%81%CE%AD%CF%82-%CE%BC%CE%BF%CE%BD%CE%AD%CF%82/",
+        "https://ecclesiagreece.gr/greek/press/ekklisia/2019_january.pdf"
+      ]
+    }
+  ],
+  "source_reconciliations": [
+    {
+      "subject": "Current parish and pilgrimage roster",
+      "decision": "The current Metropolis directory contains exactly 78 parish rows and three pilgrimage rows. The Church of Greece regulation independently reports the same 78 plus three legal shape. Current titles and seats control where presentation differs.",
+      "sources": [
+        "https://www.imargolidos.gr/%CE%B9%CE%B5%CF%81%CE%BF%CE%AF-%CE%BD%CE%B1%CE%BF%CE%AF/",
+        "https://ecclesiagreece.gr/greek/press/ekklisia/2019_january.pdf"
+      ]
+    },
+    {
+      "subject": "Current monastic roster",
+      "decision": "The current monastery directory names two men's bodies, eight women's bodies, and three exact dependencies. All thirteen exact current bodies are published. Seven bodies explicitly labeled dissolved are held.",
+      "sources": [
+        "https://www.imargolidos.gr/%CE%B9%CE%B5%CF%81%CE%AD%CF%82-%CE%BC%CE%BF%CE%BD%CE%AD%CF%82/"
+      ]
+    },
+    {
+      "subject": "Monastic aggregate conflict",
+      "decision": "The administration aggregate of nine monastic churches is not used to suppress one of the ten exact monasteries and hesychasteria named in the current directory. The exact directory controls publishable identity and the numerical conflict remains explicit in the held ledger.",
+      "sources": [
+        "https://www.imargolidos.gr/%CE%B4%CE%B9%CE%BF%CE%AF%CE%BA%CE%B7%CF%83%CE%B7-%CF%85%CF%80%CE%B7%CF%81%CE%B5%CF%83%CE%AF%CE%B5%CF%82/",
+        "https://www.imargolidos.gr/%CE%B9%CE%B5%CF%81%CE%AD%CF%82-%CE%BC%CE%BF%CE%BD%CE%AD%CF%82/"
+      ]
+    },
+    {
+      "subject": "Public contact provenance",
+      "decision": "All 60 retained phone values are printed against the exact body by a current official directory: 47 parish churches, all three pilgrimage churches, and all ten monasteries or hesychasteria. Landlines and the one mobile route are retained, while every personal name is omitted. No district, central office, or footer contact is copied to a subordinate body.",
+      "sources": [
+        "https://www.imargolidos.gr/%CE%B9%CE%B5%CF%81%CE%BF%CE%AF-%CE%BD%CE%B1%CE%BF%CE%AF/",
+        "https://www.imargolidos.gr/%CE%B9%CE%B5%CF%81%CE%AD%CF%82-%CE%BC%CE%BF%CE%BD%CE%AD%CF%82/"
+      ]
+    },
+    {
+      "subject": "Body-owned sites and subordinate emails",
+      "decision": "The reviewed first-party directories establish no independent body-owned site and no subordinate body email. Metropolis detail pages are retained only as official sources. The central Metropolis site and email are not assigned to subordinate bodies.",
+      "sources": [
+        "https://www.imargolidos.gr/%CE%B9%CE%B5%CF%81%CE%BF%CE%AF-%CE%BD%CE%B1%CE%BF%CE%AF/",
+        "https://www.imargolidos.gr/%CE%B9%CE%B5%CF%81%CE%AD%CF%82-%CE%BC%CE%BF%CE%BD%CE%AD%CF%82/",
+        "https://www.imargolidos.gr/%CE%B4%CE%B9%CE%BF%CE%AF%CE%BA%CE%B7%CF%83%CE%B7-%CF%85%CF%80%CE%B7%CF%81%CE%B5%CF%83%CE%AF%CE%B5%CF%82/"
+      ]
+    }
+  ],
+  "official_parent_audit": [
+    {
+      "body": "Holy Metropolis of Argolis",
+      "parent": "gr-argolis",
+      "status": "canonical-current",
+      "decision": "The Metropolis is a current canonical diocese of the Church of Greece. Its current official site supplies the controlling subordinate directories and the Church of Greece regulation supplies the legal parish and pilgrimage roster.",
+      "sources": [
+        "https://www.imargolidos.gr/%CE%B4%CE%B9%CE%BF%CE%AF%CE%BA%CE%B7%CF%83%CE%B7-%CF%85%CF%80%CE%B7%CF%81%CE%B5%CF%83%CE%AF%CE%B5%CF%82/",
+        "https://ecclesiagreece.gr/greek/press/ekklisia/2019_january.pdf"
+      ]
+    },
+    {
+      "body": "Current exact subordinate source set",
+      "parent": "gr-argolis",
+      "status": "first-party-current",
+      "decision": "The current church and monastery directories establish every published exact body and contact. Aggregate counts corroborate scale but do not create unnamed rows.",
+      "sources": [
+        "https://www.imargolidos.gr/%CE%B9%CE%B5%CF%81%CE%BF%CE%AF-%CE%BD%CE%B1%CE%BF%CE%AF/",
+        "https://www.imargolidos.gr/%CE%B9%CE%B5%CF%81%CE%AD%CF%82-%CE%BC%CE%BF%CE%BD%CE%AD%CF%82/",
+        "https://www.imargolidos.gr/%CE%B4%CE%B9%CE%BF%CE%AF%CE%BA%CE%B7%CF%83%CE%B7-%CF%85%CF%80%CE%B7%CF%81%CE%B5%CF%83%CE%AF%CE%B5%CF%82/"
+      ]
+    }
+  ],
+  "exclusions": [
+    {
+      "subject": "Personal names",
+      "decision": "Clergy, monastic, staff, and officeholder names are omitted. Officially published landlines and mobile numbers remain only where the current official directory associates them with the exact body.",
+      "sources": [
+        "https://www.imargolidos.gr/%CE%B9%CE%B5%CF%81%CE%BF%CE%AF-%CE%BD%CE%B1%CE%BF%CE%AF/",
+        "https://www.imargolidos.gr/%CE%B9%CE%B5%CF%81%CE%AD%CF%82-%CE%BC%CE%BF%CE%BD%CE%AD%CF%82/"
+      ]
+    },
+    {
+      "subject": "Central and district contacts",
+      "decision": "Metropolis administration phones, email, internal extensions, district contacts, footer contacts, and the monastery fax are not copied to unrelated subordinate bodies or recast as body voice phones.",
+      "sources": [
+        "https://www.imargolidos.gr/%CE%B4%CE%B9%CE%BF%CE%AF%CE%BA%CE%B7%CF%83%CE%B7-%CF%85%CF%80%CE%B7%CF%81%CE%B5%CF%83%CE%AF%CE%B5%CF%82/",
+        "https://www.imargolidos.gr/%CE%B9%CE%B5%CF%81%CE%AD%CF%82-%CE%BC%CE%BF%CE%BD%CE%AD%CF%82/"
+      ]
+    },
+    {
+      "subject": "Unnamed aggregate residuals",
+      "decision": "No body is created from the difference between an aggregate count and the exact named roster. Unnamed chapel, country church, cemetery church, private church, and monastic residuals remain held.",
+      "sources": [
+        "https://www.imargolidos.gr/%CE%B4%CE%B9%CE%BF%CE%AF%CE%BA%CE%B7%CF%83%CE%B7-%CF%85%CF%80%CE%B7%CF%81%CE%B5%CF%83%CE%AF%CE%B5%CF%82/"
+      ]
+    },
+    {
+      "subject": "Dissolved, historic, ambiguous, map, program, and search leads",
+      "decision": "A dissolved body, historic mention, map result, search result, program-only lead, unnamed body, ambiguous dedication, or canonically unclear site is not published without competent current first-party evidence of exact identity and present parentage.",
+      "sources": [
+        "https://www.imargolidos.gr/%CE%B9%CE%B5%CF%81%CE%AD%CF%82-%CE%BC%CE%BF%CE%BD%CE%AD%CF%82/",
+        "https://www.imargolidos.gr/%CE%B9%CE%B5%CF%81%CE%BF%CE%AF-%CE%BD%CE%B1%CE%BF%CE%AF/"
+      ]
+    }
+  ]
+}
