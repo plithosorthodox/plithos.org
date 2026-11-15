@@ -1,0 +1,61 @@
+{
+  "v": 1,
+  "country": "BJ",
+  "checked": "2026-11-15",
+  "method": "Current official patriarchal, diocesan, and exarchate directories were used to establish named Eastern Orthodox bodies in Benin. Search engines and maps were used only to discover competent first-party sources. Overlapping canonical jurisdictions are preserved without adjudication, and no dedication or parish identity was inferred from clergy assignments alone.",
+  "published_summary": {
+    "ax-benin": 5,
+    "ru-north-africa": 1,
+    "total": 6
+  },
+  "candidates": [
+    {
+      "candidate_id": "bj-ru-second-unnamed-parish",
+      "parent": "ru-north-africa",
+      "country": "BJ",
+      "name": "Second unnamed Russian Orthodox parish in Benin",
+      "status": "hold until the competent diocese publishes its name and location",
+      "reason": "The current official North African Diocese roster reports two Benin parishes but names only the Nativity of Christ parish in Cotonou. Current official news identifies a second Beninese priest but does not give the second parish a dedication or location. Nothing is inferred from the count or clergy assignment.",
+      "sources": [
+        "https://exarchate-africa.ru/en/dioceses_cat/diocese-of-north-africa/",
+        "https://exarchate-africa.ru/fr/actualite/30547/",
+        "https://exarchate-africa.ru/novosti/patriarshij-ekzarh-afriki-rukopolozhil-pyat-novyh-klirikov-iz-stran-afriki/"
+      ]
+    }
+  ],
+  "official_jurisdiction_audit": [
+    {
+      "jurisdiction": "Patriarchate of Alexandria",
+      "result": "The current diocesan profile establishes the Diocese of Benin, Togo and Burkina Faso, and the official diocesan site names five Benin parishes. All five are published.",
+      "sources": [
+        "https://www.patriarchateofalexandria.com/archdioceses/iera-episkopi-mpenin-togko-kai-mpoyrkina-faso/?lang=en",
+        "https://www.orthodoxie-benin-togo-burkina.com/a-propos"
+      ]
+    },
+    {
+      "jurisdiction": "Moscow Patriarchate, Patriarchal Exarchate of Africa",
+      "result": "The current official North African Diocese roster reports two Benin parishes and names the Nativity of Christ parish in Cotonou. That named parish is published. The unnamed second parish remains held.",
+      "sources": [
+        "https://exarchate-africa.ru/en/dioceses_cat/diocese-of-north-africa/",
+        "https://exarchate-africa.ru/fr/actualite/les-celebrations-de-paques-ont-eu-lieu-a-la-paroisse-de-la-nativite-du-christ-au-benin/"
+      ]
+    },
+    {
+      "jurisdiction": "Ecumenical Patriarchate, Antiochian Patriarchate, Jerusalem Patriarchate, Romanian Patriarchate, Serbian Patriarchate, Georgian Patriarchate, OCA, and ROCOR",
+      "result": "Their current official jurisdictional or diaspora directories were checked and did not name a Benin body. This is a bounded directory result, not a general country-level absence claim.",
+      "sources": [
+        "https://ec-patr.org/en/ecumenical-patriarchate/directory/",
+        "https://www.antiochpatriarchate.org/en/category/dioceses/6/",
+        "https://directory.synod.com/listings/"
+      ]
+    },
+    {
+      "jurisdiction": "Other canonical Local Churches and diaspora structures",
+      "result": "No additional Benin row is published without an exact current first-party jurisdictional citation. This records incomplete verification for any structure not individually listed and makes no general absence claim.",
+      "sources": [
+        "https://www.patriarchateofalexandria.com/archdioceses/?lang=en",
+        "https://exarchate-africa.ru/en/dioceses_cat/diocese-of-north-africa/"
+      ]
+    }
+  ]
+}
