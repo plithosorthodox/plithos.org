@@ -1,0 +1,59 @@
+{
+  "v": 1,
+  "country": "HK",
+  "checked": "2026-11-15",
+  "method": "Current official metropolitan, synodal, and parish directories were used to establish Hong Kong bodies. Search engines and maps were used only to discover first-party sources. No body was inferred from population, clergy visits, or an unofficial listing.",
+  "published_summary": {
+    "ep-hongkong": 1,
+    "china": 1,
+    "total": 2
+  },
+  "candidates": [],
+  "official_jurisdiction_audit": [
+    {
+      "jurisdiction": "Ecumenical Patriarchate",
+      "sources": [
+        "https://omhksea.org/metropolis-of-hong-kong/hong-kong",
+        "https://omhksea.org/about/services"
+      ],
+      "result": "The current metropolitan directory names Saint Luke Cathedral in Hong Kong. It is published under the Metropolitanate of Hong Kong."
+    },
+    {
+      "jurisdiction": "Chinese Autonomous Orthodox Church under current Moscow Patriarchate oversight",
+      "sources": [
+        "https://orthodoxy.hk/",
+        "https://www.rlc.hk/parish/history_of_parish/",
+        "https://patriarchia.ru/article/96570"
+      ],
+      "result": "The current parish site and the synodal record name the Parish of the Holy Apostles Peter and Paul in Hong Kong. It is published under the Chinese Autonomous Orthodox Church."
+    },
+    {
+      "jurisdiction": "Romanian Patriarchate",
+      "sources": [
+        "https://patriarhia.ro/organizarea-bisericii-ortodoxe-romane/reprezentante-si-comunitati-externe/"
+      ],
+      "result": "The current official external communities directory was checked and did not name a Hong Kong body. This records the bounded audit result, not a claim that a body could never exist."
+    },
+    {
+      "jurisdiction": "Serbian Patriarchate",
+      "sources": [
+        "https://www.spc.rs/en/96.dioceses-of-the-soc.html"
+      ],
+      "result": "The current official diocesan and linked diaspora material was checked and did not name a Hong Kong body. This records the bounded audit result, not a claim that a body could never exist."
+    },
+    {
+      "jurisdiction": "Russian Orthodox Church Outside of Russia",
+      "sources": [
+        "https://directory.synod.com/listings/"
+      ],
+      "result": "The current official clergy and parish directory was checked and did not name a separate Hong Kong body. This records the bounded audit result, not a claim that a body could never exist."
+    },
+    {
+      "jurisdiction": "Antiochian Patriarchate",
+      "sources": [
+        "https://www.antiochpatriarchate.org/en/category/dioceses/6/"
+      ],
+      "result": "The current official diocesan material was checked and did not name a Hong Kong body. This records the bounded audit result, not a claim that a body could never exist."
+    }
+  ]
+}
