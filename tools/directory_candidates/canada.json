@@ -1,0 +1,158 @@
+{
+  "v": 1,
+  "country": "CA",
+  "checked": "2026-11-15",
+  "method": "Current first-party parish directories are reconciled body by body. Search engines, maps, historical projects, and general directories are discovery sources only. This tranche publishes two complete live rosters while every other canonical Canadian jurisdiction remains explicitly queued for its own official-source pass.",
+  "published_summary": {
+    "greek_archdiocese": 75,
+    "uocc_eparchies": 3,
+    "uocc_regions": 40,
+    "uocc_parishes": 241,
+    "total": 359,
+    "canonical_jurisdictions_represented": 2
+  },
+  "candidates": [
+    {
+      "candidate_id": "ca-oca-archdiocese-current-roster",
+      "country": "CA",
+      "name": "Archdiocese of Canada of the Orthodox Church in America",
+      "status": "queued for exact current first-party body reconciliation",
+      "reason": "The official communities directory exposes a current roster with clergy and community details. It requires a separate body-level normalization pass before publication.",
+      "sources": [
+        "https://www.archdiocese.ca/communities",
+        "https://www.oca.org/dioceses/archdiocese-of-canada"
+      ]
+    },
+    {
+      "candidate_id": "ca-oca-romanian-current-roster",
+      "country": "CA",
+      "name": "Romanian Episcopate and Romanian Orthodox Vicariate of Canada",
+      "status": "queued for exact current first-party body reconciliation",
+      "reason": "The current official vicariate page names the three Canadian deaneries and their parish bodies with public contacts. It remains separate from the Romanian Patriarchate structure.",
+      "sources": [
+        "https://roea.org/romanian-orthodox-vicariate-of-canada/",
+        "https://www.oca.org/dioceses/romanian-episcopate"
+      ]
+    },
+    {
+      "candidate_id": "ca-antioch-current-roster",
+      "country": "CA",
+      "name": "Antiochian Diocese of Ottawa, Eastern Canada and Upstate New York",
+      "status": "queued for exact current first-party body reconciliation",
+      "reason": "The official Canadian episcopal conference and the official North American jurisdiction directory establish this canonical structure. Its Canadian parish roster must be separated from its United States bodies.",
+      "sources": [
+        "https://goarchdiocese.ca/canadian-conference-of-orthodox-bishops/",
+        "https://www.oca.org/directories/na-churches"
+      ]
+    },
+    {
+      "candidate_id": "ca-russian-current-rosters",
+      "country": "CA",
+      "name": "Moscow Patriarchal Parishes in Canada and the ROCOR Canadian Diocese",
+      "status": "queued as separate canonical rosters",
+      "reason": "The official jurisdiction directories distinguish the Moscow Patriarchal Parishes from ROCOR. Their current Canadian bodies must be reconciled without collapsing the two structures.",
+      "sources": [
+        "https://www.oca.org/directories/na-churches",
+        "https://goarchdiocese.ca/canadian-conference-of-orthodox-bishops/"
+      ]
+    },
+    {
+      "candidate_id": "ca-serbian-current-roster",
+      "country": "CA",
+      "name": "Serbian Orthodox Diocese of Canada",
+      "status": "queued for exact current first-party body reconciliation",
+      "reason": "The official Serbian North American site publishes the Canadian diocese and its bodies. Each current parish, monastery, and mission still requires normalization and contact provenance.",
+      "sources": [
+        "https://www.serborth.org/canada1",
+        "https://www.oca.org/directories/na-churches"
+      ]
+    },
+    {
+      "candidate_id": "ca-other-canonical-current-rosters",
+      "country": "CA",
+      "name": "Romanian Patriarchate, Bulgarian, Albanian, Carpatho-Russian, Georgian, and Macedonian Canadian bodies",
+      "status": "queued as separate official-source rosters",
+      "reason": "The official North American jurisdiction directory identifies these canonical authorities separately. Their Canadian bodies must be verified against each competent Church and kept distinct from similarly named OCA or Constantinople structures.",
+      "sources": [
+        "https://www.oca.org/directories/na-churches",
+        "https://goarchdiocese.ca/canadian-conference-of-orthodox-bishops/"
+      ]
+    }
+  ],
+  "reconciliation": [
+    {
+      "issue": "Duplicate Candiac Saint Michael records",
+      "result": "The Ukrainian directory publishes two records for Saint Michael Parish in Candiac with the same institutional phone. The record carrying the exact street address is retained as the single physical body. The duplicate page remains cited here rather than creating two churches.",
+      "sources": [
+        "https://www.uocc.ca/parish/st-michael-parish-3/",
+        "https://www.uocc.ca/parish/st-michael-parish-6/"
+      ]
+    },
+    {
+      "issue": "Ukrainian eparchy and region link order",
+      "result": "The official parish pages do not print eparchy and region links in a single consistent order. Hierarchy was derived from the official eparchy URL depth and reconciled into three eparchies and forty regions before publication.",
+      "sources": [
+        "https://www.uocc.ca/about/parishes/"
+      ]
+    },
+    {
+      "issue": "Body-owned and higher-level websites",
+      "result": "A parish site is attached only when the official roster prints that site for the body. The Greek and Ukrainian directory pages remain provenance sources and are not relabeled as body-owned sites.",
+      "sources": [
+        "https://goarchdiocese.ca/parishes/",
+        "https://www.uocc.ca/about/parishes/"
+      ]
+    }
+  ],
+  "official_jurisdiction_audit": [
+    {
+      "jurisdiction": "Greek Orthodox Archdiocese of Canada",
+      "result": "The complete live official parish page yields seventy-five named bodies. Published phones and body-owned sites are retained only where the Archdiocese prints them.",
+      "sources": [
+        "https://goarchdiocese.ca/parishes/"
+      ]
+    },
+    {
+      "jurisdiction": "Ukrainian Orthodox Church of Canada",
+      "result": "All twelve pages of the current official parish directory yield two hundred forty-two records. One same-body duplicate is reconciled, leaving two hundred forty-one parish bodies beneath three eparchies and forty official regions.",
+      "sources": [
+        "https://www.uocc.ca/about/parishes/",
+        "https://www.uocc.ca/parish/st-michael-parish-6/"
+      ]
+    },
+    {
+      "jurisdiction": "Remaining Canadian canonical jurisdictions",
+      "result": "The official Canadian conference and North American jurisdiction directories establish the remaining authorities. They are retained as named queues rather than inferred from maps, ethnicity, or historical affiliation.",
+      "sources": [
+        "https://goarchdiocese.ca/canadian-conference-of-orthodox-bishops/",
+        "https://www.oca.org/directories/na-churches"
+      ]
+    }
+  ],
+  "limitations": [
+    {
+      "scope": "Current publication boundary",
+      "result": "This is a large safe tranche, not a claim that Canada is complete. Only the two fully reconciled official rosters are published in this module. Every remaining jurisdiction is still queued above.",
+      "sources": [
+        "https://goarchdiocese.ca/parishes/",
+        "https://www.uocc.ca/about/parishes/"
+      ]
+    },
+    {
+      "scope": "Search and map discoveries",
+      "result": "A map pin, review page, historical project, or general directory does not prove current canonical affiliation or institutional status. Such discoveries require a current competent Church citation before publication.",
+      "sources": [
+        "https://goarchdiocese.ca/canadian-conference-of-orthodox-bishops/",
+        "https://www.oca.org/directories/na-churches"
+      ]
+    },
+    {
+      "scope": "Public contact fields",
+      "result": "Only public institutional contact data printed by an official Church roster is attached. Clergy names are not reproduced as directory bodies and private contact assumptions are not made.",
+      "sources": [
+        "https://goarchdiocese.ca/parishes/",
+        "https://www.uocc.ca/about/parishes/"
+      ]
+    }
+  ]
+}

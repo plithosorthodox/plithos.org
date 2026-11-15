@@ -1,0 +1,206 @@
+{
+  "v": 1,
+  "country": "IL",
+  "checked": "2026-11-15",
+  "method": "Current first-party administrative rosters of the Jerusalem Patriarchate, the Moscow Patriarchate's Russian Ecclesiastical Mission, the Russian Ecclesiastical Mission of ROCOR, and the Romanian Patriarchate were reconciled body by body. Search and map results were used only to discover leads. A row was published only when a competent Church or the body itself established a current worshiping body.",
+  "published_summary": {
+    "jerusalem": 54,
+    "je-ptolemais": 17,
+    "je-nazareth": 10,
+    "je-jaffa": 5,
+    "ru-jerusalem-mission-rocor": 4,
+    "russia": 7,
+    "romania": 1,
+    "total": 98
+  },
+  "candidates": [
+    {
+      "candidate_id": "il-je-unnamed-internal-altars",
+      "classification": "unnamed",
+      "name": "Unnamed internal altars and worship spaces within listed monasteries and shrines",
+      "status": "hold until a competent current Church source supplies a stable individual name",
+      "reason": "The official rosters identify several institutions with internal worship spaces but do not give every altar or room a separate name. The named chapels are published and unnamed spaces are not invented.",
+      "sources": [
+        "https://en.jerusalem-patriarchate.info/administrative-structure/holy-monasteries-and-churches-in-jerusalem/",
+        "https://en.jerusalem-patriarchate.info/administrative-structure/all-holy-pilgrimage-sites/"
+      ]
+    },
+    {
+      "candidate_id": "il-je-calendar-about-twenty-five-parishes",
+      "classification": "aggregate-only",
+      "name": "About twenty-five additional parishes in Israel and Jordan",
+      "status": "hold pending exact names from a current competent roster",
+      "reason": "The official service timetable refers to about twenty-five additional parishes without naming them. An aggregate cannot create exact directory rows.",
+      "sources": [
+        "https://en.jerusalem-patriarchate.info/timetable-of-church-services-2/"
+      ]
+    },
+    {
+      "candidate_id": "il-historical-orthodox-sites",
+      "classification": "historical",
+      "name": "Historical Orthodox churches, ruins, and archaeological remains without a current worshiping body",
+      "status": "hold unless a current Church roster establishes an active body",
+      "reason": "A historical church or archaeological location is not a current parish, monastery, chapel, or shrine body merely because Orthodox worship once occurred there.",
+      "sources": [
+        "https://en.jerusalem-patriarchate.info/history/other/",
+        "https://rusdm.ru/guide/"
+      ]
+    },
+    {
+      "candidate_id": "il-je-maalul-dedication-structure",
+      "classification": "uncertain",
+      "name": "Possible separate Ascension and Prophet Elias dedications at Maalul",
+      "status": "published as one church and retained for structural review",
+      "reason": "The current official roster uses the singular wording Church of the Ascension and the Prophet Elias. It does not establish two separately governed bodies, so one row is published.",
+      "sources": [
+        "https://en.jerusalem-patriarchate.info/administrative-structure/holy-bishoprics/"
+      ]
+    },
+    {
+      "candidate_id": "il-self-styled-orthodox-groups",
+      "classification": "noncanonical",
+      "name": "Self-styled Orthodox groups not listed by a canonical Eastern Orthodox Church",
+      "status": "not published",
+      "reason": "No row may be established from self-description alone. The directory bar requires a current listing by a competent canonical Church.",
+      "sources": [
+        "https://en.jerusalem-patriarchate.info/administrative-structure/holy-bishoprics/",
+        "https://www.oca.org/parishes"
+      ]
+    },
+    {
+      "candidate_id": "il-map-listed-affiliation-unclear-sites",
+      "classification": "affiliation-unclear",
+      "name": "Map-listed Orthodox churches and prayer rooms with no competent first-party affiliation record",
+      "status": "discovery-only leads retained for later verification",
+      "reason": "Map listings can locate a building but cannot establish its current canonical parent, legal identity, or continued worshiping community.",
+      "sources": [
+        "https://www.google.com/maps/search/Orthodox+Church+Israel/"
+      ]
+    }
+  ],
+  "reconciliation": [
+    {
+      "scope": "Saint George in Sa'ab",
+      "result": "The Ptolemais roster prints an unnumbered Sa'ab item and then a numbered Holy Church of Saint George in Sa'ab with the same monthly service description. They are one current body and are published once.",
+      "sources": [
+        "https://en.jerusalem-patriarchate.info/administrative-structure/holy-bishoprics/"
+      ]
+    },
+    {
+      "scope": "Sakhnin church count",
+      "result": "The roster explicitly uses the plural Churches for Saint George and the Nativity of the Theotokos. Two exact bodies are therefore published instead of one combined dedication.",
+      "sources": [
+        "https://en.jerusalem-patriarchate.info/administrative-structure/holy-bishoprics/"
+      ]
+    },
+    {
+      "scope": "Qasr El-Mutran",
+      "result": "The official monastery roster and service timetable identify the Holy Cross body at Qasr El-Mutran with Nazareth. It is assigned to Israel, not Ramallah or Jordan.",
+      "sources": [
+        "https://en.jerusalem-patriarchate.info/administrative-structure/holy-monasteries-and-hegoumeneia-abbots-quarters-outside-jerusalem/",
+        "https://en.jerusalem-patriarchate.info/timetable-of-church-services-2/"
+      ]
+    },
+    {
+      "scope": "Language congregations and host churches",
+      "result": "The Jerusalem Patriarchate separately lists recurring Russian-speaking and Romanian-speaking parishes within host churches. Each congregation is published as a parish body while the host church remains a separate physical and administrative body.",
+      "sources": [
+        "https://en.jerusalem-patriarchate.info/administrative-structure/churches-in-the-west-bank/",
+        "https://en.jerusalem-patriarchate.info/administrative-structure/patriarchal-management-committees/"
+      ]
+    },
+    {
+      "scope": "Two Russian Ecclesiastical Missions",
+      "result": "The Moscow Patriarchate mission and the ROCOR mission are current distinct institutions with separately published properties and contacts. Their rows remain under their respective canonical structures.",
+      "sources": [
+        "https://rusdm.ru/contact/",
+        "https://missionrocor.ru/contacts"
+      ]
+    }
+  ],
+  "official_jurisdiction_audit": [
+    {
+      "jurisdiction": "Patriarchate of Jerusalem",
+      "result": "Eighty-six exact current bodies in Israel were established across the Patriarchate's Jerusalem, metropolis, external rectory, shrine, commissaryship, and language-community rosters.",
+      "sources": [
+        "https://en.jerusalem-patriarchate.info/administrative-structure/holy-monasteries-and-churches-in-jerusalem/",
+        "https://en.jerusalem-patriarchate.info/administrative-structure/holy-bishoprics/",
+        "https://en.jerusalem-patriarchate.info/administrative-structure/patriarchal-management-committees/"
+      ]
+    },
+    {
+      "jurisdiction": "Moscow Patriarchate",
+      "result": "The Russian Ecclesiastical Mission and six current Israel bodies were established by the Mission's current property and contact directories and its official current-history statement.",
+      "sources": [
+        "https://rusdm.ru/chapel/",
+        "https://rusdm.ru/contact/",
+        "https://rusdm.ru/history/392"
+      ]
+    },
+    {
+      "jurisdiction": "Russian Orthodox Church Outside of Russia",
+      "result": "Four exact current Israel bodies were established under the existing ROCOR mission parent by its own current contact directory.",
+      "sources": [
+        "https://missionrocor.ru/contacts",
+        "https://www.synod.com/synod/engrocor/enlinks.html"
+      ]
+    },
+    {
+      "jurisdiction": "Romanian Patriarchate",
+      "result": "The Romanian Establishment in Jerusalem was established by the Romanian Patriarchate's current external representations directory, with its current institutional contact details.",
+      "sources": [
+        "https://patriarhia.ro/en/organization-of-the-romanian-orthodox-church/external-representations-and-communities/"
+      ]
+    },
+    {
+      "jurisdiction": "Church of Sinai",
+      "result": "Current official Sinai and Jerusalem structures were checked. They establish the Sinai monastery in Egypt and an Athens metochion, but no separately constituted current Sinai body in Israel.",
+      "sources": [
+        "https://www.sinaimonastery.com/index.php/en/",
+        "https://en.jerusalem-patriarchate.info/administrative-structure/holy-monastery-of-the-god-trodden-mount-sinai/"
+      ]
+    },
+    {
+      "jurisdiction": "Churches of Constantinople, Antioch, Serbia, Georgia, Bulgaria, Cyprus, and Greece",
+      "result": "Bounded current official jurisdiction directories and Holy Land records were checked for separately constituted Israel bodies. No additional exact current body was established.",
+      "sources": [
+        "https://ec-patr.org/en/entities/",
+        "https://www.spc.rs/en/96.dioceses-of-the-soc.html",
+        "https://bg-patriarshia.bg/en/the-patriarchate-of-jerusalem"
+      ]
+    },
+    {
+      "jurisdiction": "Orthodox Church in America and the Ukrainian Orthodox structures",
+      "result": "The current OCA parish directory and the current official UOC and OCU records located pilgrimages and services by visiting clergy, but no separately constituted current parish, monastery, or mission in Israel.",
+      "sources": [
+        "https://www.oca.org/parishes",
+        "https://news.church.ua/2026/09/13/predstoyatel-jerusalimskoji-cerkvi-zustrivsya-z-palomnikami-z-volinskoji-ta-xustskoji-jeparxij/",
+        "https://www.pomisna.info/en/"
+      ]
+    }
+  ],
+  "exclusions": [
+    {
+      "scope": "Pilgrim houses and non-worship institutions",
+      "result": "Pilgrim lodging, schools, cultural centres, associations, estates, and administrative offices were not published unless the competent Church also established a separately named current worshiping body there.",
+      "sources": [
+        "https://rusdm.ru/chapel/",
+        "https://en.jerusalem-patriarchate.info/administrative-structure/educational-centres/"
+      ]
+    },
+    {
+      "scope": "Other Christian traditions",
+      "result": "Armenian Apostolic, Coptic, Syriac Orthodox, Ethiopian Orthodox, Roman Catholic, Eastern Catholic, and Protestant bodies are outside this Eastern Orthodox directory and supplied no rows.",
+      "sources": [
+        "https://en.jerusalem-patriarchate.info/administrative-structure/holy-monasteries-and-churches-in-jerusalem/"
+      ]
+    },
+    {
+      "scope": "Discovery sources",
+      "result": "Search engines, maps, travel directories, and commercial listings did not independently establish canonical affiliation or a current worshiping body and supplied no published row.",
+      "sources": [
+        "https://www.google.com/maps/search/Orthodox+Church+Israel/"
+      ]
+    }
+  ]
+}

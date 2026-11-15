@@ -1,0 +1,209 @@
+{
+  "v": 1,
+  "country": "PS",
+  "checked": "2026-11-15",
+  "method": "Current first-party rosters of the Jerusalem Patriarchate, the Moscow Patriarchate's Russian Ecclesiastical Mission, the Russian Ecclesiastical Mission of ROCOR, and the Romanian Patriarchate were reconciled by named worshiping body. Search and maps were discovery-only. West Bank and Gaza localities use Palestine country coding even where an institution prints an Israeli postal box or telephone plan.",
+  "published_summary": {
+    "jerusalem": 34,
+    "je-gaza": 1,
+    "ru-jerusalem-mission-rocor": 2,
+    "russia": 2,
+    "romania": 1,
+    "total": 40
+  },
+  "candidates": [
+    {
+      "candidate_id": "ps-je-unnamed-internal-chapels",
+      "classification": "unnamed",
+      "name": "Unnamed chapels and altars within listed West Bank monasteries and shrines",
+      "status": "hold until a current competent source supplies stable individual names",
+      "reason": "The official rosters establish the enclosing monastery or shrine but do not name every internal worship space as a separate body. No name is inferred.",
+      "sources": [
+        "https://en.jerusalem-patriarchate.info/administrative-structure/holy-monasteries-and-hegoumeneia-abbots-quarters-outside-jerusalem/",
+        "https://en.jerusalem-patriarchate.info/administrative-structure/all-holy-pilgrimage-sites/"
+      ]
+    },
+    {
+      "candidate_id": "ps-je-estate-monk-galaktion",
+      "classification": "aggregate-only",
+      "name": "Estate of Monk Galaktion",
+      "status": "hold until the competent Church identifies a current worshiping body",
+      "reason": "The official list names an estate and overseer but does not identify a church, monastery, chapel, shrine, or recurring congregation at the property.",
+      "sources": [
+        "https://en.jerusalem-patriarchate.info/administrative-structure/holy-monasteries-and-hegoumeneia-abbots-quarters-outside-jerusalem/"
+      ]
+    },
+    {
+      "candidate_id": "ps-gaza-saint-hilarion-archaeological-site",
+      "classification": "historical",
+      "name": "Ancient Monastery of Saint Hilarion in Gaza",
+      "status": "hold unless a current competent Church source establishes an active worshiping body",
+      "reason": "The archaeological monastery is historically Orthodox, but the current Jerusalem Patriarchate roster establishes no present monastery community or parish body there.",
+      "sources": [
+        "https://en.jerusalem-patriarchate.info/history/other/",
+        "https://en.jerusalem-patriarchate.info/administrative-structure/patriarchal-management-committees/"
+      ]
+    },
+    {
+      "candidate_id": "ps-je-theophany-location-review",
+      "classification": "uncertain",
+      "name": "Holy Patriarchal Monastery of the Theophany geographic assignment",
+      "status": "published in Palestine and retained for geographic review",
+      "reason": "The current official list places this separately numbered monastery immediately after the Saint John the Baptist monastery at the Jordan River and before Ramallah. The surrounding official records identify the active baptism-site complex on the western bank. The roster supplies no street address for this separately named body.",
+      "sources": [
+        "https://en.jerusalem-patriarchate.info/administrative-structure/holy-monasteries-and-hegoumeneia-abbots-quarters-outside-jerusalem/",
+        "https://en.jerusalem-patriarchate.info/liturgic-life/the-forefeast-of-theophany-at-the-patriarchate-6/"
+      ]
+    },
+    {
+      "candidate_id": "ps-self-styled-orthodox-groups",
+      "classification": "noncanonical",
+      "name": "Self-styled Orthodox groups not listed by a canonical Eastern Orthodox Church",
+      "status": "not published",
+      "reason": "Self-description and a local address do not establish the canonical parent required by the directory's entry rule.",
+      "sources": [
+        "https://en.jerusalem-patriarchate.info/administrative-structure/churches-in-the-west-bank/",
+        "https://www.oca.org/parishes"
+      ]
+    },
+    {
+      "candidate_id": "ps-map-listed-affiliation-unclear-sites",
+      "classification": "affiliation-unclear",
+      "name": "Map-listed Orthodox churches and monasteries without a competent first-party affiliation record",
+      "status": "discovery-only leads retained for later verification",
+      "reason": "Map listings can identify a place but cannot establish its current canonical authority, continued worship, or whether a building is one already published under another spelling.",
+      "sources": [
+        "https://www.google.com/maps/search/Orthodox+Church+Palestine/"
+      ]
+    }
+  ],
+  "reconciliation": [
+    {
+      "scope": "Burmob and Burqin",
+      "result": "The External Rectories page prints Burmob, while the Patriarchate's dedicated current church history identifies the same Saint George and Ten Lepers body at Burqin. One row is published under the confirmed locality Burqin.",
+      "sources": [
+        "https://en.jerusalem-patriarchate.info/administrative-structure/russian-speaking-community-parishes/",
+        "https://en.jerusalem-patriarchate.info/articles-speeches/the-church-of-the-ten-lepers-in-the-town-of-burqin/"
+      ]
+    },
+    {
+      "scope": "Nushfizbil and Nisf Jubeil",
+      "result": "The External Rectories transliteration Nushfizbil is reconciled to Nisf Jubeil by the Patriarchate's separate consecration and town pages for the same Saint George church. It is published once.",
+      "sources": [
+        "https://en.jerusalem-patriarchate.info/administrative-structure/russian-speaking-community-parishes/",
+        "https://en.jerusalem-patriarchate.info/projects/st-george-church-consecrated-in-nisf-ijbil/",
+        "https://en.jerusalem-patriarchate.info/articles-speeches/the-town-of-nisf-jubeil/"
+      ]
+    },
+    {
+      "scope": "Saint Chariton at Ain Farah and Wadi Faran",
+      "result": "The Jerusalem Patriarchate and ROCOR each publish a current Saint Chariton body at the Faran site under their own structures. The directory records both attributed institutional listings without adjudicating their relationship or collapsing one Church's record into the other.",
+      "sources": [
+        "https://en.jerusalem-patriarchate.info/administrative-structure/holy-monasteries-and-hegoumeneia-abbots-quarters-outside-jerusalem/",
+        "https://missionrocor.ru/contacts"
+      ]
+    },
+    {
+      "scope": "Saint John the Baptist and Theophany at the Jordan River",
+      "result": "The Jerusalem Patriarchate's current roster numbers the Saint John the Baptist monastery and the Holy Patriarchal Monastery of the Theophany as separate entries. They are published as two bodies rather than silently merged.",
+      "sources": [
+        "https://en.jerusalem-patriarchate.info/administrative-structure/holy-monasteries-and-hegoumeneia-abbots-quarters-outside-jerusalem/",
+        "https://en.jerusalem-patriarchate.info/announcements/the-h-monastery-of-st-john-the-baptist-in-the-jordan-river-is-reopened/"
+      ]
+    },
+    {
+      "scope": "Country and postal address",
+      "result": "Bethany, Hebron, Jericho, Bethlehem, Ramallah, Nablus, Gaza, and other West Bank localities are coded as Palestine. Israeli postal boxes, telephone formats, and the phrase Via Israel are preserved exactly where the body publishes them and do not change the country assignment.",
+      "sources": [
+        "https://missionrocor.ru/contacts",
+        "https://rusdm.ru/chapel/",
+        "https://patriarhia.ro/en/organization-of-the-romanian-orthodox-church/external-representations-and-communities/"
+      ]
+    }
+  ],
+  "official_jurisdiction_audit": [
+    {
+      "jurisdiction": "Patriarchate of Jerusalem",
+      "result": "Thirty-five exact current bodies in Palestine were established across the Patriarchate's monastery, West Bank, external rectory, shrine, Gaza commissaryship, and current liturgical records.",
+      "sources": [
+        "https://en.jerusalem-patriarchate.info/administrative-structure/holy-monasteries-and-hegoumeneia-abbots-quarters-outside-jerusalem/",
+        "https://en.jerusalem-patriarchate.info/administrative-structure/churches-in-the-west-bank/",
+        "https://en.jerusalem-patriarchate.info/administrative-structure/patriarchal-management-committees/"
+      ]
+    },
+    {
+      "jurisdiction": "Moscow Patriarchate",
+      "result": "The current Russian Ecclesiastical Mission directory establishes the Holy Forefathers metochion in Hebron and the Apostle Zacchaeus metochion in Jericho under the mission parent published in the Israel module.",
+      "sources": [
+        "https://rusdm.ru/chapel/",
+        "https://rusdm.ru/history/392"
+      ]
+    },
+    {
+      "jurisdiction": "Russian Orthodox Church Outside of Russia",
+      "result": "The Bethany Sisterhood and the Saint Chariton monastery in Wadi Faran were established by the current ROCOR mission contact directory.",
+      "sources": [
+        "https://missionrocor.ru/contacts",
+        "https://www.synod.com/synod/engrocor/enlinks.html"
+      ]
+    },
+    {
+      "jurisdiction": "Romanian Patriarchate",
+      "result": "The Romanian Establishment in Jericho was established by the Romanian Patriarchate's current external representations directory, with its current institutional contact details.",
+      "sources": [
+        "https://patriarhia.ro/en/organization-of-the-romanian-orthodox-church/external-representations-and-communities/"
+      ]
+    },
+    {
+      "jurisdiction": "Church of Sinai",
+      "result": "Current official Sinai and Jerusalem structures were checked. They establish the Sinai monastery in Egypt and an Athens metochion but no separately constituted current Sinai body in Palestine.",
+      "sources": [
+        "https://www.sinaimonastery.com/index.php/en/",
+        "https://en.jerusalem-patriarchate.info/administrative-structure/holy-monastery-of-the-god-trodden-mount-sinai/"
+      ]
+    },
+    {
+      "jurisdiction": "Churches of Constantinople, Antioch, Serbia, Georgia, Bulgaria, Cyprus, and Greece",
+      "result": "Bounded current official jurisdiction directories and Holy Land records were checked for separately constituted Palestine bodies. No additional exact current body was established.",
+      "sources": [
+        "https://ec-patr.org/en/entities/",
+        "https://www.spc.rs/en/96.dioceses-of-the-soc.html",
+        "https://bg-patriarshia.bg/en/the-patriarchate-of-jerusalem"
+      ]
+    },
+    {
+      "jurisdiction": "Orthodox Church in America and Ukrainian Orthodox structures",
+      "result": "Current official records establish pilgrimages and visiting services but no separately constituted current OCA, UOC, or OCU parish, monastery, mission, or chapel in Palestine.",
+      "sources": [
+        "https://www.oca.org/parishes",
+        "https://news.church.ua/2022/10/15/palomniki-z-ukrajini-zustrilisya-z-jerusalimskim-patriarxom-feofilom-iii/",
+        "https://www.pomisna.info/en/"
+      ]
+    }
+  ],
+  "exclusions": [
+    {
+      "scope": "Pilgrim houses, schools, estates, and associations",
+      "result": "The Moscow mission pilgrim house in Bethlehem, schools, cultural centres, associations, and the Estate of Monk Galaktion were not published unless a competent Church also established a separately named worshiping body there.",
+      "sources": [
+        "https://rusdm.ru/gps/",
+        "https://en.jerusalem-patriarchate.info/administrative-structure/educational-centres/",
+        "https://en.jerusalem-patriarchate.info/administrative-structure/holy-monasteries-and-hegoumeneia-abbots-quarters-outside-jerusalem/"
+      ]
+    },
+    {
+      "scope": "Other Christian traditions",
+      "result": "Armenian Apostolic, Coptic, Syriac Orthodox, Ethiopian Orthodox, Roman Catholic, Eastern Catholic, and Protestant bodies are outside this Eastern Orthodox directory and supplied no rows.",
+      "sources": [
+        "https://en.jerusalem-patriarchate.info/administrative-structure/patriarchal-management-committees/"
+      ]
+    },
+    {
+      "scope": "Discovery sources",
+      "result": "Search engines, maps, travel directories, and commercial listings did not independently establish canonical affiliation or a current worshiping body and supplied no published row.",
+      "sources": [
+        "https://www.google.com/maps/search/Orthodox+Church+Palestine/"
+      ]
+    }
+  ]
+}

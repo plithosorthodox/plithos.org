@@ -1,0 +1,116 @@
+{
+  "v": 1,
+  "countries": [
+    "GE"
+  ],
+  "checked": "2026-11-15",
+  "method": "The Georgian Patriarchate's current hierarchy and national scale statement control the country audit. The Patriarchate reports 49 eparchies, including seven abroad, and more than 2,500 functioning churches and monasteries, but it does not publish a complete national body roster. The current official site of the Eparchy of Kutaisi and Gaenati does publish one exact 189-line roster. One exact duplicate and one line without a body type are held rather than guessed, leaving 187 publishable bodies. Search and map results remain discovery-only.",
+  "published_summary": {
+    "ge-kutaisi": 187,
+    "total": 187,
+    "contacts": 0
+  },
+  "candidates": [
+    {
+      "candidate_id": "ge-kutaisi-source-row-46-typeless",
+      "parent": "ge-kutaisi",
+      "country": "GE",
+      "name": "Venerable Shio of Mgvime dedication in Kutaisi",
+      "local": "ქუთაისის ღირსი შიო მღვიმელის",
+      "status": "hold for an exact body type",
+      "reason": "The official roster line gives the dedication but omits the word identifying it as a church, chapel, monastery, or other body. No type is inferred.",
+      "sources": [
+        "https://kutais-gaenati.ge/index.php?page=churches"
+      ]
+    },
+    {
+      "candidate_id": "ge-kutaisi-source-row-98-duplicate",
+      "parent": "ge-kutaisi",
+      "country": "GE",
+      "name": "Saint Marina Chapel at the Nativity of the Theotokos Monastery in Gelati",
+      "local": "გელათის ღვთისმშობელის შობის სახელობის მამათა მონასტერი მარინეს ეკვდერი",
+      "status": "deduplicated against source row 96",
+      "reason": "Source rows 96 and 98 are letter-for-letter identical. One body is published once rather than manufacturing a second identity.",
+      "sources": [
+        "https://kutais-gaenati.ge/index.php?page=churches"
+      ]
+    },
+    {
+      "candidate_id": "ge-national-complete-body-roster",
+      "parent": "georgia",
+      "country": "GE",
+      "name": "Complete current national roster of Georgian Orthodox churches and monasteries",
+      "status": "hold for complete current official eparchial rosters",
+      "reason": "The Patriarchate currently reports more than 2,500 functioning churches and monasteries. Its central eparchy interface names the domestic eparchies but its church and monastery tabs are empty or contain only a test record. The 187 exact Kutaisi and Gaenati bodies are published from that eparchy's current official roster. The unenumerated remainder is held until competent first-party rosters can be reconciled eparchy by eparchy.",
+      "sources": [
+        "https://patriarchate.ge/news/3429",
+        "https://patriarchate.ge/",
+        "https://kutais-gaenati.ge/index.php?page=churches"
+      ]
+    }
+  ],
+  "source_reconciliations": [
+    {
+      "subject": "Kutaisi and Gaenati source duplication and incomplete line",
+      "decision": "The current official roster contains 189 numbered lines. The exact duplicate at line 98 is represented by the identical line 96, and line 46 is held because the source omits the body type. All other 187 lines are published under the existing eparchy.",
+      "sources": [
+        "https://kutais-gaenati.ge/index.php?page=churches",
+        "https://kutais-gaenati.ge/"
+      ]
+    },
+    {
+      "subject": "National scale and incomplete central roster",
+      "decision": "The national Patriarchate's 2026 statement reports more than 2,500 functioning churches and monasteries. That count demonstrates that the 187-row eparchial roster is a bounded source tranche, not a claim of national completeness.",
+      "sources": [
+        "https://patriarchate.ge/news/3429",
+        "https://patriarchate.ge/"
+      ]
+    },
+    {
+      "subject": "Body-level contact coverage",
+      "decision": "The current Kutaisi and Gaenati roster publishes names but no body-level telephone numbers, email addresses, or individual websites. No contacts are inferred from clergy, maps, social pages, or the eparchy's general website.",
+      "sources": [
+        "https://kutais-gaenati.ge/index.php?page=churches",
+        "https://kutais-gaenati.ge/"
+      ]
+    }
+  ],
+  "official_jurisdiction_audit": [
+    {
+      "jurisdiction": "Georgian Apostolic Autocephalous Orthodox Church",
+      "result": "The existing directory already carries the Patriarchate's domestic eparchies. This tranche adds all 187 exact, nonduplicate, typed bodies from the current official Kutaisi and Gaenati roster. The national remainder stays held because the central source reports scale without enumerating the bodies.",
+      "sources": [
+        "https://patriarchate.ge/",
+        "https://patriarchate.ge/news/3429",
+        "https://kutais-gaenati.ge/index.php?page=churches"
+      ]
+    },
+    {
+      "jurisdiction": "Russian Orthodox Church and ROCOR",
+      "result": "The Russian Church's current official profile identifies Georgia as the canonical territory of the Georgian Church, and its official material continues to recognize the Georgian Patriarchate's jurisdiction in Abkhazia and South Ossetia. No separately administered canonical Russian or ROCOR body in Georgia was established for publication.",
+      "sources": [
+        "https://patriarchia.ru/en/church/orgs/locals/org/186",
+        "https://patriarch.patriarchia.ru/otnosheniya-s-pomestnymi-pravoslavnymi-tserkvami/",
+        "https://mospat.ru/ru/old-believers/documents/92086/"
+      ]
+    },
+    {
+      "jurisdiction": "Ecumenical, Romanian, Serbian, Bulgarian, Antiochian, Jerusalem, and Alexandrian structures",
+      "result": "The current official territorial, eparchial, and external-community structures reviewed did not establish a separately administered canonical body in Georgia. Nationality, language, visiting clergy, and concelebration were not treated as evidence of a separate body.",
+      "sources": [
+        "https://ec-patr.org/en/entities/",
+        "https://patriarhia.ro/en/organization-of-the-romanian-orthodox-church/external-representations-and-communities/",
+        "https://spc.rs/en/eparchies/"
+      ]
+    },
+    {
+      "jurisdiction": "Ukrainian Orthodox Church, Orthodox Church of Ukraine, and other canonical local Churches",
+      "result": "No separately administered current canonical body in Georgia was established by the current official structures reviewed. Search or map results without a competent canonical parent remain unpublished.",
+      "sources": [
+        "https://vzcz.church.ua/",
+        "https://www.pomisna.info/uk/tserkva/synodalni-ustanovy/",
+        "https://www.oca.org/parishes"
+      ]
+    }
+  ]
+}

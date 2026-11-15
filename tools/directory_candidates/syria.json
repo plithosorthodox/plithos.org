@@ -1,0 +1,224 @@
+{
+  "v": 1,
+  "country": "SY",
+  "checked": "2026-11-15",
+  "method": "Current official patriarchal, archdiocesan, monastery, representation, and external-community records were reconciled body by body. Search engines, maps, and general directories were used only for discovery. Exact current bodies are published beneath their competent Church parents. Aggregate-only counts, unnamed bodies, historical identities without current renewal, uncertain current status, and affiliation-unclear discoveries remain unpublished.",
+  "published_summary": {
+    "antioch": 37,
+    "russia": 1,
+    "romania": 1,
+    "total": 39,
+    "canonical_jurisdictions_represented": 3
+  },
+  "candidates": [
+    {
+      "candidate_id": "sy-an-archdiocesan-subordinate-remainder",
+      "parent": "antioch",
+      "country": "SY",
+      "name": "Subordinate bodies of the Antiochian archdioceses of Aleppo, Hauran, Hama, Homs, and Lattakia",
+      "status": "hold for complete exact current first-party rosters",
+      "reason": "The current Patriarchate establishes the five existing Syrian archdiocesan parents. The available official pages do not provide a stable complete body-level roster for each one. Individual churches are not inferred from clergy assignments, old lists, social posts, search results, or maps.",
+      "sources": [
+        "https://antiochpatriarchate.org/en/page/2857/",
+        "https://www.antiochpatriarchate.org/en/page/3011/"
+      ]
+    },
+    {
+      "candidate_id": "sy-an-akkar-syrian-remainder",
+      "parent": "an-akkar",
+      "country": "SY",
+      "name": "Syrian parishes within the territory of the Archdiocese of Akkar",
+      "status": "hold for an exact current first-party parish roster",
+      "reason": "The Patriarchate treats Akkar among the archdioceses serving Syria, and the Saint George Al-Homeyra monastery lies geographically within it. The monastery is published directly under the Patriarchate because the official source states that relationship. No unnamed or unenumerated Syrian Akkar parish is inferred.",
+      "sources": [
+        "https://antiochpatriarchate.org/en/page/2857/",
+        "https://antiochpatriarchate.org/en/page/145/"
+      ]
+    },
+    {
+      "candidate_id": "sy-an-saydnaya-unnamed-remainder",
+      "parent": "antioch",
+      "country": "SY",
+      "name": "Unenumerated churches, chapels, and monasteries in Saydnaya",
+      "status": "hold until each body receives a current exact official identity",
+      "reason": "The official monastery history reports more than forty churches, chapels, and monasteries in Saydnaya. An aggregate does not establish forty current body names. The exact monastery and parish bodies renewed by the live official pages are published, while the unnamed remainder stays in the ledger.",
+      "sources": [
+        "https://www.antiochpatriarchate.org/en/page/146/",
+        "https://www.antiochpatriarchate.org/en/category/churches-of-damascus-and-rural-damascus/105/"
+      ]
+    },
+    {
+      "candidate_id": "sy-an-historical-war-damaged-bodies",
+      "parent": "antioch",
+      "country": "SY",
+      "name": "Historical or war-damaged Antiochian churches without current body-level renewal",
+      "status": "hold for current first-party confirmation",
+      "reason": "Historical monastery narratives and restoration reports can establish that a building existed without establishing that a separately governed parish or monastery currently operates there. Such bodies remain historical or uncertain until a current competent Church record names them as active.",
+      "sources": [
+        "https://antiochpatriarchate.org/en/category/38/",
+        "https://www.antiochpatriarchate.org/en/category/churches-of-damascus-and-rural-damascus/105/"
+      ]
+    },
+    {
+      "candidate_id": "sy-search-map-affiliation-unclear-leads",
+      "parent": "antioch",
+      "country": "SY",
+      "name": "Search and map discoveries with unclear current Eastern Orthodox affiliation",
+      "status": "discovery only, not publishable",
+      "reason": "A map listing, general directory, review page, or building label does not prove current communion, jurisdiction, or institutional status. These leads require a current first-party Church citation before publication.",
+      "sources": [
+        "https://antiochpatriarchate.org/en/page/2857/"
+      ]
+    },
+    {
+      "candidate_id": "sy-an-compromised-legacy-sites",
+      "parent": "antioch",
+      "country": "SY",
+      "name": "Compromised or unavailable legacy archdiocesan and monastery websites",
+      "status": "do not publish as body-owned sites or use as current rosters",
+      "reason": "The Patriarchate still exposes several legacy external links. During this audit the Aleppo domain served unrelated commercial content, the Hauran domain did not resolve, and the former Saydnaya monastery domain served unrelated gambling content. They are preserved only as an access finding and are not attached to directory rows.",
+      "sources": [
+        "https://antiochpatriarchate.org/en/page/2857/",
+        "https://www.antiochpatriarchate.org/en/page/144/",
+        "https://antiochpatriarchate.org/en/page/143/"
+      ]
+    }
+  ],
+  "reconciliation": [
+    {
+      "issue": "Sahnaya and Hine telephone assignment",
+      "result": "The Arabic official roster assigns 00963 11 6710679 to Sahnaya and 00963 11 6880918 to Hine. The English rendering shifts the latter number to Sahnaya and leaves Hine blank. The Arabic local-language table controls these two contact fields, and the discrepancy is recorded rather than silently blended.",
+      "sources": [
+        "https://www.antiochpatriarchate.org/ar/category/%D9%83%D9%86%D8%A7%D8%A6%D8%B3-%D8%AF%D9%85%D8%B4%D9%82-%D9%88%D8%B1%D9%8A%D9%81%D9%87%D8%A7/105/",
+        "https://www.antiochpatriarchate.org/en/category/churches-of-damascus-and-rural-damascus/105/"
+      ]
+    },
+    {
+      "issue": "Saydnaya monastery and parish hierarchy",
+      "result": "Our Lady of Saydnaya is published as a patriarchal monastery. The exact Nativity of Our Lady worship body named as the monastery and parish of Saydnaya is nested beneath it. Saint George Saydnaya is also nested beneath Our Lady because its official history states that attachment. The relationships are represented without collapsing the named worship body into the monastery or duplicating either one as an unrelated parish.",
+      "sources": [
+        "https://www.antiochpatriarchate.org/en/page/146/",
+        "https://www.antiochpatriarchate.org/en/page/144/",
+        "https://www.antiochpatriarchate.org/en/category/churches-of-damascus-and-rural-damascus/105/"
+      ]
+    },
+    {
+      "issue": "Saint George Al-Homeyra hierarchy",
+      "result": "The monastery lies within the territory of the Archdiocese of Akkar but the official monastery page states that it is directly attached to the Patriarchate of Antioch. It is therefore published under Antioch rather than under the archdiocese.",
+      "sources": [
+        "https://antiochpatriarchate.org/en/page/145/"
+      ]
+    },
+    {
+      "issue": "Two Saint Ignatius churches in Damascus",
+      "result": "The Antiochian Saint Ignatius Church in Abou Remaneh and the Church of Saint Ignatius at the Russian Orthodox representation are retained as distinct bodies. Their competent Churches publish them separately, and the Russian representation publishes its own Malki address and institutional contact.",
+      "sources": [
+        "https://www.antiochpatriarchate.org/en/category/churches-of-damascus-and-rural-damascus/105/",
+        "https://representation-damascus.org/",
+        "https://mospat.ru/en/news/94542/"
+      ]
+    },
+    {
+      "issue": "Romanian community without an independently named church building",
+      "result": "The Romanian Patriarchate publishes the Romanian Orthodox Community in Syria as its institutional body and gives Damascus as its location. The community is published at that exact level. No church dedication, building, or Syrian address is invented.",
+      "sources": [
+        "https://patriarhia.ro/en/organization-of-the-romanian-orthodox-church/external-representations-and-communities/"
+      ]
+    }
+  ],
+  "exclusions": [
+    {
+      "scope": "Oriental Orthodox and non-Chalcedonian bodies",
+      "result": "Syriac, Armenian, Coptic, and other Oriental Orthodox bodies are outside this Eastern Orthodox directory and are not merged with the Patriarchate of Antioch.",
+      "sources": [
+        "https://antiochpatriarchate.org/en/page/2857/"
+      ]
+    },
+    {
+      "scope": "Schools, hospitals, charities, halls, and administrative offices",
+      "result": "An institution is not published as a church unless the competent Church source also names a distinct worship body. Public institutional contacts are not reassigned to a nearby church unless the source explicitly identifies that church as the contact holder.",
+      "sources": [
+        "https://www.antiochpatriarchate.org/en/category/institutions-and-halls/103/",
+        "https://www.antiochpatriarchate.org/en/category/107/"
+      ]
+    },
+    {
+      "scope": "Clergy identities and personal contact assumptions",
+      "result": "Clergy names printed beside parishes are not directory bodies and are not reproduced. Only public institutional phones and emails explicitly printed by the competent Church source are attached to rows.",
+      "sources": [
+        "https://www.antiochpatriarchate.org/en/category/churches-of-damascus-and-rural-damascus/105/",
+        "https://representation-damascus.org/",
+        "https://patriarhia.ro/en/organization-of-the-romanian-orthodox-church/external-representations-and-communities/"
+      ]
+    },
+    {
+      "scope": "Independent, schismatic, historical-only, and affiliation-unclear bodies",
+      "result": "A body is not published until a current canonical Eastern Orthodox Church source names it within that Church's structure. Search visibility, a traditional Orthodox name, or a historical association is insufficient.",
+      "sources": [
+        "https://antiochpatriarchate.org/en/page/2857/"
+      ]
+    }
+  ],
+  "official_jurisdiction_audit": [
+    {
+      "jurisdiction": "Patriarchate of Antioch",
+      "result": "Thirty-seven exact current Syrian bodies are published. The live Damascus roster supplies the named city and rural churches, a current official 2025 record renews Saint Elias in Dweilaa, and official monastery records establish five patriarchal monasteries. Existing archdiocesan parents are retained without duplication.",
+      "sources": [
+        "https://www.antiochpatriarchate.org/en/category/churches-of-damascus-and-rural-damascus/105/",
+        "https://www.antiochpatriarchate.org/ar/page/2959/",
+        "https://antiochpatriarchate.org/en/category/38/"
+      ]
+    },
+    {
+      "jurisdiction": "Moscow Patriarchate",
+      "result": "The current official representation site and current Moscow Patriarchate reporting establish the Damascus representation and its Church of Saint Ignatius the God-Bearer. It is published under the Church of Russia with the representation's institutional email and body-owned site.",
+      "sources": [
+        "https://representation-damascus.org/",
+        "https://mospat.ru/en/news/94542/"
+      ]
+    },
+    {
+      "jurisdiction": "Romanian Patriarchate",
+      "result": "The current official external-communities directory establishes the Romanian Orthodox Community in Syria at Damascus. It is published under the Church of Romania with the exact public phone, email, and body-owned site printed by the Patriarchate.",
+      "sources": [
+        "https://patriarhia.ro/en/organization-of-the-romanian-orthodox-church/external-representations-and-communities/"
+      ]
+    },
+    {
+      "jurisdiction": "Ecumenical Patriarchate, Jerusalem Patriarchate, and Patriarchate of Alexandria",
+      "result": "Their current official entity, administrative, and diocesan structures were checked and did not name an additional exact current Syria body. This is a bounded official-directory result, not a general country-level absence claim.",
+      "sources": [
+        "https://ec-patr.org/en/entities/",
+        "https://en.jerusalem-patriarchate.info/administrative-structure/",
+        "https://www.patriarchateofalexandria.com/archdioceses/?lang=en"
+      ]
+    },
+    {
+      "jurisdiction": "Serbian Patriarchate, Bulgarian Patriarchate, and ROCOR",
+      "result": "Their current official diocesan and parish structures were checked and did not name an additional exact current Syria body. Access gaps and unindexed possibilities are not converted into absence claims.",
+      "sources": [
+        "https://www.spc.rs/en/96.dioceses-of-the-soc.html",
+        "https://bg-patriarshia.bg/dioceses",
+        "https://directory.synod.com/listings/"
+      ]
+    },
+    {
+      "jurisdiction": "Orthodox Church of Ukraine, Ukrainian Orthodox Church, and Orthodox Church in America",
+      "result": "Their current official parish and diocesan structures were reviewed separately and did not name an exact current Syria body. Neither Ukrainian structure is collapsed into the other, and neither is inferred from Russian-speaking or Ukrainian residents.",
+      "sources": [
+        "https://www.pomisna.info/",
+        "https://church.ua/en/eparchies/",
+        "https://www.oca.org/parishes"
+      ]
+    },
+    {
+      "jurisdiction": "Churches of Greece and Cyprus and the remaining canonical Local Churches",
+      "result": "Available official structures of the remaining Local Churches were checked without finding an additional exact current Syria body. No row is created from territorial possibility, ethnicity, diplomatic presence, or a discovery-only directory.",
+      "sources": [
+        "https://www.ecclesiagreece.gr/",
+        "https://churchofcyprus.org.cy/",
+        "https://www.orthodox.pl/"
+      ]
+    }
+  ]
+}

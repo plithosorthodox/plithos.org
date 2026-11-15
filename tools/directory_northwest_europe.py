@@ -25,6 +25,7 @@ import directory_bosnia_montenegro
 import directory_brazil
 import directory_burundi
 import directory_bulgaria
+import directory_canada
 import directory_cambodia
 import directory_cameroon
 import directory_chile
@@ -38,6 +39,7 @@ import directory_egypt
 import directory_ethiopia
 import directory_france
 import directory_germany
+import directory_georgia_country
 import directory_ghana
 import directory_hungary
 import directory_hong_kong
@@ -46,6 +48,7 @@ import directory_iberia
 import directory_indonesia
 import directory_ireland
 import directory_iraq
+import directory_israel
 import directory_jordan
 import directory_italy
 import directory_kazakhstan
@@ -66,6 +69,7 @@ import directory_nigeria
 import directory_north_atlantic
 import directory_north_macedonia
 import directory_norway
+import directory_palestine
 import directory_philippines
 import directory_poland
 import directory_qatar
@@ -90,6 +94,7 @@ import directory_sudan
 import directory_south_sudan
 import directory_south_africa
 import directory_tanzania
+import directory_syria
 
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -107,6 +112,7 @@ SOURCE_MODULES = (
     directory_brazil,
     directory_burundi,
     directory_bulgaria,
+    directory_canada,
     directory_cambodia,
     directory_cameroon,
     directory_chile,
@@ -120,6 +126,7 @@ SOURCE_MODULES = (
     directory_ethiopia,
     directory_france,
     directory_germany,
+    directory_georgia_country,
     directory_ghana,
     directory_hungary,
     directory_hong_kong,
@@ -127,6 +134,7 @@ SOURCE_MODULES = (
     directory_iberia,
     directory_ireland,
     directory_iraq,
+    directory_israel,
     directory_jordan,
     directory_italy,
     directory_kazakhstan,
@@ -147,6 +155,7 @@ SOURCE_MODULES = (
     directory_north_atlantic,
     directory_north_macedonia,
     directory_norway,
+    directory_palestine,
     directory_poland,
     directory_qatar,
     directory_romania,
@@ -266,6 +275,19 @@ def build():
             raise ValueError("%s is not a Lebanese Antioch row" % row_id)
         row_ids.add(row_id)
         payload["rows"].append(row)
+    # Syria's exact patriarchal churches and monasteries also answer directly
+    # to Antioch. Keep them in the established shared Antioch payload while
+    # preserving the country module as their source of truth.
+    countries[parent].add("SY")
+    for source in directory_syria.DIRECT_ANTIOCH_ROWS:
+        row = directory_syria.clean(source)
+        row_id = row.get("id")
+        if not row_id or row_id in row_ids:
+            raise ValueError("duplicate or missing row id: %s" % row_id)
+        if row.get("country") != "SY":
+            raise ValueError("%s is not a Syrian Antioch row" % row_id)
+        row_ids.add(row_id)
+        payload["rows"].append(row)
     # The OCU vicariate spans Europe and Australia. This module already owns
     # its shared payload, so append the Australian official-directory rows
     # here rather than creating a second branch owner in Oceania.
@@ -287,9 +309,9 @@ def build():
         else:
             payload["countries"] = scope
     row_count = sum(len(p["rows"]) for p in payloads.values())
-    if len(payloads) != 256 or row_count != 21262:
+    if len(payloads) != 265 or row_count != 21972:
         raise ValueError(
-            "combined country branches must publish 256 parents and 21262 "
+            "combined country branches must publish 265 parents and 21972 "
             "rows, got %d parents and %d rows" %
             (len(payloads), row_count))
     return dict(sorted(payloads.items()))
@@ -358,7 +380,7 @@ def main():
         for error in errors:
             print(error, file=sys.stderr)
         return 1
-    print("Combined country branches: 256 parents, 21262 subordinate bodies")
+    print("Combined country branches: 265 parents, 21972 subordinate bodies")
     return 0
 
 
