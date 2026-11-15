@@ -1,0 +1,152 @@
+{
+  "v": 1,
+  "countries": [
+    "GR"
+  ],
+  "checked": "2026-11-15",
+  "method": "The official 2026 parish tables are transcribed exactly and reconciled to the Ecumenical Patriarchate total of 106 parish churches. The separately displayed shrine table, current monastery rosters, and exact named current chapels on the official feast page are also published. Historical-only bodies, ambiguous feast references, personal clergy contacts, and search or map leads remain held.",
+  "published_summary": {
+    "ep-didymoteichon": 126,
+    "total": 126,
+    "parish_kind_rows": 122,
+    "monastery_kind_rows": 4,
+    "contact_bodies": 28,
+    "phone_bodies": 28,
+    "public_phone_values": 28,
+    "email_bodies": 0,
+    "public_email_values": 0,
+    "body_owned_sites": 0,
+    "address_bodies": 126
+  },
+  "candidates": [
+    {
+      "candidate_id": "gr-ep-didymoteichon-pythio-nativity-body",
+      "parent": "ep-didymoteichon",
+      "country": "GR",
+      "category": "body-type-unclear",
+      "status": "held",
+      "reason": "The current official September feast list names a Nativity of the Theotokos observance in Pythio, but does not identify whether it is a chapel, outlying church, or another exact ecclesial body. The Saint Athanasius parish in Pythio is already published from the parish roster.",
+      "sources": [
+        "https://imdos.gr/%CF%80%CE%B1%CE%BD%CE%B7%CE%B3%CF%85%CF%81%CE%B5%CE%B9%CF%83-%CE%B9%CE%B5%CF%81%CF%89%CE%BD-%CE%BD%CE%B1%CF%89%CE%BD/",
+        "https://imdos.gr/sample-page/%CE%B5%CE%BD%CE%BF%CF%81%CE%AF%CE%B5%CF%82-%CE%B5%CF%86%CE%B7%CE%BC%CE%AD%CF%81%CE%B9%CE%BF%CE%B9/"
+      ]
+    },
+    {
+      "candidate_id": "gr-ep-didymoteichon-paliouri-myrtidiotissa-body",
+      "parent": "ep-didymoteichon",
+      "country": "GR",
+      "category": "body-type-unclear",
+      "status": "held",
+      "reason": "The current official September feast list names the Myrtidiotissa observance in Paliouri without identifying a church type. The Saint Athanasius parish in Paliouri is already published from the parish roster.",
+      "sources": [
+        "https://imdos.gr/%CF%80%CE%B1%CE%BD%CE%B7%CE%B3%CF%85%CF%81%CE%B5%CE%B9%CF%83-%CE%B9%CE%B5%CF%81%CF%89%CE%BD-%CE%BD%CE%B1%CF%89%CE%BD/",
+        "https://imdos.gr/sample-page/%CE%B5%CE%BD%CE%BF%CF%81%CE%AF%CE%B5%CF%82-%CE%B5%CF%86%CE%B7%CE%BC%CE%AD%CF%81%CE%B9%CE%BF%CE%B9/"
+      ]
+    },
+    {
+      "candidate_id": "gr-ep-didymoteichon-historical-monuments",
+      "parent": "ep-didymoteichon",
+      "country": "GR",
+      "category": "historical-only",
+      "status": "held",
+      "reason": "The Patriarchate overview names the Byzantine Saint Catherine chapel, a wall of an old Byzantine monastery, and Saint George Palaiokastritis as historical monuments. That text does not establish them as current bodies of the metropolis, and Saint George is stated to be held by the Armenians.",
+      "sources": [
+        "https://ec-patr.org/entities/iera-mitropoli-didymoteixoy-orestiados-soyflioy/"
+      ]
+    },
+    {
+      "candidate_id": "gr-ep-didymoteichon-other-current-chapels",
+      "parent": "ep-didymoteichon",
+      "country": "GR",
+      "category": "incomplete-roster",
+      "status": "held",
+      "reason": "The official feast page supplies an exact named September selection, not a complete all-year chapel roster. Its 14 unambiguous current bodies are published. No additional body is inferred from news archives or feast references that do not state an exact body type.",
+      "sources": [
+        "https://imdos.gr/%CF%80%CE%B1%CE%BD%CE%B7%CE%B3%CF%85%CF%81%CE%B5%CE%B9%CF%83-%CE%B9%CE%B5%CF%81%CF%89%CE%BD-%CE%BD%CE%B1%CF%89%CE%BD/"
+      ]
+    },
+    {
+      "candidate_id": "gr-ep-didymoteichon-search-map-leads",
+      "parent": "ep-didymoteichon",
+      "country": "GR",
+      "category": "affiliation-unclear",
+      "status": "discovery-only",
+      "reason": "Search and map results cannot establish a current exact body or competent parent. Leads remain unpublished until a current first-party Church source names them.",
+      "sources": [
+        "https://ec-patr.org/entities/iera-mitropoli-didymoteixoy-orestiados-soyflioy/"
+      ]
+    }
+  ],
+  "source_reconciliations": [
+    {
+      "subject": "Parish roster and aggregate",
+      "decision": "The eight official 2026 tables contain 24, 13, 18, 6, 17, 8, 8, and 12 parish rows. Their total is 106, exactly matching the current Ecumenical Patriarchate overview. No parish is inferred or removed.",
+      "sources": [
+        "https://imdos.gr/sample-page/%CE%B5%CE%BD%CE%BF%CF%81%CE%AF%CE%B5%CF%82-%CE%B5%CF%86%CE%B7%CE%BC%CE%AD%CF%81%CE%B9%CE%BF%CE%B9/",
+        "https://ec-patr.org/entities/iera-mitropoli-didymoteixoy-orestiados-soyflioy/"
+      ]
+    },
+    {
+      "subject": "Life-Giving Spring monastery status",
+      "decision": "The local monastery page labels the Life-Giving Spring monastery dissolved, while the current Patriarchate overview lists it as a monastery governed by an administrative committee and the metropolis records a Divine Liturgy there in May 2026. It is published as a current monastery with all three first-party sources preserved.",
+      "sources": [
+        "https://imdos.gr/sample-page/%CE%BC%CE%BF%CE%BD%CE%AD%CF%82-%CE%BC%CE%B5%CF%84%CF%8C%CF%87%CE%B9%CE%B1/",
+        "https://ec-patr.org/entities/iera-mitropoli-didymoteixoy-orestiados-soyflioy/",
+        "https://imdos.gr/2026/05/04/%CE%B1%CF%81%CF%87%CE%BF%CE%BC%CE%AD%CE%BD%CE%BF%CF%85-%CF%84%CE%BF%CF%85-%CE%BC%CE%B7%CE%BD%CF%8C%CF%82-%CE%BC%CE%B1%CE%90%CE%BF%CF%85/"
+      ]
+    },
+    {
+      "subject": "Public contact boundary",
+      "decision": "The parish and shrine tables separate church telephone numbers from clergy telephone numbers. Only the church column is copied. For monasteries, only the fixed institutional numbers printed by the Patriarchate are copied. Clergy names and personal mobile numbers are excluded.",
+      "sources": [
+        "https://imdos.gr/sample-page/%CE%B5%CE%BD%CE%BF%CF%81%CE%AF%CE%B5%CF%82-%CE%B5%CF%86%CE%B7%CE%BC%CE%AD%CF%81%CE%B9%CE%BF%CE%B9/",
+        "https://imdos.gr/sample-page/%CE%BC%CE%BF%CE%BD%CE%AD%CF%82-%CE%BC%CE%B5%CF%84%CF%8C%CF%87%CE%B9%CE%B1/",
+        "https://ec-patr.org/entities/iera-mitropoli-didymoteixoy-orestiados-soyflioy/"
+      ]
+    },
+    {
+      "subject": "Website distinction",
+      "decision": "No body-owned website is claimed for any subordinate body. All rows retain their canonical parent relationship and first-party identity source under imdos.gr, which is the higher-level metropolis website.",
+      "sources": [
+        "https://imdos.gr/sample-page/%CE%B5%CE%BD%CE%BF%CF%81%CE%AF%CE%B5%CF%82-%CE%B5%CF%86%CE%B7%CE%BC%CE%AD%CF%81%CE%B9%CE%BF%CE%B9/",
+        "https://ec-patr.org/entities/iera-mitropoli-didymoteixoy-orestiados-soyflioy/"
+      ]
+    }
+  ],
+  "official_parent_audit": [
+    {
+      "parent": "ep-didymoteichon",
+      "result": "126 exact named current bodies published: 106 parish churches, two shrine-table bodies, four monasteries, and 14 unambiguous current churches or chapels from the official feast enumeration.",
+      "roster_status": "complete 2026 parish and shrine tables, complete current named monastery list, partial exact chapel coverage",
+      "sources": [
+        "https://imdos.gr/sample-page/%CE%B5%CE%BD%CE%BF%CF%81%CE%AF%CE%B5%CF%82-%CE%B5%CF%86%CE%B7%CE%BC%CE%AD%CF%81%CE%B9%CE%BF%CE%B9/",
+        "https://imdos.gr/sample-page/%CE%BC%CE%BF%CE%BD%CE%AD%CF%82-%CE%BC%CE%B5%CF%84%CF%8C%CF%87%CE%B9%CE%B1/",
+        "https://ec-patr.org/entities/iera-mitropoli-didymoteixoy-orestiados-soyflioy/"
+      ]
+    }
+  ],
+  "exclusions": [
+    {
+      "category": "personal-contact",
+      "decision": "Clergy-personal names and mobile telephone numbers are excluded. Only public institutional contact details presented for a church or monastery itself are published.",
+      "sources": [
+        "https://imdos.gr/sample-page/%CE%B5%CE%BD%CE%BF%CF%81%CE%AF%CE%B5%CF%82-%CE%B5%CF%86%CE%B7%CE%BC%CE%AD%CF%81%CE%B9%CE%BF%CE%B9/",
+        "https://imdos.gr/sample-page/%CE%BC%CE%BF%CE%BD%CE%AD%CF%82-%CE%BC%CE%B5%CF%84%CF%8C%CF%87%CE%B9%CE%B1/"
+      ]
+    },
+    {
+      "category": "historical-only",
+      "decision": "Historical monuments are not converted into current directory rows without a current first-party identity as an active body of this metropolis.",
+      "sources": [
+        "https://ec-patr.org/entities/iera-mitropoli-didymoteixoy-orestiados-soyflioy/"
+      ]
+    },
+    {
+      "category": "discovery-only",
+      "decision": "Search and map leads are held until a competent first-party Church source establishes exact identity and parentage.",
+      "sources": [
+        "https://ec-patr.org/entities/iera-mitropoli-didymoteixoy-orestiados-soyflioy/"
+      ]
+    }
+  ]
+}

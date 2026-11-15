@@ -1,0 +1,95 @@
+{
+  "v": 1,
+  "countries": [
+    "GR"
+  ],
+  "parent": "ep-lemnos",
+  "checked": "2026-11-15",
+  "higher_level_site": "https://www.imlimnou.gr/",
+  "method": "Only current competent first-party Church sources control publication. The current official metropolis roster names 37 principal parishes. Their current individual pages name 226 exact parish chapels, and the official pilgrimage page names the Holy Pilgrimage of Saint Sozon. All exact rendered bodies are published. Aggregate-only bodies, search results, and map results remain held until a competent current Church source supplies their exact identities.",
+  "published_summary": {
+    "principal_parishes": 37,
+    "named_parish_chapels": 226,
+    "pilgrimage_churches": 1,
+    "total": 264,
+    "address_bodies": 38,
+    "contact_bodies": 37,
+    "phone_bodies": 5,
+    "email_bodies": 37,
+    "body_owned_sites": 0
+  },
+  "candidates": [
+    {
+      "candidate_id": "gr-lemnos-aggregate-country-chapels",
+      "parent": "ep-lemnos",
+      "country": "GR",
+      "name": "Country chapels and chapels not individually named by the current roster",
+      "status": "226 exact named parish chapels published; aggregate remainder held",
+      "reason": "The Ecumenical Patriarchate overview reports 365 country chapels and 15 chapels, for 380 subordinate bodies. The current individual parish pages render 226 exact bodies under the single heading Parish Chapels. The 154-body difference and its category allocation are not inferred from search or map results.",
+      "sources": [
+        "https://www.imlimnou.gr/index.php/2022-06-26-16-43-19/2022-06-26-16-45-27",
+        "https://ec-patr.org/entities/iera-mitropoli-limnoy/"
+      ]
+    },
+    {
+      "candidate_id": "gr-lemnos-pilgrimage-contact",
+      "parent": "ep-lemnos",
+      "country": "GR",
+      "name": "Body-specific institutional contact for the Holy Pilgrimage of Saint Sozon",
+      "status": "hold for body-specific institutional contact",
+      "reason": "The official pilgrimage page prints personal clergy mobile numbers and repeats higher metropolis office contacts. Those contacts are not assigned to the pilgrimage body. Its exact name and address are published without a body contact.",
+      "sources": [
+        "https://www.imlimnou.gr/index.php/2022-06-26-16-43-19/2022-07-23-16-44-34",
+        "https://www.imlimnou.gr/"
+      ]
+    },
+    {
+      "candidate_id": "gr-lemnos-moudros-address",
+      "parent": "gr-lemnos-parish-78",
+      "country": "GR",
+      "name": "Address printed on the Moudros parish profile",
+      "status": "source wording preserved; correction held for the competent source",
+      "reason": "The current official page is the parish of the Annunciation of the Theotokos in Moudros, but its contact block prints Myrina 814 00. The page title establishes the seat as Moudros, while the address remains exactly as printed and is not silently corrected.",
+      "sources": [
+        "https://www.imlimnou.gr/index.php/2022-06-26-16-43-19/2022-06-26-16-45-27?view=article&id=78&catid=9"
+      ]
+    },
+    {
+      "candidate_id": "gr-lemnos-search-and-map-leads",
+      "parent": "ep-lemnos",
+      "country": "GR",
+      "name": "Search and map discoveries not tied to the current official roster",
+      "status": "discovery-only",
+      "reason": "Search engines and maps can identify possible worship bodies, but no additional body is published until the competent current Church source confirms its exact identity and canonical parentage.",
+      "sources": [
+        "https://www.imlimnou.gr/index.php/2022-06-26-16-43-19/2022-06-26-16-45-27",
+        "https://ec-patr.org/entities/iera-mitropoli-limnoy/"
+      ]
+    }
+  ],
+  "source_reconciliations": [
+    {
+      "scope": "Current exact roster",
+      "decision": "Publish every exact body rendered by the current official metropolis parish, parish profile, and pilgrimage pages: 37 principal parishes, 226 named parish chapels, and the Holy Pilgrimage of Saint Sozon.",
+      "sources": [
+        "https://www.imlimnou.gr/index.php/2022-06-26-16-43-19/2022-06-26-16-45-27",
+        "https://www.imlimnou.gr/index.php/2022-06-26-16-43-19/2022-07-23-16-44-34"
+      ]
+    },
+    {
+      "scope": "Institutional contacts",
+      "decision": "All 37 principal parish profiles publish institutional email addresses and exact addresses. Five also publish institutional landline numbers. Clergy mobile numbers are excluded. No subordinate chapel is assigned its parent parish contact.",
+      "sources": [
+        "https://www.imlimnou.gr/index.php/2022-06-26-16-43-19/2022-06-26-16-45-27"
+      ]
+    },
+    {
+      "scope": "Body-owned and higher-level sites",
+      "decision": "No principal parish profile links a distinct body-owned website. The current official higher-level metropolis site is recorded separately as https://www.imlimnou.gr/ and is not copied into any parish site field.",
+      "sources": [
+        "https://www.imlimnou.gr/",
+        "https://www.imlimnou.gr/index.php/2022-06-26-16-43-19/2022-06-26-16-45-27"
+      ]
+    }
+  ]
+}
