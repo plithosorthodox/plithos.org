@@ -1115,9 +1115,17 @@ from directory_ireland import ENGLISH_NAMES as _IRELAND_NAMES
 NAMES.update(_IRELAND_NAMES)
 del _IRELAND_NAMES
 
+from directory_iceland import ENGLISH_NAMES as _ICELAND_NAMES
+NAMES.update(_ICELAND_NAMES)
+del _ICELAND_NAMES
+
 from directory_latvia import ENGLISH_NAMES as _LATVIA_NAMES
 NAMES.update(_LATVIA_NAMES)
 del _LATVIA_NAMES
+
+from directory_new_zealand import ENGLISH_NAMES as _NEW_ZEALAND_NAMES
+NAMES.update(_NEW_ZEALAND_NAMES)
+del _NEW_ZEALAND_NAMES
 
 SEATS = {
     "Istanbul": u"Istanbul",

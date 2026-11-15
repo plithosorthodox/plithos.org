@@ -18,6 +18,8 @@ import json
 import sys
 from pathlib import Path
 
+import directory_new_zealand
+
 
 ROOT = Path(__file__).resolve().parent.parent
 OUT = ROOT / "data" / "directory"
@@ -273,6 +275,11 @@ ROWS = {
     ],
 }
 
+# The ROCOR diocese spans Australia, New Zealand, and parts of Asia. Keep its
+# single public payload here while country modules retain their own audits.
+ROWS["ru-australia-and-new-zealand-rocor"].extend(
+    directory_new_zealand.build()["ru-australia-and-new-zealand-rocor"])
+
 
 def clean(row):
     out = {key: value for key, value in row.items()
@@ -311,7 +318,7 @@ def build():
     parent_countries = {
         "ep-korea": ["JP", "KR"],
         "ru-korea": ["KR"],
-        "ru-australia-and-new-zealand-rocor": ["KR"],
+        "ru-australia-and-new-zealand-rocor": ["KR", "NZ"],
     }
     for parent, source_rows in ROWS.items():
         rows = []
@@ -353,8 +360,8 @@ def build():
         raise ValueError("the Ecumenical Patriarchate branch must have 12 rows")
     if len(payloads["ru-korea"]["rows"]) != 7:
         raise ValueError("the Moscow Patriarchate branch must have 7 rows")
-    if len(payloads["ru-australia-and-new-zealand-rocor"]["rows"]) != 2:
-        raise ValueError("the ROCOR branch must have 2 rows")
+    if len(payloads["ru-australia-and-new-zealand-rocor"]["rows"]) != 5:
+        raise ValueError("the ROCOR branch must have 5 rows")
     return payloads
 
 
@@ -430,7 +437,7 @@ def main():
         for error in errors:
             print(error, file=sys.stderr)
         return 1
-    print("Korea and Japan exarchate branches: 15 parishes, 3 chapels, "
+    print("Korea and shared ROCOR branches: 18 parishes, 3 chapels, "
           "3 monasteries")
     return 0
 

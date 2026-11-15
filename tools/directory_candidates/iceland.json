@@ -1,0 +1,94 @@
+{
+  "v": 1,
+  "country": "IS",
+  "checked": "2026-11-14",
+  "status": "no unpublished candidate bodies found",
+  "civil_registry": {
+    "source": "https://px.hagstofa.is/pxen/pxweb/en/Samfelag/Samfelag__menning__5_trufelog__trufelog/MAN10001.px/",
+    "eastern_orthodox_bodies": [
+      "The Russian Orthodox Church",
+      "The Serbian Orthodox Church"
+    ],
+    "note": "Both registered Eastern Orthodox bodies have official Church confirmation and are included in tools/directory_iceland.py. The separately registered Ethiopian Orthodox Tewahedo body is Oriental Orthodox and is outside this directory."
+  },
+  "official_jurisdiction_audit": [
+    {
+      "parent": "ep-sweden",
+      "result": "one official Iceland parish included",
+      "source": "https://ec-patr.org/entities/iera-mitropoli-soyidias/"
+    },
+    {
+      "parent": "russia",
+      "result": "one official Iceland stauropegic parish included",
+      "source": "https://eparchia.patriarchia.ru/article/123540"
+    },
+    {
+      "parent": "sr-scandinavia",
+      "result": "one official Iceland parish included",
+      "source": "https://www.spc.rs/sr/82.eparhije-srpske-pravoslavne-crkve.html"
+    },
+    {
+      "parent": "ro-ireland-iceland",
+      "result": "one official Iceland parish included",
+      "source": "https://www.eorii.com/?p=parohii"
+    },
+    {
+      "parent": "ru-great-britain-and-western-europe-rocor",
+      "result": "no Iceland body in the current official directory",
+      "source": "https://orthodox-europe.org/wp-content/uploads/2025/12/2026-Diocese-of-GB-and-W-Europe-Directory-PDF.pdf"
+    },
+    {
+      "parent": "antioch",
+      "result": "no Iceland body in the official parish directory",
+      "source": "https://www.antiochian-orthodox.com/parish-directory"
+    },
+    {
+      "parent": "bulgaria",
+      "result": "no Iceland body in the official Western and Central Europe directory",
+      "source": "https://bg-patriarshia.bg/west-eu-diocese-temples"
+    },
+    {
+      "parent": "georgia",
+      "result": "no official Iceland body located",
+      "source": "https://patriarchate.ge/"
+    },
+    {
+      "parent": "ukraine-uoc",
+      "result": "the official foreign mission country list does not include Iceland",
+      "source": "https://vzcz.church.ua/2023/12/28/za-kordonom-diyut-84-gromadi-ukrajinskoji-pravoslavnoji-cerkvi/"
+    },
+    {
+      "parent": "ukraine-ocu",
+      "result": "no official Iceland body located; official material places diaspora communities under the Ecumenical Patriarchate",
+      "source": "https://www.pomisna.info/uk/document-post/dopovid-predstoyatelya-na-arhiyerejskomu-sobori-15-grudnya-2020-roku/"
+    },
+    {
+      "parent": "oca",
+      "result": "no Iceland body in the official parish directory",
+      "source": "https://www.oca.org/parishes/search"
+    },
+    {
+      "parent": "macedonia",
+      "result": "no official Iceland body located",
+      "source": "http://www.mpc.org.mk/"
+    },
+    {
+      "parents": [
+        "alexandria",
+        "jerusalem",
+        "cyprus",
+        "greece",
+        "albania",
+        "poland",
+        "czech-slovakia",
+        "sinai",
+        "finland",
+        "japan",
+        "estonia-eaok"
+      ],
+      "result": "no separate Iceland parish, mission, chapel, monastery or officially named community located in official sources or the Iceland civil registry",
+      "source": "https://island.is/en/list-of-registered-religious-and-philosophical-organisations"
+    }
+  ],
+  "candidates": []
+}

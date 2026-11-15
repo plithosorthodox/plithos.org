@@ -1,0 +1,36 @@
+{
+  "v": 1,
+  "country": "NZ",
+  "checked": "2026-11-14",
+  "status": "not published pending current official confirmation of an active body, its name, or its premises",
+  "candidates": [
+    {
+      "name": "Antiochian Orthodox Mission in Christchurch",
+      "place": "Christchurch",
+      "claimed_parent": "an-australia",
+      "discovery": "https://antiochian.org.nz/",
+      "missing": "The older New Zealand deanery page still names Christchurch, but the current Archdiocese directory lists only Auckland, Wellington, and Dunedin, and no current official mission details are published."
+    },
+    {
+      "name": "Mission of Saints Simon and Jude",
+      "place": "Ashley",
+      "claimed_parent": "an-australia",
+      "discovery": "https://orthodox-world.org/en/c/153/New-Zealand",
+      "missing": "The body appears in a general directory, but not in the current official Antiochian Archdiocese directory."
+    },
+    {
+      "name": "Chapel of Saints Gregory of Nyssa and Macrina",
+      "place": "Diamond Harbour",
+      "claimed_parent": "an-australia",
+      "discovery": "https://orthodox-world.org/en/c/153/New-Zealand",
+      "missing": "The body appears in a general directory, but not in the current official Antiochian Archdiocese directory."
+    },
+    {
+      "name": "Archangel Michael Community",
+      "place": "Palmerston North",
+      "claimed_parent": "ru-australia-and-new-zealand-rocor",
+      "discovery": "https://www.russianorthodoxchurch.ws/synod/pdf/spisok.pdf",
+      "missing": "An older official ROCOR directory listed the community at 60 Linton Street, but the current ROCOR directory does not list it and no current official community page was located."
+    }
+  ]
+}
