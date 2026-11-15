@@ -1,0 +1,324 @@
+{
+  "v": 1,
+  "countries": [
+    "GR"
+  ],
+  "checked": "2026-11-15",
+  "method": "Publish every exact current worship or monastic body named by the live Metropolis directory and its current detail records. Reconcile the 54 exact legal parish rows with the 53-parish Patriarchate aggregate without forcing either count. Retain every public phone, email, and body-associated site shown on an exact body detail record, including mobile and potentially clergy-associated routes, but omit personal names and do not describe an associated route as an office line unless the source does so. Do not copy parent or related-body contacts onto a body. Hold unnamed aggregates, historic-only or planned bodies, ambiguous shrines, non-worship institutions, and search or map leads.",
+  "published_summary": {
+    "ep-neapolis-stavroupolis": 127,
+    "total": 127,
+    "live_primary_detail_records": 70,
+    "regulated_parish_rows": 54,
+    "exact_dependent_worship_rows": 57,
+    "parish_kind_rows": 124,
+    "monastery_kind_rows": 3,
+    "contact_bodies": 64,
+    "phone_bodies": 64,
+    "public_phone_values": 73,
+    "email_bodies": 55,
+    "public_email_values": 58,
+    "body_owned_sites": 10,
+    "address_bodies": 127
+  },
+  "candidates": [
+    {
+      "candidate_id": "gr-ep-neapolis-stavroupolis-parish-count-conflict",
+      "parent": "ep-neapolis-stavroupolis",
+      "country": "GR",
+      "category": "source-count-conflict",
+      "status": "held",
+      "reason": "The January 2019 Church of Greece legal roster contains 54 exact parish rows, and the current Metropolis parish category also exposes those 54 exact records. The current Patriarchate profile reports an aggregate of 53 parish churches. All 54 exact first-party rows are retained. No body is removed or merged to force agreement with the later aggregate.",
+      "legal_exact_rows": 54,
+      "current_local_exact_rows": 54,
+      "current_patriarchate_aggregate": 53,
+      "sources": [
+        "https://ecclesiagreece.gr/greek/press/ekklisia/2019_january.pdf",
+        "https://imnst.gr/enories/",
+        "https://ec-patr.org/entities/iera-mitropoli-neapoleos-stayroypoleos/"
+      ]
+    },
+    {
+      "candidate_id": "gr-ep-neapolis-stavroupolis-unnamed-chapels",
+      "parent": "ep-neapolis-stavroupolis",
+      "country": "GR",
+      "category": "aggregate-only",
+      "status": "held",
+      "reason": "The current Patriarchate profile reports 36 chapels but does not name a complete exact roster. Exact named current chapels from the live Metropolis records are published, but no residual body is inferred from this aggregate.",
+      "aggregate_count": 36,
+      "sources": [
+        "https://ec-patr.org/entities/iera-mitropoli-neapoleos-stayroypoleos/",
+        "https://imnst.gr/enories/"
+      ]
+    },
+    {
+      "candidate_id": "gr-ep-neapolis-stavroupolis-unnamed-country-chapels",
+      "parent": "ep-neapolis-stavroupolis",
+      "country": "GR",
+      "category": "aggregate-only",
+      "status": "held",
+      "reason": "The current Patriarchate profile reports 12 country chapels without a complete exact named roster. Exact named country chapels established by current Metropolis detail records are published, but no residual body is inferred.",
+      "aggregate_count": 12,
+      "sources": [
+        "https://ec-patr.org/entities/iera-mitropoli-neapoleos-stayroypoleos/",
+        "https://imnst.gr/enories/"
+      ]
+    },
+    {
+      "candidate_id": "gr-ep-neapolis-stavroupolis-unnamed-cemetery-church",
+      "parent": "ep-neapolis-stavroupolis",
+      "country": "GR",
+      "category": "aggregate-only",
+      "status": "held",
+      "reason": "The current Patriarchate profile reports one cemetery church. The current Metropolis records name the Holy Archangels Cemetery Church and several dependent cemetery chapels, but the aggregate is not used to infer a separate additional body or to decide which exact row the aggregate counts.",
+      "aggregate_count": 1,
+      "sources": [
+        "https://ec-patr.org/entities/iera-mitropoli-neapoleos-stayroypoleos/",
+        "https://imnst.gr/naos/pammegiston-taxiarchon/"
+      ]
+    },
+    {
+      "candidate_id": "gr-ep-neapolis-stavroupolis-unnamed-private-churches",
+      "parent": "ep-neapolis-stavroupolis",
+      "country": "GR",
+      "category": "aggregate-only",
+      "status": "held",
+      "reason": "The current Patriarchate profile reports five private churches without an exact named roster. None is inferred or matched to a local record without an express current source statement.",
+      "aggregate_count": 5,
+      "sources": [
+        "https://ec-patr.org/entities/iera-mitropoli-neapoleos-stayroypoleos/"
+      ]
+    },
+    {
+      "candidate_id": "gr-ep-neapolis-stavroupolis-dependent-overlaps",
+      "parent": "ep-neapolis-stavroupolis",
+      "country": "GR",
+      "category": "duplicate-reconciliation",
+      "status": "resolved",
+      "reason": "Three exact dependent spaces named inside parish detail records also have their own live Metropolis detail records: Saint Paraskevi at Palaiokastro, Saint John the Forerunner Holy Water Chapel at Nea Efkarpia, and Saint John the Russian at Sykies. Each is published once through its dedicated detail record rather than duplicated as a dependent row.",
+      "overlap_count": 3,
+      "sources": [
+        "https://imnst.gr/naos/agios-athanasios-3/",
+        "https://imnst.gr/naos/agios-georgios-4/",
+        "https://imnst.gr/naos/agioi-theodoroi/",
+        "https://imnst.gr/enories/"
+      ]
+    },
+    {
+      "candidate_id": "gr-ep-neapolis-stavroupolis-sindos-unnamed-internal-chapel",
+      "parent": "ep-neapolis-stavroupolis",
+      "country": "GR",
+      "category": "unnamed-dependent-space",
+      "status": "held",
+      "reason": "The Dormition parish detail record at Sindos states that an internal chapel is currently used for daily services and confession but gives no dedication. The exact external Saints Raphael, Nicholas and Irene chapel is published. No identity is invented for the unnamed internal space.",
+      "sources": [
+        "https://imnst.gr/naos/koimiseos-theotokou-3/"
+      ]
+    },
+    {
+      "candidate_id": "gr-ep-neapolis-stavroupolis-polycarp-unnamed-donated-chapel",
+      "parent": "ep-neapolis-stavroupolis",
+      "country": "GR",
+      "category": "unnamed-dependent-space",
+      "status": "held",
+      "reason": "The Saint Polycarp parish detail record states that a neighboring gas company donated a small chapel but does not give the chapel's dedication or exact independent identity. It remains held rather than being guessed from the parish dedication.",
+      "sources": [
+        "https://imnst.gr/naos/agios-polykarpos/"
+      ]
+    },
+    {
+      "candidate_id": "gr-ep-neapolis-stavroupolis-named-shrines-not-chapels",
+      "parent": "ep-neapolis-stavroupolis",
+      "country": "GR",
+      "category": "worship-object-not-body",
+      "status": "held",
+      "reason": "The current detail records name a Saint Polycarp shrine inside the Pentalofos bell tower and a Saint Stylianos shrine in the Saint Polycarp parish yard. The sources call them shrines rather than chapels or churches, so they are not forced into separate worship-body rows.",
+      "sources": [
+        "https://imnst.gr/naos/koimiseos-theotokou/",
+        "https://imnst.gr/naos/agios-polykarpos/"
+      ]
+    },
+    {
+      "candidate_id": "gr-ep-neapolis-stavroupolis-diavata-planned-church",
+      "parent": "ep-neapolis-stavroupolis",
+      "country": "GR",
+      "category": "planned-not-current",
+      "status": "held",
+      "reason": "The Diavata parish record describes land prepared for a future new church near the current Saint Paraskevi chapel. The planned church has no exact dedication or current worship-body status and is not published.",
+      "sources": [
+        "https://imnst.gr/naos/agios-dimitrios/"
+      ]
+    },
+    {
+      "candidate_id": "gr-ep-neapolis-stavroupolis-saint-menas-historic-precursor",
+      "parent": "ep-neapolis-stavroupolis",
+      "country": "GR",
+      "category": "historic-not-current",
+      "status": "held",
+      "reason": "The All Saints record describes a small pre-existing church used as the Saint Menas chapel in 1924, but it does not establish that this precursor remains a separate current worship body. The current Saint Tryphon internal chapel is published instead.",
+      "sources": [
+        "https://imnst.gr/naos/agion-panton/"
+      ]
+    },
+    {
+      "candidate_id": "gr-ep-neapolis-stavroupolis-ancillary-institution-contacts",
+      "parent": "ep-neapolis-stavroupolis",
+      "country": "GR",
+      "category": "contact-not-body-specific",
+      "status": "held",
+      "reason": "The Saint Athanasius and Annunciation detail records also publish phone numbers for a soup kitchen, nursery, and nursing home. Those routes are not attached to either church row because the source labels them for separate non-worship institutions.",
+      "sources": [
+        "https://imnst.gr/naos/agios-athanasios/",
+        "https://imnst.gr/naos/evangelismos-tis-theotokou/"
+      ]
+    },
+    {
+      "candidate_id": "gr-ep-neapolis-stavroupolis-search-map-leads",
+      "parent": "ep-neapolis-stavroupolis",
+      "country": "GR",
+      "category": "affiliation-or-status-unclear",
+      "status": "discovery-only",
+      "reason": "Search, map, municipal, social-media-only, and historic leads remain unpublished unless a current competent Church source establishes their exact identity, current worship status, and canonical parentage.",
+      "sources": [
+        "https://imnst.gr/enories/",
+        "https://ec-patr.org/entities/iera-mitropoli-neapoleos-stayroypoleos/"
+      ]
+    }
+  ],
+  "source_reconciliations": [
+    {
+      "topic": "legal-parish-roster-and-current-aggregate",
+      "finding": "The January 2019 Church of Greece regulation supplies 54 exact parish rows. The current local Metropolis product categories expose the same 54 exact parish records. The current Patriarchate profile reports 53 parish churches. The 54 exact legal and current local rows are published, while the 53 total remains an explicit unresolved aggregate discrepancy.",
+      "sources": [
+        "https://ecclesiagreece.gr/greek/press/ekklisia/2019_january.pdf",
+        "https://imnst.gr/enories/",
+        "https://ec-patr.org/entities/iera-mitropoli-neapoleos-stayroypoleos/"
+      ]
+    },
+    {
+      "topic": "live-local-primary-roster",
+      "finding": "The current official Metropolis directory exposes 70 exact primary detail records: 54 in its parish hierarchy, 13 in its chapel and other worship category, and three in its monastery category. Every one is published from its exact current detail record.",
+      "sources": [
+        "https://imnst.gr/enories/",
+        "https://imnst.gr/wp-json/wp/v2/product?per_page=100&orderby=id&order=asc&status=publish",
+        "https://imnst.gr/wp-json/wp/v2/product_cat?per_page=100"
+      ]
+    },
+    {
+      "topic": "exact-dependent-worship-spaces",
+      "finding": "Current official detail records name 60 dependent chapels, holy water chapels, cemetery chapels, country chapels, or current historic worship churches. Three also have their own dedicated live detail records and are counted only there. The remaining 57 exact dependent spaces are published once, producing 127 exact bodies overall.",
+      "sources": [
+        "https://imnst.gr/enories/",
+        "https://imnst.gr/naos/agios-georgios-4/",
+        "https://imnst.gr/naos/koimiseos-theotokou/",
+        "https://imnst.gr/naos/evangelismos-tis-theotokou/"
+      ]
+    },
+    {
+      "topic": "current-monasteries",
+      "finding": "The current Patriarchate profile and current local Metropolis directory independently name the same three monasteries: Panagia Gorgoepikoos at Ionia, the Transfiguration at Chortiatis, and the Holy Trinity at Nea Efkarpia. Their public body phone values are retained, and the local exact record additionally supplies the Panagia Gorgoepikoos email.",
+      "sources": [
+        "https://ec-patr.org/entities/iera-mitropoli-neapoleos-stayroypoleos/",
+        "https://imnst.gr/enories/"
+      ]
+    },
+    {
+      "topic": "current-dedication-and-status-variants",
+      "finding": "The live detail records expand several legal names or statuses. Saint Basil at Sykies also names Saints Constantine and Helen; Saint Charalambos at Sykies also names Saint Christopher; the Nea Efkarpia Saint George page names Saint John Chrysostom as a current internal chapel; and the Evosmos Annunciation detail heading presents a shared Saint Athanasius and Annunciation complex. Current exact detail identities are retained without deleting the separate legal parish rows.",
+      "sources": [
+        "https://ecclesiagreece.gr/greek/press/ekklisia/2019_january.pdf",
+        "https://imnst.gr/naos/agios-vasileios/",
+        "https://imnst.gr/naos/agios-charalabos/",
+        "https://imnst.gr/naos/evangelismos-tis-theotokou/"
+      ]
+    },
+    {
+      "topic": "saint-barbara-status-variant",
+      "finding": "Saint Barbara at Stavroupoli remains an exact row in the 2019 legal parish roster and the current local parish category, while its current detail narrative says it was made a chapel of the Metropolitan Saint George church after military use ended in 2006. The exact row is retained and the source status tension is not silently resolved by inference.",
+      "sources": [
+        "https://ecclesiagreece.gr/greek/press/ekklisia/2019_january.pdf",
+        "https://imnst.gr/naos/agia-varvara/"
+      ]
+    },
+    {
+      "topic": "body-contact-and-site-boundary",
+      "finding": "Every public phone, email, and associated site shown on an exact current body detail record is retained when the source ties it to that body. This includes mobile and potentially clergy-associated routes. Clergy names are omitted, no associated route is characterized as an office line without source wording, and parent or related-body routes are not copied to a dependent body. Ten published bodies have a body-associated site listed on their exact official detail record.",
+      "sources": [
+        "https://imnst.gr/enories/",
+        "https://imnst.gr/naos/agios-athanasios/",
+        "https://imnst.gr/naos/evangelismos-tis-theotokou/",
+        "https://imnst.gr/naos/trion-ierarchon/"
+      ]
+    },
+    {
+      "topic": "dependent-contact-boundary",
+      "finding": "Several dedicated chapel records display only their supervising parish's contact details. Those parent contacts are not copied onto the chapel. Dependent spaces named inside a parish record likewise receive no phone or email unless the official source explicitly identifies a route for that exact dependent body.",
+      "sources": [
+        "https://imnst.gr/naos/agios-georgios-8/",
+        "https://imnst.gr/naos/%cf%83%cf%85%ce%ba%ce%b9%ce%b5%cf%83-%ce%b1%ce%b3%ce%b9%ce%bf%cf%83-%ce%b9%cf%89%ce%b1%ce%bd%ce%bd%ce%b7%cf%83-%cf%81%cf%89%cf%83%ce%bf%cf%83/",
+        "https://imnst.gr/naos/%cf%80%ce%b1%ce%bb%ce%b1%ce%b9%ce%bf%ce%ba%ce%b1%cf%83%cf%84%cf%81%ce%bf-%ce%b1%ce%b3%ce%b9%ce%b1-%cf%80%ce%b1%cf%81%ce%b1%cf%83%ce%ba%ce%b5%cf%85%ce%b7/"
+      ]
+    }
+  ],
+  "official_parent_audit": [
+    {
+      "topic": "canonical-parent",
+      "finding": "The Ecumenical Patriarchate identifies the Holy Metropolis of Neapolis and Stavroupolis as a current eparchy. The Church of Greece legal regulation supplies its exact legal parish table, and the Metropolis itself supplies the current exact local directory and detail records.",
+      "sources": [
+        "https://ec-patr.org/entities/iera-mitropoli-neapoleos-stayroypoleos/",
+        "https://ecclesiagreece.gr/greek/press/ekklisia/2019_january.pdf",
+        "https://imnst.gr/enories/"
+      ]
+    },
+    {
+      "topic": "current-published-coverage",
+      "finding": "The tranche publishes 127 exact current bodies: 54 parish-category detail records, 13 separately listed chapel or other worship detail records, three monasteries, and 57 additional exact dependent worship spaces after three dedicated-record overlaps are removed. Every row carries a Greek local name, a body-specific address or exact placement, and current first-party Church identity evidence.",
+      "sources": [
+        "https://imnst.gr/enories/",
+        "https://ecclesiagreece.gr/greek/press/ekklisia/2019_january.pdf",
+        "https://ec-patr.org/entities/iera-mitropoli-neapoleos-stayroypoleos/"
+      ]
+    }
+  ],
+  "exclusions": [
+    {
+      "category": "aggregate-only",
+      "decision": "No parish, chapel, country chapel, cemetery church, private church, monastery, or other body is inferred solely from a reported aggregate count.",
+      "sources": [
+        "https://ec-patr.org/entities/iera-mitropoli-neapoleos-stayroypoleos/"
+      ]
+    },
+    {
+      "category": "historic-planned-or-unnamed",
+      "decision": "A historic precursor, planned church, unnamed chapel, or shrine that the source does not establish as an exact current church or chapel is not presented as a current body.",
+      "sources": [
+        "https://imnst.gr/naos/agios-dimitrios/",
+        "https://imnst.gr/naos/agion-panton/",
+        "https://imnst.gr/naos/agios-polykarpos/"
+      ]
+    },
+    {
+      "category": "non-worship-institutions",
+      "decision": "Soup kitchens, nurseries, nursing homes, spiritual centers, charities, councils, courts, offices, schools, and other non-worship institutions are not forced into church or monastery rows. Their separately labeled phone values are not attached to worship bodies unless the detail record also presents the route as body-associated.",
+      "sources": [
+        "https://imnst.gr/enories/",
+        "https://ec-patr.org/entities/iera-mitropoli-neapoleos-stayroypoleos/"
+      ]
+    },
+    {
+      "category": "contact-reuse",
+      "decision": "Parent Metropolis, supervising parish, monastery fax, and unrelated institutional contact values are not copied across bodies. A public mobile or clergy-associated route remains eligible when the exact official body record publishes it for that body.",
+      "sources": [
+        "https://imnst.gr/enories/",
+        "https://ec-patr.org/entities/iera-mitropoli-neapoleos-stayroypoleos/"
+      ]
+    },
+    {
+      "category": "search-map-and-social-only",
+      "decision": "Search results, map listings, social pages without current official confirmation, and third-party directories remain discovery leads rather than published evidence of identity, current status, or canonical parentage.",
+      "sources": [
+        "https://imnst.gr/enories/"
+      ]
+    }
+  ]
+}
