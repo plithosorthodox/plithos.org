@@ -1,0 +1,227 @@
+{
+  "v": 1,
+  "countries": [
+    "GR"
+  ],
+  "checked": "2026-11-15",
+  "method": "Publish the 150 unique current parish detail bodies on the official Metropolis roster, merge the two featured duplicate contact blocks into their exact parish bodies, and add only the four current monasteries, seven exact current metochia, and two pilgrimage churches named by current competent Church profiles. Preserve body-associated public routes, including officially published clergy and mobile routes, while omitting personnel names and parent-office contacts. Hold every unnamed aggregate, historical institution, ambiguous overlap, map-only lead, and search-only lead without arithmetic inference.",
+  "published_summary": {
+    "ep-paramythia": 163,
+    "total": 163,
+    "exact_current_parishes": 150,
+    "exact_current_monasteries": 4,
+    "exact_current_metochia": 7,
+    "exact_current_pilgrimage_churches": 2,
+    "parish_kind_rows": 152,
+    "monastery_kind_rows": 11,
+    "contact_bodies": 154,
+    "phone_bodies": 75,
+    "public_phone_values": 85,
+    "email_bodies": 0,
+    "public_email_values": 0,
+    "official_detail_sites": 151,
+    "address_bodies": 163
+  },
+  "candidates": [
+    {
+      "candidate_id": "gr-ep-paramythia-unnamed-country-churches",
+      "parent": "ep-paramythia",
+      "country": "GR",
+      "category": "aggregate-only",
+      "status": "held",
+      "reason": "The current Metropolis administration and Patriarchate profile report 380 country churches without a complete exact named current roster. No residual or unnamed body is created by arithmetic.",
+      "aggregate_count": 380,
+      "sources": [
+        "https://imparamythias.gr/articles/show/dioikhsis-40",
+        "https://ec-patr.org/entities/iera-mitropoli-paramythias-filiaton-giromerioy/"
+      ]
+    },
+    {
+      "candidate_id": "gr-ep-paramythia-unnamed-chapels",
+      "parent": "ep-paramythia",
+      "country": "GR",
+      "category": "aggregate-only",
+      "status": "held",
+      "reason": "The current Metropolis administration and Patriarchate profile report 354 chapels without a complete exact named current roster. No residual or unnamed body is created by arithmetic.",
+      "aggregate_count": 354,
+      "sources": [
+        "https://imparamythias.gr/articles/show/dioikhsis-40",
+        "https://ec-patr.org/entities/iera-mitropoli-paramythias-filiaton-giromerioy/"
+      ]
+    },
+    {
+      "candidate_id": "gr-ep-paramythia-unnamed-cemetery-churches",
+      "parent": "ep-paramythia",
+      "country": "GR",
+      "category": "aggregate-only",
+      "status": "held",
+      "reason": "Current first-party profiles report 50 cemetery churches without a complete exact named current roster. The exact Saint Panteleimon cemetery church at Igoumenitsa is already published from the 150-body parish roster, and no residual is inferred.",
+      "aggregate_count": 50,
+      "sources": [
+        "https://imparamythias.gr/acategories/show/enories-290",
+        "https://imparamythias.gr/articles/show/dioikhsis-40",
+        "https://ec-patr.org/entities/iera-mitropoli-paramythias-filiaton-giromerioy/"
+      ]
+    },
+    {
+      "candidate_id": "gr-ep-paramythia-monastic-aggregate",
+      "parent": "ep-paramythia",
+      "country": "GR",
+      "category": "aggregate-only",
+      "status": "held",
+      "reason": "Current first-party profiles report eight monastic churches, while the current competent profiles exactly name four monasteries and seven subordinate metochia. These categories are not treated as an arithmetic equation, and no unnamed monastic body is invented.",
+      "aggregate_count": 8,
+      "sources": [
+        "https://imparamythias.gr/pages/ieres-mones",
+        "https://imparamythias.gr/articles/show/dioikhsis-40",
+        "https://ec-patr.org/entities/iera-mitropoli-paramythias-filiaton-giromerioy/"
+      ]
+    },
+    {
+      "candidate_id": "gr-ep-paramythia-saint-demetrius-kypseli",
+      "parent": "ep-paramythia",
+      "country": "GR",
+      "category": "historical",
+      "status": "held",
+      "reason": "Saint Demetrius Monastery at Kypseli appears in the broad category roster and historical material but not in the current monastery lists of the Metropolis or Patriarchate. It remains unpublished until a competent current source confirms active institutional status.",
+      "sources": [
+        "https://imparamythias.gr/acategories/show/enories-290",
+        "https://ec-patr.org/entities/iera-mitropoli-paramythias-filiaton-giromerioy/"
+      ]
+    },
+    {
+      "candidate_id": "gr-ep-paramythia-saint-george-kamitsiani-overlap",
+      "parent": "ep-paramythia",
+      "country": "GR",
+      "category": "current-status-unclear",
+      "status": "held",
+      "reason": "The Metropolis monastery page includes Saint George at Kamitsiani in a broader dependency passage, but the current Patriarchate metochion list omits it and the current parish roster already publishes an exact Saint George parish at Kamitsiani. The body is published once as the current parish and no duplicate metochion is created without clearer current evidence.",
+      "sources": [
+        "https://imparamythias.gr/pages/ieres-mones",
+        "https://imparamythias.gr/acategories/show/enories-290",
+        "https://ec-patr.org/entities/iera-mitropoli-paramythias-filiaton-giromerioy/"
+      ]
+    },
+    {
+      "candidate_id": "gr-ep-paramythia-history-map-search-leads",
+      "parent": "ep-paramythia",
+      "country": "GR",
+      "category": "current-status-unclear",
+      "status": "discovery-only",
+      "reason": "Historical monuments, ruined institutions, private chapels, map markers, and search-only leads remain unpublished unless a current competent Church source establishes the exact worship body, present status, and canonical parent.",
+      "sources": [
+        "https://imparamythias.gr/",
+        "https://ec-patr.org/entities/iera-mitropoli-paramythias-filiaton-giromerioy/"
+      ]
+    }
+  ],
+  "source_reconciliations": [
+    {
+      "subject": "Current parish roster and duplicate featured rows",
+      "decision": "The official Metropolis parish page exposes 152 non-monastery table rows but exactly 150 unique parish detail paths. The first two rows feature the Paramythia cathedral and Saint Nicholas parish and repeat them in the complete roster. Their body-associated public phones are merged into the same exact bodies. The result agrees with the current Metropolis and Patriarchate aggregate of 150 parish churches.",
+      "sources": [
+        "https://imparamythias.gr/acategories/show/enories-290",
+        "https://imparamythias.gr/articles/show/dioikhsis-40",
+        "https://ec-patr.org/entities/iera-mitropoli-paramythias-filiaton-giromerioy/"
+      ]
+    },
+    {
+      "subject": "Current monasteries",
+      "decision": "The current Metropolis and Patriarchate profiles name Dormition monasteries at Paganion, Giromeri, and Ragi and Saint Paraskevi Monastery at Pounta. These four exact current institutions are published. The Giromeri body-owned site is retained, and the Metropolis and Patriarchate public phone routes are preserved without personnel names.",
+      "sources": [
+        "https://imparamythias.gr/pages/ieres-mones",
+        "https://ec-patr.org/entities/iera-mitropoli-paramythias-filiaton-giromerioy/",
+        "https://www.monigiromeriou.gr/"
+      ]
+    },
+    {
+      "subject": "Current metochia",
+      "decision": "The current profiles exactly name three metochia of Paganion and four metochia of Giromeri. Those seven bodies are published as dependencies of their governing monasteries. Saint George at Kamitsiani is held as an overlap because the current Patriarchate dependency list omits it and the current parish roster already establishes the same dedication and seat as a parish.",
+      "sources": [
+        "https://imparamythias.gr/pages/ieres-mones",
+        "https://ec-patr.org/entities/iera-mitropoli-paramythias-filiaton-giromerioy/"
+      ]
+    },
+    {
+      "subject": "Pilgrimage churches",
+      "decision": "The current Patriarchate profile exactly names Saint Athanasius at Perdika and Life-Giving Spring at Agionysio as pilgrimage churches. The Metropolis monastery profile independently confirms the Agionysio body as a dependency of Ragi Monastery. Both exact pilgrimage churches are published without expanding the unnamed aggregates.",
+      "sources": [
+        "https://imparamythias.gr/pages/ieres-mones",
+        "https://ec-patr.org/entities/iera-mitropoli-paramythias-filiaton-giromerioy/"
+      ]
+    },
+    {
+      "subject": "Body-specific contacts",
+      "decision": "The official roster provides 80 public phone values for 71 parish bodies, including the two featured contact blocks. The current monastery profiles provide five public phone values for four monasteries. Officially published clergy and mobile routes remain tied to their bodies while personnel names are omitted. All 150 parish detail pages and the Giromeri body-owned site are retained. The central Metropolis email and office routes are not copied to subordinate bodies.",
+      "sources": [
+        "https://imparamythias.gr/acategories/show/enories-290",
+        "https://imparamythias.gr/pages/ieres-mones",
+        "https://ec-patr.org/entities/iera-mitropoli-paramythias-filiaton-giromerioy/"
+      ]
+    },
+    {
+      "subject": "Monastery contact source drift",
+      "decision": "The current Metropolis monastery page and current Patriarchate profile agree on 26640-22407 for Giromeri, so the Church of Greece profile's 26640-22159 is treated as stale. The Metropolis page publishes Ragi's current contact line with the Igoumenitsa 46100 mailing address, while the Patriarchate profile identifies its seat as Ragi 46300; the directory preserves the Ragi seat and the current Metropolis contact address. Pounta's second shorthand 24151 is expanded under the displayed 26840 prefix as 26840-24151.",
+      "sources": [
+        "https://imparamythias.gr/pages/ieres-mones",
+        "https://ec-patr.org/entities/iera-mitropoli-paramythias-filiaton-giromerioy/",
+        "https://www.ecclesiagreece.gr/ecclesiajoomla/index.php/el/metropoleis/paramythias-philiaton-geromeriou-kai-pargas"
+      ]
+    },
+    {
+      "subject": "Legal and current source reconciliation",
+      "decision": "The official 2019 regulation provides the legal parish roster basis. The live Metropolis page supplies the exact current 150-body web roster and current body contacts, while the Metropolis administration and Patriarchate profiles independently state the same 150-parish aggregate. Exact current web bodies are published without inferring any body from the larger unnamed aggregates.",
+      "sources": [
+        "https://ecclesiagreece.gr/greek/press/ekklisia/2019_octobrios.pdf",
+        "https://imparamythias.gr/acategories/show/enories-290",
+        "https://imparamythias.gr/articles/show/dioikhsis-40",
+        "https://ec-patr.org/entities/iera-mitropoli-paramythias-filiaton-giromerioy/"
+      ]
+    }
+  ],
+  "official_parent_audit": [
+    {
+      "parent": "ep-paramythia",
+      "result": "163 exact current bodies published: 150 parish churches, four monasteries, seven metochia, and two pilgrimage churches.",
+      "roster_status": "complete exact current parish roster reconciled; exact current named monasteries, metochia, and pilgrimage churches published; unnamed aggregates, historical bodies, and ambiguous overlaps held",
+      "sources": [
+        "https://imparamythias.gr/acategories/show/enories-290",
+        "https://imparamythias.gr/pages/ieres-mones",
+        "https://ec-patr.org/entities/iera-mitropoli-paramythias-filiaton-giromerioy/"
+      ]
+    }
+  ],
+  "exclusions": [
+    {
+      "category": "aggregate-only",
+      "decision": "No chapel, country church, cemetery church, monastic church, parish, or other body is inferred solely from an aggregate count or arithmetic difference.",
+      "sources": [
+        "https://imparamythias.gr/articles/show/dioikhsis-40",
+        "https://ec-patr.org/entities/iera-mitropoli-paramythias-filiaton-giromerioy/"
+      ]
+    },
+    {
+      "category": "parent-contact",
+      "decision": "Metropolis office telephone, email, fax, and website values are not copied onto subordinate bodies without an explicit body-level association.",
+      "sources": [
+        "https://imparamythias.gr/"
+      ]
+    },
+    {
+      "category": "clergy-personnel",
+      "decision": "Official public telephone routes tied to an exact body are retained, including routes displayed beside clergy assignments, while clergy and monastic personnel names are omitted.",
+      "sources": [
+        "https://imparamythias.gr/acategories/show/enories-290",
+        "https://imparamythias.gr/pages/ieres-mones"
+      ]
+    },
+    {
+      "category": "historical-map-and-stale",
+      "decision": "Historical institutions, ruins, monuments, map-only results, search-only leads, planned bodies, and stale pages remain unpublished unless a current competent Church source establishes the exact present body and canonical parent.",
+      "sources": [
+        "https://imparamythias.gr/",
+        "https://ec-patr.org/entities/iera-mitropoli-paramythias-filiaton-giromerioy/"
+      ]
+    }
+  ]
+}
