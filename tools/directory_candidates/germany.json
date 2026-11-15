@@ -1,0 +1,312 @@
+{
+  "v": 1,
+  "countries": [
+    "DE"
+  ],
+  "checked": "2026-11-14",
+  "status": "only bodies without sufficient current official classification are held here",
+  "published_summary": {
+    "an-germany": 29,
+    "bg-western-central-europe": 14,
+    "ep-germany": 120,
+    "ep-ukrainian-western-europe": 30,
+    "mk-europe": 15,
+    "ro-germany": 178,
+    "ru-archdiocese-western-europe": 11,
+    "ru-berlin-and-germany": 94,
+    "ru-germany-rocor": 74,
+    "sr-dusseldorf-germany": 66,
+    "ukraine-uoc": 15,
+    "total": 646
+  },
+  "candidates": [
+    {
+      "name": "Georgian Orthodox Eparchy of Germany and Austria",
+      "place": "Germany and Austria",
+      "claimed_parent": "Georgian Apostolic Autocephalous Orthodox Church",
+      "sources": [
+        "https://patriarchate.ge/sinodi/members/all",
+        "https://bkcdn.ekhn.de/data/33740-zentrum-oekumene/Konfessionen___internationale_Gemeinden/2025_Orthodoxe_Gemeinden_final.pdf"
+      ],
+      "reason": "The Georgian Patriarchate's current Holy Synod directory establishes the bishop and his Germany and Austria title, but the competent church source reviewed does not publish a stable diocesan address or a current local-body directory. The regional survey is discovery evidence only. Retain until a patriarchal, diocesan, or parish source publishes the structure directly."
+    },
+    {
+      "name": "Georgian Orthodox church community in Munich",
+      "place": "Munich, Germany",
+      "claimed_parent": "Georgian Orthodox Eparchy of Germany and Austria",
+      "sources": [
+        "https://patriarchate.ge/sinodi/members/all",
+        "https://bkcdn.ekhn.de/data/33740-zentrum-oekumene/Konfessionen___internationale_Gemeinden/2025_Orthodoxe_Gemeinden_final.pdf"
+      ],
+      "reason": "The regional survey reports a Georgian Orthodox community in Munich, but no current competent Georgian church source reviewed publishes the body's exact title, address, and status. Retain for official-source verification."
+    },
+    {
+      "name": "Georgian Orthodox recurring worship site in Frankfurt am Main",
+      "place": "Frankfurt am Main, Germany",
+      "claimed_parent": "Georgian Orthodox Eparchy of Germany and Austria",
+      "sources": [
+        "https://patriarchate.ge/sinodi/members/all",
+        "https://bkcdn.ekhn.de/data/33740-zentrum-oekumene/Konfessionen___internationale_Gemeinden/2025_Orthodoxe_Gemeinden_final.pdf"
+      ],
+      "reason": "The regional survey reports Georgian Orthodox worship in Frankfurt am Main, but no current competent Georgian church source reviewed establishes a stable body, exact title, address, or recurring schedule. Retain for official-source verification."
+    },
+    {
+      "name": "St Nicholas Ukrainian Orthodox community in Dusseldorf",
+      "place": "Dusseldorf, Germany",
+      "claimed_parent": "Western European Vicariate of the Ukrainian Orthodox Church",
+      "sources": [
+        "https://konfessionskundliches-institut.de/wp-content/uploads/2023/11/Gemeinden-der-Ukrainischen-Orthodoxen-Kirche-29.11.2023.pdf",
+        "https://vzcz.church.ua/2026/02/09/pro-sluzhinnya-zaxidnojevropejskogo-vikariatstva-ukrajinskoji-pravoslavnoji-cerkvi/"
+      ],
+      "reason": "The external 2023 survey reports this community, and the current official UOC statement establishes the vicariate generally. No current official UOC report reviewed identifies this specific body as active. Retain until a competent church source confirms it."
+    },
+    {
+      "name": "Ukrainian Orthodox community in Dortmund",
+      "place": "Dortmund, Germany",
+      "claimed_parent": "Western European Vicariate of the Ukrainian Orthodox Church",
+      "sources": [
+        "https://konfessionskundliches-institut.de/wp-content/uploads/2023/11/Gemeinden-der-Ukrainischen-Orthodoxen-Kirche-29.11.2023.pdf",
+        "https://vzcz.church.ua/2026/02/09/pro-sluzhinnya-zaxidnojevropejskogo-vikariatstva-ukrajinskoji-pravoslavnoji-cerkvi/"
+      ],
+      "reason": "The external 2023 survey reports this community, and the current official UOC statement establishes the vicariate generally. No current official UOC report reviewed identifies this specific body as active. Retain until a competent church source confirms it."
+    },
+    {
+      "name": "Ukrainian Orthodox community in Frankfurt am Main",
+      "place": "Frankfurt am Main, Germany",
+      "claimed_parent": "Western European Vicariate of the Ukrainian Orthodox Church",
+      "sources": [
+        "https://konfessionskundliches-institut.de/wp-content/uploads/2023/11/Gemeinden-der-Ukrainischen-Orthodoxen-Kirche-29.11.2023.pdf",
+        "https://vzcz.church.ua/2026/02/09/pro-sluzhinnya-zaxidnojevropejskogo-vikariatstva-ukrajinskoji-pravoslavnoji-cerkvi/"
+      ],
+      "reason": "The external 2023 survey reports this community, and the current official UOC statement establishes the vicariate generally. No current official UOC report reviewed identifies this specific body as active. Retain until a competent church source confirms it."
+    },
+    {
+      "name": "Ukrainian Orthodox community in Munich",
+      "place": "Munich, Germany",
+      "claimed_parent": "Western European Vicariate of the Ukrainian Orthodox Church",
+      "sources": [
+        "https://konfessionskundliches-institut.de/wp-content/uploads/2023/11/Gemeinden-der-Ukrainischen-Orthodoxen-Kirche-29.11.2023.pdf",
+        "https://vzcz.church.ua/2026/02/09/pro-sluzhinnya-zaxidnojevropejskogo-vikariatstva-ukrajinskoji-pravoslavnoji-cerkvi/"
+      ],
+      "reason": "The external 2023 survey reports this community, and the current official UOC statement establishes the vicariate generally. No current official UOC report reviewed identifies this specific body as active. Retain until a competent church source confirms it."
+    },
+    {
+      "name": "Possible Ukrainian Orthodox community in Konstanz",
+      "place": "Konstanz, Germany",
+      "claimed_parent": "Western European Vicariate of the Ukrainian Orthodox Church",
+      "sources": [
+        "https://vzcz.church.ua/2023/12/28/keruyuchij-zaxidnojevropejskim-vikariatstvom-vidvidav-parafiji-u-shvejcariji-nimechchini-ta-portugaliji/"
+      ],
+      "reason": "An official UOC report names a priest as coming from Konstanz but does not identify a parish, mission, chapel, monastery, metochion, or recurring worship site there. Retain until a competent source establishes a stable body."
+    },
+    {
+      "name": "Self-described Ukrainian Kyiv Patriarchate network in Cologne and Frankfurt an der Oder",
+      "place": "Cologne and Frankfurt an der Oder, Germany",
+      "claimed_parent": "Orthodox Church of Ukraine",
+      "sources": [
+        "https://ukrainian-church.de/de/",
+        "https://ukrainian-church.de/de/contacts/",
+        "https://www.pomisna.info/en/news/povidomlennya-vid-sekretariatu-svyashhennogo-synodu-pravoslavnoyi-tserkvy-ukrayiny/"
+      ],
+      "reason": "The network's own pages claim Kyiv Patriarchate identity and association with the Orthodox Church of Ukraine. The OCU's official statement says the separate Kyiv Patriarchate ceased to exist in 2018, and no current OCU or Ecumenical Patriarchate source reviewed receives or lists the German network. Retain without publication until its current canonical authority is established by that authority."
+    }
+  ],
+  "superseded_or_not_current": [
+    {
+      "name": "Romanian Orthodox Erfurt pointer",
+      "sources": [
+        "https://mitropolia-ro.de/parohii-germania/"
+      ],
+      "reason": "The current Romanian directory points Erfurt worshippers to the Gotha parish rather than publishing a separate Erfurt body. Gotha is published once."
+    },
+    {
+      "name": "Non-German entries in the ROCOR Germany directory",
+      "sources": [
+        "https://rocor.de/de/gemeinden-liste"
+      ],
+      "reason": "Rows whose published postal address is outside Germany are excluded from the Germany contribution. They remain for their own country audits."
+    },
+    {
+      "name": "Non-German entries in the Antiochian Germany directory",
+      "sources": [
+        "https://rum-orthodox.de/gemeinden/"
+      ],
+      "reason": "Two Dutch and two Austrian bodies appear in the metropolitan directory but are excluded from the Germany contribution. They remain for their own country audits."
+    }
+  ],
+  "source_reconciliation": [
+    {
+      "subject": "Ecumenical Patriarchate Greek Orthodox coverage",
+      "sources": [
+        "https://www.orthodoxie.net/kirchengemeinden"
+      ],
+      "result": "The current metropolis directory establishes 66 primary Germany communities and 54 separately addressed dependent churches, chapels, monasteries, and worship sites. All 120 distinct bodies are preserved under the Germany metropolis."
+    },
+    {
+      "subject": "Antiochian Orthodox coverage",
+      "sources": [
+        "https://rum-orthodox.de/gemeinden/"
+      ],
+      "result": "The current metropolitan directory establishes 29 German bodies after excluding its two Dutch and two Austrian entries. All 29 German bodies are preserved."
+    },
+    {
+      "subject": "Moscow Patriarchate Berlin and Germany coverage",
+      "sources": [
+        "https://rokmp.de/de/churches-by-cities/"
+      ],
+      "result": "The current diocesan directory resolves to 94 unique Germany body pages. All 94 churches, parishes, missions, monasteries, and other current bodies are preserved, including rows for which the official page publishes no street address."
+    },
+    {
+      "subject": "ROCOR Germany coverage",
+      "sources": [
+        "https://rocor.de/de/gemeinden-liste"
+      ],
+      "result": "The current diocesan directory establishes 74 bodies with German postal addresses. Non-German rows are excluded from this country contribution."
+    },
+    {
+      "subject": "Serbian Orthodox coverage",
+      "sources": [
+        "https://eparhija-nemacka.com/arhijerejski-namjesnici/"
+      ],
+      "result": "The current eparchial deanery directory and linked local pages establish 27 primary parishes, 38 separately addressed dependent worship sites, and one monastery in Germany. All 66 distinct bodies are preserved."
+    },
+    {
+      "subject": "Romanian Orthodox coverage",
+      "sources": [
+        "https://mitropolia-ro.de/parohii-germania/"
+      ],
+      "result": "The current metropolitan directory establishes 175 parishes, missions, filial communities, and separately addressed worship sites plus three monasteries in Germany. Dachau's split listing, the Wesselburen filial community, and source-published address omissions are preserved without manufacturing data. The Erfurt pointer is not duplicated apart from Gotha."
+    },
+    {
+      "subject": "Russian Tradition coverage",
+      "sources": [
+        "https://erzbistum.net/gemeinden/"
+      ],
+      "result": "The current archdiocesan directory establishes 11 Germany bodies. All 11 are preserved under the Russian Tradition archdiocese of the Ecumenical Patriarchate."
+    },
+    {
+      "subject": "Bulgarian Orthodox coverage",
+      "sources": [
+        "https://bg-patriarshia.bg/west-eu-diocese-temples",
+        "https://www.bg-patriarshia.bg/news"
+      ],
+      "result": "The patriarchal directory and current official reports establish 14 Germany bodies: the ten directory communities, Nuremberg as distinct from Regensburg, the Leipzig and Mainz communities, and the Buchhagen monastery. All 14 are preserved."
+    },
+    {
+      "subject": "Ukrainian Orthodox Eparchy of Western Europe coverage",
+      "sources": [
+        "https://www.uokd.de/",
+        "https://www.uokd.de/gemeinden"
+      ],
+      "result": "The current official eparchial directory establishes 30 German parishes. All 30 are preserved. The current repository spine lacks this competent parent, so the module proposes ep-ukrainian-western-europe under constantinople rather than attaching the parishes to a generic or unrelated parent."
+    },
+    {
+      "subject": "Ukrainian Orthodox Church coverage",
+      "sources": [
+        "https://vzcz.church.ua/2026/02/09/pro-sluzhinnya-zaxidnojevropejskogo-vikariatstva-ukrajinskoji-pravoslavnoji-cerkvi/",
+        "https://vzcz.church.ua/"
+      ],
+      "result": "The union of current official vicariate reports establishes 15 Germany bodies. All 15 are preserved. Four bodies appearing only in a 2023 external survey and the possible Konstanz body remain candidates until current competent church sources identify them."
+    },
+    {
+      "subject": "Macedonian Orthodox coverage",
+      "sources": [
+        "https://mpee.mk/category/za-eparxijata"
+      ],
+      "result": "The current European Diocese material states that Germany has 15 church communities and names the same 15 in its directory navigation. All 15 are preserved."
+    },
+    {
+      "subject": "Orthodox Church of Ukraine coverage",
+      "sources": [
+        "https://www.pomisna.info/uk/tserkva/synodalni-ustanovy/",
+        "https://www.pomisna.info/en/news/povidomlennya-vid-sekretariatu-svyashhennogo-synodu-pravoslavnoyi-tserkvy-ukrayiny/"
+      ],
+      "result": "No permanent Germany body was identified in the current official OCU structure. A self-described Kyiv Patriarchate network remains a candidate because no current OCU or Ecumenical Patriarchate source reviewed receives or lists it."
+    },
+    {
+      "subject": "Georgian Orthodox coverage",
+      "sources": [
+        "https://patriarchate.ge/sinodi/members/all",
+        "https://bkcdn.ekhn.de/data/33740-zentrum-oekumene/Konfessionen___internationale_Gemeinden/2025_Orthodoxe_Gemeinden_final.pdf"
+      ],
+      "result": "The Georgian Patriarchate establishes a bishop titled for Germany and Austria but the competent church material reviewed does not publish a local directory. The eparchy and two externally reported local presences remain candidates rather than publication rows."
+    }
+  ],
+  "audited_no_current_germany_body": [
+    {
+      "authority": "Greek Orthodox Patriarchate of Alexandria",
+      "source": "https://www.patriarchateofalexandria.com/archdioceses/?lang=en",
+      "result": "The official dioceses are territorial to Africa and contain no Germany body."
+    },
+    {
+      "authority": "Greek Orthodox Patriarchate of Jerusalem",
+      "source": "https://en.jerusalem-patriarchate.info/administrative-structure/holy-bishoprics/",
+      "result": "The official administrative directory contains no Germany body."
+    },
+    {
+      "authority": "Church of Cyprus",
+      "source": "https://churchofcyprus.org.cy/",
+      "result": "The official church structure contains no Germany body."
+    },
+    {
+      "authority": "Church of Greece",
+      "source": "https://www.ecclesia.gr/greek/dioceses/dioceses.asp",
+      "result": "The official diocesan directory contains no separate Germany body. Germany's Greek bodies belong to the Ecumenical Patriarchate."
+    },
+    {
+      "authority": "Orthodox Autocephalous Church of Albania",
+      "source": "https://orthodoxalbania.org/2026/en/church-organization-2026/",
+      "result": "The official organization lists no Germany structure."
+    },
+    {
+      "authority": "Polish Autocephalous Orthodox Church",
+      "source": "https://www.orthodox.pl/administracja/",
+      "result": "The official administrative directory lists no direct Germany body."
+    },
+    {
+      "authority": "Orthodox Church of the Czech Lands and Slovakia",
+      "source": "https://orthodox.sk/schematizmus/pravoslavna-eparchia/",
+      "result": "The official schematism lists no Germany body."
+    },
+    {
+      "authority": "Orthodox Church in America",
+      "source": "https://www.oca.org/parishes",
+      "result": "The official parish directory contains no Germany body."
+    },
+    {
+      "authority": "Orthodox Church of Finland",
+      "source": "https://ort.fi/kirkon-keskusrekisteri/rekisterista-loytyvat-seurakunnat/",
+      "result": "The official parish register contains no Germany body."
+    },
+    {
+      "authority": "Apostolic Orthodox Church of Estonia",
+      "source": "https://www.eoc.ee/fr/eglise-orthodoxe-destonie/structure/",
+      "result": "The official diocesan and parish structure contains no Germany body."
+    },
+    {
+      "authority": "Estonian Christian Orthodox Church",
+      "source": "https://et.orthodox.ee/parishes/",
+      "result": "No separate current Germany body was found. Moscow Patriarchate bodies in Germany are represented under their current German dioceses."
+    },
+    {
+      "authority": "Orthodox Church of Moldova",
+      "source": "https://mitropolia.md/resurse-ortodoxe/",
+      "result": "The official diaspora resources list no separate Germany body."
+    },
+    {
+      "authority": "Orthodox Church in Japan",
+      "source": "https://www.orthodoxjapan.jp/",
+      "result": "The official national church directory contains no Germany body."
+    },
+    {
+      "authority": "Church of Sinai",
+      "source": "https://sinaimonastery.com/st-catherine/index.php/en/description/shrines-dependencies",
+      "result": "The official dependencies directory contains no Germany parish, monastery, metochion, or dependency."
+    },
+    {
+      "authority": "Orthodox Church of Ukraine",
+      "source": "https://www.pomisna.info/uk/tserkva/synodalni-ustanovy/",
+      "result": "The official structure reviewed identifies no permanent Germany parish, mission, chapel, monastery, metochion, or recurring worship site. The unresolved self-described network is retained as a candidate."
+    }
+  ]
+}

@@ -34,6 +34,7 @@ NAMES = {
     "goarch": u"Greek Orthodox Archdiocese of America",
     "ep-france": u"Greek Orthodox Metropolis of France",
     "ep-germany": u"Greek Orthodox Metropolis of Germany",
+    "ep-ukrainian-western-europe": u"Ukrainian Orthodox Diocese of Western Europe",
     "ep-austria": u"Holy Metropolis of Austria",
     "ep-korea": u"Holy Metropolis of Korea",
     "ep-spain": u"Holy Metropolis of Spain and Portugal",
@@ -1175,6 +1176,10 @@ del _SWITZERLAND_NAMES
 from directory_austria import ENGLISH_NAMES as _AUSTRIA_NAMES
 NAMES.update(_AUSTRIA_NAMES)
 del _AUSTRIA_NAMES
+
+from directory_germany import ENGLISH_NAMES as _GERMANY_NAMES
+NAMES.update(_GERMANY_NAMES)
+del _GERMANY_NAMES
 
 SEATS = {
     "Istanbul": u"Istanbul",

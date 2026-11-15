@@ -16,6 +16,7 @@ import directory_australia
 import directory_austria
 import directory_belgium
 import directory_denmark
+import directory_germany
 import directory_iceland
 import directory_ireland
 import directory_liechtenstein
@@ -33,6 +34,7 @@ SOURCE_MODULES = (
     directory_austria,
     directory_belgium,
     directory_denmark,
+    directory_germany,
     directory_iceland,
     directory_ireland,
     directory_liechtenstein,
@@ -92,8 +94,8 @@ def build():
             payload["country"] = scope[0]
         else:
             payload["countries"] = scope
-    if len(payloads) != 35 or sum(len(p["rows"]) for p in payloads.values()) != 615:
-        raise ValueError("north-west Europe must publish 35 parents and 615 rows")
+    if len(payloads) != 39 or sum(len(p["rows"]) for p in payloads.values()) != 1261:
+        raise ValueError("north-west Europe must publish 39 parents and 1261 rows")
     return dict(sorted(payloads.items()))
 
 
@@ -160,7 +162,7 @@ def main():
         for error in errors:
             print(error, file=sys.stderr)
         return 1
-    print("North-west Europe branches: 35 parents, 615 subordinate bodies")
+    print("North-west Europe branches: 39 parents, 1261 subordinate bodies")
     return 0
 
 
