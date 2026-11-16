@@ -1,0 +1,116 @@
+{
+  "v": 1,
+  "checked": "2026-11-15",
+  "countries": [
+    "GR"
+  ],
+  "published_summary": {
+    "gr-demetrias": 182,
+    "total": 182,
+    "current_church_directory_links": 163,
+    "current_unique_worship_bodies": 162,
+    "current_monastery_directory_rows": 20,
+    "legal_parishes_2019": 145,
+    "legal_pilgrimages_2019": 2,
+    "published_parish_kind_rows": 162,
+    "published_monastery_kind_rows": 20,
+    "contact_bodies": 137,
+    "phone_bodies": 134,
+    "public_phone_values": 143,
+    "email_bodies": 10,
+    "public_email_values": 11,
+    "body_owned_sites": 7,
+    "address_bodies": 182,
+    "rank_counts": {
+      "Cemetery Church": 1,
+      "Church": 12,
+      "Hospital Chapel": 1,
+      "Metropolitan Chapel": 1,
+      "Monastery": 20,
+      "Orphanage Chapel": 1,
+      "Parish Church": 144,
+      "Pilgrimage Church": 2
+    }
+  },
+  "candidates": [
+    {
+      "candidate_id": "demetrias-current-church-directory",
+      "disposition": "publish_exact_detail_pages",
+      "note": "The local Church directory exposes 163 detail links across four worship-body categories. One Goritsa pilgrimage is duplicated across two category pages, leaving 162 exact current worship bodies.",
+      "sources": [
+        "https://old.imd.gr/articles/top/ieroi_naoi/810",
+        "https://ecclesiagreece.gr/greek/press/ekklisia/2019_ioulios.pdf"
+      ]
+    },
+    {
+      "candidate_id": "demetrias-current-monastery-directory",
+      "disposition": "publish_exact_detail_pages",
+      "note": "The local monastery directory exposes twenty exact current monastery detail pages.",
+      "sources": [
+        "https://old.imd.gr/articles/top/ieres_mones/173",
+        "https://www.ecclesiagreece.gr/ecclesiajoomla/index.php/el/metropoleis/demetriados-kai-almyrou"
+      ]
+    }
+  ],
+  "source_reconciliations": [
+    {
+      "candidate_id": "demetrias-legal-current-reconciliation",
+      "disposition": "publish_current_exact_bodies_without_inferred_rows",
+      "note": "The April 2019 Church of Greece regulation records 145 parishes and two pilgrimages. The local body directory also publishes institutional, cemetery, metropolitan, orphanage, hospital, and other worship bodies. Legal-only names without an exact current local detail page are not inferred.",
+      "sources": [
+        "https://ecclesiagreece.gr/greek/press/ekklisia/2019_ioulios.pdf",
+        "https://old.imd.gr/articles/top/ieroi_naoi/810"
+      ]
+    },
+    {
+      "candidate_id": "demetrias-goritsa-duplicate",
+      "disposition": "collapse_duplicate",
+      "note": "The Nativity of the Theotokos pilgrimage at Goritsa has both a pilgrimage-category page and an ordinary church-category page. They are one body and are published once with both source pages.",
+      "sources": [
+        "https://old.imd.gr/catalog/poi/13/14",
+        "https://old.imd.gr/catalog/poi/11/178"
+      ]
+    }
+  ],
+  "official_parent_audit": [
+    {
+      "candidate_id": "demetrias-canonical-parent",
+      "disposition": "confirmed",
+      "note": "The Church of Greece profile and the local official directories identify every published body under the Holy Metropolis of Demetrias and Almyros.",
+      "sources": [
+        "https://www.ecclesiagreece.gr/ecclesiajoomla/index.php/el/metropoleis/demetriados-kai-almyrou",
+        "https://old.imd.gr/articles/top/ieroi_naoi/810",
+        "https://old.imd.gr/articles/top/ieres_mones/173"
+      ]
+    }
+  ],
+  "exclusions": [
+    {
+      "candidate_id": "demetrias-narrative-only-chapels",
+      "disposition": "hold_for_current_exact_page",
+      "note": "Narrative histories mention numerous subordinate chapels and former churches. A name in historical prose is not enough to establish current operation, exact identity, or a current contact. Only separately published current detail pages are included.",
+      "sources": [
+        "https://old.imd.gr/articles/top/ieroi_naoi/810"
+      ]
+    },
+    {
+      "candidate_id": "demetrias-parent-office-contacts",
+      "disposition": "exclude_from_body_contacts",
+      "note": "Metropolis office contacts are not propagated to individual worship bodies. Only contacts printed on the body detail page or its own live site are retained.",
+      "sources": [
+        "https://www.ecclesiagreece.gr/ecclesiajoomla/index.php/el/metropoleis/demetriados-kai-almyrou",
+        "https://old.imd.gr/articles/top/ieroi_naoi/810"
+      ]
+    },
+    {
+      "candidate_id": "demetrias-dead-individual-sites",
+      "disposition": "omit_dead_site_keep_body",
+      "note": "Two legacy parish domains no longer resolve, and one legacy page path now returns not found. Their official local detail pages remain the identity and contact sources.",
+      "sources": [
+        "https://old.imd.gr/catalog/poi/11/4",
+        "https://old.imd.gr/catalog/poi/11/29",
+        "https://old.imd.gr/catalog/poi/11/130"
+      ]
+    }
+  ]
+}
