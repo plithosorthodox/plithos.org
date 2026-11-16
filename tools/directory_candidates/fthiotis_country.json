@@ -1,0 +1,157 @@
+{
+  "v": 1,
+  "countries": [
+    "GR"
+  ],
+  "checked": "2026-11-15",
+  "method": "Publish the 247 legally regulated parish bodies and one pilgrimage church from the 2019 Church of Greece regulation, reconcile them against the fourteen current first-party archieratical-region pages, publish the nineteen exact monastery bodies on the current first-party monastery directory, and publish all nine bodies on the current first-party Metropolitan Chapels roster. Preserve every public phone tied by these current directories to a specific worship body, including clergy-associated routes, without retaining clergy names or relabeling every number as an office line. Do not copy central Metropolis contacts to subordinate bodies. Hold dissolved monasteries, historic-only churches, unnamed aggregates, news-only chapel leads outside the current roster, and other bodies whose present administrative status is not established by a current competent directory.",
+  "published_summary": {
+    "gr-fthiotis": 276,
+    "total": 276,
+    "regulated_parish_rows": 247,
+    "regulated_pilgrimage_rows": 1,
+    "active_monastery_rows": 19,
+    "current_metropolitan_chapel_rows": 9,
+    "parish_kind_rows": 257,
+    "monastery_kind_rows": 19,
+    "contact_bodies": 144,
+    "phone_bodies": 144,
+    "public_phone_values": 207,
+    "email_bodies": 0,
+    "public_email_values": 0,
+    "body_owned_sites": 0,
+    "address_bodies": 276
+  },
+  "candidates": [
+    {
+      "candidate_id": "gr-fthiotis-five-legal-only-parishes",
+      "parent": "gr-fthiotis",
+      "country": "GR",
+      "category": "legal-current-reconciliation",
+      "status": "published",
+      "reason": "The legal regulation names the Saint John parish at Charma-Kathara and the Pitsion, Platanos, Pougakia, and Fteri parishes, while the current regional pages omit those five exact rows. The regulation remains the competent legal authority for their continued parish identity, so they are published without inferred contact details.",
+      "sources": [
+        "https://ecclesiagreece.gr/greek/press/ekklisia/2019_ioulios.pdf",
+        "https://www.imfth.gr/taxonomy-basic-page/term/36"
+      ]
+    },
+    {
+      "candidate_id": "gr-fthiotis-current-dedication-conflicts",
+      "parent": "gr-fthiotis",
+      "country": "GR",
+      "category": "current-name-precedence",
+      "status": "published",
+      "reason": "The 2019 regulation prints Holy Unmercenaries for the Thermopylae parish and Saint Nicholas for the Kastania parish. The current first-party regional pages identify those bodies as Saint John at Thermopylae and Saint Athanasius at Kastania. The current first-party dedications control while the regulation establishes the parish rows.",
+      "sources": [
+        "https://ecclesiagreece.gr/greek/press/ekklisia/2019_ioulios.pdf",
+        "https://www.imfth.gr/content/v-arhieratiki-perifereia-thermopylon-roditsis",
+        "https://www.imfth.gr/content/g-arhieratiki-perifereia-ypatis"
+      ]
+    },
+    {
+      "candidate_id": "gr-fthiotis-dissolved-monasteries",
+      "parent": "gr-fthiotis",
+      "country": "GR",
+      "category": "dissolved-body",
+      "status": "held",
+      "reason": "The first-party site separately labels fifteen monasteries as dissolved. They are historical evidence rather than current subordinate monastery bodies and are not published as current rows.",
+      "sources": [
+        "https://www.imfth.gr/content/dialelymenai-i-monai",
+        "https://www.imfth.gr/taxonomy-basic-page/term/37"
+      ]
+    },
+    {
+      "candidate_id": "gr-fthiotis-metropolitan-chapels",
+      "parent": "gr-fthiotis",
+      "country": "GR",
+      "category": "current-metropolitan-chapel-roster",
+      "status": "published",
+      "reason": "The current first-party Metropolitan Chapels page expressly names nine current chapel bodies and publishes public telephone routes for four of them. All nine are published as Metropolitan Chapel rows. Clergy names and role labels are omitted while the four body-associated public routes are retained.",
+      "sources": [
+        "https://www.imfth.gr/content/mitropolitika-parekklisia"
+      ]
+    },
+    {
+      "candidate_id": "gr-fthiotis-historic-and-news-only-church-leads",
+      "parent": "gr-fthiotis",
+      "country": "GR",
+      "category": "insufficient-current-authority",
+      "status": "discovery-only",
+      "reason": "The first-party historical-monuments and other-churches pages name additional old churches, baptisteries, ruins, cave churches, and small churches. News posts also name chapels used for particular services. Those references do not provide a complete current administrative roster or reliably distinguish active subordinate bodies from ruins, monuments, dependencies, and alternate buildings of an existing parish. They remain discovery leads rather than inferred current rows.",
+      "sources": [
+        "https://www.imfth.gr/content/ekklisiastika-istorika-mnimeia",
+        "https://www.imfth.gr/content/alloi-naoi-tis-fthiotidos",
+        "https://www.imfth.gr/taxonomy-basic-page/term/36"
+      ]
+    }
+  ],
+  "source_reconciliations": [
+    {
+      "topic": "regulated-parish-and-pilgrimage-roster",
+      "finding": "The April 2019 Church of Greece regulation expressly totals 247 parishes and one pilgrimage church. Its numbered table supplies exactly 247 parish identities and separately names the Panagia Prousiotissa pilgrimage church at Vardates. The published roster preserves those exact totals.",
+      "sources": [
+        "https://ecclesiagreece.gr/greek/press/ekklisia/2019_ioulios.pdf"
+      ]
+    },
+    {
+      "topic": "fourteen-current-regional-pages",
+      "finding": "The current first-party directory presents fourteen archieratical regions. Its body listings reconcile 242 of the regulated parish rows and publish direct public telephone routes for 140 bodies. Five legal parish rows absent from the current web pages remain published from the regulation without guessed contacts. Current first-party dedication wording controls two conflicts with the older legal table.",
+      "sources": [
+        "https://www.imfth.gr/taxonomy-basic-page/term/36",
+        "https://ecclesiagreece.gr/greek/press/ekklisia/2019_ioulios.pdf"
+      ]
+    },
+    {
+      "topic": "current-monastery-directory",
+      "finding": "The current monastery taxonomy reports twenty-one entries, but two are navigation entries for monastic buildings and dissolved monasteries. The remaining nineteen entries are exact monastery bodies with first-party detail pages and are published. The separately labeled dissolved roster is excluded.",
+      "sources": [
+        "https://www.imfth.gr/taxonomy-basic-page/term/37",
+        "https://www.imfth.gr/content/dialelymenai-i-monai"
+      ]
+    },
+    {
+      "topic": "current-metropolitan-chapel-roster",
+      "finding": "The current first-party administrative page names nine Metropolitan chapels and separately repeats the regulated Panagia Prousiotissa pilgrimage church. The nine chapel bodies are published once as Metropolitan Chapel rows. The pilgrimage church remains the single separately regulated pilgrimage row and is not duplicated.",
+      "sources": [
+        "https://www.imfth.gr/content/mitropolitika-parekklisia",
+        "https://ecclesiagreece.gr/greek/press/ekklisia/2019_ioulios.pdf"
+      ]
+    },
+    {
+      "topic": "public-contact-treatment",
+      "finding": "The fourteen regional pages publish parish telephone routes alongside the named bodies and clergy assignments. The numbers are retained as body-associated public routes, including clergy-linked routes, while clergy names and role labels are omitted. No central Metropolis telephone or email is copied to a subordinate body, and no email or independent body site is inferred where the competent pages publish none.",
+      "sources": [
+        "https://www.imfth.gr/taxonomy-basic-page/term/36"
+      ]
+    }
+  ],
+  "official_parent_audit": [
+    {
+      "parent": "gr-fthiotis",
+      "status": "audited",
+      "finding": "The Church of Greece regulation and the body-owned Metropolis of Fthiotis directory establish the canonical parent, fourteen current regional divisions, regulated parish roster, pilgrimage church, and active monastery directory used here.",
+      "sources": [
+        "https://ecclesiagreece.gr/greek/press/ekklisia/2019_ioulios.pdf",
+        "https://www.imfth.gr/taxonomy-basic-page/term/36",
+        "https://www.imfth.gr/taxonomy-basic-page/term/37"
+      ]
+    }
+  ],
+  "exclusions": [
+    {
+      "category": "non-worship-and-central-routes",
+      "reason": "Metropolis offices, councils, schools, media, charities, care institutions, publications, and other non-worship institutions are not separate worship rows. Central contact details are not propagated to subordinate bodies.",
+      "sources": [
+        "https://www.imfth.gr/taxonomy-basic-page/term/36"
+      ]
+    },
+    {
+      "category": "unnamed-and-unverified-body-leads",
+      "reason": "Unnamed church aggregates, map-only results, social posts, event programs, tourism summaries, and search snippets are not enough to establish a distinct current subordinate body, exact identity, or canonical parent. No row or contact detail is inferred from them.",
+      "sources": [
+        "https://www.imfth.gr/content/alloi-naoi-tis-fthiotidos",
+        "https://www.imfth.gr/content/ekklisiastika-istorika-mnimeia"
+      ]
+    }
+  ]
+}
