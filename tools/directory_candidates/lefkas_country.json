@@ -1,0 +1,243 @@
+{
+  "v": 1,
+  "countries": [
+    "GR"
+  ],
+  "checked": "2026-11-15",
+  "method": "Publish the exact 67 parish bodies and two pilgrimage churches in Regulation 938/864-2019, reconciling every parish against the current first-party clergy roster. Publish the six current monastic bodies named by the jurisdiction itself, including the two omitted by the shorter Church of Greece profile. Publish additional chapels and cemetery churches only where recent official jurisdiction reports give an exact current identity and place. Preserve all current public body phones, clergy-linked public numbers, faxes, emails, direct sites, and addresses without retaining clergy names or copying central Metropolis contacts to subordinate bodies. Hold unnamed aggregate residuals, dissolved monasteries, dependent metochia, institution-owned bodies with unclear administration, pilgrimage-status conflicts, map-only, search-only, social-only, tourism, commercial-directory, and historic-only leads rather than inventing rows.",
+  "published_summary": {
+    "gr-lefkas": 84,
+    "total": 84,
+    "regulated_parish_rows": 67,
+    "current_monastic_rows": 6,
+    "regulated_pilgrimage_rows": 2,
+    "current_exact_chapel_rows": 6,
+    "current_exact_cemetery_rows": 3,
+    "parish_kind_rows": 78,
+    "monastery_kind_rows": 6,
+    "contact_bodies": 74,
+    "phone_bodies": 74,
+    "public_phone_values": 98,
+    "fax_bodies": 2,
+    "public_fax_values": 2,
+    "email_bodies": 1,
+    "public_email_values": 1,
+    "body_owned_sites": 2,
+    "address_bodies": 84
+  },
+  "candidates": [
+    {
+      "candidate_id": "gr-lefkas-regulated-current-parishes",
+      "parent": "gr-lefkas",
+      "country": "GR",
+      "category": "regulated-current-parish-roster",
+      "status": "published",
+      "reason": "The 2019 regulation supplies exactly 67 named parishes across six legal archieratical districts. The current jurisdiction clergy page again lists 67 exact parish identities and supplies a public telephone route for every one. All 67 are published once, with clergy names omitted.",
+      "sources": [
+        "https://ecclesiagreece.gr/greek/press/ekklisia/2019_ioulios.pdf",
+        "https://imli.gr/priests/"
+      ]
+    },
+    {
+      "candidate_id": "gr-lefkas-six-current-monastic-bodies",
+      "parent": "gr-lefkas",
+      "country": "GR",
+      "category": "current-monastic-roster",
+      "status": "published",
+      "reason": "The current jurisdiction administration page names four male monasteries, one female monastery, and one female hesychasterion with current public contact routes. All six are published. The shorter Church of Greece profile names only four, so the current jurisdiction list controls completeness while the profile contributes its additional Katharon telephone route.",
+      "sources": [
+        "https://imli.gr/management/",
+        "https://www.ecclesiagreece.gr/ecclesiajoomla/index.php/el/metropoleis/leukados-kai-ithakes"
+      ]
+    },
+    {
+      "candidate_id": "gr-lefkas-six-current-exact-chapels",
+      "parent": "gr-lefkas",
+      "country": "GR",
+      "category": "current-official-chapel-evidence",
+      "status": "published",
+      "reason": "Recent official jurisdiction reports give exact current identities for the Metropolitan Chapel of Saint Eutychios, the hospital chapel of Saint Luke, Saint Hypomone, Saint Eleftherios at the former hospital, Prophet Elijah at Katomeri, and Saint Nicholas at Rema. Those six exact bodies are published without inferred contacts. The official aggregate of 74 chapels does not supply names for the other 68.",
+      "sources": [
+        "https://imli.gr/uncategorized/%cf%80%cf%81%cf%8c%ce%b3%cf%81%ce%b1%ce%bc%ce%bc%ce%b1-%ce%b9%ce%b5%cf%81%ce%ac%cf%82-%cf%80%ce%b1%ce%bd%ce%b7%ce%b3%cf%8d%cf%81%ce%b5%cf%89%cf%82-%ce%b9%ce%b5%cf%81%ce%bf%cf%8d-%ce%bc%ce%b7%cf%84-5/",
+        "https://imli.gr/uncategorized/%ce%bf-%cf%80%ce%b1%ce%bd%ce%b7%ce%b3%cf%85%cf%81%ce%b9%ce%ba%cf%8c%cf%82-%ce%b5%cf%83%cf%80%ce%b5%cf%81%ce%b9%ce%bd%cf%8c%cf%82-%cf%84%ce%b7%cf%82-%ce%bc%ce%bd%ce%ae%ce%bc%ce%b7%cf%82-%cf%84%ce%bf-5/",
+        "https://imli.gr/uncategorized/%cf%80%cf%81%cf%8c%cf%83%ce%ba%ce%bb%ce%b7%cf%83%ce%b7-%ce%b8%cf%85%cf%81%ce%b1%ce%bd%ce%bf%ce%b9%ce%be%ce%af%cf%89%ce%bd-%ce%b9%ce%b5%cf%81%ce%bf%cf%8d-%cf%80%ce%b1%cf%81%ce%b5%ce%ba%ce%ba%ce%bb/"
+      ]
+    },
+    {
+      "candidate_id": "gr-lefkas-three-current-exact-cemetery-churches",
+      "parent": "gr-lefkas",
+      "country": "GR",
+      "category": "current-official-cemetery-evidence",
+      "status": "published",
+      "reason": "Official jurisdiction reports give exact current identities for the Cemetery Church of Archangel Michael at Lefkada, Saints Constantine and Helen serving Vathy and Katomeri on Meganisi, and Saint Charalampus at Tsoukalades. These three are published without inferred contacts. The current aggregate of 36 cemetery churches leaves 33 unnamed residual bodies held.",
+      "sources": [
+        "https://imli.gr/uncategorized/%cf%80%cf%81%cf%8c%ce%b3%cf%81%ce%b1%ce%bc%ce%bc%ce%b1-%ce%bc-%ce%b5%ce%b2%ce%b4%ce%bf%ce%bc%ce%ac%ce%b4%ce%bf%cf%82-%ce%b9%ce%b5%cf%81%ce%bf%cf%8d-%ce%ba%ce%bf%ce%b9%ce%bc%ce%b7%cf%84%ce%b7%cf%81-2/",
+        "https://imli.gr/uncategorized/%cf%80%cf%81%cf%8c%ce%b3%cf%81%ce%b1%ce%bc%ce%bc%ce%b1-%ce%b9%ce%b5%cf%81%ce%ac%cf%82-%cf%80%ce%b1%ce%bd%ce%b7%ce%b3%cf%8d%cf%81%ce%b5%cf%89%cf%82-%ce%b9%ce%b5%cf%81%ce%bf%cf%8d-%ce%ba%ce%bf%ce%b9-6/",
+        "https://imli.gr/uncategorized/%cf%80%cf%81%cf%8c%ce%b3%cf%81%ce%b1%ce%bc%ce%bc%ce%b1-%ce%b9%ce%b5%cf%81%ce%ac%cf%82-%cf%80%ce%b1%ce%bd%ce%b7%ce%b3%cf%8d%cf%81%ce%b5%cf%89%cf%82-%ce%b9%ce%b5%cf%81%ce%bf%cf%8d-%ce%ba%ce%bf%ce%b9-4/"
+      ]
+    },
+    {
+      "candidate_id": "gr-lefkas-unnamed-aggregate-residuals",
+      "parent": "gr-lefkas",
+      "country": "GR",
+      "category": "aggregate-only-residual",
+      "status": "held",
+      "reason": "The current jurisdiction page totals 74 chapels, 180 country chapels, and 36 cemetery churches. Six exact chapels and three exact cemetery churches are published from current first-party reports. The remaining 68 chapels, all 180 country chapels, and 33 cemetery churches have no complete exact named administrative roster, so no residual or unnamed row is invented.",
+      "sources": [
+        "https://imli.gr/management/",
+        "https://imli.gr/priests/"
+      ]
+    },
+    {
+      "candidate_id": "gr-lefkas-perachori-three-new-martyrs-pilgrimage",
+      "parent": "gr-lefkas",
+      "country": "GR",
+      "category": "current-pilgrimage-status-conflict",
+      "status": "held",
+      "reason": "Current official reports call the church of Saints Raphael, Nicholas, and Irene at Perachori a pilgrimage church. It is not one of the two pilgrimage legal persons named in the 2019 regulation, and the current administration page still totals two pilgrimage churches. The report does not resolve whether this title denotes a dependent shrine of the Perachori parish or replaces a regulated pilgrimage body, so it is held rather than added as a third independent row.",
+      "sources": [
+        "https://imli.gr/uncategorized/%cf%80%cf%81%cf%8c%ce%b3%cf%81%ce%b1%ce%bc%ce%bc%ce%b1-%ce%b9%ce%b5%cf%81%ce%ac%cf%82-%cf%80%ce%b1%ce%bd%ce%b7%ce%b3%cf%8d%cf%81%ce%b5%cf%89%cf%82-%ce%b9%ce%b5%cf%81%ce%bf%cf%8d-%cf%80%cf%81%ce%bf-3/",
+        "https://ecclesiagreece.gr/greek/press/ekklisia/2019_ioulios.pdf",
+        "https://imli.gr/management/"
+      ]
+    },
+    {
+      "candidate_id": "gr-lefkas-current-dependent-metochia",
+      "parent": "gr-lefkas",
+      "country": "GR",
+      "category": "dependent-monastic-sites",
+      "status": "held",
+      "reason": "Current jurisdiction reports identify Panagia ton Kipon at Kalamitsi, the Ascension at Fryni, Kokkini Ekklisia at Platystoma, and the Transfiguration on Meganisi as metochia dependent on the Monastery of Pephaneromeni. They are not counted as additional current autonomous monasteries and remain held pending a complete administrative dependency roster.",
+      "sources": [
+        "https://imli.gr/uncategorized/%cf%80%cf%81%cf%8c%ce%b3%cf%81%ce%b1%ce%bc%ce%bc%ce%b1-%ce%b9%ce%b5%cf%81%ce%ac%cf%82-%cf%80%ce%b1%ce%bd%ce%b7%ce%b3%cf%8d%cf%81%ce%b5%cf%89%cf%82-%c2%a8%cf%80%ce%b1%ce%bd%ce%b1%ce%b3%ce%af%ce%b1/",
+        "https://imli.gr/uncategorized/%cf%80%cf%81%cf%8c%ce%b3%cf%81%ce%b1%ce%bc%ce%bc%ce%b1-%ce%b9%ce%b5%cf%81%ce%ac%cf%82-%cf%80%ce%b1%ce%bd%ce%b7%ce%b3%cf%8d%cf%81%ce%b5%cf%89%cf%82-%ce%b9%ce%b5%cf%81%ce%bf%cf%8d-%ce%bc%ce%b5%cf%84-3/",
+        "https://imli.gr/uncategorized/%cf%80%cf%81%cf%89%cf%84%ce%bf%ce%bc%ce%b1%ce%b3%ce%b9%ce%ac-%cf%83%cf%84%ce%b7%ce%bd-%ce%b9%ce%b5%cf%81%ce%ac-%ce%bc%ce%bf%ce%bd%ce%ae-%ce%ba%cf%8c%ce%ba%ce%ba%ce%b9%ce%bd%ce%b7%cf%82-%ce%b5%ce%ba/"
+      ]
+    },
+    {
+      "candidate_id": "gr-lefkas-six-dissolved-monasteries",
+      "parent": "gr-lefkas",
+      "country": "GR",
+      "category": "expressly-dissolved-monastery",
+      "status": "held",
+      "reason": "The jurisdiction itself expressly labels the monasteries of Archangel Michael at Vafkeri, Saint George at Bisa, Saint John the Theologian at Rodaki, the Archangels at Perachori, Saint Kirykos at Athani, and Saint Demetrius at Grava as dissolved. They are excluded from the current monastic roster and retained only as historical candidates.",
+      "sources": [
+        "https://imli.gr/management/"
+      ]
+    },
+    {
+      "candidate_id": "gr-lefkas-military-holy-cross-chapel",
+      "parent": "gr-lefkas",
+      "country": "GR",
+      "category": "institution-owned-canonical-review",
+      "status": "held",
+      "reason": "A current jurisdiction report records worship at the Holy Cross chapel of the 4th Control and Warning Station at Englouvi. The report shows canonical service but identifies the chapel with a military unit and does not establish Metropolis ownership or subordinate administration, so it remains held.",
+      "sources": [
+        "https://imli.gr/uncategorized/%ce%b7-%ce%b5%ce%bf%cf%81%cf%84%ce%ae-%cf%84%ce%b7%cf%82-%cf%85%cf%88%cf%8e%cf%83%ce%b5%cf%89%cf%82-%cf%84%ce%bf%cf%85-%cf%84%ce%b9%ce%bc%ce%af%ce%bf%cf%85-%ce%ba%ce%b1%ce%b9-%ce%b6%cf%89%ce%bf%cf%80/"
+      ]
+    },
+    {
+      "candidate_id": "gr-lefkas-unverified-discovery-leads",
+      "parent": "gr-lefkas",
+      "country": "GR",
+      "category": "map-search-social-tourism-history-only",
+      "status": "held",
+      "reason": "Map results, search snippets, social pages, tourism pages, commercial directories, and historical notices surface additional church and contact leads. None substitutes for a complete current canonical administrative roster, and no phone or body row is taken from those sources alone.",
+      "sources": [
+        "https://imli.gr/management/",
+        "https://ecclesiagreece.gr/greek/press/ekklisia/2019_ioulios.pdf"
+      ]
+    }
+  ],
+  "source_reconciliations": [
+    {
+      "topic": "regulated-and-current-parish-roster",
+      "finding": "Regulation 938/864-2019 expressly totals 67 parishes and 71 priest positions. Its table supplies 18 Lefkada district rows, 10 Ithaca rows, 14 Nydri rows, 7 Vasiliki rows, 7 Agios Petros rows, and 11 Karya rows. The current clergy page again supplies the same 67 exact identities, so every legal parish is published once and no unnamed parish residual remains.",
+      "sources": [
+        "https://ecclesiagreece.gr/greek/press/ekklisia/2019_ioulios.pdf",
+        "https://imli.gr/priests/"
+      ]
+    },
+    {
+      "topic": "current-archieratical-regrouping",
+      "finding": "The legal table uses six districts. The current administration page combines Vasiliki and Agios Petros into one region and assigns Alexandros, Karyotes, Katouna, and Nikiana to the current Nydri region while Vafkeri and Platystoma appear in the current Karya listing. These are current pastoral regroupings, not new or deleted parish identities, so legal identities remain stable and no duplicate rows are created.",
+      "sources": [
+        "https://ecclesiagreece.gr/greek/press/ekklisia/2019_ioulios.pdf",
+        "https://imli.gr/priests/",
+        "https://imli.gr/management/"
+      ]
+    },
+    {
+      "topic": "current-monastic-roster",
+      "finding": "The Church of Greece profile names four monastic bodies. The current jurisdiction page names six and expressly separates six dissolved monasteries. The six current jurisdiction identities are published, while the dissolved list and dependent metochia do not create autonomous monastery rows.",
+      "sources": [
+        "https://imli.gr/management/",
+        "https://www.ecclesiagreece.gr/ecclesiajoomla/index.php/el/metropoleis/leukados-kai-ithakes"
+      ]
+    },
+    {
+      "topic": "pilgrimage-church-count",
+      "finding": "The 2019 regulation names Saint Vissarion and Saint Spyridon and totals two pilgrimage churches. A 2026 jurisdiction report confirms current worship at Saint Vissarion, and the 2017 act establishes Saint Spyridon as a subordinate pilgrimage legal person. A separate current Perachori report uses pilgrimage terminology for Saints Raphael, Nicholas, and Irene, but its administrative relationship conflicts with the regulated and current aggregate count and remains held.",
+      "sources": [
+        "https://ecclesiagreece.gr/greek/press/ekklisia/2019_ioulios.pdf",
+        "https://ecclesiagreece.gr/greek/press/ekklisia/2017_aprilios.pdf",
+        "https://imli.gr/management/"
+      ]
+    },
+    {
+      "topic": "monastery-contact-conflict",
+      "finding": "The current jurisdiction page publishes 2674033460 and 6979687938 for the Monastery of Katharon. The Church of Greece profile publishes 2674031247 for the same exact monastery. All three competent first-party public routes are preserved on that body, and the conflicting values are not silently collapsed.",
+      "sources": [
+        "https://imli.gr/management/",
+        "https://www.ecclesiagreece.gr/ecclesiajoomla/index.php/el/metropoleis/leukados-kai-ithakes"
+      ]
+    },
+    {
+      "topic": "direct-body-contact-preservation",
+      "finding": "The direct Evangelistria parish site adds its exact address, direct site, and telephone 2645022415 to the two current jurisdiction telephone routes. The direct Saint Nicholas parish site confirms its address, direct site, and 2645025410 route. These contacts remain tied only to their exact bodies. The Pephaneromeni email and two monastery fax routes remain tied only to the monastic identities that publish them.",
+      "sources": [
+        "https://e-evaggelistria.gr/epikoinonia/",
+        "https://agiosnikolaoslefkadas.gr/",
+        "https://imli.gr/management/"
+      ]
+    }
+  ],
+  "official_parent_audit": [
+    {
+      "parent": "gr-lefkas",
+      "status": "audited",
+      "finding": "The Church of Greece regulation, current jurisdiction clergy roster, and current jurisdiction administration page establish the canonical parent, exact 67-parish roster, two regulated pilgrimage churches, six current monastic bodies, and aggregate gaps used here. Current jurisdiction reports and direct body sites were checked for exact additional worship bodies and public body-linked contacts.",
+      "sources": [
+        "https://ecclesiagreece.gr/greek/press/ekklisia/2019_ioulios.pdf",
+        "https://imli.gr/priests/",
+        "https://imli.gr/management/"
+      ]
+    }
+  ],
+  "exclusions": [
+    {
+      "category": "central-and-non-worship-routes",
+      "reason": "Metropolis offices, care homes, camps, schools, charities, publications, and other non-worship institutions are not worship rows. Central telephone, fax, email, and address details are not copied to subordinate bodies. Clergy names are omitted even where a public body-linked or clergy-linked route is retained.",
+      "sources": [
+        "https://imli.gr/management/",
+        "https://www.ecclesiagreece.gr/ecclesiajoomla/index.php/el/metropoleis/leukados-kai-ithakes"
+      ]
+    },
+    {
+      "category": "non-communion-bodies",
+      "reason": "Bodies outside communion with the Church of Greece are excluded. Canonical parentage and current identity are established from Church of Greece, official jurisdiction, and direct body-owned sources tied to the Holy Metropolis of Lefkas and Ithaca.",
+      "sources": [
+        "https://ecclesiagreece.gr/greek/press/ekklisia/2019_ioulios.pdf",
+        "https://imli.gr/management/"
+      ]
+    },
+    {
+      "category": "unverified-and-aggregate-leads",
+      "reason": "Map-only results, search snippets, social pages, commercial directories, tourism pages, historic references, event-only alternate names, ruins, and aggregate totals do not by themselves establish a distinct current subordinate body, exact administrative identity, or competent contact provenance. They remain held and do not supply invented rows or contacts.",
+      "sources": [
+        "https://imli.gr/management/",
+        "https://imli.gr/priests/"
+      ]
+    }
+  ]
+}
