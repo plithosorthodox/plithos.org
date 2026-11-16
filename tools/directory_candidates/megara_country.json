@@ -1,0 +1,255 @@
+{
+  "v": 1,
+  "countries": ["GR"],
+  "checked": "2026-11-15",
+  "method": "The current body-owned Holy Metropolis pages control exact current identities. The 32 current parish cards, seven exact chapel and pilgrimage entries, sixteen current monasteries, and seven current metochia are published once each. The linked Church of Greece administrative record independently corroborates 32 parish churches, 16 monastic churches, the seven chapel and pilgrimage identities, and the monastic identities. It reports 285 chapels and 14 cemetery churches only as aggregates, so no unnamed residual is invented. The current body-owned monastery page controls over an older profile-only metochion, dissolved monasteries, and older conflicting telephone values. Every current body-specific public phone and address on an exact detail page is retained, including public mobile and clergy-linked routes, while personal names and central Metropolis contacts are omitted.",
+  "published_summary": {
+    "gr-megara": 62,
+    "total": 62,
+    "official_wp_pages": 12,
+    "current_parishes": 32,
+    "current_episcopal_residence_chapels": 1,
+    "current_metropolitan_chapels": 4,
+    "current_pilgrimages": 1,
+    "current_hospital_churches": 1,
+    "current_monasteries": 16,
+    "current_male_monasteries": 6,
+    "current_female_monasteries": 10,
+    "current_metochia": 7,
+    "contact_bodies": 47,
+    "phone_bodies": 47,
+    "public_phone_values": 47,
+    "email_bodies": 0,
+    "public_email_values": 0,
+    "body_owned_sites": 0,
+    "address_bodies": 49
+  },
+  "candidates": [
+    {
+      "candidate_id": "gr-megara-unnamed-chapel-and-cemetery-aggregates",
+      "parent": "gr-megara",
+      "country": "GR",
+      "category": "aggregate-only",
+      "status": "held",
+      "reason": "The Church of Greece administrative record reports 285 chapels and 14 cemetery churches but does not name them. The current body-owned chapel page names only one episcopal-residence chapel, four metropolitan chapels, one pilgrimage church, and one hospital church. No aggregate residual is converted into an unnamed or inferred row.",
+      "aggregate_counts": {
+        "profile_chapels": 285,
+        "profile_cemetery_churches": 14,
+        "current_exact_chapel_and_pilgrimage_entries": 7
+      },
+      "sources": [
+        "https://www.ecclesiagreece.gr/greek/Dioceses/repository_for_all/megaron_dioikisis_new.pdf",
+        "https://www.immesa.gr/mitropolitika-parekklisia/"
+      ]
+    },
+    {
+      "candidate_id": "gr-megara-saint-john-kalyvites-profile-only-metochion",
+      "parent": "gr-megara",
+      "country": "GR",
+      "category": "older-profile-only",
+      "status": "held",
+      "reason": "The Church of Greece administrative record names a Saint John Kalyvites metochion of Saint Nicholas Lemonion Monastery in Salamina. The current body-owned monastery and metochion page omits it while naming seven other metochia. It remains held until the competent current roster restores or otherwise confirms it.",
+      "aggregate_counts": {
+        "profile_named_metochia": 8,
+        "current_named_metochia": 7
+      },
+      "sources": [
+        "https://www.ecclesiagreece.gr/greek/Dioceses/repository_for_all/megaron_dioikisis_new.pdf",
+        "https://www.immesa.gr/ieres-mones-metoxia/"
+      ]
+    },
+    {
+      "candidate_id": "gr-megara-dissolved-monasteries",
+      "parent": "gr-megara",
+      "country": "GR",
+      "category": "dissolved-historical",
+      "status": "held",
+      "reason": "The current body-owned page expressly places Saint George at the Castle of Porto Germeno under dissolved monasteries. The Church of Greece administrative record also identifies the Transfiguration monastery at Sotiraki in Villia as dissolved. Neither is published as a current worship body.",
+      "sources": [
+        "https://www.immesa.gr/ieres-mones-metoxia/",
+        "https://www.ecclesiagreece.gr/greek/Dioceses/repository_for_all/megaron_dioikisis_new.pdf"
+      ]
+    },
+    {
+      "candidate_id": "gr-megara-older-profile-phone-conflicts",
+      "parent": "gr-megara",
+      "country": "GR",
+      "category": "stale-or-conflicted-contact",
+      "status": "held",
+      "reason": "The Church of Greece administrative PDF prints 210-559-1433, 22960-90355, 22630-22315, and 210-555-0777 for four bodies whose current exact Metropolis pages publish 210-559-1714, 697-886-4643, 217-700-1068, and 690-613-0914. The newer exact body pages control. The older values remain recorded here rather than being silently mixed into the current contact set.",
+      "sources": [
+        "https://www.ecclesiagreece.gr/greek/Dioceses/repository_for_all/megaron_dioikisis_new.pdf",
+        "https://www.immesa.gr/enories/",
+        "https://www.immesa.gr/ieres-mones-metoxia/"
+      ]
+    },
+    {
+      "candidate_id": "gr-megara-prophet-elijah-erythres-friends-blog",
+      "parent": "gr-megara",
+      "country": "GR",
+      "category": "search-only-unverified-site",
+      "status": "held",
+      "reason": "A current Blogspot result describes itself as a friends page for Prophet Elijah Monastery at Erythres. The competent exact body page does not link it, and the blog does not establish ownership by the monastery. It is not classified as a direct body website.",
+      "sources": [
+        "https://profitisiliaserythron.blogspot.com/",
+        "https://www.immesa.gr/ieres-mones-metoxia/profitis-ilias/"
+      ]
+    },
+    {
+      "candidate_id": "gr-megara-hodegetria-third-party-contacts",
+      "parent": "gr-megara",
+      "country": "GR",
+      "category": "third-party-contact-only",
+      "status": "held",
+      "reason": "A commercial locality directory prints an additional landline, email, and more specific street description for Panagia Hodegetria Monastery. Only the current phone and address printed by the competent body-owned detail page are published. The third-party-only additions remain held.",
+      "sources": [
+        "https://attiki.topodigos.gr/el/pelates/iera-moni-panagias-odigitrias",
+        "https://www.immesa.gr/ieres-mones-metoxia/%cf%80%ce%b1%ce%bd%ce%b1%ce%b3%ce%af%ce%b1%cf%82-%e1%bd%81%ce%b4%ce%b7%ce%b3%ce%b7%cf%84%cf%81%ce%af%ce%b1%cf%82-%ce%b2%ce%b1%cf%83%ce%b9%ce%bb%ce%b9%ce%ba%e1%bf%b6%ce%bd-%cf%83%ce%b1%ce%bb%ce%b1/"
+      ]
+    },
+    {
+      "candidate_id": "gr-megara-salamina-tourism-extra-monasteries",
+      "parent": "gr-megara",
+      "country": "GR",
+      "category": "canonically-unverified-tourism-leads",
+      "status": "held",
+      "reason": "The municipal tourism search labels additional Salamina sites as monasteries, but they are absent from the competent current canonical roster and from the Church of Greece administrative monastery record. They remain tourism and search leads, not published canonical bodies.",
+      "sources": [
+        "https://salamina.eu/tourism/churches/searchchurches.aspx",
+        "https://www.immesa.gr/ieres-mones-metoxia/",
+        "https://www.ecclesiagreece.gr/greek/Dioceses/repository_for_all/megaron_dioikisis_new.pdf"
+      ]
+    },
+    {
+      "candidate_id": "gr-megara-gorgoepikoos-domain-mismatch",
+      "parent": "gr-megara",
+      "country": "GR",
+      "category": "different-body-domain",
+      "status": "excluded",
+      "reason": "Search results for gorgoepikoos.gr concern a different Panagia Gorgoepikoos monastery near Edessa. The domain is not a direct site for the Mandra monastery and is excluded from that row.",
+      "sources": [
+        "https://gorgoepikoos.gr/istoria-tis-ieras-monis/",
+        "https://www.immesa.gr/ieres-mones-metoxia/panagias-gorgoepikooy-mandras/"
+      ]
+    },
+    {
+      "candidate_id": "gr-megara-aiolou-cross-roster-identity",
+      "parent": "gr-megara",
+      "country": "GR",
+      "category": "cross-jurisdiction-roster-overlap",
+      "status": "reconciled",
+      "reason": "The current Megara roster and the Athens chapel roster both identify Saint Paraskevi on Aiolou Street as the Athens metochion of Osios Meletios Monastery. It is one dependency and is published once in this canonical roster, not as separate chapel and metochion bodies.",
+      "sources": [
+        "https://www.immesa.gr/ieres-mones-metoxia/",
+        "https://www.ecclesiagreece.gr/greek/Dioceses/repository_for_all/megaron_dioikisis_new.pdf",
+        "https://www.iaath.gr/index.php/dioikisi/pareklisia"
+      ]
+    }
+  ],
+  "source_reconciliations": [
+    {
+      "id": "gr-megara-current-parish-reconciliation",
+      "result": "The body-owned parish page exposes 32 exact current cards in four archieratical groups of 6, 9, 6, and 11. The Church of Greece administrative record independently reports 32 parish churches and names the same exact roster.",
+      "sources": [
+        "https://www.immesa.gr/enories/",
+        "https://www.ecclesiagreece.gr/greek/Dioceses/repository_for_all/megaron_dioikisis_new.pdf"
+      ]
+    },
+    {
+      "id": "gr-megara-current-chapel-reconciliation",
+      "result": "The current body-owned chapel page and Church of Greece record agree on one episcopal-residence chapel, four metropolitan chapels, one pilgrimage church, and one hospital church. The much larger unnamed chapel and cemetery aggregates are held rather than inferred.",
+      "sources": [
+        "https://www.immesa.gr/mitropolitika-parekklisia/",
+        "https://www.ecclesiagreece.gr/greek/Dioceses/repository_for_all/megaron_dioikisis_new.pdf"
+      ]
+    },
+    {
+      "id": "gr-megara-current-monastery-reconciliation",
+      "result": "The current body-owned roster names six male and ten female monasteries, exactly matching the Church of Greece aggregate of 16 monastic churches. Panagia Hodegetria is published because its current exact post now classifies it among the six male monasteries, superseding the older profile wording that called it under establishment.",
+      "sources": [
+        "https://www.immesa.gr/ieres-mones-metoxia/",
+        "https://www.immesa.gr/ieres-mones-metoxia/%cf%80%ce%b1%ce%bd%ce%b1%ce%b3%ce%af%ce%b1%cf%82-%e1%bd%81%ce%b4%ce%b7%ce%b3%ce%b7%cf%84%cf%81%ce%af%ce%b1%cf%82-%ce%b2%ce%b1%cf%83%ce%b9%ce%bb%ce%b9%ce%ba%e1%bf%b6%ce%bd-%cf%83%ce%b1%ce%bb%ce%b1/",
+        "https://www.ecclesiagreece.gr/greek/Dioceses/repository_for_all/megaron_dioikisis_new.pdf"
+      ]
+    },
+    {
+      "id": "gr-megara-current-metochion-reconciliation",
+      "result": "The current body-owned page names seven exact metochia. All seven appear in the Church of Greece administrative record, which also names one additional Saint John Kalyvites dependency absent from the current roster. The seven current identities are published and the profile-only eighth is held.",
+      "sources": [
+        "https://www.immesa.gr/ieres-mones-metoxia/",
+        "https://www.ecclesiagreece.gr/greek/Dioceses/repository_for_all/megaron_dioikisis_new.pdf"
+      ]
+    },
+    {
+      "id": "gr-megara-contact-provenance",
+      "result": "Every valid phone on the 32 current parish detail pages and 15 of the 16 current monastery detail pages is retained, including mobile and clergy-linked public routes. Saint Catherine Monastery has a dash-only phone field and therefore carries no contact audit metadata. The current exact pages expose no body email, fax, or verified direct body website.",
+      "sources": [
+        "https://www.immesa.gr/enories/",
+        "https://www.immesa.gr/ieres-mones-metoxia/",
+        "https://www.ecclesiagreece.gr/greek/Dioceses/repository_for_all/megaron_dioikisis_new.pdf"
+      ]
+    }
+  ],
+  "official_parent_audit": [
+    {
+      "id": "gr-megara-current-metropolis",
+      "parent": "gr-megara",
+      "status": "confirmed-current",
+      "result": "The Church of Greece profile and body-owned site establish the current canonical Holy Metropolis of Megara and Salamis.",
+      "sources": [
+        "https://www.ecclesiagreece.gr/ecclesiajoomla/index.php/el/metropoleis/megaron-kai-salaminos",
+        "https://www.immesa.gr/"
+      ]
+    },
+    {
+      "id": "gr-megara-current-roster-control",
+      "parent": "gr-megara",
+      "status": "confirmed-current",
+      "result": "The three current body-owned roster pages and their exact detail posts control current identity and contact facts. The linked Church of Greece administrative record corroborates counts and identities without creating unnamed aggregate rows.",
+      "sources": [
+        "https://www.immesa.gr/enories/",
+        "https://www.immesa.gr/ieres-mones-metoxia/",
+        "https://www.ecclesiagreece.gr/greek/Dioceses/repository_for_all/megaron_dioikisis_new.pdf"
+      ]
+    }
+  ],
+  "exclusions": [
+    {
+      "id": "gr-megara-central-contacts",
+      "status": "excluded",
+      "reason": "The Metropolis central switchboard, fax, general email, and office address repeated in the site footer and Church profile are not copied to subordinate bodies.",
+      "sources": [
+        "https://www.immesa.gr/contact/",
+        "https://www.ecclesiagreece.gr/ecclesiajoomla/index.php/el/metropoleis/megaron-kai-salaminos"
+      ]
+    },
+    {
+      "id": "gr-megara-personal-names",
+      "status": "excluded",
+      "reason": "Clergy and monastic personal names and role labels are omitted. A public phone remains only when the exact body page presents it as the contact route for that body.",
+      "sources": [
+        "https://www.immesa.gr/enories/",
+        "https://www.immesa.gr/ieres-mones-metoxia/"
+      ]
+    },
+    {
+      "id": "gr-megara-dissolved-historical-and-aggregate-bodies",
+      "status": "excluded-or-held",
+      "reason": "Dissolved monasteries, unnamed chapel and cemetery aggregates, historical-only churches, and the older profile-only metochion are not published as current bodies.",
+      "sources": [
+        "https://www.immesa.gr/ieres-mones-metoxia/",
+        "https://www.ecclesiagreece.gr/greek/Dioceses/repository_for_all/megaron_dioikisis_new.pdf"
+      ]
+    },
+    {
+      "id": "gr-megara-map-search-social-tourism-leads",
+      "status": "excluded-as-current-canonical-evidence",
+      "reason": "Map-only, search-only, friends-page, social-network, commercial-directory, tourism, and municipal-history leads do not create rows or body-owned-site claims without current competent canonical confirmation.",
+      "sources": [
+        "https://salamina.eu/tourism/churches/searchchurches.aspx",
+        "https://profitisiliaserythron.blogspot.com/",
+        "https://www.immesa.gr/ieres-mones-metoxia/"
+      ]
+    }
+  ]
+}
