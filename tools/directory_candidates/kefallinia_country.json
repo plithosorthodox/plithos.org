@@ -1,0 +1,193 @@
+{
+  "v": 1,
+  "countries": [
+    "GR"
+  ],
+  "checked": "2026-11-15",
+  "method": "Publish the 167 exact parish identities in regulation 2659/1589 from FEK B 3311/29.08.2019 and confirm that the 2020 replacement of Article 1 retains the same 167 named parishes and expressly reports zero pilgrimage churches. Hold the 2024 calendar report of 164 parishes as an unresolved aggregate difference of three because it does not identify the bodies omitted from that count. Do not delete three legal rows by inference. Publish the nine monasteries and four metochia on the current Church of Greece profile, preserve every public body-associated telephone route on that profile without clergy names, and do not copy central Metropolis contacts to subordinate bodies. Treat the lost imk.gr domain as a stale historic link, not as an official site. Hold map-only, search-only, tourism-only, historic-only, aggregate-only, and canonically unclear leads outside the published roster.",
+  "published_summary": {
+    "gr-kefallinia": 180,
+    "total": 180,
+    "regulated_parish_rows": 167,
+    "current_calendar_reported_parishes": 164,
+    "unresolved_parish_aggregate_difference": 3,
+    "current_monastery_rows": 9,
+    "current_metochion_rows": 4,
+    "regulated_pilgrimage_rows": 0,
+    "parish_kind_rows": 167,
+    "monastery_kind_rows": 13,
+    "contact_bodies": 11,
+    "phone_bodies": 11,
+    "public_phone_values": 12,
+    "email_bodies": 0,
+    "public_email_values": 0,
+    "body_owned_sites": 0,
+    "address_bodies": 178
+  },
+  "candidates": [
+    {
+      "candidate_id": "gr-kefallinia-regulated-parish-roster",
+      "parent": "gr-kefallinia",
+      "country": "GR",
+      "category": "legal-current-roster",
+      "status": "published",
+      "reason": "Regulation 2659/1589 prints 167 exact parish rows and totals 167 parishes. The 2020 decision that replaces Article 1 republishes the same 167 named identities and again totals 167. All 167 rows are published from the competent legal roster.",
+      "sources": [
+        "https://api.et.gr/apiFEK/2/2019/3311/pdf",
+        "https://ecclesiagreece.gr/greek/press/ekklisia/2020_noembrios.pdf"
+      ]
+    },
+    {
+      "candidate_id": "gr-kefallinia-2024-calendar-parish-count",
+      "parent": "gr-kefallinia",
+      "country": "GR",
+      "category": "aggregate-current-conflict",
+      "status": "held",
+      "reason": "A January 2024 local publication reports from the Metropolis calendar that the Metropolis has 164 parishes, with 41 staffed and 123 vacant. That report supplies no identity-level roster and does not identify which three of the 167 legal parish rows are outside its count. The difference of three is preserved as a held reconciliation gap. No legal row is removed by guesswork.",
+      "sources": [
+        "https://voutospress.gr/wp-content/uploads/2024/01/%CE%A6%CF%81%CE%B1%CE%B3%CE%BA%CE%AC%CF%84%CE%B1-59%CE%BF-%CF%84%CE%B5%CF%8D%CF%87.-%CE%99%CE%B1%CE%BD.-2024-%CF%83%CE%B5%CE%BB.-12.pdf",
+        "https://api.et.gr/apiFEK/2/2019/3311/pdf",
+        "https://ecclesiagreece.gr/greek/press/ekklisia/2020_noembrios.pdf"
+      ]
+    },
+    {
+      "candidate_id": "gr-kefallinia-current-monasteries-and-metochia",
+      "parent": "gr-kefallinia",
+      "country": "GR",
+      "category": "current-canonical-roster",
+      "status": "published",
+      "reason": "The current Church of Greece profile names five male monasteries, four female monasteries, and four metochia. Those thirteen exact canonical subordinate bodies are published with the classifications used by the profile.",
+      "sources": [
+        "https://www.ecclesiagreece.gr/ecclesiajoomla/index.php/el/metropoleis/kephallenias"
+      ]
+    },
+    {
+      "candidate_id": "gr-kefallinia-pilgrimage-classification",
+      "parent": "gr-kefallinia",
+      "country": "GR",
+      "category": "legal-classification",
+      "status": "held",
+      "reason": "The 2020 replacement of Article 1 expressly reports zero pilgrimage churches. The current Church of Greece profile labels four bodies as metochia, not pilgrimage churches. Popular pilgrimage language in tourism and search results does not override those competent classifications, so no separate Pilgrimage Church row is inferred.",
+      "sources": [
+        "https://ecclesiagreece.gr/greek/press/ekklisia/2020_noembrios.pdf",
+        "https://www.ecclesiagreece.gr/ecclesiajoomla/index.php/el/metropoleis/kephallenias"
+      ]
+    },
+    {
+      "candidate_id": "gr-kefallinia-public-monastic-phones",
+      "parent": "gr-kefallinia",
+      "country": "GR",
+      "category": "public-body-contact",
+      "status": "published",
+      "reason": "The current Church of Greece profile publishes telephone routes beside all nine monasteries and two metochia. Twelve usable values are retained across eleven bodies. The abbreviated second Saint Gerasimos value inherits the printed 26710 prefix. The Cave of Saint Gerasimos value is retained exactly as printed, 26710-2832, and is not silently repaired. No clergy names or role labels are retained.",
+      "sources": [
+        "https://www.ecclesiagreece.gr/ecclesiajoomla/index.php/el/metropoleis/kephallenias"
+      ]
+    },
+    {
+      "candidate_id": "gr-kefallinia-lost-imk-domain",
+      "parent": "gr-kefallinia",
+      "country": "GR",
+      "category": "stale-parent-link",
+      "status": "excluded",
+      "reason": "The Church of Greece profile still displays imk.gr as a Metropolis link, but that domain is no longer controlled as the official Metropolis site. It is not used as a source, a direct body site, or evidence of current ownership.",
+      "sources": [
+        "https://www.ecclesiagreece.gr/ecclesiajoomla/index.php/el/metropoleis/kephallenias"
+      ]
+    },
+    {
+      "candidate_id": "gr-kefallinia-saint-gerasimos-romanian-site",
+      "parent": "gr-kefallinia",
+      "country": "GR",
+      "category": "unverified-direct-site-lead",
+      "status": "discovery-only",
+      "reason": "A Romanian-language site is devoted to the Saint Gerasimos monastery and publishes visitor material, but the reviewed competent Church source does not establish current ownership or editorial control by the monastery. It is held as a discovery lead and not published as the body's direct website.",
+      "sources": [
+        "https://sfantulgherasim.ro/el/manastirea/",
+        "https://www.ecclesiagreece.gr/ecclesiajoomla/index.php/el/metropoleis/kephallenias"
+      ]
+    },
+    {
+      "candidate_id": "gr-kefallinia-map-search-and-event-leads",
+      "parent": "gr-kefallinia",
+      "country": "GR",
+      "category": "insufficient-current-authority",
+      "status": "discovery-only",
+      "reason": "Map results, search snippets, travel pages, local event notices, and historic church references identify additional chapels, shrines, and monastery-associated buildings. They do not provide a complete current canonical roster or reliably distinguish a separate subordinate body from a parish building, dependency, historic monument, or popular name. No row or contact is inferred from those leads.",
+      "sources": [
+        "https://www.ecclesiagreece.gr/ecclesiajoomla/index.php/el/metropoleis/kephallenias",
+        "https://voutospress.gr/wp-content/uploads/2024/01/%CE%A6%CF%81%CE%B1%CE%B3%CE%BA%CE%AC%CF%84%CE%B1-59%CE%BF-%CF%84%CE%B5%CF%8D%CF%87.-%CE%99%CE%B1%CE%BD.-2024-%CF%83%CE%B5%CE%BB.-12.pdf"
+      ]
+    }
+  ],
+  "source_reconciliations": [
+    {
+      "topic": "2019-legal-parish-roster",
+      "finding": "The National Printing House gazette for regulation 2659/1589 prints seven regional sections containing 31, 35, 11, 20, 16, 27, and 27 parish rows. Those sections total exactly 167 and the regulation prints the same total. The published parish roster preserves every exact row and creates no unnamed residual body.",
+      "sources": [
+        "https://api.et.gr/apiFEK/2/2019/3311/pdf"
+      ]
+    },
+    {
+      "topic": "2020-replacement-of-article-one",
+      "finding": "Decision 2811/1341/2020 expressly replaces Article 1 of the 2019 regulation. Its table retains the same 167 named parish identities, totals 167 parishes and 167 priest positions, and expressly reports zero pilgrimage churches.",
+      "sources": [
+        "https://ecclesiagreece.gr/greek/press/ekklisia/2020_noembrios.pdf",
+        "https://api.et.gr/apiFEK/2/2019/3311/pdf"
+      ]
+    },
+    {
+      "topic": "2024-calendar-aggregate",
+      "finding": "The 2024 calendar report gives 164 parishes, divided into 41 staffed and 123 vacant. Because it supplies no names, its three-body difference from the 167-row legal roster cannot be assigned to exact parish identities. The conflict is recorded without inventing deletions or unnamed residual rows.",
+      "sources": [
+        "https://voutospress.gr/wp-content/uploads/2024/01/%CE%A6%CF%81%CE%B1%CE%B3%CE%BA%CE%AC%CF%84%CE%B1-59%CE%BF-%CF%84%CE%B5%CF%8D%CF%87.-%CE%99%CE%B1%CE%BD.-2024-%CF%83%CE%B5%CE%BB.-12.pdf",
+        "https://ecclesiagreece.gr/greek/press/ekklisia/2020_noembrios.pdf"
+      ]
+    },
+    {
+      "topic": "current-monastic-roster",
+      "finding": "The current Church of Greece profile supplies nine named monasteries and four named metochia. All thirteen are published exactly once. The legal total of zero pilgrimage churches is preserved, so none of the metochia or popular pilgrimage destinations is relabeled as a separate pilgrimage church.",
+      "sources": [
+        "https://www.ecclesiagreece.gr/ecclesiajoomla/index.php/el/metropoleis/kephallenias",
+        "https://ecclesiagreece.gr/greek/press/ekklisia/2020_noembrios.pdf"
+      ]
+    },
+    {
+      "topic": "public-contact-treatment",
+      "finding": "Only telephone routes printed beside exact subordinate bodies on the current Church of Greece profile are published. Central Metropolis phone, fax, email, and web routes are not propagated. Rows without a body-specific phone, email, or direct site carry no contact_checked or contact_sources fields.",
+      "sources": [
+        "https://www.ecclesiagreece.gr/ecclesiajoomla/index.php/el/metropoleis/kephallenias"
+      ]
+    }
+  ],
+  "official_parent_audit": [
+    {
+      "parent": "gr-kefallinia",
+      "status": "audited",
+      "finding": "The National Printing House regulation and its Church of Greece amendment establish the legal parish roster. The current Church of Greece profile establishes the canonical parent and current monastery and metochion roster. The lost former Metropolis domain is excluded from authority and site fields.",
+      "sources": [
+        "https://api.et.gr/apiFEK/2/2019/3311/pdf",
+        "https://ecclesiagreece.gr/greek/press/ekklisia/2020_noembrios.pdf",
+        "https://www.ecclesiagreece.gr/ecclesiajoomla/index.php/el/metropoleis/kephallenias"
+      ]
+    }
+  ],
+  "exclusions": [
+    {
+      "category": "non-worship-and-central-routes",
+      "reason": "Metropolis offices, councils, schools, media, charities, museums, care institutions, publications, and other non-worship institutions are not separate worship rows. Central parent contacts are not copied to subordinate bodies.",
+      "sources": [
+        "https://www.ecclesiagreece.gr/ecclesiajoomla/index.php/el/metropoleis/kephallenias"
+      ]
+    },
+    {
+      "category": "unverified-and-aggregate-leads",
+      "reason": "Unnamed aggregates, maps, search results, travel summaries, social profiles, news and event notices, historic references, and body-like names without a competent current canonical classification remain held. A popular shrine description or a dedicated third-party site is not enough to create a separate current body or direct body website.",
+      "sources": [
+        "https://voutospress.gr/wp-content/uploads/2024/01/%CE%A6%CF%81%CE%B1%CE%B3%CE%BA%CE%AC%CF%84%CE%B1-59%CE%BF-%CF%84%CE%B5%CF%8D%CF%87.-%CE%99%CE%B1%CE%BD.-2024-%CF%83%CE%B5%CE%BB.-12.pdf",
+        "https://sfantulgherasim.ro/el/manastirea/",
+        "https://www.ecclesiagreece.gr/ecclesiajoomla/index.php/el/metropoleis/kephallenias"
+      ]
+    }
+  ]
+}
