@@ -1,0 +1,221 @@
+{
+  "v": 1,
+  "countries": [
+    "GR"
+  ],
+  "checked": "2026-11-15",
+  "method": "Publish the 164 parish bodies expressly regulated in FEK B 3311/29.08.2019 after one-to-one reconciliation with the thirteen current first-party district rosters. Use the current body-owned wording where it refines a legal dedication or locality. Publish the eighteen exact monastery bodies and six exact pilgrimage churches on the sixteen current first-party monastery and pilgrimage pages. Preserve current public addresses and every complete body-associated public telephone route, including clergy-linked routes, while omitting clergy names. Do not copy central Metropolis contacts to subordinate bodies. Do not infer a missing digit, email, independent body website, unnamed residual body, or canonical status from a map result, search result, historical reference, aggregate, or incomplete number.",
+  "published_summary": {
+    "gr-korinthos": 188,
+    "total": 188,
+    "regulated_parish_rows": 164,
+    "current_raw_church_headings": 165,
+    "current_unique_parish_rows": 164,
+    "duplicate_church_headings_held": 1,
+    "current_monastery_rows": 18,
+    "current_pilgrimage_rows": 6,
+    "parish_kind_rows": 170,
+    "monastery_kind_rows": 18,
+    "contact_bodies": 145,
+    "phone_bodies": 145,
+    "public_phone_values": 161,
+    "fax_bodies": 0,
+    "public_fax_values": 0,
+    "email_bodies": 0,
+    "public_email_values": 0,
+    "body_owned_sites": 0,
+    "address_bodies": 188
+  },
+  "candidates": [
+    {
+      "candidate_id": "gr-korinthos-regulated-parish-reconciliation",
+      "parent": "gr-korinthos",
+      "country": "GR",
+      "category": "legal-current-reconciliation",
+      "status": "published",
+      "reason": "The regulation expressly totals 164 parishes. The thirteen current district pages contain 165 raw church headings, but one Ellinochori Saints Constantine and Helen heading and its contact block are repeated verbatim on the Velo page. Removing only that exact duplicate leaves 164 unique current headings. Their district totals are 9, 14, 17, 14, 9, 9, 15, 15, 20, 11, 9, 12, and 10, exactly matching the legal table. Every regulated parish therefore has one current first-party identity and no unnamed residual row is needed.",
+      "sources": [
+        "https://api.et.gr/apiFEK/2/2019/3311/pdf",
+        "https://imkorinthou.org/ieroi-naoi-korinthou/",
+        "https://imkorinthou.org/ieroi-naoi-velou/",
+        "https://imkorinthou.org/ieroi-naoi-vochas/",
+        "https://imkorinthou.org/ieroi-naoi-eurwstinis/",
+        "https://imkorinthou.org/ieroi-naoi-klewnwn/",
+        "https://imkorinthou.org/ieroi-naoi-loutrakiou/",
+        "https://imkorinthou.org/ieroi-naoi-nemeas/",
+        "https://imkorinthou.org/ieroi-naoi-xulokastrou/",
+        "https://imkorinthou.org/ieroi-naoi-sikuwnos/",
+        "https://imkorinthou.org/ieroi-naoi-solugeias/",
+        "https://imkorinthou.org/ieroi-naoi-stumfalias/",
+        "https://imkorinthou.org/ieroi-naoi-trikalwn/",
+        "https://imkorinthou.org/ieoi-naoi-feneou/"
+      ]
+    },
+    {
+      "candidate_id": "gr-korinthos-velos-exact-duplicate",
+      "parent": "gr-korinthos",
+      "country": "GR",
+      "category": "duplicate-source-heading",
+      "status": "held",
+      "reason": "The Velo page prints the Ellinochori Saints Constantine and Helen heading and the same public contact block twice. The second occurrence is source duplication, not a second canonical body, and is not published as another row.",
+      "sources": [
+        "https://imkorinthou.org/ieroi-naoi-velou/",
+        "https://api.et.gr/apiFEK/2/2019/3311/pdf"
+      ]
+    },
+    {
+      "candidate_id": "gr-korinthos-prior-157-heading-aggregate",
+      "parent": "gr-korinthos",
+      "country": "GR",
+      "category": "unreproduced-aggregate",
+      "status": "held",
+      "reason": "A prior aggregate of 157 district headings is not reproducible on the current first-party pages. The live pages expose 165 raw headings and 164 after one exact duplicate is removed. Because those 164 unique identities reconcile exactly to the legal total and district counts, seven named current bodies are not discarded to force the prior aggregate.",
+      "sources": [
+        "https://api.et.gr/apiFEK/2/2019/3311/pdf",
+        "https://imkorinthou.org/ieroi-naoi-korinthou/",
+        "https://imkorinthou.org/ieroi-naoi-velou/"
+      ]
+    },
+    {
+      "candidate_id": "gr-korinthos-current-name-refinements",
+      "parent": "gr-korinthos",
+      "country": "GR",
+      "category": "current-name-precedence",
+      "status": "published",
+      "reason": "Eight reconciled rows carry a material current refinement or conflict: Corinth Saint George is currently Saints Macarius and George; Corinth Saint Anastasia is identified at Poseidonia; Corinth Saint John is identified at Kallithea; the Loutraki, Isthmia, and Kato Trikala Saint John rows are currently Saint John the Forerunner; Korfiotissa Saint Spyridon is currently the Dormition of the Theotokos; and Mosia Saint Nicholas is currently Saint Nicholas the New. The current first-party headings control the published identity while the regulation establishes each parish row.",
+      "sources": [
+        "https://api.et.gr/apiFEK/2/2019/3311/pdf",
+        "https://imkorinthou.org/ieroi-naoi-korinthou/",
+        "https://imkorinthou.org/ieroi-naoi-loutrakiou/",
+        "https://imkorinthou.org/ieroi-naoi-xulokastrou/",
+        "https://imkorinthou.org/ieroi-naoi-trikalwn/",
+        "https://imkorinthou.org/ieoi-naoi-feneou/"
+      ]
+    },
+    {
+      "candidate_id": "gr-korinthos-current-monasteries-and-pilgrimages",
+      "parent": "gr-korinthos",
+      "country": "GR",
+      "category": "current-canonical-rosters",
+      "status": "published",
+      "reason": "The sixteen exact first-party monastery and pilgrimage pages identify eighteen monasteries and six pilgrimage churches. All twenty-four current bodies are published once. A monastery heading on the Feneos page is separated from the appended clergy assignment so no clergy name enters the body identity.",
+      "sources": [
+        "https://imkorinthou.org/iera-proskunimata-korinthou/",
+        "https://imkorinthou.org/ieres-mones-velou/",
+        "https://imkorinthou.org/ieres-mones-vohas/",
+        "https://imkorinthou.org/ieres-mones-eurwstinis/",
+        "https://imkorinthou.org/ieres-mones-klewnwn/",
+        "https://imkorinthou.org/iera-proskunhmata-klewnwn/",
+        "https://imkorinthou.org/ieres-mones-loutrakiou/",
+        "https://imkorinthou.org/iera-proskunimata-loutrakiou/",
+        "https://imkorinthou.org/ieres-mones-nemeas/",
+        "https://imkorinthou.org/ieres-mones-xylokastrou/",
+        "https://imkorinthou.org/ieres-mones-sikuwnos/",
+        "https://imkorinthou.org/ieres-mones-stumfalias/",
+        "https://imkorinthou.org/ieres-mones-soligeias/",
+        "https://imkorinthou.org/ieres-mones-trikalwn/",
+        "https://imkorinthou.org/iera-proskunhmata-trikalwn/",
+        "https://imkorinthou.org/ieres-mones-feneou/"
+      ]
+    },
+    {
+      "candidate_id": "gr-korinthos-incomplete-phone-values",
+      "parent": "gr-korinthos",
+      "country": "GR",
+      "category": "incomplete-contact",
+      "status": "held",
+      "reason": "The Lechaio Saint Gerasimos entry prints only 27410 88 and the Souli Dormition entry prints the nine-digit value 698875579. Neither value is silently repaired or published. Their addresses and identities remain published without contact provenance.",
+      "sources": [
+        "https://imkorinthou.org/ieroi-naoi-vochas/",
+        "https://imkorinthou.org/ieroi-naoi-sikuwnos/"
+      ]
+    },
+    {
+      "candidate_id": "gr-korinthos-map-search-and-noncanonical-leads",
+      "parent": "gr-korinthos",
+      "country": "GR",
+      "category": "insufficient-current-authority",
+      "status": "discovery-only",
+      "reason": "Map pins, search snippets, historic references, news mentions, unnamed church aggregates, and bodies whose canonical parent or present administrative status is unclear do not establish an additional current subordinate body. None is published or used for contact enrichment without a competent exact-body source.",
+      "sources": [
+        "https://imkorinthou.org/",
+        "https://api.et.gr/apiFEK/2/2019/3311/pdf"
+      ]
+    }
+  ],
+  "source_reconciliations": [
+    {
+      "topic": "regulated-parish-roster",
+      "finding": "The National Printing House PDF for FEK B 3311/29.08.2019 contains regulation 2246/1524 for the Holy Metropolis of Corinth. Its table contains exactly 164 parish rows across thirteen archieratical regions and expressly prints a total of 164 parishes and 188 organic clergy positions.",
+      "sources": [
+        "https://api.et.gr/apiFEK/2/2019/3311/pdf"
+      ]
+    },
+    {
+      "topic": "thirteen-current-district-pages",
+      "finding": "The thirteen live first-party church pages expose 165 raw headings. The Velo page repeats one exact heading and contact block, leaving 164 unique bodies. The unique current district counts exactly match all thirteen legal district counts, so the current and legal rosters reconcile one-to-one.",
+      "sources": [
+        "https://imkorinthou.org/ieroi-naoi-korinthou/",
+        "https://imkorinthou.org/ieroi-naoi-velou/",
+        "https://imkorinthou.org/ieroi-naoi-vochas/",
+        "https://imkorinthou.org/ieroi-naoi-eurwstinis/",
+        "https://imkorinthou.org/ieroi-naoi-klewnwn/",
+        "https://imkorinthou.org/ieroi-naoi-loutrakiou/",
+        "https://imkorinthou.org/ieroi-naoi-nemeas/",
+        "https://imkorinthou.org/ieroi-naoi-xulokastrou/",
+        "https://imkorinthou.org/ieroi-naoi-sikuwnos/",
+        "https://imkorinthou.org/ieroi-naoi-solugeias/",
+        "https://imkorinthou.org/ieroi-naoi-stumfalias/",
+        "https://imkorinthou.org/ieroi-naoi-trikalwn/",
+        "https://imkorinthou.org/ieoi-naoi-feneou/"
+      ]
+    },
+    {
+      "topic": "current-monastery-and-pilgrimage-pages",
+      "finding": "The sixteen supplied live first-party pages contain eighteen exact monastery bodies and six exact pilgrimage churches. Two bodies are presented in paragraph headings rather than list elements, and are retained because the page headings and contact blocks identify them exactly.",
+      "sources": [
+        "https://imkorinthou.org/ieres-mones-eurwstinis/",
+        "https://imkorinthou.org/iera-proskunhmata-klewnwn/",
+        "https://imkorinthou.org/ieres-mones-feneou/"
+      ]
+    },
+    {
+      "topic": "public-contact-treatment",
+      "finding": "The current body-owned pages provide complete public telephone routes for 145 bodies, totaling 161 values, and a public address for all 188 published bodies. Clergy-linked routes are retained as body-associated public numbers while clergy names and role labels are omitted. The pages expose no verified public body email or independent direct body website. Rows without a complete phone therefore carry no contact_checked or contact_sources fields.",
+      "sources": [
+        "https://imkorinthou.org/ieroi-naoi-korinthou/",
+        "https://imkorinthou.org/ieres-mones-loutrakiou/",
+        "https://imkorinthou.org/ieres-mones-trikalwn/"
+      ]
+    }
+  ],
+  "official_parent_audit": [
+    {
+      "parent": "gr-korinthos",
+      "status": "audited",
+      "finding": "The National Printing House regulation and the body-owned Metropolis of Corinth district, monastery, and pilgrimage pages establish the canonical parent and exact current subordinate-body roster used here.",
+      "sources": [
+        "https://api.et.gr/apiFEK/2/2019/3311/pdf",
+        "https://imkorinthou.org/ieroi-naoi-korinthou/",
+        "https://imkorinthou.org/iera-proskunimata-korinthou/"
+      ]
+    }
+  ],
+  "exclusions": [
+    {
+      "category": "non-worship-and-central-routes",
+      "reason": "Metropolis offices, district representatives, councils, schools, media, charities, care institutions, publications, and other non-worship institutions are not separate worship rows. Central or district-level contact details are not propagated to subordinate bodies.",
+      "sources": [
+        "https://imkorinthou.org/"
+      ]
+    },
+    {
+      "category": "unverified-and-noncanonical-body-leads",
+      "reason": "Map-only results, search-only results, historic-only churches, news-only chapels, dependencies, monuments, unnamed aggregates, and bodies with unclear current canonical administration remain outside the published roster unless a competent current exact-body source establishes them.",
+      "sources": [
+        "https://api.et.gr/apiFEK/2/2019/3311/pdf",
+        "https://imkorinthou.org/ieroi-naoi-korinthou/"
+      ]
+    }
+  ]
+}
