@@ -1,0 +1,119 @@
+{
+  "v": 1,
+  "countries": [
+    "GR"
+  ],
+  "checked": "2026-11-15",
+  "method": "Publish the 20 exact parish legal persons shared by the Church of Greece regulation and the current local Metropolis roster, plus the three cemetery churches and three operating institutional chapels that the local Metropolis names individually. Retain every current public body and clergy-linked telephone or fax number while omitting personal names. Publish only live direct body sites and body-specific emails confirmed on those sites. Hold dead sites, historic-only places, unnamed chapels, institutions without exact worship bodies, and search-only leads.",
+  "published_summary": {
+    "gr-nea-smyrni": 26,
+    "total": 26,
+    "regulated_parish_rows": 20,
+    "cemetery_church_rows": 3,
+    "operating_institutional_chapel_rows": 3,
+    "contact_bodies": 26,
+    "phone_bodies": 26,
+    "public_phone_values": 91,
+    "email_bodies": 7,
+    "public_email_values": 7,
+    "body_owned_sites": 12,
+    "address_bodies": 26
+  },
+  "candidates": [
+    {
+      "candidate_id": "gr-nea-smyrni-panteleimon-former-site",
+      "parent": "gr-nea-smyrni",
+      "country": "GR",
+      "category": "dead-site",
+      "status": "held",
+      "reason": "The current Metropolis parish page still names the former agiospanteleimon.gr address, but the domain no longer resolves. The parish and its current official-page contacts are published without presenting the dead address as a live body site.",
+      "sources": [
+        "https://www.imns.gr/mitropoli/enories/50-enories-dimou-alimou/80-gios-panteleimon-traxonon"
+      ]
+    },
+    {
+      "candidate_id": "gr-nea-smyrni-monastic-roster",
+      "parent": "gr-nea-smyrni",
+      "country": "GR",
+      "category": "no-exact-current-roster",
+      "status": "held",
+      "reason": "The current local directory exposes parishes, cemetery churches, and operating institutional chapels, but no exact current monastery roster. No monastery is inferred from search results or from institutions that do not identify a distinct worship body.",
+      "sources": [
+        "https://www.imns.gr/mitropoli/enories",
+        "https://www.ecclesiagreece.gr/ecclesiajoomla/index.php/el/metropoleis/neas-smyrnes"
+      ]
+    },
+    {
+      "candidate_id": "gr-nea-smyrni-unnamed-and-historic-chapels",
+      "parent": "gr-nea-smyrni",
+      "country": "GR",
+      "category": "historic-or-dependent-status-unclear",
+      "status": "held",
+      "reason": "Parish histories mention earlier wooden churches, small chapels, and dependent worship spaces without consistently establishing an exact current independently listed body. Only the three chapels in the current operating-chapel roster are published.",
+      "sources": [
+        "https://www.imns.gr/mitropoli/enories",
+        "https://www.imns.gr/mitropoli/enories/53-naoi-parekklision-poy-leitourgoun"
+      ]
+    }
+  ],
+  "source_reconciliations": [
+    {
+      "candidate_id": "gr-nea-smyrni-regulated-parishes",
+      "status": "published",
+      "reason": "The June 2017 Church of Greece regulation enumerates the 20 parish legal persons. The current local directory supplies the same exact parish identities, addresses, public contact values, and current body sites.",
+      "sources": [
+        "https://ecclesiagreece.gr/greek/press/ekklisia/2017_iounios.pdf",
+        "https://www.imns.gr/mitropoli/enories"
+      ]
+    },
+    {
+      "candidate_id": "gr-nea-smyrni-dependent-current-bodies",
+      "status": "published",
+      "reason": "The current local directory separately names three cemetery churches and three operating institutional chapels. Each receives its own row because the source gives an exact dedication, location, and current public telephone.",
+      "sources": [
+        "https://www.imns.gr/mitropoli/enories/52-naoi-koimitirion",
+        "https://www.imns.gr/mitropoli/enories/53-naoi-parekklision-poy-leitourgoun"
+      ]
+    },
+    {
+      "candidate_id": "gr-nea-smyrni-contact-reconciliation",
+      "status": "published",
+      "reason": "The individual local pages publish office, fax, and clergy-linked public numbers without requiring personal names in the directory. Seven body-specific emails are independently confirmed on live direct body sites. Unrelated developer and third-party emails are excluded.",
+      "sources": [
+        "https://www.imns.gr/mitropoli/enories",
+        "https://agioianargyroi.gr/",
+        "https://agia-varvara-argyroupolis.gr/"
+      ]
+    }
+  ],
+  "official_parent_audit": [
+    {
+      "candidate_id": "gr-nea-smyrni-parent-authority",
+      "status": "confirmed",
+      "reason": "The Church of Greece profile and the Metropolis history identify the canonical parent, its current territory, and its official site. The row set remains confined to Nea Smyrni, Palaio Faliro, Alimos, Argyroupoli, and the Saint Sostis parish in Athens.",
+      "sources": [
+        "https://www.ecclesiagreece.gr/ecclesiajoomla/index.php/el/metropoleis/neas-smyrnes",
+        "https://www.imns.gr/mitropoli/istoriko"
+      ]
+    }
+  ],
+  "exclusions": [
+    {
+      "candidate_id": "gr-nea-smyrni-personal-names",
+      "status": "excluded",
+      "reason": "The current pages associate additional public telephone numbers with serving clergy. Those public contact routes are retained under the worship body, as authorized, but clergy names and titles are not copied into directory rows.",
+      "sources": [
+        "https://www.imns.gr/mitropoli/enories"
+      ]
+    },
+    {
+      "candidate_id": "gr-nea-smyrni-non-worship-institutions",
+      "status": "excluded",
+      "reason": "Schools, charities, offices, youth programs, and foundations are not published as worship bodies unless the current operating-chapel roster names an exact chapel within them.",
+      "sources": [
+        "https://www.imns.gr/mitropoli/",
+        "https://www.imns.gr/mitropoli/enories/53-naoi-parekklision-poy-leitourgoun"
+      ]
+    }
+  ]
+}
