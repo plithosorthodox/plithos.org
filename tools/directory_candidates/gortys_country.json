@@ -1,0 +1,313 @@
+{
+  "v": 1,
+  "countries": ["GR"],
+  "checked": "2026-11-15",
+  "method": "The current body-owned regional tables control exact current parish identities and public parish contact routes. All 168 complete named parish rows are published, including ten visible final rows whose closing table tags are malformed. The 2020 Church of Greece regulation and the older administration aggregate each report 161 parishes, seven fewer than the current exact body-owned roster, so the current named rows control without deleting exact identities to force agreement with the older count. The current body-owned monastic pages control thirteen current monasteries and two current metochia, while eleven independent monastery or hermitage identities on the dissolved-monastery page are held. Saint Theodore Pyrgaki is published only in its separately current metochion rank. Two current 2026 body-owned posts establish the Saint Theodora pilgrimage at Vasta. Administration totals for chapels, country chapels, cemetery churches, and monastic churches remain aggregate-only and do not create unnamed rows. Public body-associated phones are retained without clergy names. No body email, direct body site, or structured street address is exposed by these exact current rosters.",
+  "published_summary": {
+    "gr-gortys": 184,
+    "total": 184,
+    "module_rows": 184,
+    "existing_external_rows": 1,
+    "integrated_total": 185,
+    "current_parishes": 168,
+    "current_pilgrimages": 1,
+    "current_monasteries": 13,
+    "current_male_monasteries": 6,
+    "current_female_monasteries": 7,
+    "current_metochia": 2,
+    "parish_kind_rows": 169,
+    "monastery_kind_rows": 15,
+    "current_regional_parish_counts": {
+      "dimitsana": 22,
+      "lagkadia": 9,
+      "vytina": 8,
+      "valtetsiniko": 8,
+      "kontovazaina": 9,
+      "tropaia": 26,
+      "velimachi": 7,
+      "megalopolis": 36,
+      "eastern_falaisia": 16,
+      "western_falaisia": 10,
+      "karytaina": 17
+    },
+    "contact_bodies": 180,
+    "phone_bodies": 180,
+    "public_phone_values": 183,
+    "email_bodies": 0,
+    "public_email_values": 0,
+    "body_owned_sites": 0,
+    "address_bodies": 0
+  },
+  "candidate_summary": {
+    "held": 3,
+    "reconciled": 3,
+    "excluded": 1,
+    "total": 7
+  },
+  "candidates": [
+    {
+      "candidate_id": "gr-gortys-current-over-legal-parish-count",
+      "parent": "gr-gortys",
+      "country": "GR",
+      "category": "older-aggregate-and-current-roster-conflict",
+      "status": "reconciled",
+      "reason": "The 2020 Church of Greece regulation and the older Metropolis administration aggregate each report 161 parishes. The eleven current regional rosters expose 168 complete exact named parish rows. The current body-owned exact roster controls, and no exact row is deleted to force agreement with an older count.",
+      "aggregate_counts": {
+        "legal_parishes": 161,
+        "administration_parishes": 161,
+        "current_exact_named_parishes": 168,
+        "current_over_older_count": 7
+      },
+      "sources": [
+        "https://ecclesiagreece.gr/greek/press/ekklisia/2020_martios.pdf",
+        "https://imgortmeg.gr/dioikisi/",
+        "https://imgortmeg.gr/arxieratiki-periferia-megaloupolews/"
+      ]
+    },
+    {
+      "candidate_id": "gr-gortys-unnamed-administration-aggregates",
+      "parent": "gr-gortys",
+      "country": "GR",
+      "category": "aggregate-only",
+      "status": "held",
+      "reason": "The current administration page reports 100 chapels, 518 country chapels, 146 cemetery churches, and 20 monastic churches only as totals. Their exact identities and the relationship between monastic churches, monasteries, and metochia are not supplied, so no residual body is inferred.",
+      "aggregate_counts": {
+        "chapels": 100,
+        "country_chapels": 518,
+        "cemetery_churches": 146,
+        "monastic_churches": 20,
+        "current_exact_monasteries": 13,
+        "current_exact_metochia": 2
+      },
+      "sources": [
+        "https://imgortmeg.gr/dioikisi/",
+        "https://imgortmeg.gr/?page_id=9409",
+        "https://imgortmeg.gr/?page_id=9477"
+      ]
+    },
+    {
+      "candidate_id": "gr-gortys-eleven-dissolved-monastic-bodies",
+      "parent": "gr-gortys",
+      "country": "GR",
+      "category": "dissolved-historical",
+      "status": "held",
+      "reason": "The body-owned dissolved-monastery page places eleven named independent monasteries or hermitages outside the current roster, so none is published in that independent rank. Saint Theodore Pyrgaki is separately current and is published only as a metochion from the body-owned current metochion page.",
+      "count": 11,
+      "names": [
+        "Ιερά Μονή Ζωοδόχου Πηγής Στεμνίτσας",
+        "Ιερά Μονή Αγίου Δημητρίου Στεμνίτσας",
+        "Ιερά Μονή Ισιώματος Καρυών",
+        "Ιερά Μονή Αγίων Θεοδώρων Πυργακίου",
+        "Ιερά Μονή Παναγίας Κράμποβου",
+        "Ιερά Μονή Ρεκίτσας",
+        "Ιερά Μονή Αγίου Νικολάου Βαλτεσινίκου",
+        "Ιερά Μονή Αγίας Σολομονής",
+        "Ιερά Μονή Αγίου Νικολάου Χουντάλου",
+        "Ασκητήριο Αγίου Νίκωνος του Μετανοείτε",
+        "Ασκητήριο Αναλήψεως Καμενίτσας"
+      ],
+      "sources": [
+        "https://imgortmeg.gr/?page_id=9471"
+      ]
+    },
+    {
+      "candidate_id": "gr-gortys-tourkoleka-malformed-tail-row",
+      "parent": "gr-gortys",
+      "country": "GR",
+      "category": "malformed-current-html",
+      "status": "reconciled",
+      "reason": "The current Western Falaisia table visibly supplies a complete tenth row for Tourkoleka - Dormition of the Theotokos with public phone 6974 276 454, but the source omits the row's closing table tag. The complete visible identity and contact are published. Western Falaisia therefore contributes ten parishes, and the full current named parish total is 168.",
+      "published_body": "Τουρκολέκα - Κοιμ. Θεοτόκου",
+      "public_phone": "+30 697-427-6454",
+      "sources": [
+        "https://imgortmeg.gr/arxieratiki-periferia-dytikis-falaisias/",
+        "https://ecclesiagreece.gr/greek/press/ekklisia/2020_martios.pdf"
+      ]
+    },
+    {
+      "candidate_id": "gr-gortys-nine-additional-malformed-tail-rows",
+      "parent": "gr-gortys",
+      "country": "GR",
+      "category": "malformed-current-html",
+      "status": "reconciled",
+      "reason": "Nine additional current regional tables each visibly supply a complete final parish row with a body name and public phone, while omitting the row's closing table tag. All nine complete identities and contacts are published. Together with Tourkoleka, these rows bring the current exact parish total to 168.",
+      "published_bodies": [
+        "Stemnitsa - Saint Paraskevi",
+        "Fteria - Saint George",
+        "Pyrgaki - Honorable Forerunner",
+        "Magouliana - Honorable Forerunner",
+        "Pournaria - Holy Trinity",
+        "Parallongoi - Holy Belt",
+        "Choremion - Saint George",
+        "Falaisia - Saint Nicholas",
+        "Psari - Life-giving Spring"
+      ],
+      "sources": [
+        "https://imgortmeg.gr/arxieratiki-periferia-dimitsanis/",
+        "https://imgortmeg.gr/arxieratiki-perifereia-lagadiwn/",
+        "https://imgortmeg.gr/arxieratiki-periferia-bitinis/"
+      ],
+      "regional_sources": [
+        "https://imgortmeg.gr/arxieratiki-periferia-dimitsanis/",
+        "https://imgortmeg.gr/arxieratiki-perifereia-lagadiwn/",
+        "https://imgortmeg.gr/arxieratiki-periferia-bitinis/",
+        "https://imgortmeg.gr/arxieratiki-periferia-baltesinikou/",
+        "https://imgortmeg.gr/arxieratiki-periferia-kontovazainas/",
+        "https://imgortmeg.gr/arxieratiki-periferia-velimaxiou/",
+        "https://imgortmeg.gr/arxieratiki-periferia-megaloupolews/",
+        "https://imgortmeg.gr/arxieratiki-periferia-anatolikis-falaisias/",
+        "https://imgortmeg.gr/arxieratiki-periferia-karutainas/"
+      ]
+    },
+    {
+      "candidate_id": "gr-gortys-older-profile-monastic-conflict",
+      "parent": "gr-gortys",
+      "country": "GR",
+      "category": "older-profile-conflict",
+      "status": "held",
+      "reason": "The Church of Greece profile exposes an older eight-monastery snapshot, includes Isiomatos Karyon as current, omits current monasteries now named by the body-owned pages, and prints an older Kleivoka phone with prefix 27950 instead of the current 27970 value. The current 2026 body-owned pages control identity and contact facts.",
+      "aggregate_counts": {
+        "older_profile_monasteries": 8,
+        "current_exact_monasteries": 13
+      },
+      "sources": [
+        "https://www.ecclesiagreece.gr/ecclesiajoomla/index.php/el/metropoleis/gortynos-kai-megalopoleos",
+        "https://imgortmeg.gr/?page_id=9461",
+        "https://imgortmeg.gr/?page_id=9471"
+      ]
+    },
+    {
+      "candidate_id": "gr-gortys-empty-lykosoura-page",
+      "parent": "gr-gortys",
+      "country": "GR",
+      "category": "empty-legacy-page",
+      "status": "excluded",
+      "reason": "The current Lykosoura regional page contains only the generic parish heading and no exact body row. Lykosoura bodies appearing in the populated Megalopolis table remain published from that table, but the empty page creates no additional regional body or parish.",
+      "sources": [
+        "https://imgortmeg.gr/arxieratiki-periferia-lykosouras/",
+        "https://imgortmeg.gr/arxieratiki-periferia-megaloupolews/"
+      ]
+    }
+  ],
+  "source_reconciliations": [
+    {
+      "id": "gr-gortys-current-parish-reconciliation",
+      "result": "The eleven populated current regional tables expose 168 exact parish identities. Ten complete final rows, including Tourkoleka, have malformed closing HTML but visibly supply the body identity and public phone. The current exact roster is seven above the older legal and administration total of 161 and controls without deleting named rows.",
+      "sources": [
+        "https://imgortmeg.gr/arxieratiki-periferia-dimitsanis/",
+        "https://imgortmeg.gr/arxieratiki-periferia-dytikis-falaisias/",
+        "https://ecclesiagreece.gr/greek/press/ekklisia/2020_martios.pdf"
+      ]
+    },
+    {
+      "id": "gr-gortys-current-monastery-reconciliation",
+      "result": "The current male and female monastery pages name six male and seven female monasteries. All thirteen current monasteries are published once. The older Church of Greece profile does not override the current body-owned roster.",
+      "sources": [
+        "https://imgortmeg.gr/?page_id=9409",
+        "https://imgortmeg.gr/?page_id=9461",
+        "https://www.ecclesiagreece.gr/ecclesiajoomla/index.php/el/metropoleis/gortynos-kai-megalopoleos"
+      ]
+    },
+    {
+      "id": "gr-gortys-current-metochion-reconciliation",
+      "result": "The current body-owned metochia page names two exact dependencies. Both are published once and no aggregate residual is inferred.",
+      "sources": [
+        "https://imgortmeg.gr/?page_id=9477"
+      ]
+    },
+    {
+      "id": "gr-gortys-current-pilgrimage-reconciliation",
+      "result": "Two current September 2026 posts identify the Saint Theodora worship body at Vasta as an active pilgrimage. The legal regulation independently reports exactly one pilgrimage.",
+      "sources": [
+        "https://imgortmeg.gr/?p=10141",
+        "https://imgortmeg.gr/?p=10178",
+        "https://ecclesiagreece.gr/greek/press/ekklisia/2020_martios.pdf"
+      ]
+    },
+    {
+      "id": "gr-gortys-contact-provenance",
+      "result": "All 168 parish rows carry the public body-associated phone printed in the exact regional table. Twelve current monastery entries also expose public phones. Personal clergy and monastic names are omitted, and the one placeholder dot in the Megalopolis phone table is not treated as a contact value.",
+      "sources": [
+        "https://imgortmeg.gr/arxieratiki-periferia-megaloupolews/",
+        "https://imgortmeg.gr/?page_id=9409",
+        "https://imgortmeg.gr/?page_id=9461"
+      ]
+    },
+    {
+      "id": "gr-gortys-existing-athens-chapel-reconciliation",
+      "result": "The existing Athens roster already assigns the Saint Constantine and Helen chapel at Filopappou to gr-gortys. It remains external to this module. The 184 new rows therefore yield 185 integrated subordinate bodies under the parent.",
+      "sources": [
+        "https://www.iaath.gr/index.php/dioikisi/pareklisia",
+        "https://imgortmeg.gr/dioikisi/"
+      ]
+    }
+  ],
+  "official_parent_audit": [
+    {
+      "id": "gr-gortys-current-metropolis",
+      "parent": "gr-gortys",
+      "status": "confirmed-current",
+      "result": "The Church of Greece and the body-owned site establish the Holy Metropolis of Gortys and Megalopolis as the competent current parent.",
+      "sources": [
+        "https://www.ecclesiagreece.gr/ecclesiajoomla/index.php/el/metropoleis/gortynos-kai-megalopoleos",
+        "https://imgortmeg.gr/dioikisi/"
+      ]
+    },
+    {
+      "id": "gr-gortys-current-roster-control",
+      "parent": "gr-gortys",
+      "status": "confirmed-current",
+      "result": "The current body-owned regional, monastic, metochion, and pilgrimage pages control exact current identities. The 2020 Church of Greece regulation supplies competent historical legal corroboration, but its 161-parish total is seven below the current exact roster and does not override complete current named rows.",
+      "sources": [
+        "https://imgortmeg.gr/arxieratiki-periferia-dimitsanis/",
+        "https://imgortmeg.gr/?page_id=9409",
+        "https://ecclesiagreece.gr/greek/press/ekklisia/2020_martios.pdf"
+      ]
+    }
+  ],
+  "exclusions": [
+    {
+      "id": "gr-gortys-central-metropolis-contacts",
+      "status": "excluded",
+      "reason": "The Metropolis office addresses, switchboards, fax numbers, and general email belong to the parent administration and are not copied to subordinate bodies.",
+      "sources": [
+        "https://imgortmeg.gr/dioikisi/"
+      ]
+    },
+    {
+      "id": "gr-gortys-personal-names",
+      "status": "excluded",
+      "reason": "Clergy, abbot, abbess, monastic, and administrator names are omitted. A public phone remains only when the exact official row or current monastery entry presents it as the route associated with that body.",
+      "sources": [
+        "https://imgortmeg.gr/arxieratiki-periferia-dimitsanis/",
+        "https://imgortmeg.gr/?page_id=9409",
+        "https://imgortmeg.gr/?page_id=9461"
+      ]
+    },
+    {
+      "id": "gr-gortys-aggregate-only-bodies",
+      "status": "excluded-as-published-rows",
+      "reason": "Unnamed chapels, country chapels, cemetery churches, and monastic churches are held in the candidate ledger and are not published as invented bodies. The older 161-parish aggregate is retained as a count conflict rather than used to delete current exact parish rows.",
+      "sources": [
+        "https://imgortmeg.gr/dioikisi/",
+        "https://ecclesiagreece.gr/greek/press/ekklisia/2020_martios.pdf"
+      ]
+    },
+    {
+      "id": "gr-gortys-dissolved-monastic-bodies",
+      "status": "excluded-as-current",
+      "reason": "The eleven independent monastery or hermitage identities on the body-owned dissolved-monastery page are preserved as held historical leads and are not published in those independent ranks. Saint Theodore Pyrgaki is published only as a separately current metochion.",
+      "sources": [
+        "https://imgortmeg.gr/?page_id=9471"
+      ]
+    },
+    {
+      "id": "gr-gortys-search-map-social-history-leads",
+      "status": "excluded-as-current-canonical-evidence",
+      "reason": "Map-only, search-only, social-only, tourism-only, and historical-only leads do not establish a current canonical worship body and are not published without competent current confirmation.",
+      "sources": [
+        "https://imgortmeg.gr/dioikisi/"
+      ]
+    }
+  ]
+}
