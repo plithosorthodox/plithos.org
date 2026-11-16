@@ -1,0 +1,330 @@
+{
+  "v": 1,
+  "checked": "2026-11-15",
+  "countries": [
+    "GR"
+  ],
+  "published_summary": {
+    "gr-kalavryta": 207,
+    "total": 207,
+    "current_regional_parish_rows": 164,
+    "regulated_parish_rows": 163,
+    "regulated_pilgrimage_rows": 2,
+    "published_pilgrimage_rows": 2,
+    "current_exact_extra_church_rows": 24,
+    "current_calendar_active_monastery_identities": 12,
+    "published_monastery_rank_rows": 11,
+    "current_greek_metochion_rows": 6,
+    "parish_kind_rows": 189,
+    "monastery_kind_rows": 18,
+    "contact_bodies": 68,
+    "phone_bodies": 68,
+    "public_phone_values": 88,
+    "public_fax_values": 3,
+    "email_bodies": 8,
+    "public_email_values": 8,
+    "body_owned_sites": 3,
+    "address_bodies": 207
+  },
+  "candidates": [
+    {
+      "candidate_id": "gr-kalavryta-aiges-holy-trinity",
+      "name": "Holy Trinity church in Aiges (Vlovoka)",
+      "status": "held-canonical-conflict",
+      "reason": "The current church directory labels this page as a parish, but the current regional roster and the 2019 regulation identify the Aiges parish as Saint Demetrius. No second current legal parish identity was found, so no residual row is invented.",
+      "public_contacts": {
+        "phones": [
+          "6974962294"
+        ]
+      },
+      "sources": [
+        "https://www.imkalaig.gr/?section=2161&language=el_GR&itemid1494=2668&detail1494=1",
+        "https://www.imkalaig.gr/arxieratikes-perifereies",
+        "https://ecclesiagreece.gr/greek/press/ekklisia/2019_ioulios.pdf"
+      ]
+    },
+    {
+      "candidate_id": "gr-kalavryta-ampelos-constantine-helen",
+      "name": "Saints Constantine and Helen church in Ampelos",
+      "status": "held-canonical-conflict",
+      "reason": "The detail page labels this body as a parish, but the current regional roster and legal table identify Saint Andrew as the Ampelos parish. The shared public number is preserved here while the unresolved second identity is held.",
+      "public_contacts": {
+        "phones": [
+          "6973471657"
+        ]
+      },
+      "sources": [
+        "https://www.imkalaig.gr/?section=2161&language=el_GR&itemid1494=2467&detail1494=1",
+        "https://www.imkalaig.gr/arxieratikes-perifereies",
+        "https://ecclesiagreece.gr/greek/press/ekklisia/2019_ioulios.pdf"
+      ]
+    },
+    {
+      "candidate_id": "gr-kalavryta-sylivaina-saint-demetrius",
+      "name": "Saint Demetrius church in Sylivaina",
+      "status": "held-canonical-conflict",
+      "reason": "The current detail page calls this a parish and supplies a public phone, while the current regional roster identifies Saint Nicholas at Siliveniotika. The exact canonical relation remains unresolved.",
+      "public_contacts": {
+        "phones": [
+          "6981050709"
+        ]
+      },
+      "sources": [
+        "https://www.imkalaig.gr/?section=2161&language=el_GR&itemid1494=3675&detail1494=1",
+        "https://www.imkalaig.gr/arxieratikes-perifereies",
+        "https://ecclesiagreece.gr/greek/press/ekklisia/2019_ioulios.pdf"
+      ]
+    },
+    {
+      "candidate_id": "gr-kalavryta-trechlo-saint-nicholas",
+      "name": "Saint Nicholas church in Trechlo",
+      "status": "held-canonical-conflict",
+      "reason": "The detail page labels Saint Nicholas as a parish, but the current regional roster identifies Saint George as the Trechlo parish. The public number is retained here pending canonical clarification.",
+      "public_contacts": {
+        "phones": [
+          "2692041371"
+        ]
+      },
+      "sources": [
+        "https://www.imkalaig.gr/?section=2161&language=el_GR&itemid1494=2572&detail1494=1",
+        "https://www.imkalaig.gr/arxieratikes-perifereies",
+        "https://ecclesiagreece.gr/greek/press/ekklisia/2019_ioulios.pdf"
+      ]
+    },
+    {
+      "candidate_id": "gr-kalavryta-directory-only-parish-leads",
+      "name": "Directory-only parish-labelled bodies not present in the current regional roster",
+      "status": "held-canonical-review",
+      "reason": "Saint John the Forerunner at Boufouskia, Saint Nectarius at Agios Konstantinos, the Dormition at Pteri, and Saint Paraskevi at Ortholithion have current detail pages, but no exact current regional parish row was found. They are held rather than used to manufacture residual parish rows.",
+      "sources": [
+        "https://www.imkalaig.gr/ieroi-naoi",
+        "https://www.imkalaig.gr/arxieratikes-perifereies",
+        "https://ecclesiagreece.gr/greek/press/ekklisia/2019_ioulios.pdf"
+      ]
+    },
+    {
+      "candidate_id": "gr-kalavryta-uncategorized-current-church-pages",
+      "name": "Uncategorized current church pages outside the regional parish roster",
+      "status": "held-rank-unclear",
+      "reason": "Saint Marina at Goumenissa, Saint Nectarius at Galaxidiotika, and Saint Paraskevi at Elaionas have exact first-party pages with blank church category fields and do not match the current parish dedication at their settlements. Their worship-body rank is not inferred.",
+      "sources": [
+        "https://www.imkalaig.gr/ieroi-naoi",
+        "https://www.imkalaig.gr/arxieratikes-perifereies"
+      ]
+    },
+    {
+      "candidate_id": "gr-kalavryta-temeni-malformed-phone",
+      "name": "Saint George parish in Temeni contact lead",
+      "status": "held-contact-only",
+      "reason": "The current body is published from the regional roster, but its detail page prints 2961051128. That value is not a valid Greek public phone format and was not silently corrected or attached to the row.",
+      "public_contacts_as_printed": {
+        "phone": "2961051128"
+      },
+      "sources": [
+        "https://www.imkalaig.gr/?section=2161&language=el_GR&itemid1494=2456&detail1494=1",
+        "https://www.imkalaig.gr/arxieratikes-perifereies"
+      ]
+    },
+    {
+      "candidate_id": "gr-kalavryta-historical-inactive-monasteries",
+      "name": "Historical or inactive monastery directory entries",
+      "status": "held-historical-only",
+      "reason": "Saint Nicholas at Trapeza, Pepelenitsa, and Holy Trinity at Leivartzi are marked inactive, historical, or absent from the active 2026 monastic roster. Saint George at Manesi is described by the current calendar as abandoned. They are not emitted as current active bodies.",
+      "sources": [
+        "https://www.imkalaig.gr/ieres-mones",
+        "https://www.imkalaig.gr/managed_images/imerologio-eortologio-2026.pdf"
+      ]
+    },
+    {
+      "candidate_id": "gr-kalavryta-map-search-only-leads",
+      "name": "Other map-only and search-only church leads",
+      "status": "held-source-insufficient",
+      "reason": "Map labels and search snippets that did not resolve to a current exact first-party directory or regional-roster identity were audited but not promoted. The published country roster is not padded from search-only evidence.",
+      "sources": [
+        "https://www.imkalaig.gr/ieroi-naoi",
+        "https://www.imkalaig.gr/arxieratikes-perifereies"
+      ]
+    },
+    {
+      "candidate_id": "gr-kalavryta-constantinople-metochia",
+      "name": "Three metochia outside Greece or with unresolved country placement",
+      "status": "held-outside-country",
+      "reason": "The current calendar lists Saint George Koudouna in Pera, Saint George Karpi in Antigone, and Vlach Sarai in the Phanar. They are dependencies of this Metropolis but are not emitted in the GR country tranche without a competent current Greek-country identity and address.",
+      "sources": [
+        "https://www.imkalaig.gr/managed_images/imerologio-eortologio-2026.pdf"
+      ]
+    }
+  ],
+  "source_reconciliations": [
+    {
+      "candidate_id": "gr-kalavryta-legal-parish-reconciliation",
+      "status": "reconciled-current-split",
+      "reason": "Regulation 1202/878/2019, FEK 1899/B/28-5-2019, fixes 163 parishes and carries one combined Marmara-Vella row under Saint Spyridon. The current first-party regional roster carries 164 exact rows by listing Vella Dormition and Marmara Saint Spyridon separately. Both current exact rows are published, the combined legal row is not emitted as a third current body, and the one-row difference is explicit. No later legal instrument resolving the current split was found in this audit.",
+      "sources": [
+        "https://ecclesiagreece.gr/greek/press/ekklisia/2019_ioulios.pdf",
+        "https://www.imkalaig.gr/arxieratikes-perifereies"
+      ]
+    },
+    {
+      "candidate_id": "gr-kalavryta-legal-pilgrimage-reconciliation",
+      "status": "reconciled-exact-count",
+      "reason": "The regulation fixes two pilgrimage churches. The current first-party pilgrimage directory contains exactly Panagia Trypiti and Panagia Plataniotissa, so both are published and no residual pilgrimage is added.",
+      "sources": [
+        "https://ecclesiagreece.gr/greek/press/ekklisia/2019_ioulios.pdf",
+        "https://www.imkalaig.gr/proskinimata"
+      ]
+    },
+    {
+      "candidate_id": "gr-kalavryta-church-directory-reconciliation",
+      "status": "reconciled-by-current-category",
+      "reason": "The two current church-directory pages contain 108 records. Parish and cathedral records are reconciled to the complete 164-row regional roster. Twenty-four exact country, chapel, festal, cemetery, hospital, and monastery-church records are published separately. The pilgrimage duplicate, conflicts, and blank-category leads are handled explicitly rather than double counted.",
+      "sources": [
+        "https://www.imkalaig.gr/ieroi-naoi",
+        "https://www.imkalaig.gr/?section=2161&page1463=1&language=el_GR",
+        "https://www.imkalaig.gr/arxieratikes-perifereies"
+      ]
+    },
+    {
+      "candidate_id": "gr-kalavryta-monastery-reconciliation",
+      "status": "reconciled-current-roster",
+      "reason": "The current 2026 calendar controls operational status where the website directory category is stale. Eleven active monastery bodies and six exact metochia in Greece are published. Saint Athanasius at Filia is emitted once as the metochion the calendar names, not duplicated as a second monastery identity.",
+      "sources": [
+        "https://www.imkalaig.gr/ieres-mones",
+        "https://www.imkalaig.gr/managed_images/imerologio-eortologio-2026.pdf",
+        "https://www.ecclesiagreece.gr/ecclesiajoomla/index.php/el/metropoleis/kalabryton-kai-aigialeias"
+      ]
+    },
+    {
+      "candidate_id": "gr-kalavryta-current-monastery-status-conflicts",
+      "status": "calendar-controls-current-status",
+      "reason": "The web directory labels Saint Athanasius at Filia and Saint Nicholas at Vlasia inactive or historical, while the current 2026 calendar lists each in the living monastic roster with a current community or superior. The calendar's later operational evidence controls publication, and the directory details remain identity sources.",
+      "sources": [
+        "https://www.imkalaig.gr/ieres-mones",
+        "https://www.imkalaig.gr/managed_images/imerologio-eortologio-2026.pdf"
+      ]
+    },
+    {
+      "candidate_id": "gr-kalavryta-makellaria-phone-conflict",
+      "status": "preserved-current-source-variants",
+      "reason": "The current monastery detail page publishes 2692084485 and the current 2026 calendar publishes 2692024219. Both public body-linked routes are retained with both provenance sources rather than silently choosing one.",
+      "sources": [
+        "https://www.imkalaig.gr/?section=2162&language=el_GR&itemid1494=2503&detail1494=1",
+        "https://www.imkalaig.gr/managed_images/imerologio-eortologio-2026.pdf",
+        "https://www.moni-makellarias.gr"
+      ]
+    },
+    {
+      "candidate_id": "gr-kalavryta-direct-site-contact-reconciliation",
+      "status": "preserved-current-body-contacts",
+      "reason": "The three verified direct monastery sites were audited separately from the parent source pages. Their current body emails, the Holy Trinity Akrata mobile number, and their published postal addresses are retained. Three public fax routes printed by monastery pages are retained among the public phone routes because the directory schema exposes callable contact values through the phones field.",
+      "sources": [
+        "https://agialavra.gr/",
+        "https://www.moni-makellarias.gr",
+        "https://monastiriakrata.gr/"
+      ]
+    },
+    {
+      "candidate_id": "gr-kalavryta-published-directory-merges",
+      "status": "merged-exact-current-identities",
+      "reason": "Blank-category pages for Saint Basil at Kato Pteri, the Dormition at Monastirio, Saints Michael and Gabriel with Saint Anastasia at Nea Keryneia, Saint Spyridon at Rododafni, and Saint Leontios at Aigio reconcile to exact current regional parish identities. Their public contacts are preserved on those parish rows.",
+      "sources": [
+        "https://www.imkalaig.gr/ieroi-naoi",
+        "https://www.imkalaig.gr/arxieratikes-perifereies"
+      ]
+    },
+    {
+      "candidate_id": "gr-kalavryta-published-exact-dependencies",
+      "status": "published-without-double-counting",
+      "reason": "The Agia Lavra katholikon is a separately categorized current monastery church and is published as that worship body. Panagia Trypiti's church-directory record is the same body as the pilgrimage-directory record and is not duplicated.",
+      "sources": [
+        "https://www.imkalaig.gr/ieroi-naoi",
+        "https://www.imkalaig.gr/proskinimata",
+        "https://www.imkalaig.gr/ieres-mones"
+      ]
+    }
+  ],
+  "official_parent_audit": [
+    {
+      "candidate_id": "gr-kalavryta-regional-roster-audit",
+      "status": "complete-current-first-party",
+      "reason": "All eight current archieratical regions were transcribed and asserted at 12, 15, 24, 27, 15, 39, 19, and 13 rows, for 164 current parish identities.",
+      "sources": [
+        "https://www.imkalaig.gr/arxieratikes-perifereies"
+      ]
+    },
+    {
+      "candidate_id": "gr-kalavryta-church-surface-audit",
+      "status": "complete-current-first-party",
+      "reason": "Both pages of the current church directory were audited across parish, cathedral, country church, chapel, festal, cemetery, pilgrimage, monastery church, hospital church, and blank category surfaces.",
+      "sources": [
+        "https://www.imkalaig.gr/ieroi-naoi",
+        "https://www.imkalaig.gr/?section=2161&page1463=1&language=el_GR"
+      ]
+    },
+    {
+      "candidate_id": "gr-kalavryta-monastic-surface-audit",
+      "status": "complete-current-first-party",
+      "reason": "The monastery directory, current annual calendar, active communities, metochia, historical listings, and operational status conflicts were audited together.",
+      "sources": [
+        "https://www.imkalaig.gr/ieres-mones",
+        "https://www.imkalaig.gr/managed_images/imerologio-eortologio-2026.pdf"
+      ]
+    },
+    {
+      "candidate_id": "gr-kalavryta-legal-parent-audit",
+      "status": "complete-church-of-greece-corroboration",
+      "reason": "The Church of Greece parent entry and Regulation 1202/878/2019 corroborate the parent Metropolis, the regulated parish and pilgrimage totals, and the legal baseline used for reconciliation.",
+      "sources": [
+        "https://www.ecclesiagreece.gr/ecclesiajoomla/index.php/el/metropoleis/kalabryton-kai-aigialeias",
+        "https://ecclesiagreece.gr/greek/press/ekklisia/2019_ioulios.pdf"
+      ]
+    }
+  ],
+  "exclusions": [
+    {
+      "candidate_id": "gr-kalavryta-parent-contacts",
+      "status": "excluded-not-body-contact",
+      "reason": "The central Metropolis phones 2691021776 and 2691021777 and central email addresses repeated in page chrome were excluded from subordinate rows. Only body-linked public values from the detail content were retained.",
+      "sources": [
+        "https://www.imkalaig.gr/ieroi-naoi",
+        "https://www.imkalaig.gr/ieres-mones"
+      ]
+    },
+    {
+      "candidate_id": "gr-kalavryta-clergy-names",
+      "status": "excluded-personal-identity",
+      "reason": "Public clergy-linked body numbers were allowed where published on a body page, but clergy names were omitted from every row.",
+      "sources": [
+        "https://www.imkalaig.gr/ieroi-naoi"
+      ]
+    },
+    {
+      "candidate_id": "gr-kalavryta-parent-source-sites",
+      "status": "excluded-from-direct-site-field",
+      "reason": "Metropolis and Church of Greece evidence URLs remain in sources only. The site field is limited to the three verified direct monastery sites.",
+      "sources": [
+        "https://www.imkalaig.gr/",
+        "https://www.ecclesiagreece.gr/ecclesiajoomla/index.php/el/metropoleis/kalabryton-kai-aigialeias"
+      ]
+    },
+    {
+      "candidate_id": "gr-kalavryta-charitable-institutions",
+      "status": "excluded-aggregate-or-non-worship",
+      "reason": "The annual calendar's charitable and social institutions are not emitted merely as organizations. The exact Aigio Hospital church is published because the current church directory identifies it as a worship body; no unlisted institutional chapel is inferred.",
+      "sources": [
+        "https://www.imkalaig.gr/managed_images/imerologio-eortologio-2026.pdf",
+        "https://www.imkalaig.gr/ieroi-naoi"
+      ]
+    },
+    {
+      "candidate_id": "gr-kalavryta-no-invented-residuals",
+      "status": "excluded-unresolved-residual",
+      "reason": "No legal-count remainder, directory-count remainder, aggregate institution, historical name, or unclear dependency was converted into a synthetic row. Every published row has an exact current identity source.",
+      "sources": [
+        "https://www.imkalaig.gr/arxieratikes-perifereies",
+        "https://www.imkalaig.gr/ieroi-naoi",
+        "https://ecclesiagreece.gr/greek/press/ekklisia/2019_ioulios.pdf"
+      ]
+    }
+  ]
+}
