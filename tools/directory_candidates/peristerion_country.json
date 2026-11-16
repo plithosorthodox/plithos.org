@@ -1,0 +1,213 @@
+{
+  "v": 1,
+  "countries": [
+    "GR"
+  ],
+  "checked": "2026-11-15",
+  "method": "Reconcile every current exact worship-body page in the official Holy Metropolis of Peristerion church sitemap with the Church of Greece legal parish roster, current page classifications, current page prose, and live direct body sites. Publish all 34 exact body pages and four additional current basement chapels named on those pages. Retain every public body and clergy-linked phone, fax, email, address, and direct body site while omitting clergy names. Do not copy central contacts to subordinate bodies. Hold the archive root, historical predecessors, former ranks, stale or conflicted contacts, ambiguous leads, and map-only discoveries rather than inventing rows or current facts.",
+  "published_summary": {
+    "gr-peristerion": 38,
+    "total": 38,
+    "dedicated_official_body_pages": 34,
+    "current_embedded_chapel_rows": 4,
+    "regulated_parish_rows": 14,
+    "current_parish_body_pages": 18,
+    "parish_kind_rows": 36,
+    "monastery_kind_rows": 2,
+    "exact_chapel_rows": 16,
+    "cemetery_rows": 1,
+    "contact_bodies": 30,
+    "phone_bodies": 30,
+    "public_phone_or_fax_values": 36,
+    "email_bodies": 27,
+    "public_email_values": 28,
+    "body_owned_sites": 4,
+    "address_bodies": 37
+  },
+  "candidates": [
+    {
+      "candidate_id": "gr-peristerion-church-archive-root",
+      "parent": "gr-peristerion",
+      "country": "GR",
+      "category": "aggregate-page",
+      "status": "excluded",
+      "reason": "The first sitemap location is the church archive root, not an exact worship body. It is excluded as a row. The remaining 34 sitemap locations each resolve to one exact current body page and are reconciled individually.",
+      "sources": [
+        "https://imperisteriou.gr/church-sitemap.xml",
+        "https://imperisteriou.gr/church/"
+      ]
+    },
+    {
+      "candidate_id": "gr-peristerion-historic-predecessor-bodies",
+      "parent": "gr-peristerion",
+      "country": "GR",
+      "category": "historic-only",
+      "status": "held",
+      "reason": "Current histories mention an earlier Saint Anthony chapel and cemetery, an earlier private Saint Paraskevi chapel, temporary or smaller predecessor churches, Saint Hierotheos beginning as a Saint Marina chapel, and the former monastery status of Saint George in Kipoupoli. These are historical stages of current bodies or replaced places, not separate current rows.",
+      "sources": [
+        "https://imperisteriou.gr/church/naos-2/",
+        "https://imperisteriou.gr/church/%ce%b9%ce%b5%cf%81%ce%bf%cf%83-%ce%bd%ce%b1%ce%bf%cf%83-%ce%b1%ce%b3%ce%b9%ce%b1%cf%83-%cf%80%ce%b1%cf%81%ce%b1%cf%83%ce%ba%ce%b5%cf%85%ce%b7%cf%83/",
+        "https://imperisteriou.gr/church/%ce%b9%ce%b5%cf%81%ce%bf%cf%83-%ce%bd%ce%b1%ce%bf%cf%83-%ce%b1%ce%b3%ce%b9%ce%bf%cf%85-%ce%b3%ce%b5%cf%89%cf%81%ce%b3%ce%b9%ce%bf%cf%85-%ce%ba%ce%b7%cf%80%ce%bf%cf%85%cf%80%ce%bf%ce%bb%ce%b5%cf%89/"
+      ]
+    },
+    {
+      "candidate_id": "gr-peristerion-stale-conflicted-profile-contacts",
+      "parent": "gr-peristerion",
+      "country": "GR",
+      "category": "stale-or-conflicted-contact",
+      "status": "held",
+      "reason": "The Church of Greece profile carries older or incomplete body data. Its telephone for the Old Holy Archangels conflicts with the current exact body page and live direct site, and its older Saint Marina telephone is absent from the two current numbers on the exact body page. The current exact page and live direct body site control. The older conflicting values are retained only in this reconciliation record.",
+      "sources": [
+        "https://www.ecclesiagreece.gr/ecclesiajoomla/index.php/el/metropoleis/peristeriou",
+        "https://imperisteriou.gr/church/%ce%b9%ce%b5%cf%81%ce%bf%cf%83-%ce%bd%ce%b1%ce%bf%cf%83-%cf%80%ce%b1%ce%bc%ce%bc%ce%b5%ce%b3%ce%b9%cf%83%cf%84%cf%89%ce%bd-%cf%84%ce%b1%ce%be%ce%b9%ce%b1%cf%81%cf%87%cf%89%ce%bd-%cf%80%ce%b1%ce%bb/",
+        "https://www.ptaxiarchisper.com/",
+        "https://imperisteriou.gr/church/%ce%b9%ce%b5%cf%81%ce%bf%cf%83-%ce%bd%ce%b1%ce%bf%cf%83-%ce%b1%ce%b3%ce%b9%ce%b1%cf%83-%ce%bc%ce%b1%cf%81%ce%b9%ce%bd%ce%b7%cf%83/"
+      ]
+    },
+    {
+      "candidate_id": "gr-peristerion-annunciation-aggregate-link",
+      "parent": "gr-peristerion",
+      "country": "GR",
+      "category": "non-body-link",
+      "status": "held",
+      "reason": "The structured Annunciation record points its church URL field to the central Metropolis homepage. That aggregate homepage is not exposed as a direct body site. The live Annunciation body-owned Blogspot site is published instead and independently confirms the body email.",
+      "sources": [
+        "https://imperisteriou.gr/church/naos-1/",
+        "https://imperisteriou.gr/",
+        "https://evaggelistriaperisteri.blogspot.com/"
+      ]
+    },
+    {
+      "candidate_id": "gr-peristerion-gregory-theologian-contact-gap",
+      "parent": "gr-peristerion",
+      "country": "GR",
+      "category": "no-public-body-contact",
+      "status": "published-without-contact",
+      "reason": "The exact current monastery page establishes Saint Gregory the Theologian Monastery, and the official foundation account places it in Kipoupoli. Neither source publishes a body address, phone, fax, email, or direct body site. The row therefore carries no address or contact metadata, and the personal name on the exact page is omitted.",
+      "sources": [
+        "https://imperisteriou.gr/church/%ce%b9%ce%b5%cf%81%ce%ac-%ce%bc%ce%bf%ce%bd%ce%ae-%ce%b1%ce%b3%ce%af%ce%bf%cf%85-%ce%b3%cf%81%ce%b7%ce%b3%ce%bf%cf%81%ce%af%ce%bf%cf%85-%ce%b8%ce%b5%ce%bf%ce%bb%cf%8c%ce%b3%ce%bf%cf%85/",
+        "https://imperisteriou.gr/%cf%84%ce%bf%cf%80%ce%bf%ce%b8%ce%ad%cf%84%ce%b7%cf%83%ce%b7-%ce%b8%ce%b5%ce%bc%ce%ad%ce%bb%ce%b9%ce%bf%cf%85-%ce%bb%ce%af%ce%b8%ce%bf%cf%85-%ce%b3%ce%b9%ce%b1-%cf%84%ce%b7-%ce%bc%ce%bf%ce%bd%ce%ae/"
+      ]
+    },
+    {
+      "candidate_id": "gr-peristerion-aggregate-map-search-leads",
+      "parent": "gr-peristerion",
+      "country": "GR",
+      "category": "insufficient-current-authority",
+      "status": "discovery-only",
+      "reason": "Map listings, commercial directories, news items, feast programs, historical references, unnamed worship spaces, and search snippets are not used to create additional bodies or current contacts. A lead remains held unless a competent current source establishes its exact identity and canonical parent.",
+      "sources": [
+        "https://imperisteriou.gr/church-sitemap.xml",
+        "https://www.ecclesiagreece.gr/ecclesiajoomla/index.php/el/metropoleis/peristeriou"
+      ]
+    }
+  ],
+  "source_reconciliations": [
+    {
+      "candidate_id": "gr-peristerion-sitemap-exhaustion",
+      "status": "published",
+      "reason": "The live official sitemap contains 35 locations: one archive root followed by 34 exact body pages. All 34 exact pages are present once and remain in sitemap order. Current page prose adds four exact named basement chapels, producing 38 published rows without inferring any unnamed residual body.",
+      "sources": [
+        "https://imperisteriou.gr/church-sitemap.xml",
+        "https://imperisteriou.gr/church/"
+      ]
+    },
+    {
+      "candidate_id": "gr-peristerion-legal-and-current-parish-rosters",
+      "status": "published",
+      "reason": "Regulation 3496/1960/2019 enumerates 14 parish legal persons. The current exact Metropolis pages retain those 14 and establish four additional current parish bodies. Three pages expressly record elevation to parish status, while the Exaltation of the Holy Cross is currently placed in the third Archpriestly District with its own exact page and body contacts. Current rank is retained without rewriting the older legal roster.",
+      "sources": [
+        "https://ecclesiagreece.gr/greek/press/ekklisia/2019_noembrios.pdf",
+        "https://imperisteriou.gr/church-sitemap.xml",
+        "https://imperisteriou.gr/church/%cf%85%cf%88%cf%89%cf%83%ce%b9%cf%83-%cf%84%ce%b9%ce%bc%ce%b9%ce%bf%cf%85-%cf%83%cf%84%ce%b1%cf%85%cf%81%ce%bf%cf%85/"
+      ]
+    },
+    {
+      "candidate_id": "gr-peristerion-current-chapel-ranks",
+      "status": "published",
+      "reason": "The current exact pages expressly identify seven Metropolitan chapels, four listed parish chapels, and four additional current parish basement chapels. Saint John the Forerunner is left at the source-neutral rank Church because its exact page establishes current service by a parish but does not call it a chapel or parish. No rank is inferred from history alone.",
+      "sources": [
+        "https://imperisteriou.gr/church-sitemap.xml",
+        "https://imperisteriou.gr/church/%ce%b9%ce%b5%cf%81%ce%bf%cf%83-%ce%bd%ce%b1%ce%bf%cf%83-%cf%84%ce%b9%ce%bc%ce%b9%ce%bf%cf%85-%cf%80%cf%81%ce%bf%ce%b4%cf%81%ce%bf%ce%bc%ce%bf%cf%85/",
+        "https://imperisteriou.gr/church/%ce%b9%ce%b5%cf%81%ce%bf%cf%83-%ce%bd%ce%b1%ce%bf%cf%83-%ce%b1%ce%b3%ce%b9%ce%bf%cf%85-%ce%b5%ce%bb%ce%b5%cf%85%ce%b8%ce%b5%cf%81%ce%b9%ce%bf%cf%85/"
+      ]
+    },
+    {
+      "candidate_id": "gr-peristerion-cyprian-dual-designation",
+      "status": "published",
+      "reason": "The structured description identifies the Saints Cyprian and Justina body as a Metropolitan chapel, while the current history calls it a holy pilgrimage. The combined rank Metropolitan Pilgrimage Chapel preserves both current official designations without splitting one body into two rows.",
+      "sources": [
+        "https://imperisteriou.gr/church/%ce%b9%ce%b5%cf%81%ce%bf%cf%83-%ce%bd%ce%b1%ce%bf%cf%83-%ce%b1%ce%b3%ce%b9%ce%bf%cf%85-%ce%ba%cf%85%cf%80%cf%81%ce%b9%ce%b1%ce%bd%ce%bf%cf%85/"
+      ]
+    },
+    {
+      "candidate_id": "gr-peristerion-contact-and-site-provenance",
+      "status": "published",
+      "reason": "Thirty bodies carry 36 current public phone or fax values, 27 bodies carry 28 current public emails, and four bodies carry live direct body sites. Every value is tied to the exact body page or its live direct site. Public clergy-linked routes and the municipal cemetery office route are retained under the established body without copying any personal name.",
+      "sources": [
+        "https://imperisteriou.gr/church-sitemap.xml",
+        "https://evaggelistriaperisteri.blogspot.com/",
+        "https://www.inagioupavlou.gr/",
+        "https://agiosierotheosperisteri.gr/"
+      ]
+    },
+    {
+      "candidate_id": "gr-peristerion-no-contact-metadata",
+      "status": "verified",
+      "reason": "Eight rows have no public body phone, email, or direct site: four dedicated body pages and four embedded chapel rows. Those rows carry identity sources and no contact_checked or contact_sources fields. Contact metadata appears only where at least one public contact value or direct body site exists.",
+      "sources": [
+        "https://imperisteriou.gr/church-sitemap.xml",
+        "https://imperisteriou.gr/church/%ce%b9%ce%b5%cf%81%ce%bf%cf%83-%ce%bd%ce%b1%ce%bf%cf%83-%ce%b1%ce%b3%ce%b9%ce%bf%cf%85-%cf%83%cf%84%cf%85%ce%bb%ce%b9%ce%b1%ce%bd%ce%bf%cf%85/",
+        "https://imperisteriou.gr/church/%ce%b9%ce%b5%cf%81%ce%ac-%ce%bc%ce%bf%ce%bd%ce%ae-%ce%b1%ce%b3%ce%af%ce%bf%cf%85-%ce%b3%cf%81%ce%b7%ce%b3%ce%bf%cf%81%ce%af%ce%bf%cf%85-%ce%b8%ce%b5%ce%bf%ce%bb%cf%8c%ce%b3%ce%bf%cf%85/"
+      ]
+    }
+  ],
+  "official_parent_audit": [
+    {
+      "candidate_id": "gr-peristerion-parent-authority",
+      "status": "confirmed",
+      "reason": "The Church of Greece profile identifies the Holy Metropolis of Peristerion within the Church of Greece, and the current body-owned site supplies its exact live worship-body roster. The branch is confined to bodies that these competent sources place under that Metropolis.",
+      "sources": [
+        "https://www.ecclesiagreece.gr/ecclesiajoomla/index.php/el/metropoleis/peristeriou",
+        "https://imperisteriou.gr/church-sitemap.xml"
+      ]
+    },
+    {
+      "candidate_id": "gr-peristerion-regulated-parent-roster",
+      "status": "confirmed",
+      "reason": "The 2019 Church of Greece regulation is the exact authority for the 14 regulated parish legal persons. Current local pages control later current status, body classifications, body contacts, exact dependent chapels, and two exact monasteries without altering what the older regulation states.",
+      "sources": [
+        "https://ecclesiagreece.gr/greek/press/ekklisia/2019_noembrios.pdf",
+        "https://imperisteriou.gr/church-sitemap.xml"
+      ]
+    }
+  ],
+  "exclusions": [
+    {
+      "candidate_id": "gr-peristerion-central-contacts",
+      "status": "excluded",
+      "reason": "Central Metropolis phone, fax, email, address, social-service, and administrative routes are not copied to subordinate worship rows. A route is published only when a current source ties it to the exact body.",
+      "sources": [
+        "https://imperisteriou.gr/",
+        "https://www.ecclesiagreece.gr/ecclesiajoomla/index.php/el/metropoleis/peristeriou"
+      ]
+    },
+    {
+      "candidate_id": "gr-peristerion-clergy-names",
+      "status": "excluded",
+      "reason": "Current exact pages publish public clergy-linked contact routes. Those public routes are retained under the body as authorized, but clergy, monastic, office-holder, and other personal names are omitted from rows and audit prose.",
+      "sources": [
+        "https://imperisteriou.gr/church-sitemap.xml"
+      ]
+    },
+    {
+      "candidate_id": "gr-peristerion-non-worship-and-ambiguous-leads",
+      "status": "excluded",
+      "reason": "Administrative offices, charities, feeding programs, meeting halls, cemeteries without a separately named worship body, commercial listings, social pages, map pins, stale links, unnamed chapels, and ambiguous dedications remain outside the published worship roster unless a competent current source establishes an exact distinct body and canonical parent.",
+      "sources": [
+        "https://imperisteriou.gr/church/",
+        "https://www.ecclesiagreece.gr/ecclesiajoomla/index.php/el/metropoleis/peristeriou"
+      ]
+    }
+  ]
+}
