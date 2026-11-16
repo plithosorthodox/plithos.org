@@ -1,0 +1,174 @@
+{
+  "v": 1,
+  "countries": [
+    "GR"
+  ],
+  "checked": "2026-11-15",
+  "method": "Publish every exact current named parish page in the body-owned Ilia directory, the separately regulated Saint Nicholas at Spata pilgrimage church, and every exact current monastery or hesychasterion established by the current body-owned monastic pages, current body-owned notices, or the current Church of Greece profile. Preserve every public body-specific phone, including clergy-associated routes, without naming people. Do not copy central Metropolis contacts to subordinate bodies. Hold aggregate-only cemetery churches, chapels, institution churches, private churches, seaside-settlement churches, camp churches, military churches, unnamed legal residuals, empty category pages, map-only leads, news-only leads, and a personal name-bearing email.",
+  "published_summary": {
+    "gr-ilia": 198,
+    "total": 198,
+    "current_named_parish_rows": 185,
+    "regulated_pilgrimage_rows": 1,
+    "monastery_rows": 7,
+    "hesychasterion_rows": 5,
+    "contact_bodies": 174,
+    "phone_bodies": 174,
+    "public_phone_values": 176,
+    "email_bodies": 0,
+    "public_email_values": 0,
+    "body_owned_sites": 0,
+    "address_bodies": 198
+  },
+  "candidates": [
+    {
+      "candidate_id": "gr-ilia-legal-parish-residual",
+      "parent": "gr-ilia",
+      "country": "GR",
+      "category": "unreconciled-legal-residual",
+      "status": "held",
+      "reason": "The 2019 Church of Greece regulation records 221 parishes and one sacred pilgrimage. The current body-owned directory exposes 185 exact named parish pages across eight archpriestly regions, while the Saint Nicholas at Spata pilgrimage is independently established by its own legal regulation. The 36-row parish difference is not converted into unnamed or inferred bodies. It remains held until a current competent source supplies exact identities.",
+      "sources": [
+        "https://ecclesiagreece.gr/greek/press/ekklisia/2019_iounios.pdf",
+        "https://www.imilias.gr/enories"
+      ]
+    },
+    {
+      "candidate_id": "gr-ilia-aggregate-secondary-worship-bodies",
+      "parent": "gr-ilia",
+      "country": "GR",
+      "category": "aggregate-without-current-exact-roster",
+      "status": "held",
+      "reason": "The body-owned history page reports aggregate totals of 105 cemetery churches, 309 chapels and country churches, 15 institution and hospital churches, 12 private churches, 11 seaside-settlement churches, two camp churches, and two military churches. It does not provide an exact current roster for these classes. Feast notices and news stories name isolated examples but do not establish completeness, so none of the residual aggregate is inferred.",
+      "sources": [
+        "https://www.imilias.gr/istorika-stoiheia-ieras-mitropoleos-ileias",
+        "https://www.imilias.gr/enories"
+      ]
+    },
+    {
+      "candidate_id": "gr-ilia-empty-metochion-and-historic-church-categories",
+      "parent": "gr-ilia",
+      "country": "GR",
+      "category": "empty-current-category",
+      "status": "held",
+      "reason": "The current body-owned site exposes category pages for monastery metochia and historic churches but publishes no exact body cards on either page. No row is inferred from the menu labels alone.",
+      "sources": [
+        "https://www.imilias.gr/mones/ierwn-monon",
+        "https://www.imilias.gr/mones/istorikoi-naoi"
+      ]
+    },
+    {
+      "candidate_id": "gr-ilia-monastic-aggregate-conflict",
+      "parent": "gr-ilia",
+      "country": "GR",
+      "category": "aggregate-conflict",
+      "status": "held",
+      "reason": "The history page reports 23 churches of monasteries and hesychasteria, while the current local category pages, exact body articles, recent body-owned notices, and Church of Greece profile establish twelve present monastic or hesychastic bodies plus the separately ranked Saint Nicholas pilgrimage. Only the thirteen exact bodies are published. The remaining aggregate difference is not treated as a roster.",
+      "sources": [
+        "https://www.imilias.gr/mones",
+        "https://www.imilias.gr/istorika-stoiheia-ieras-mitropoleos-ileias",
+        "https://ecclesiagreece.gr/ecclesiajoomla/index.php/el/metropoleis/eleias-kai-olenes"
+      ]
+    },
+    {
+      "candidate_id": "gr-ilia-name-bearing-personal-email",
+      "parent": "gr-ilia",
+      "country": "GR",
+      "category": "personal-contact-identity",
+      "status": "held",
+      "reason": "The current Panagia Eleousa page publishes a personal email whose local part names the clergy contact. Its public telephone is retained as a body-specific route, but the name-bearing personal email is held so the directory does not retain a clergy name.",
+      "sources": [
+        "https://www.imilias.gr/98-moni-eleousa-ligia"
+      ]
+    },
+    {
+      "candidate_id": "gr-ilia-unverified-map-and-search-leads",
+      "parent": "gr-ilia",
+      "country": "GR",
+      "category": "discovery-only",
+      "status": "discovery-only",
+      "reason": "Map listings, tourism pages, local directories, social pages, isolated news items, and search snippets can identify a building without establishing a current distinct body or its canonical parent. Such leads are retained only for later source verification and are not published from this audit.",
+      "sources": [
+        "https://www.imilias.gr/enories",
+        "https://www.imilias.gr/mones"
+      ]
+    }
+  ],
+  "source_reconciliations": [
+    {
+      "topic": "legal-total-and-current-named-parishes",
+      "finding": "The legal regulation states 221 parishes and one sacred pilgrimage. The current body-owned directory supplies 185 exact parish identities with individual pages. These 185 are published because each is current and directly inspectable. The 36-row difference is held because aggregate arithmetic cannot supply names, seats, or continuing status.",
+      "sources": [
+        "https://ecclesiagreece.gr/greek/press/ekklisia/2019_iounios.pdf",
+        "https://www.imilias.gr/enories"
+      ]
+    },
+    {
+      "topic": "saint-nicholas-spata-rank",
+      "finding": "The current local page calls Saint Nicholas at Spata a monastery in narrative usage. Church of Greece Regulation 203/2010 expressly establishes the same body as a pilgrimage church and separate legal person. The legal rank controls, while the current page establishes continuing local identity.",
+      "sources": [
+        "https://www.imilias.gr/185-agios-nikolaos-spata",
+        "https://ecclesiagreece.gr/greek/press/ekklisia/2010_ioulios.pdf"
+      ]
+    },
+    {
+      "topic": "current-monastic-roster",
+      "finding": "The body-owned category pages and exact body articles establish seven monasteries, Saint George Lampeti Hesychasterion, and the Saint Nicholas pilgrimage. The current Church of Greece profile establishes four additional female hesychasteria with direct phones, and recent local notices independently confirm the continuing identities of all four. The resulting exact monastic and pilgrimage roster contains thirteen bodies.",
+      "sources": [
+        "https://www.imilias.gr/mones",
+        "https://ecclesiagreece.gr/ecclesiajoomla/index.php/el/metropoleis/eleias-kai-olenes",
+        "https://www.imilias.gr/174-eorti-analipseos"
+      ]
+    },
+    {
+      "topic": "contact-provenance",
+      "finding": "One hundred sixty-four current parish detail pages publish one phone each. Ten monastic or pilgrimage bodies publish twelve further phone values. Every value remains tied to the body page or Church of Greece profile that prints it. Clergy-associated public telephone routes are retained without retaining clergy names, a personal name-bearing email is held, and central Metropolis contacts are not propagated.",
+      "sources": [
+        "https://www.imilias.gr/enories",
+        "https://www.imilias.gr/mones",
+        "https://ecclesiagreece.gr/ecclesiajoomla/index.php/el/metropoleis/eleias-kai-olenes"
+      ]
+    }
+  ],
+  "official_parent_audit": [
+    {
+      "finding": "The Church of Greece parent row establishes the Metropolis of Ilia and Oleni under the Church of Greece. Its current official site supplies eight archpriestly parish directories, exact body pages, and the current local monastic categories.",
+      "sources": [
+        "https://ecclesiagreece.gr/ecclesiajoomla/index.php/el/metropoleis/eleias-kai-olenes",
+        "https://www.imilias.gr/enories",
+        "https://www.imilias.gr/mones"
+      ]
+    },
+    {
+      "finding": "The 2019 regulation provides the competent legal total and identifies one separately ranked pilgrimage church. Regulation 203/2010 establishes that pilgrimage as Saint Nicholas at Spata.",
+      "sources": [
+        "https://ecclesiagreece.gr/greek/press/ekklisia/2019_iounios.pdf",
+        "https://ecclesiagreece.gr/greek/press/ekklisia/2010_ioulios.pdf"
+      ]
+    }
+  ],
+  "exclusions": [
+    {
+      "finding": "Central Metropolis address, telephone, fax, and email routes are excluded from subordinate rows. No central or district route is copied across bodies.",
+      "sources": [
+        "https://www.imilias.gr/contact",
+        "https://ecclesiagreece.gr/ecclesiajoomla/index.php/el/metropoleis/eleias-kai-olenes"
+      ]
+    },
+    {
+      "finding": "Public clergy-associated and mobile routes are retained only when an official body page ties them to the specific worship body. Names of clergy, monastics, office holders, and other people are omitted.",
+      "sources": [
+        "https://www.imilias.gr/enories",
+        "https://www.imilias.gr/98-moni-eleousa-ligia"
+      ]
+    },
+    {
+      "finding": "Historical totals and current aggregate counts are never expanded into unnamed residual rows. Empty category pages, institutions without an exact worship-body identity, map-only leads, and news-only mentions remain outside the published branch.",
+      "sources": [
+        "https://www.imilias.gr/istorika-stoiheia-ieras-mitropoleos-ileias",
+        "https://www.imilias.gr/mones/ierwn-monon",
+        "https://www.imilias.gr/mones/istorikoi-naoi"
+      ]
+    }
+  ]
+}
