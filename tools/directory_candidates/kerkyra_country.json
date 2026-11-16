@@ -1,0 +1,183 @@
+{
+  "v": 1,
+  "countries": [
+    "GR"
+  ],
+  "checked": "2026-11-15",
+  "method": "Publish the 179 parish bodies and four pilgrimage churches expressly numbered by the 2019 Church of Greece regulation. Reconcile those 183 legal rows against the current body-owned Metropolis navigation, offices page, and WordPress custom-type rosters. Publish the twenty-two exact bodies on the current monastery roster, except that Panagia Vellianiton is the same body as one regulated pilgrimage church and is therefore published once, leaving twenty-one additional monastic rows. Preserve public routes tied to a specific body, including clergy-linked telephone and fax routes without clergy names, and preserve the one independently operated body website expressly linked by the Metropolis. Do not copy central Metropolis contacts from the repeated site footer. Hold unnamed aggregates, map-only results, search-only or news-only leads, historic bodies, and canonically unclear leads outside the current roster.",
+  "published_summary": {
+    "gr-kerkyra": 204,
+    "total": 204,
+    "regulated_parish_rows": 179,
+    "regulated_pilgrimage_rows": 4,
+    "current_monastery_pages": 22,
+    "overlapping_monastery_pages": 1,
+    "additional_monastic_rows": 21,
+    "parish_kind_rows": 183,
+    "monastery_kind_rows": 21,
+    "contact_bodies": 1,
+    "phone_bodies": 1,
+    "public_phone_values": 3,
+    "email_bodies": 0,
+    "public_email_values": 0,
+    "body_owned_sites": 1,
+    "address_bodies": 204
+  },
+  "candidates": [
+    {
+      "candidate_id": "gr-kerkyra-regulated-parishes-and-pilgrimages",
+      "parent": "gr-kerkyra",
+      "country": "GR",
+      "category": "legal-current-reconciliation",
+      "status": "published",
+      "reason": "The Church of Greece regulation numbers exactly 179 parishes and separately names four pilgrimage churches. The current Metropolis offices page repeats those exact aggregate totals. All 183 exact legal bodies are published without inventing residual rows or contacts for bodies that lack a current individual page.",
+      "sources": [
+        "https://ecclesiagreece.gr/greek/press/ekklisia/2019_noembrios.pdf",
+        "https://imcorfu.gr/grafeia/"
+      ]
+    },
+    {
+      "candidate_id": "gr-kerkyra-current-church-and-pilgrimage-pages",
+      "parent": "gr-kerkyra",
+      "country": "GR",
+      "category": "selective-current-detail-roster",
+      "status": "published",
+      "reason": "The current WordPress church type contains three detail pages, all of which reconcile to legal parish rows. The current pilgrimage type contains Saint Spyridon and the cathedral. Saint Spyridon reconciles to a legal pilgrimage row, while the cathedral reconciles to legal parish row one and is not duplicated or reclassified by its website content type.",
+      "sources": [
+        "https://imcorfu.gr/wp-json/wp/v2/ieroi-naoi?per_page=100",
+        "https://imcorfu.gr/wp-json/wp/v2/iera-proskynimata?per_page=100",
+        "https://ecclesiagreece.gr/greek/press/ekklisia/2019_noembrios.pdf"
+      ]
+    },
+    {
+      "candidate_id": "gr-kerkyra-current-monastery-roster",
+      "parent": "gr-kerkyra",
+      "country": "GR",
+      "category": "current-monastic-roster",
+      "status": "published",
+      "reason": "The current WordPress monastery type contains twenty-two exact detail pages. Twenty-one are published as additional monastic bodies. Panagia Vellianiton is the same exact body as the regulated Vellianiton pilgrimage church, and its current detail page expressly says that it is today a pilgrimage church, so it remains one pilgrimage row rather than a duplicate monastery row.",
+      "sources": [
+        "https://imcorfu.gr/wp-json/wp/v2/monastiria?per_page=100",
+        "https://imcorfu.gr/monastiria/panagia-vellianiton-sto-nisaki-gaios-paxon/",
+        "https://ecclesiagreece.gr/greek/press/ekklisia/2019_noembrios.pdf"
+      ]
+    },
+    {
+      "candidate_id": "gr-kerkyra-legal-pilgrimages-without-current-detail-pages",
+      "parent": "gr-kerkyra",
+      "country": "GR",
+      "category": "legal-only-current-identity",
+      "status": "published",
+      "reason": "The regulated pilgrimage churches of Saints Jason and Sosipater in Corfu and Saint Charalampus in Paxoi have no individual page in the current pilgrimage custom type. They remain published from the competent legal roster and the current official aggregate of four, without guessed contacts or a duplicate inferred from search results.",
+      "sources": [
+        "https://ecclesiagreece.gr/greek/press/ekklisia/2019_noembrios.pdf",
+        "https://imcorfu.gr/grafeia/",
+        "https://imcorfu.gr/wp-json/wp/v2/iera-proskynimata?per_page=100"
+      ]
+    },
+    {
+      "candidate_id": "gr-kerkyra-unnamed-aggregate-worship-bodies",
+      "parent": "gr-kerkyra",
+      "country": "GR",
+      "category": "aggregate-only-gap",
+      "status": "held",
+      "reason": "The current offices page reports 360 chapels, 12 country churches, two cemetery churches, 72 private churches, and 25 monastery churches. The current monastery roster supplies only twenty-two exact pages, one of which overlaps a legal pilgrimage row. The aggregates do not name or distinguish the remaining bodies, so no residual rows are invented.",
+      "sources": [
+        "https://imcorfu.gr/grafeia/",
+        "https://imcorfu.gr/wp-json/wp/v2/monastiria?per_page=100"
+      ]
+    },
+    {
+      "candidate_id": "gr-kerkyra-map-search-news-and-historic-leads",
+      "parent": "gr-kerkyra",
+      "country": "GR",
+      "category": "insufficient-current-authority",
+      "status": "discovery-only",
+      "reason": "Map results, search snippets, event and news posts, tourism pages, and historical narratives name additional churches, chapels, dependencies, former monasteries, and alternate buildings. They do not provide a complete current administrative roster or reliably establish a distinct present subordinate body and canonical identity. They remain discovery leads outside the published roster.",
+      "sources": [
+        "https://imcorfu.gr/naoi-ieres-mones/",
+        "https://imcorfu.gr/grafeia/"
+      ]
+    },
+    {
+      "candidate_id": "gr-kerkyra-body-specific-public-routes",
+      "parent": "gr-kerkyra",
+      "country": "GR",
+      "category": "public-contact-treatment",
+      "status": "published",
+      "reason": "The Saint John the Forerunner detail page publishes one telephone, one fax, and one mobile route in the church narrative. All three public routes are retained in the phone list while the associated clergy name and role are omitted. The All Saints detail page expressly links apantes.gr as the parish website, and that site is retained separately from higher-level identity sources. Its contact page provides only a form, so no email or telephone is inferred.",
+      "sources": [
+        "https://imcorfu.gr/ieroi-naoi/ieros-naos-tou-agiou-ioannou-prodromou-poleos-kerkyras/",
+        "https://imcorfu.gr/ieroi-naoi/ieros-naos-agion-panton-poleos/",
+        "https://apantes.gr/"
+      ]
+    }
+  ],
+  "source_reconciliations": [
+    {
+      "topic": "regulated-parish-and-pilgrimage-roster",
+      "finding": "The November 2019 Church of Greece regulation numbers 179 parish rows across thirteen regional groupings and separately names four pilgrimage churches. The printed totals agree exactly with the numbered table and with the current Metropolis offices page. The published roster preserves those exact legal totals.",
+      "sources": [
+        "https://ecclesiagreece.gr/greek/press/ekklisia/2019_noembrios.pdf",
+        "https://imcorfu.gr/grafeia/"
+      ]
+    },
+    {
+      "topic": "current-wordpress-rosters",
+      "finding": "The body-owned WordPress API exposes three current church pages, twenty-two current monastery pages, and two current pilgrimage pages. Every church page and both pilgrimage pages reconcile to existing legal rows. Twenty-one monastery pages add distinct monastic bodies, while the Vellianiton page reconciles to one legal pilgrimage row and is not duplicated.",
+      "sources": [
+        "https://imcorfu.gr/wp-json/wp/v2/ieroi-naoi?per_page=100",
+        "https://imcorfu.gr/wp-json/wp/v2/monastiria?per_page=100",
+        "https://imcorfu.gr/wp-json/wp/v2/iera-proskynimata?per_page=100"
+      ]
+    },
+    {
+      "topic": "current-navigation-is-selective",
+      "finding": "The current Temples and Monasteries navigation assembles the same three church pages, twenty-two monastery pages, and two pilgrimage pages exposed by the APIs. It is a selective detail-page roster rather than a replacement for the legal parish and pilgrimage tables, as shown by the current official 179 and four aggregate totals.",
+      "sources": [
+        "https://imcorfu.gr/naoi-ieres-mones/",
+        "https://imcorfu.gr/grafeia/",
+        "https://ecclesiagreece.gr/greek/press/ekklisia/2019_noembrios.pdf"
+      ]
+    },
+    {
+      "topic": "public-contact-treatment",
+      "finding": "Only body-specific public routes are retained. The Saint John page supplies three public telephone or fax routes, and the All Saints page supplies a direct parish website. The central Metropolis address, telephone, and email repeated in the site contact block are not copied to subordinate bodies. Rows without a telephone, email, or direct site carry no contact provenance fields.",
+      "sources": [
+        "https://imcorfu.gr/ieroi-naoi/ieros-naos-tou-agiou-ioannou-prodromou-poleos-kerkyras/",
+        "https://imcorfu.gr/ieroi-naoi/ieros-naos-agion-panton-poleos/",
+        "https://imcorfu.gr/grafeia/"
+      ]
+    }
+  ],
+  "official_parent_audit": [
+    {
+      "parent": "gr-kerkyra",
+      "status": "audited",
+      "finding": "The Church of Greece regulation and the body-owned Holy Metropolis of Kerkyra, Paxoi and Diapontioi Nisoi site establish the canonical parent and the exact current sources used for the legal parish, pilgrimage, and monastic reconciliation.",
+      "sources": [
+        "https://ecclesiagreece.gr/greek/press/ekklisia/2019_noembrios.pdf",
+        "https://imcorfu.gr/naoi-ieres-mones/",
+        "https://imcorfu.gr/grafeia/"
+      ]
+    }
+  ],
+  "exclusions": [
+    {
+      "category": "central-and-non-worship-routes",
+      "reason": "Metropolis offices, councils, schools, charities, media, care institutions, and other non-worship institutions are not subordinate worship rows. Central telephone, fax, email, and address values from the shared page contact block are not propagated to church or monastery bodies.",
+      "sources": [
+        "https://imcorfu.gr/grafeia/",
+        "https://imcorfu.gr/naoi-ieres-mones/"
+      ]
+    },
+    {
+      "category": "unnamed-and-canonically-unclear-leads",
+      "reason": "Unnamed aggregates, map-only entries, search-only results, social posts, event pages, tourism descriptions, and historic-only references are not enough to establish a distinct current body, exact identity, or canonical status. They remain held until a competent current roster names and distinguishes them.",
+      "sources": [
+        "https://imcorfu.gr/grafeia/",
+        "https://imcorfu.gr/naoi-ieres-mones/"
+      ]
+    }
+  ]
+}
