@@ -1,0 +1,263 @@
+{
+  "v": 1,
+  "countries": [
+    "GR"
+  ],
+  "checked": "2026-11-15",
+  "method": "Publish the exact 132 parish bodies and four pilgrimage churches in Regulation 2305/1081/2020, reconciling each legal identity against the twelve current official island pages. Publish the twelve current monastic bodies that remain after resolving the Church of Greece profile against explicit current dissolution evidence. Publish five additional churches and dependencies only because the current island administration pages name them exactly and official body articles establish their subordinate rank. Publish the current worship church at the former Saint Irene monastery as a church, not as an autonomous monastery, because its direct site says the monastery was dissolved. Preserve all current public body phones, public clergy-linked numbers, emails, direct sites, and addresses without retaining clergy names or copying central Metropolis contacts. Hold separate self-governing institutions, dissolved monasteries, incomplete dependency leads, map-only, search-only, social-only, tourism, commercial-directory, and historic-only leads rather than inventing or selectively extrapolating rows.",
+  "published_summary": {
+    "gr-syros": 154,
+    "total": 154,
+    "regulated_parish_rows": 132,
+    "regulated_pilgrimage_rows": 4,
+    "current_monastic_rows": 12,
+    "current_island_page_extra_rows": 5,
+    "current_former_monastery_church_rows": 1,
+    "parish_kind_rows": 142,
+    "monastery_kind_rows": 12,
+    "contact_bodies": 93,
+    "phone_bodies": 93,
+    "public_phone_values": 107,
+    "fax_bodies": 0,
+    "public_fax_values": 0,
+    "email_bodies": 2,
+    "public_email_values": 2,
+    "body_owned_sites": 3,
+    "address_bodies": 154
+  },
+  "candidates": [
+    {
+      "candidate_id": "gr-syros-regulated-current-parishes",
+      "parent": "gr-syros",
+      "country": "GR",
+      "category": "regulated-current-parish-roster",
+      "status": "published",
+      "reason": "Regulation 2305/1081/2020 supplies exactly 132 named parishes across the twelve islands. The current official island pages supply 130 corresponding administrative rows and current public telephone routes for 82 legal parish bodies. The two legal rows absent from the current pages remain published from the controlling regulation without inferred contacts.",
+      "sources": [
+        "https://ecclesiagreece.gr/greek/press/ekklisia/2020_septembrios.pdf",
+        "https://www.imsyrou.gr/index.php/el/nisia/nisos-syros",
+        "https://www.imsyrou.gr/index.php/el/nisia/nisos-andros"
+      ]
+    },
+    {
+      "candidate_id": "gr-syros-four-regulated-pilgrimages",
+      "parent": "gr-syros",
+      "country": "GR",
+      "category": "regulated-pilgrimage-roster",
+      "status": "published",
+      "reason": "The regulation expressly totals and names four pilgrimage legal persons: Panagia Thalassini and Saint Anthony at Megas Gialos on Syros, Panagia Kanala on Kythnos, Panagia Vounou on Sifnos, and the Catacombs of Milos. All four are published once without tourism or directory contacts.",
+      "sources": [
+        "https://ecclesiagreece.gr/greek/press/ekklisia/2020_septembrios.pdf"
+      ]
+    },
+    {
+      "candidate_id": "gr-syros-twelve-current-monasteries",
+      "parent": "gr-syros",
+      "country": "GR",
+      "category": "current-monastic-roster",
+      "status": "published",
+      "reason": "The Church of Greece profile names thirteen monasteries. Twelve remain publishable after the current official Milos material expressly identifies Saint George Kapoulis as dissolved. Current island pages independently name Saint Barbara, Panagia Tourliani, Palaiokastro, the Holy Archangels of Serifos, and the Theotokos at Vrysi. The twelve current profile identities are published, while the dissolved conflict is held.",
+      "sources": [
+        "https://www.ecclesiagreece.gr/ecclesiajoomla/index.php/el/metropoleis/syrou-tenou-androu-keas-kai-melou",
+        "https://www.imsyrou.gr/index.php/el/nisia/nisos-mykonos",
+        "https://www.imsyrou.gr/index.php/el/nisia/nisos-serifos"
+      ]
+    },
+    {
+      "candidate_id": "gr-syros-five-current-island-page-extras",
+      "parent": "gr-syros",
+      "country": "GR",
+      "category": "current-official-dependent-worship-bodies",
+      "status": "published",
+      "reason": "The current island administration pages name five exact bodies outside the regulated parish list. Their official body articles identify Saint Athanasius at Pigi as a country chapel, Holy Trinity in Ano Syros as a metochion of the Monastery of Saint John at Talanta, Saint Demetrius at Vaporia as dependent on Saint Nicholas parish, Saint Spyridon at Chroussa as a current church, and Saint John at Parkia as dependent on the Mykonos Metropolitan Church. All five are published without inferred contacts.",
+      "sources": [
+        "https://www.imsyrou.gr/index.php/el/nisia/nisos-syros",
+        "https://www.imsyrou.gr/index.php/el/nisia/nisos-mykonos",
+        "https://www.imsyrou.gr/index.php/el/?view=article&id=3240:2010-08-29-15-06-28&catid=162"
+      ]
+    },
+    {
+      "candidate_id": "gr-syros-saint-irene-former-monastery-church",
+      "parent": "gr-syros",
+      "country": "GR",
+      "category": "current-former-monastery-church",
+      "status": "published",
+      "reason": "Current official Metropolis reports use monastery terminology for Saint Irene at Apoikia and confirm current canonical worship. The direct body site states that the monastery was dissolved in 1833 and consistently presents the current body as a church. One Former Monastery Church row is published with its two public phones, email, direct site, and address, without creating an autonomous monastery row.",
+      "sources": [
+        "https://www.imsyrou.gr/index.php/el/eidiseis-ieras-mitropoleos/eidiseis/arxeio-eidiseon-2025/arxieratikos-esperinos-stin-iera-moni-agias-eirinis-sta-apoikia-tis-androu",
+        "https://ierosnaosagiaseirinisandrou.gr/",
+        "https://ierosnaosagiaseirinisandrou.gr/en/contact/"
+      ]
+    },
+    {
+      "candidate_id": "gr-syros-panachrantou-direct-contacts",
+      "parent": "gr-syros",
+      "country": "GR",
+      "category": "direct-body-contact",
+      "status": "published",
+      "reason": "The direct Monastery of Panachrantou site confirms the profile telephone and supplies its exact Fallika address, direct site, and public email. Those routes remain attached only to that monastery.",
+      "sources": [
+        "https://www.ecclesiagreece.gr/ecclesiajoomla/index.php/el/metropoleis/syrou-tenou-androu-keas-kai-melou",
+        "https://panachrantouandros.com/%CE%B5%CF%80%CE%B9%CE%BA%CE%BF%CE%B9%CE%BD%CF%89%CE%BD%CE%AF%CE%B1/"
+      ]
+    },
+    {
+      "candidate_id": "gr-syros-legal-current-parish-conflicts",
+      "parent": "gr-syros",
+      "country": "GR",
+      "category": "legal-current-identity-conflict",
+      "status": "published",
+      "reason": "The regulation names the Dryopis metropolitan parish for the Holy Apostles, while the current Kythnos page calls it Saint Anna. The regulation names the second Arni parish as the Dormition at Panochori, while the current Andros page calls it the Annunciation. The Marlas-Mamados legal row combines the Holy Unmercenaries at Marlas and the Transfiguration at Mamados, while the current Tinos page shortens it to the Marlas dedication. Each remains one legal parish row, current public phone values stay with the matching administrative body, and no current label is split into an invented new parish.",
+      "sources": [
+        "https://ecclesiagreece.gr/greek/press/ekklisia/2020_septembrios.pdf",
+        "https://www.imsyrou.gr/index.php/el/nisia/nisos-kythnos",
+        "https://www.imsyrou.gr/index.php/el/nisia/nisos-andros"
+      ]
+    },
+    {
+      "candidate_id": "gr-syros-chartes-kotala-current-page-gaps",
+      "parent": "gr-syros",
+      "country": "GR",
+      "category": "regulated-current-page-gap",
+      "status": "published",
+      "reason": "Saint Mavra at Chartes on Andros and Saint Theodora at Kotala on Serifos are exact regulated parishes but do not appear on the current island pages. Both legal identities are published without current contact fields. Their current administrative omission is retained as an explicit gap rather than treated as evidence of dissolution.",
+      "sources": [
+        "https://ecclesiagreece.gr/greek/press/ekklisia/2020_septembrios.pdf",
+        "https://www.imsyrou.gr/index.php/el/nisia/nisos-andros",
+        "https://www.imsyrou.gr/index.php/el/nisia/nisos-serifos"
+      ]
+    },
+    {
+      "candidate_id": "gr-syros-saint-george-kapoulis-dissolved",
+      "parent": "gr-syros",
+      "country": "GR",
+      "category": "dissolved-monastery-profile-conflict",
+      "status": "held",
+      "reason": "The Church of Greece profile still lists Saint George Kapoulis as a male monastery. The current official Milos church material expressly calls Saint George Kapoulis one of the dissolved monasteries whose icons were transferred elsewhere. It is excluded from the current monastic roster and retained only as a conflict candidate.",
+      "sources": [
+        "https://www.ecclesiagreece.gr/ecclesiajoomla/index.php/el/metropoleis/syrou-tenou-androu-keas-kai-melou",
+        "https://www.imsyrou.gr/index.php/el/?view=article&id=3297:genesiplakes&catid=167"
+      ]
+    },
+    {
+      "candidate_id": "gr-syros-panhellenic-evangelistria-foundation",
+      "parent": "gr-syros",
+      "country": "GR",
+      "category": "separate-self-governing-holy-foundation",
+      "status": "held",
+      "reason": "The Panhellenic Holy Foundation of Evangelistria of Tinos administers the Church of Evangelistria and is canonically served by the local Church, but Law 349/1976 preserves it as a separate self-governing public legal person under state supervision. The local Metropolitan presides over its committee, yet the Church of Greece expressly states that it is not subordinate to Church administrative control. It is held outside the parent subordinate-body roster rather than represented as a Metropolis parish or fifth regulated pilgrimage.",
+      "sources": [
+        "https://www.ecclesiagreece.gr/ecclesiajoomla/index.php/el/?catid=2&id=3322%3Aanakoinose-tes-ieras-synodou-gia-to-panellenio-iero-idryma-euangelistrias-tenou-p-i-i-e-t&view=article",
+        "https://www.panagiatinou.gr/eng/"
+      ]
+    },
+    {
+      "candidate_id": "gr-syros-incomplete-dependent-body-leads",
+      "parent": "gr-syros",
+      "country": "GR",
+      "category": "incomplete-official-dependency-leads",
+      "status": "held",
+      "reason": "Official event reports identify additional cemetery churches, chapels, metochia, and former monasteries, including Saint Mamas at Palaiokastro and Panagia Vourniotissa of the Kechrovouni monastery. The site does not provide a complete current administrative dependency roster or consistent ownership status across all twelve islands. Event-only leads outside the current island administration pages remain held so a selective discovery sample is not presented as an exhaustive roster.",
+      "sources": [
+        "https://www.imsyrou.gr/index.php/el/eidiseis-ieras-mitropoleos/eidiseis/arxeio-eidiseon-2026/arxieratikos-esperinos-ston-koimitiriako-nao-tou-agiou-mamantos-tis-ieras-monis-palaiokastrou-stin-ano-mera-mykonou",
+        "https://www.imsyrou.gr/index.php/el/nisia/iera-nisos-tinos",
+        "https://www.imsyrou.gr/index.php/el/nisia/nisos-mykonos"
+      ]
+    },
+    {
+      "candidate_id": "gr-syros-unverified-discovery-leads",
+      "parent": "gr-syros",
+      "country": "GR",
+      "category": "map-search-social-tourism-history-only",
+      "status": "held",
+      "reason": "Map results, search snippets, social pages, tourism pages, commercial directories, and historical notices surface additional church and contact leads. None substitutes for a current canonical administrative roster, and no body or contact is published from those sources alone.",
+      "sources": [
+        "https://www.imsyrou.gr/index.php/el/",
+        "https://ecclesiagreece.gr/greek/press/ekklisia/2020_septembrios.pdf"
+      ]
+    }
+  ],
+  "source_reconciliations": [
+    {
+      "topic": "regulated-parish-count",
+      "finding": "The regulation expressly totals 132 parishes: 13 on Syros, 20 on Tinos, 62 on Andros, 4 on Mykonos, 4 on Kea, 3 on Kythnos, 5 on Serifos, 8 on Sifnos, 8 on Milos, 1 on Kimolos, 2 on Folegandros, and 2 on Sikinos. Those island totals and every exact legal identity are asserted deterministically.",
+      "sources": [
+        "https://ecclesiagreece.gr/greek/press/ekklisia/2020_septembrios.pdf"
+      ]
+    },
+    {
+      "topic": "current-island-page-reconciliation",
+      "finding": "The twelve current island pages contain 135 exact worship-body rows: 130 corresponding legal parish slots and five additional Syros or Mykonos bodies. Chartes and Kotala are the two legal rows absent from the current pages. Dryopis, the second Arni row, and Marlas-Mamados have current naming differences that do not create new legal persons.",
+      "sources": [
+        "https://www.imsyrou.gr/index.php/el/nisia/nisos-syros",
+        "https://www.imsyrou.gr/index.php/el/nisia/nisos-andros",
+        "https://www.imsyrou.gr/index.php/el/nisia/nisos-mykonos"
+      ]
+    },
+    {
+      "topic": "current-monastic-count",
+      "finding": "The Church of Greece profile names thirteen monastic identities and supplies ten public telephone routes among the twelve publishable current monasteries. Current official Milos material removes Saint George Kapoulis from the current count because it expressly calls that monastery dissolved. Saint Irene at Apoikia is not substituted as a monastery because its direct current site says the monastery was dissolved and presents the body as a church.",
+      "sources": [
+        "https://www.ecclesiagreece.gr/ecclesiajoomla/index.php/el/metropoleis/syrou-tenou-androu-keas-kai-melou",
+        "https://www.imsyrou.gr/index.php/el/?view=article&id=3297:genesiplakes&catid=167",
+        "https://ierosnaosagiaseirinisandrou.gr/"
+      ]
+    },
+    {
+      "topic": "contact-preservation",
+      "finding": "The current island pages supply 95 public phone values for 82 regulated parishes. The Church of Greece profile supplies ten monastery telephone values. The direct Saint Irene church site supplies two mobile routes and one email, and the direct Panachrantou site supplies one email while confirming its profile phone. Three direct body sites are preserved, including the Theoskepasti site printed by the current Andros roster even though its DNS did not answer during this audit.",
+      "sources": [
+        "https://www.imsyrou.gr/index.php/el/nisia/nisos-andros",
+        "https://panachrantouandros.com/%CE%B5%CF%80%CE%B9%CE%BA%CE%BF%CE%B9%CE%BD%CF%89%CE%BD%CE%AF%CE%B1/",
+        "https://ierosnaosagiaseirinisandrou.gr/en/contact/"
+      ]
+    },
+    {
+      "topic": "pilgrimage-and-separate-foundation-boundary",
+      "finding": "The regulation names exactly four subordinate pilgrimage legal persons. The Evangelistria complex on Tinos is administered by a separate self-governing public foundation under Law 349/1976 and state supervision. The local Metropolitan chairs its committee, but competent Church sources expressly distinguish this from subordination to Church administrative control, so the foundation is held outside the gr-syros subordinate roster.",
+      "sources": [
+        "https://ecclesiagreece.gr/greek/press/ekklisia/2020_septembrios.pdf",
+        "https://www.ecclesiagreece.gr/ecclesiajoomla/index.php/el/?catid=2&id=3322%3Aanakoinose-tes-ieras-synodou-gia-to-panellenio-iero-idryma-euangelistrias-tenou-p-i-i-e-t&view=article",
+        "https://www.panagiatinou.gr/eng/"
+      ]
+    }
+  ],
+  "official_parent_audit": [
+    {
+      "parent": "gr-syros",
+      "status": "audited",
+      "finding": "The Church of Greece regulation, all twelve current official island administration pages, the current Church of Greece profile, exact official body articles, and direct body sites establish the canonical parent, the exact 132-parish roster, four regulated pilgrimage churches, twelve current monasteries, six additional current worship bodies, and the body-specific public contacts used here.",
+      "sources": [
+        "https://ecclesiagreece.gr/greek/press/ekklisia/2020_septembrios.pdf",
+        "https://www.imsyrou.gr/index.php/el/",
+        "https://www.ecclesiagreece.gr/ecclesiajoomla/index.php/el/metropoleis/syrou-tenou-androu-keas-kai-melou"
+      ]
+    }
+  ],
+  "exclusions": [
+    {
+      "category": "central-and-non-worship-routes",
+      "reason": "Metropolis offices, care homes, camps, schools, museums, publications, charities, and other non-worship institutions are not worship rows. Central telephone, fax, email, and address details are not copied to subordinate bodies. Clergy names are omitted even where a public body-linked or clergy-linked route is retained.",
+      "sources": [
+        "https://www.imsyrou.gr/index.php/el/",
+        "https://www.ecclesiagreece.gr/ecclesiajoomla/index.php/el/metropoleis/syrou-tenou-androu-keas-kai-melou"
+      ]
+    },
+    {
+      "category": "separate-public-foundations",
+      "reason": "The Panhellenic Holy Foundation of Evangelistria of Tinos and municipal holy foundations retain separate statutory administration. Canonical worship and a Metropolitan role do not by themselves establish that those legal persons are subordinate gr-syros bodies.",
+      "sources": [
+        "https://www.ecclesiagreece.gr/ecclesiajoomla/index.php/el/?catid=2&id=3322%3Aanakoinose-tes-ieras-synodou-gia-to-panellenio-iero-idryma-euangelistrias-tenou-p-i-i-e-t&view=article",
+        "https://www.panagiatinou.gr/eng/"
+      ]
+    },
+    {
+      "category": "unverified-and-non-authoritative-leads",
+      "reason": "Map pins, search snippets, social pages, tourism pages, accommodation sites, commercial directories, and history-only pages do not establish current canonical administration or body-specific contact ownership. Their rows and contacts remain excluded unless a competent first-party source confirms them.",
+      "sources": [
+        "https://www.imsyrou.gr/index.php/el/",
+        "https://ecclesiagreece.gr/greek/press/ekklisia/2020_septembrios.pdf"
+      ]
+    }
+  ]
+}
