@@ -1,0 +1,245 @@
+{
+  "v": 1,
+  "countries": ["GR"],
+  "checked": "2026-11-15",
+  "method": "The six current body-owned regional church directories, the six exact administrative region tables, the six exact chapel-category pages, and both current monastery directories control the roster. The exact region tables name 63 parishes, so the older aggregate of 64 parishes creates one unnamed held residual and no invented row. Exact current chapel pages and exact linked regional detail bodies are reconciled by identity. The Grammatiko aggregate is unpacked into twelve named worship bodies, its duplicate Saint George card is collapsed into the parish row, and two overlaps with the exact cemetery and parish-chapel lists are collapsed. Current body detail pages, administrative tables, Church of Greece corroboration, and direct body sites supply contacts. Public body, clergy, and staff contact numbers presented for an exact body are retained without personal names. Central-office contacts are not propagated.",
+  "published_summary": {
+    "gr-kifisia": 192,
+    "total": 192,
+    "current_named_parishes": 63,
+    "current_pilgrimages": 1,
+    "current_metropolitan_chapels": 7,
+    "current_parish_chapels": 73,
+    "current_institutional_chapels": 13,
+    "current_cemetery_chapels": 14,
+    "current_armed_forces_chapels": 7,
+    "current_monasteries_and_hesychasteria": 14,
+    "contact_bodies": 87,
+    "phone_bodies": 87,
+    "public_phone_values": 134,
+    "email_bodies": 18,
+    "public_email_values": 20,
+    "body_owned_sites": 22,
+    "address_bodies": 109
+  },
+  "candidates": [
+    {
+      "candidate_id": "gr-kifisia-unnamed-sixty-fourth-parish-residual",
+      "parent": "gr-kifisia",
+      "country": "GR",
+      "category": "aggregate-only",
+      "status": "held",
+      "reason": "The older central administrative summary reports 64 parishes, but the six current exact administrative region tables name only 63. The current Stamata page expressly treats the new Axion Esti church as a subordinate church of the existing Dormition parish, so it does not resolve the numerical residual as a new parish. No unnamed aggregate row is published.",
+      "aggregate_counts": {
+        "older_structure_parishes": 64,
+        "current_exact_named_parishes": 63,
+        "unnamed_residual": 1
+      },
+      "sources": [
+        "https://www.imkifissias.gr/index.php?Itemid=470&id=73&option=com_content&view=article",
+        "https://www.imkifissias.gr/index.php/iera-mitropolis/dioikisi/arxieratikes-perifereies",
+        "https://ecclesiagreece.gr/greek/press/ekklisia/2015_october.pdf"
+      ]
+    },
+    {
+      "candidate_id": "gr-kifisia-central-cemetery-aggregate-conflict",
+      "parent": "gr-kifisia",
+      "country": "GR",
+      "category": "aggregate-and-exact-current-conflict",
+      "status": "reconciled",
+      "reason": "The older central summary reports eleven cemetery churches, while the current exact cemetery page names fourteen. All fourteen exact current bodies are published and no body is removed to force the older aggregate.",
+      "aggregate_counts": {
+        "older_structure_cemetery_churches": 11,
+        "current_exact_cemetery_chapels": 14
+      },
+      "sources": [
+        "https://www.imkifissias.gr/index.php?Itemid=470&id=73&option=com_content&view=article",
+        "https://www.imkifissias.gr/index.php/iera-mitropolis/dioikisi/arxieratikes-perifereies/85-parekklisia-koimitirion"
+      ]
+    },
+    {
+      "candidate_id": "gr-kifisia-monastery-count-reconciliation",
+      "parent": "gr-kifisia",
+      "country": "GR",
+      "category": "current-first-party-and-corroborator-difference",
+      "status": "reconciled",
+      "reason": "The two current local monastery directories name six men's and eight women's bodies. The Church of Greece profile names thirteen because it does not include the restored men's Monastery of the Entrance of the Theotokos and Saint Philothei at Amarousion. The newer current local directory and its exact restoration page control, so fourteen are published.",
+      "aggregate_counts": {
+        "current_local_men": 6,
+        "current_local_women": 8,
+        "current_local_total": 14,
+        "church_of_greece_profile_total": 13
+      },
+      "sources": [
+        "https://www.imkifissias.gr/index.php/i-monai/androai-ierai-monai",
+        "https://www.imkifissias.gr/index.php/i-monai/gynaikeiai-ierai-monai",
+        "https://www.ecclesiagreece.gr/ecclesiajoomla/index.php/el/metropoleis/kephisias-amarousiou-oropou-kai-marathonos"
+      ]
+    },
+    {
+      "candidate_id": "gr-kifisia-grammatiko-aggregate-and-duplicate",
+      "parent": "gr-kifisia",
+      "country": "GR",
+      "category": "named-aggregate-and-duplicate-current-card",
+      "status": "reconciled",
+      "reason": "The current Grammatiko aggregate page names twelve worship bodies. Saint George is the current main church of the legal Saint Athanasius parish and also has its own duplicate current card, so the main body is published once. The cemetery Saint John the Forerunner overlaps the exact cemetery list. Ten other exact named bodies from the aggregate are published as parish chapels.",
+      "aggregate_counts": {
+        "named_bodies_in_aggregate": 12,
+        "duplicate_main_church_cards_collapsed": 1,
+        "cemetery_overlap_collapsed": 1,
+        "additional_published_parish_chapels": 10
+      },
+      "sources": [
+        "https://www.imkifissias.gr/index.php/ieroi-naoi/89-ero-nao-e-rxieratik-s-perifereias-n-makris",
+        "https://www.imkifissias.gr/index.php/iera-mitropolis/dioikisi/arxieratikes-perifereies/79-arxieratiki-perifereia-n-makris-kai-marathonos",
+        "https://www.imkifissias.gr/index.php/iera-mitropolis/dioikisi/arxieratikes-perifereies/85-parekklisia-koimitirion"
+      ]
+    },
+    {
+      "candidate_id": "gr-kifisia-narrative-only-chapels-and-ruins",
+      "parent": "gr-kifisia",
+      "country": "GR",
+      "category": "narrative-only-or-non-operating",
+      "status": "held",
+      "reason": "Narrative parish histories mention additional subordinate chapels that have no exact current category row or current regional card. The Oropos parish history also identifies eight ruins where services are not celebrated. These leads remain held unless a current exact roster or detail page establishes a publishable operating body.",
+      "sources": [
+        "https://www.imkifissias.gr/index.php/ieroi-naoi/90-ero-nao-st-rxieratik-s-perifereias-ropo/310-eros-naos-koimiseos-theotokou-ropo",
+        "https://www.imkifissias.gr/index.php/ieroi-naoi/90-ero-nao-st-rxieratik-s-perifereias-ropo"
+      ]
+    },
+    {
+      "candidate_id": "gr-kifisia-unavailable-legacy-body-sites",
+      "parent": "gr-kifisia",
+      "country": "GR",
+      "category": "direct-site-unavailable",
+      "status": "held",
+      "reason": "Three direct body domains linked or identified for current bodies did not resolve during the live audit. They are retained as contact leads but are not published as current direct body sites. The bodies themselves remain published from competent current roster sources.",
+      "sources": [
+        "https://www.agiamarinamelission.gr/",
+        "https://www.agiospanteleimonas-pefkis.gr/",
+        "http://www.agapostoloi.gr/"
+      ]
+    },
+    {
+      "candidate_id": "gr-kifisia-map-search-social-historical-leads",
+      "parent": "gr-kifisia",
+      "country": "GR",
+      "category": "insufficient-current-canonical-evidence",
+      "status": "held",
+      "reason": "Bodies seen only in maps, search results, social networks, event notices, historic narratives, or third-party listings are not published without an exact current first-party roster, category row, or detail page. Social and map URLs are not classified as direct body websites.",
+      "sources": [
+        "https://www.imkifissias.gr/index.php/ieroi-naoi",
+        "https://www.imkifissias.gr/index.php/iera-mitropolis/dioikisi/arxieratikes-perifereies"
+      ]
+    }
+  ],
+  "source_reconciliations": [
+    {
+      "id": "gr-kifisia-current-parish-reconciliation",
+      "result": "The six exact current region tables name 11, 10, 9, 8, 11, and 14 parishes, for 63 exact named parishes. The legal Church bulletin corroborates the parish entities. The older 64-parish aggregate does not create an unnamed body.",
+      "sources": [
+        "https://www.imkifissias.gr/index.php/iera-mitropolis/dioikisi/arxieratikes-perifereies",
+        "https://www.imkifissias.gr/index.php?Itemid=470&id=73&option=com_content&view=article",
+        "https://ecclesiagreece.gr/greek/press/ekklisia/2015_october.pdf"
+      ]
+    },
+    {
+      "id": "gr-kifisia-current-region-card-reconciliation",
+      "result": "The six live regional directories expose 21, 16, 17, 8, 11, and 36 current cards, for 109 cards. Exact linked subordinate churches are added, exact category overlaps are collapsed, and the Grammatiko aggregate is unpacked without publishing an aggregate row.",
+      "sources": [
+        "https://www.imkifissias.gr/index.php/ieroi-naoi",
+        "https://www.imkifissias.gr/index.php/ieroi-naoi/89-ero-nao-e-rxieratik-s-perifereias-n-makris",
+        "https://www.imkifissias.gr/index.php/ieroi-naoi/90-ero-nao-st-rxieratik-s-perifereias-ropo"
+      ]
+    },
+    {
+      "id": "gr-kifisia-current-category-reconciliation",
+      "result": "The current exact category pages name one pilgrimage, seven metropolitan chapels, 34 parish chapels, 13 institutional chapels, 14 cemetery chapels, and seven armed-forces chapels. Thirty-nine additional exact linked regional bodies remain after identity overlaps, producing 73 parish chapels in the published roster.",
+      "sources": [
+        "https://www.imkifissias.gr/index.php/iera-mitropolis/dioikisi/arxieratikes-perifereies/81-proskynimatikoi-ieroi-naoi",
+        "https://www.imkifissias.gr/index.php/iera-mitropolis/dioikisi/arxieratikes-perifereies/83-enoriaka-parekklisia",
+        "https://www.imkifissias.gr/index.php/iera-mitropolis/dioikisi/arxieratikes-perifereies/86-parekklisia-enoplon-dynameon"
+      ]
+    },
+    {
+      "id": "gr-kifisia-current-main-church-dedications",
+      "result": "Current regional detail pages identify Saint George as the main church of the legal Saint Athanasius parish at Grammatiko, Prophet Elias as the main church of the legal Saint Barbara parish at Anatoli, Saints Constantine and Helen as the main church of the Dormition parish at Sykamino, and Saint Marina as the main church of the Dormition parish at Oropos. Each canonical parish is published once under its current operating main-church identity.",
+      "sources": [
+        "https://www.imkifissias.gr/index.php/ieroi-naoi/89-ero-nao-e-rxieratik-s-perifereias-n-makris",
+        "https://www.imkifissias.gr/index.php/ieroi-naoi/90-ero-nao-st-rxieratik-s-perifereias-ropo",
+        "https://www.imkifissias.gr/index.php/iera-mitropolis/dioikisi/arxieratikes-perifereies"
+      ]
+    },
+    {
+      "id": "gr-kifisia-contact-provenance",
+      "result": "Public body-specific phones, faxes, emails, direct sites, and addresses are retained from exact administrative rows, current detail pages, direct body sites, and Church of Greece monastic corroboration. Conflicting official phone values are preserved together rather than silently choosing one. No central switchboard is propagated.",
+      "sources": [
+        "https://www.imkifissias.gr/index.php/iera-mitropolis/dioikisi/arxieratikes-perifereies",
+        "https://www.imkifissias.gr/index.php/ieroi-naoi",
+        "https://www.ecclesiagreece.gr/ecclesiajoomla/index.php/el/metropoleis/kephisias-amarousiou-oropou-kai-marathonos"
+      ]
+    }
+  ],
+  "official_parent_audit": [
+    {
+      "id": "gr-kifisia-current-metropolis",
+      "parent": "gr-kifisia",
+      "status": "confirmed-current",
+      "result": "The Church of Greece profile and the body-owned Metropolis site establish the current Holy Metropolis of Kifisia, Amarousion, Oropos and Marathon.",
+      "sources": [
+        "https://www.ecclesiagreece.gr/ecclesiajoomla/index.php/el/metropoleis/kephisias-amarousiou-oropou-kai-marathonos",
+        "https://www.imkifissias.gr/index.php/ieroi-naoi"
+      ]
+    },
+    {
+      "id": "gr-kifisia-current-roster-control",
+      "parent": "gr-kifisia",
+      "status": "confirmed-current",
+      "result": "The body-owned exact administrative tables, live regional directories, exact chapel categories, and two monastery directories control current subordinate identity. Legal and Church of Greece materials corroborate rather than create unnamed rows.",
+      "sources": [
+        "https://www.imkifissias.gr/index.php/iera-mitropolis/dioikisi/arxieratikes-perifereies",
+        "https://www.imkifissias.gr/index.php/ieroi-naoi",
+        "https://www.imkifissias.gr/index.php/i-monai/androai-ierai-monai"
+      ]
+    }
+  ],
+  "exclusions": [
+    {
+      "id": "gr-kifisia-central-contacts",
+      "status": "excluded",
+      "reason": "The Metropolis central switchboard, faxes, email, and office routes are not copied to any subordinate body.",
+      "sources": [
+        "https://www.ecclesiagreece.gr/ecclesiajoomla/index.php/el/metropoleis/kephisias-amarousiou-oropou-kai-marathonos",
+        "https://www.imkifissias.gr/index.php?Itemid=470&id=73&option=com_content&view=article"
+      ]
+    },
+    {
+      "id": "gr-kifisia-personal-names",
+      "status": "excluded",
+      "reason": "Clergy, monastic, staff, and lay personal names are omitted. A public number remains only when a competent first-party page presents it as a contact route for the exact body.",
+      "sources": [
+        "https://www.imkifissias.gr/index.php/iera-mitropolis/dioikisi/arxieratikes-perifereies",
+        "https://www.imkifissias.gr/index.php/i-monai/gynaikeiai-ierai-monai"
+      ]
+    },
+    {
+      "id": "gr-kifisia-social-map-and-video-links",
+      "status": "excluded-as-body-owned-sites",
+      "reason": "Facebook, YouTube, map-only, and other platform links are not classified as direct body websites. Exact body phone and email routes exposed in the same first-party contact blocks remain published.",
+      "sources": [
+        "https://www.imkifissias.gr/index.php/ieroi-naoi",
+        "https://www.imkifissias.gr/index.php/i-monai/androai-ierai-monai"
+      ]
+    },
+    {
+      "id": "gr-kifisia-aggregate-and-ruin-rows",
+      "status": "excluded-or-unpacked",
+      "reason": "No unnamed aggregate residual, aggregate-only regional card, duplicate card, or explicit non-operating ruin is published as a body. Named current worship bodies inside the Grammatiko aggregate are unpacked and published once.",
+      "sources": [
+        "https://www.imkifissias.gr/index.php?Itemid=470&id=73&option=com_content&view=article",
+        "https://www.imkifissias.gr/index.php/ieroi-naoi/89-ero-nao-e-rxieratik-s-perifereias-n-makris",
+        "https://www.imkifissias.gr/index.php/ieroi-naoi/90-ero-nao-st-rxieratik-s-perifereias-ropo/310-eros-naos-koimiseos-theotokou-ropo"
+      ]
+    }
+  ]
+}
