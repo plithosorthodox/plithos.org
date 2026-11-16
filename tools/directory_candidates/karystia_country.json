@@ -1,0 +1,206 @@
+{
+  "v": 1,
+  "countries": [
+    "GR"
+  ],
+  "checked": "2026-11-15",
+  "method": "Publish the exact 96 parish bodies in Regulation 5681/159-2020 of the Church of Greece, preserving its four district totals, and reconcile that legal roster against current first-party evidence. Publish the five monasteries named with public telephone routes in the current Church of Greece profile. Publish an additional chapel only where its direct body-owned site establishes its current identity, canonical parent, address, and contact. Publish a cemetery church only where the direct parish site establishes both its exact identity and current use. Preserve body-linked public phones, emails, direct sites, and addresses without retaining clergy names or copying central Metropolis contacts to subordinate bodies. Hold news-only, map-only, commercial-directory-only, search-only, tourism, historic, aggregate, and canonically unclear leads rather than inventing unnamed residual rows.",
+  "published_summary": {
+    "gr-karystia": 103,
+    "total": 103,
+    "regulated_parish_rows": 96,
+    "current_monastery_rows": 5,
+    "current_exact_chapel_rows": 1,
+    "current_exact_cemetery_rows": 1,
+    "parish_kind_rows": 98,
+    "monastery_kind_rows": 5,
+    "contact_bodies": 7,
+    "phone_bodies": 5,
+    "public_phone_values": 5,
+    "public_fax_values": 0,
+    "email_bodies": 2,
+    "public_email_values": 2,
+    "body_owned_sites": 2,
+    "address_bodies": 103
+  },
+  "candidates": [
+    {
+      "candidate_id": "gr-karystia-five-current-monasteries",
+      "parent": "gr-karystia",
+      "country": "GR",
+      "category": "current-monastery-roster",
+      "status": "published",
+      "reason": "The current Church of Greece profile names five exact monasteries and a public telephone route for each. All five are published. The older 2015 legal act expressly recognized only Saint Charalampus at Lefkon and the Dormition at Matzari, so it is treated as older legal evidence rather than a complete current operational roster.",
+      "sources": [
+        "https://www.ecclesiagreece.gr/ecclesiajoomla/index.php/el/metropoleis/karystias-kai-skyrou",
+        "https://ecclesiagreece.gr/greek/press/ekklisia/2015_iounios.pdf"
+      ]
+    },
+    {
+      "candidate_id": "gr-karystia-three-saints-chapel",
+      "parent": "gr-karystia",
+      "country": "GR",
+      "category": "current-direct-body-site",
+      "status": "published",
+      "reason": "The chapel's direct site identifies the Holy Metropolis of Karystia and Skyros as its canonical parent, records its opening in July 2025, and publishes its exact address and public email. The exact chapel is published with that direct site and email.",
+      "sources": [
+        "https://www.parekklisi.gr/istoriko",
+        "https://www.parekklisi.gr/contact"
+      ]
+    },
+    {
+      "candidate_id": "gr-karystia-karystos-cemetery-church",
+      "parent": "gr-karystia",
+      "country": "GR",
+      "category": "current-direct-parish-evidence",
+      "status": "published",
+      "reason": "The direct Saint Nicholas Karystos parish site gives the exact cemetery church identity in a 2024 restoration account and confirms current worship use at the Karystos cemetery in November 2026. The exact cemetery church is published without inferred contact details.",
+      "sources": [
+        "https://www.agiosnikolaoskarystos.gr/2024/12/blog-post_24.html?m=0",
+        "https://www.agiosnikolaoskarystos.gr/2026/11/blog-post_01.html"
+      ]
+    },
+    {
+      "candidate_id": "gr-karystia-raptopoi-cemetery-church",
+      "parent": "gr-karystia",
+      "country": "GR",
+      "category": "news-only-canonical-review",
+      "status": "held",
+      "reason": "A current first-party regional news item names the Cemetery Church of the Transfiguration at Raptopoi, but the item is not a complete administrative roster and does not establish whether the church is a separate subordinate body or a dependency. It remains held rather than becoming an inferred row.",
+      "sources": [
+        "https://www.parekklisi.gr/posts/item/eorti-metamorphoseos-stoys-raptaioys",
+        "https://ecclesiagreece.gr/greek/press/ekklisia/2020_februarios.pdf"
+      ]
+    },
+    {
+      "candidate_id": "gr-karystia-other-regional-church-leads",
+      "parent": "gr-karystia",
+      "country": "GR",
+      "category": "aggregate-news-tourism-only",
+      "status": "held",
+      "reason": "Regional news, municipal pages, and tourism pages name additional churches, chapels, historic monuments, and monastic sites. Those sources do not provide a complete current canonical roster or reliably distinguish subordinate bodies from dependencies, historic buildings, ruins, and alternate parish churches. No unnamed or aggregate residual row is created from them.",
+      "sources": [
+        "https://www.parekklisi.gr/",
+        "https://kimis-aliveriou.gr/dimotikes-enotites/kimis/enoria/",
+        "https://visit-kimi-aliveri.gr/drastiriotites/moni-metamorfosi-sotiros/"
+      ]
+    },
+    {
+      "candidate_id": "gr-karystia-commercial-contact-leads",
+      "parent": "gr-karystia",
+      "country": "GR",
+      "category": "commercial-directory-only",
+      "status": "held",
+      "reason": "Commercial directories publish telephone leads for some legal parish identities, including Saint George at Aliveri. Because those numbers are not preserved on a competent first-party or direct body-owned source, they remain contact leads and are not attached to published rows.",
+      "sources": [
+        "https://www.xo.gr/profile/profile-911260802/el/",
+        "https://www.vrisko.gr/dir/ekklisies-mones/kymi/",
+        "https://ecclesiagreece.gr/greek/press/ekklisia/2020_februarios.pdf"
+      ]
+    },
+    {
+      "candidate_id": "gr-karystia-secondary-monastery-contact-leads",
+      "parent": "gr-karystia",
+      "country": "GR",
+      "category": "secondary-contact-conflict",
+      "status": "held",
+      "reason": "Secondary web results and a municipal emergency document publish additional or conflicting monastery contact routes, including a mobile route for Saint Anthony. They are not copied because the current Church of Greece profile already supplies one competent public telephone route for each exact monastery.",
+      "sources": [
+        "https://www.ecclesiagreece.gr/ecclesiajoomla/index.php/el/metropoleis/karystias-kai-skyrou",
+        "https://visit-kimi-aliveri.gr/drastiriotites/moni-metamorfosi-sotiros/"
+      ]
+    },
+    {
+      "candidate_id": "gr-karystia-care-homes",
+      "parent": "gr-karystia",
+      "country": "GR",
+      "category": "non-worship-institution",
+      "status": "held",
+      "reason": "The current Church of Greece profile names care homes in Kymi and Karystos with public telephone routes. No distinct institutional chapel was established from a competent current source, so the care homes remain non-worship institutions and their contacts are not propagated to worship rows.",
+      "sources": [
+        "https://www.ecclesiagreece.gr/ecclesiajoomla/index.php/el/metropoleis/karystias-kai-skyrou"
+      ]
+    }
+  ],
+  "source_reconciliations": [
+    {
+      "topic": "regulated-parish-roster",
+      "finding": "Regulation 5681/159-2020 expressly totals 96 parishes and 99 priest positions. Its table supplies exactly 41 Kymi parish rows, 27 Aliveri parish rows, 24 Karystos parish rows, and 4 Skyros parish rows. All 96 exact legal identities are published once, with no residual or unnamed parish row.",
+      "sources": [
+        "https://ecclesiagreece.gr/greek/press/ekklisia/2020_februarios.pdf"
+      ]
+    },
+    {
+      "topic": "kalentzi-prasino-legal-name-conflict",
+      "finding": "The 2015 legal act lists the Holy Archangels parish at Prasino, while the controlling 2020 regulation lists the Holy Archangels parish at Kalentzi. The 2020 exact identity is published and no separate Prasino residual is invented.",
+      "sources": [
+        "https://ecclesiagreece.gr/greek/press/ekklisia/2015_iounios.pdf",
+        "https://ecclesiagreece.gr/greek/press/ekklisia/2020_februarios.pdf"
+      ]
+    },
+    {
+      "topic": "current-monastery-reconciliation",
+      "finding": "The current Church of Greece profile names five monasteries with five exact public telephone routes. The 2015 legal act expressly identifies two of them. Current profile evidence controls the complete current operational roster, while the older act remains supporting legal history and does not create three gaps or residual rows.",
+      "sources": [
+        "https://www.ecclesiagreece.gr/ecclesiajoomla/index.php/el/metropoleis/karystias-kai-skyrou",
+        "https://ecclesiagreece.gr/greek/press/ekklisia/2015_iounios.pdf"
+      ]
+    },
+    {
+      "topic": "current-metropolitan-church-ranks",
+      "finding": "Current first-party reports identify Saint Athanasius at Kymi and Saint George at Aliveri as Metropolitan churches. Those current rank descriptions are applied to the matching legal parish identities. The other 94 legal rows retain the generic Parish Church rank.",
+      "sources": [
+        "https://www.parekklisi.gr/posts/item/eorti-ag-athanasioy-polioyxoy-kymis",
+        "https://www.parekklisi.gr/posts/item/eorti-osioy-loyka-en-steirio",
+        "https://ecclesiagreece.gr/greek/press/ekklisia/2020_februarios.pdf"
+      ]
+    },
+    {
+      "topic": "direct-body-contact-preservation",
+      "finding": "The direct Saint Nicholas Karystos parish site publishes one body email and its own site. The direct Three Saints chapel site publishes one body email, direct site, and exact address. Those routes are preserved only on their exact bodies. The five monastery phones remain tied only to the five monastery identities in the current Church of Greece profile.",
+      "sources": [
+        "https://www.agiosnikolaoskarystos.gr/",
+        "https://www.parekklisi.gr/contact",
+        "https://www.ecclesiagreece.gr/ecclesiajoomla/index.php/el/metropoleis/karystias-kai-skyrou"
+      ]
+    }
+  ],
+  "official_parent_audit": [
+    {
+      "parent": "gr-karystia",
+      "status": "audited",
+      "finding": "The Church of Greece regulation and current parent profile establish the canonical parent, exact 96-parish legal roster, and five current monasteries used here. Current direct body-owned parish and chapel sites were checked for exact additional worship bodies and body-linked public contacts.",
+      "sources": [
+        "https://ecclesiagreece.gr/greek/press/ekklisia/2020_februarios.pdf",
+        "https://www.ecclesiagreece.gr/ecclesiajoomla/index.php/el/metropoleis/karystias-kai-skyrou",
+        "https://www.agiosnikolaoskarystos.gr/"
+      ]
+    }
+  ],
+  "exclusions": [
+    {
+      "category": "central-and-non-worship-routes",
+      "reason": "Metropolis offices, care homes, charities, schools, publications, and other non-worship institutions are not worship rows. Central telephone, fax, email, and address details are not copied to subordinate bodies. Clergy names are omitted even where a public body-linked route is retained.",
+      "sources": [
+        "https://www.ecclesiagreece.gr/ecclesiajoomla/index.php/el/metropoleis/karystias-kai-skyrou"
+      ]
+    },
+    {
+      "category": "non-communion-bodies",
+      "reason": "Results belonging to the Genuine Orthodox Church of Oropos and Phyle and other bodies outside communion with the Church of Greece are excluded. The canonical parent and subordinate roster are established only from Church of Greece and body-owned sources tied to this Metropolis.",
+      "sources": [
+        "https://ecclesiagreece.gr/greek/press/ekklisia/2020_februarios.pdf",
+        "https://www.ecclesiagreece.gr/ecclesiajoomla/index.php/el/metropoleis/karystias-kai-skyrou"
+      ]
+    },
+    {
+      "category": "unverified-and-aggregate-leads",
+      "reason": "Map-only results, search snippets, commercial directories, event notices, municipal summaries, tourism pages, historic references, and aggregate church lists do not by themselves establish a distinct current subordinate body, exact identity, or canonical parent. They remain held leads and do not supply contact provenance.",
+      "sources": [
+        "https://www.parekklisi.gr/",
+        "https://kimis-aliveriou.gr/dimotikes-enotites/kimis/enoria/",
+        "https://www.vrisko.gr/dir/ekklisies-mones/kymi/"
+      ]
+    }
+  ]
+}
