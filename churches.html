@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang="en">
 <head>
-<meta charset="utf-8"><meta name="plithos-build" content="2026-11-15bm"><meta name="viewport" content="width=device-width, initial-scale=1">
+<meta charset="utf-8"><meta name="plithos-build" content="2026-11-15bn"><meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="icon" type="image/svg+xml" href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48Y2lyY2xlIGN4PSI1MCIgY3k9IjUwIiByPSI0NyIgZmlsbD0iIzZlMmIzYiIvPjxnIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2YyZWNlMCIgc3Ryb2tlLXdpZHRoPSI3IiBzdHJva2UtbGluZWNhcD0iYnV0dCIgc3Ryb2tlLWxpbmVqb2luPSJtaXRlciI+PGxpbmUgeDE9IjQ1IiB5MT0iMjAiIHgyPSI0NSIgeTI9IjgyIi8+PGxpbmUgeDE9IjMwIiB5MT0iNTEiIHgyPSI2MCIgeTI9IjUxIi8+PHBhdGggZD0iTTQ1LDIwIEM2MSwyMCA2NywyNiA2NywzMyBDNjcsNDAgNjEsNDYgNDUsNDYiLz48L2c+PC9zdmc+">
 <title>Plithos: The Orthodox Churches of the World</title>
 <script>var PL_TITLE=document.title;</script>
@@ -40,7 +40,12 @@ main{max-width:920px;margin:0 auto;padding:24px 16px 70px}
 .tag:hover{border-color:var(--porphyry);color:var(--porphyry)}
 .tag.on{background:var(--porphyry);color:#f2ece0;border-color:var(--porphyry)}
 .tag .c{opacity:.6;margin-inline-start:5px}
-.count{font-family:var(--mono);font-size:11.5px;color:var(--muted);margin:0 0 14px}
+.count{font-family:var(--mono);font-size:11.5px;color:var(--muted);margin:0;min-height:44px;
+  display:flex;align-items:center;gap:6px;flex-wrap:wrap}
+.count .shown{font-size:16px;font-weight:500;color:var(--porphyry-deep)}
+.count .of{color:var(--ink-soft)}
+.count .label{letter-spacing:.05em;text-transform:uppercase}
+.countvalues{display:inline-flex;align-items:baseline;gap:6px;direction:ltr;unicode-bidi:isolate}
 
 .terms{display:flex;flex-direction:column;gap:0}
 .entry{padding:15px 2px;border-top:1px solid var(--rule);scroll-margin-top:100px}
@@ -79,7 +84,7 @@ footer .cpy{font-family:var(--mono);font-size:11.5px;letter-spacing:.09em;color:
 .filtercontrol select{display:block;width:100%;height:44px;min-width:0;border:1px solid var(--rule);border-radius:8px;
   background:var(--leaf);color:var(--ink);font-family:var(--serif);font-size:15px;padding:0 30px 0 10px}
 [dir=rtl] .filtercontrol select{padding:0 10px 0 30px}
-.filteractions{display:flex;align-items:center;justify-content:flex-end;margin:0 0 14px}
+.filteractions{display:flex;align-items:center;justify-content:space-between;gap:12px;margin:0 0 14px}
 .clearfilters{min-height:44px;border:1px solid var(--rule);border-radius:8px;background:var(--leaf);color:var(--porphyry);
   font-family:var(--mono);font-size:11px;letter-spacing:.05em;text-transform:uppercase;padding:8px 13px;cursor:pointer}
 .clearfilters:hover:not(:disabled){border-color:var(--porphyry)}
@@ -215,8 +220,10 @@ footer .cpy{font-family:var(--mono);font-size:11.5px;letter-spacing:.09em;color:
     <label class="filtercontrol"><span class="filterlabel" data-t="rankFilter">Rank</span><select id="rankfilter"></select></label>
     <label class="filtercontrol"><span class="filterlabel" data-t="listedFilter">Directory entries</span><select id="listedfilter"></select></label>
   </div>
-  <div class="filteractions"><button type="button" class="clearfilters" id="clearfilters" data-t="clearFilters">Clear filters</button></div>
-  <p class="count" id="count"></p>
+  <div class="filteractions">
+    <p class="count" id="count" role="status" aria-live="polite" aria-atomic="true"></p>
+    <button type="button" class="clearfilters" id="clearfilters" data-t="clearFilters">Clear filters</button>
+  </div>
   <div id="rows"></div>
 </main>
 
@@ -264,6 +271,11 @@ function countryName(cc){
 /* Han, kana and Hangul set a colon of their own width; everything else uses
    the one it already writes with. */
 function colon(){ return (lang==="zh"||lang==="ja")?"\uFF1A":":"; }
+
+function numberText(n){
+  try{ return Number(n).toLocaleString(COLLATION[lang]||lang); }
+  catch(e){ return String(n); }
+}
 
 function countryLine(cc){
   var own=countryName(cc), en=(DIR.countries&&DIR.countries[cc])||cc;
@@ -601,7 +613,7 @@ function body(r,tag){
 function render(){
   jurisdictionTotals=jurisdictionCounts();
   var churches=DIR.rows.filter(function(r){ return !r.parent; });
-  var narrowed=filtersActive(), html=branchOverview(), g="", n=0;
+  var narrowed=filtersActive(), html=branchOverview(), g="", n=0, countState="";
   DIR.rows.forEach(function(r){ if(hits(r)) n++; });
   if(!narrowed&&DIR.branches){
     Object.keys(DIR.branches).forEach(function(id){
@@ -620,7 +632,20 @@ function render(){
     html+=self?rowHtml(r,kids,narrowed,held):parentHtml(r,kids,held);
   });
   $("rows").innerHTML=html||('<div class="empty">'+esc(t("none"))+"</div>");
-  $("count").textContent=n+" / "+totalRows();
+  relevantBranches().forEach(function(id){
+    if(branchState[id]==="failed") countState="failed";
+    else if(branchState[id]!=="loaded"&&countState!=="failed") countState="loading";
+  });
+  var total=totalRows(), shown=numberText(n), whole=numberText(total), countHtml;
+  if(countState==="loading") countHtml='<span class="label">'+esc(t("loading"))+"</span>";
+  else if(countState==="failed") countHtml='<span class="label">'+esc(t("loadFailed"))+"</span>";
+  else{
+    countHtml='<span class="label">'+esc(t("listedFilter")+colon())+'</span> <span class="countvalues" dir="ltr">';
+    countHtml+='<span class="shown">'+esc(shown)+"</span>";
+    if(filtersActive()) countHtml+=' <span class="of">/ '+esc(whole)+"</span>";
+    countHtml+="</span>";
+  }
+  $("count").innerHTML=countHtml;
   renderFilters();
   wireRows();
 }
