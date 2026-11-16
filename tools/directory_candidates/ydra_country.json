@@ -1,0 +1,213 @@
+{
+  "v": 1,
+  "countries": [
+    "GR"
+  ],
+  "parent": "gr-ydra",
+  "higher_level_site": "https://imhydra.gr/",
+  "checked": "2026-11-15",
+  "method": "Reconcile the 53 legally regulated parishes and one legally regulated pilgrimage church in FEK B 1513/07.05.2019 against the current Metropolis statement of 52 parishes, the current official archieratical navigation, the exact church and dependency inventories attached there, and the current Church of Greece monastic profile. Publish the one evidenced Pacheia Rachi merger as one current parish, all 154 additional exact named current worship bodies found on the official pages and inventories, and 21 current monastic bodies. Retain body-linked public contacts, including public clergy-linked routes, without clergy names. Keep direct body sites separate from higher-level source URLs. Do not infer rows from the aggregate of 754 country churches, an unlinked district button, map or search results, historical-only narrative, or malformed contact values.",
+  "published_summary": {
+    "gr-ydra": 228,
+    "total": 228,
+    "current_parish_rows": 52,
+    "legal_parish_rows": 53,
+    "legal_pilgrimage_rows": 1,
+    "current_monastic_rows": 21,
+    "exact_named_dependency_rows": 154,
+    "parish_kind_rows": 200,
+    "monastery_kind_rows": 28,
+    "address_bodies": 228,
+    "contact_bodies": 37,
+    "phone_bodies": 37,
+    "public_phone_values": 49,
+    "fax_bodies": 2,
+    "public_fax_values": 2,
+    "email_bodies": 8,
+    "public_email_values": 8,
+    "body_owned_sites": 2,
+    "rank_counts": {
+      "Cathedral": 1,
+      "Cemetery Church": 15,
+      "Church": 1,
+      "Country Chapel": 1,
+      "Country Church": 51,
+      "Hermitage": 10,
+      "Metropolitan Church": 4,
+      "Monastery": 10,
+      "Monastery Chapel": 6,
+      "Monastery Church": 1,
+      "Monastic House": 1,
+      "Parish Chapel": 74,
+      "Parish Church": 47,
+      "Pilgrimage Church": 2,
+      "Private Chapel": 4
+    }
+  },
+  "candidates": [
+    {
+      "candidate_id": "gr-ydra-legal-current-parish-reconciliation",
+      "parent": "gr-ydra",
+      "country": "GR",
+      "category": "legal-current-reconciliation",
+      "status": "published",
+      "reason": "The 2019 regulation enumerates 53 parish rows. The current Metropolis administrative page reports 52 parish churches. The official Pacheia Rachi inventory treats the two regulated rows, Saint Dionysius and the Holy Archangels, as one current parish and explains the old Holy Archangels church and the newer Saint Dionysius church within that identity. One combined current Pacheia Rachi parish is published. The other 51 current parish identities remain the regulated bodies, producing exactly 52 current parish rows without an unnamed residual row.",
+      "sources": [
+        "https://api.et.gr/apiFEK/2/2019/1513/pdf",
+        "https://imhydra.gr/dioikitiko-prosopiko",
+        "https://imhydra.gr/wp-content/uploads/2021/04/Ενορία-Παχειάς-Ράχης-Αίγινας.pdf"
+      ]
+    },
+    {
+      "candidate_id": "gr-ydra-unnamed-chapel-aggregate",
+      "parent": "gr-ydra",
+      "country": "GR",
+      "category": "aggregate-only-gap",
+      "status": "held",
+      "reason": "The current administrative page reports 754 country churches but does not name them. The exact official pages and district inventories name 154 additional publishable worship bodies, including parish chapels, country churches, cemetery churches, private chapels, monastery chapels, one monastery church, one additional pilgrimage church, and one other church. Category scope and overlap do not support subtracting those 154 from 754. No synthetic residual bodies are published. The Hydra inventory also says the Meeting parish serves more than 25 chapels but names only two merged parish dependencies, so the unnamed remainder stays held.",
+      "sources": [
+        "https://imhydra.gr/dioikitiko-prosopiko",
+        "https://imhydra.gr/arxieratikes-epitropies",
+        "https://imhydra.gr/wp-content/uploads/2021/04/MONES_YDRAS_GR-1.pdf"
+      ]
+    },
+    {
+      "candidate_id": "gr-ydra-spetses-roster-gap",
+      "parent": "gr-ydra",
+      "country": "GR",
+      "category": "unlinked-current-district-roster",
+      "status": "held",
+      "reason": "The current archieratical page displays Spetses as one of seven districts, but its Spetses control has no linked inventory. The four exact regulated Spetses parishes remain published from the legal authority and the All Saints monastery is published from the current Church of Greece profile. Additional Spetses chapels or dependencies are not inferred from search results, maps, tourism pages, or the jurisdiction-wide aggregate.",
+      "sources": [
+        "https://api.et.gr/apiFEK/2/2019/1513/pdf",
+        "https://imhydra.gr/arxieratikes-epitropies",
+        "https://ecclesiagreece.gr/ecclesiajoomla/index.php/el/metropoleis/ydras-spetson-kai-aigines"
+      ]
+    },
+    {
+      "candidate_id": "gr-ydra-contact-conflicts",
+      "parent": "gr-ydra",
+      "country": "GR",
+      "category": "malformed-or-conflicting-contact",
+      "status": "held",
+      "reason": "Four contact issues are not silently repaired or promoted. The Church of Greece profile prints 22970-322201 for the Saint Menas hermitage, which has eleven digits. The Kato Panagia inventory prints 275421122, which has nine digits. Legacy official visitor material printed 22970-53806 and 22980-53805 for the Aegina Holy Trinity and Saint Nectarius body, while the current Church of Greece profile publishes 22970-53800. Only that current unambiguous route is retained. The Hydra cathedral guide prints the shorthand 52207, which is also the central Metropolis number.",
+      "sources": [
+        "https://ecclesiagreece.gr/ecclesiajoomla/index.php/el/metropoleis/ydras-spetson-kai-aigines",
+        "https://imhydra.gr/plirofories-gia-ton-episkepti",
+        "https://imhydra.gr/wp-content/uploads/2021/06/Ξωκλήσια-Κάτω-Παναγία_Κρανίδι-1.pdf",
+        "https://imhydra.gr/wp-content/uploads/2021/04/MONES_YDRAS_GR-1.pdf"
+      ]
+    },
+    {
+      "candidate_id": "gr-ydra-monastic-rank-reconciliations",
+      "parent": "gr-ydra",
+      "country": "GR",
+      "category": "current-monastic-identity",
+      "status": "published",
+      "reason": "The current Church of Greece profile supplies 21 exact monastic bodies: eleven listed monasteries and ten listed hermitages. The later local Hydra guide says the Holy Trinity monastery was renamed the Monastic House of Patristic Ministry, so that current local rank is published. The profile controls the formal hermitage rank for Holy Trinity and Saint Nectarius in Aegina. Its Holy Trinity katholikon is the principal church of that already published institution and is not duplicated. The official Saint Nectarius page separately supplies three exact current dependencies of that hermitage: two monastery chapels and one monastery church. Saint Anna in Kranidi is published once as the profile's hermitage, not duplicated as a country church from the Kato Panagia dependency list.",
+      "sources": [
+        "https://ecclesiagreece.gr/ecclesiajoomla/index.php/el/metropoleis/ydras-spetson-kai-aigines",
+        "https://imhydra.gr/wp-content/uploads/2021/04/MONES_YDRAS_GR-1.pdf",
+        "https://imhydra.gr/agios-nektarios",
+        "https://imhydra.gr/wp-content/uploads/2021/06/Ξωκλήσια-Κάτω-Παναγία_Κρανίδι-1.pdf"
+      ]
+    },
+    {
+      "candidate_id": "gr-ydra-historic-and-dissolved-bodies",
+      "parent": "gr-ydra",
+      "country": "GR",
+      "category": "historic-only-body",
+      "status": "held",
+      "reason": "The official histories describe former monasteries, old monastic dependencies, destroyed or dissolved institutions, and prior parish status. They are not separately published unless the same source includes an exact body in its current inventory. The former Faneromeni monastery dissolved in 1833 is therefore not duplicated beside the current Hydra cathedral. The older Life-Giving Spring monastery underlying the present Holy Trinity and Saint Nectarius complex is historical context, not a separate current body. Palaiochora's ruined churches also remain historical leads. The under-restoration Panagia Makrylongos cemetery church remains published because the current Methana inventory expressly lists it as a present parish dependency, not merely as historical narrative.",
+      "sources": [
+        "https://imhydra.gr/wp-content/uploads/2021/04/MONES_YDRAS_GR-1.pdf",
+        "https://imhydra.gr/wp-content/uploads/2021/03/2021_ΙΣΤΟΣΕΛΙΔΑ_ΑΡΧΙΕΡΑΤΙΚΗ-ΕΠΙΤΡΟΠΕΙΑ-ΜΕΘΑΝΩΝ_1.pdf",
+        "https://imhydra.gr/agios-nektarios",
+        "https://imhydra.gr/mesaioniki-kastropolitia-palaia-chora-aigina"
+      ]
+    },
+    {
+      "candidate_id": "gr-ydra-search-and-map-leads",
+      "parent": "gr-ydra",
+      "country": "GR",
+      "category": "discovery-only",
+      "status": "held",
+      "reason": "Map listings, search snippets, social pages, tourism pages, event notices, and legacy site fragments can identify possible churches but do not by themselves establish current canonical administration, a distinct body, or exact dependency. No row or contact value is published from those leads alone.",
+      "sources": [
+        "https://imhydra.gr/arxieratikes-epitropies",
+        "https://imhydra.gr/dioikitiko-prosopiko"
+      ]
+    }
+  ],
+  "source_reconciliations": [
+    {
+      "topic": "regulated-and-current-parish-roster",
+      "finding": "FEK B 1513/07.05.2019 expressly totals 53 parishes and one pilgrimage church. The current Metropolis page expressly totals 52 parish churches. The one evidenced Pacheia Rachi consolidation resolves the difference exactly, leaving 52 current parish rows and preserving the one separately regulated Panagia Myrtidiotissa pilgrimage church.",
+      "sources": [
+        "https://api.et.gr/apiFEK/2/2019/1513/pdf",
+        "https://imhydra.gr/dioikitiko-prosopiko",
+        "https://imhydra.gr/wp-content/uploads/2021/04/Ενορία-Παχειάς-Ράχης-Αίγινας.pdf"
+      ]
+    },
+    {
+      "topic": "exact-current-dependencies",
+      "finding": "Current official pages and district inventories name 154 additional worship bodies beyond the 52 parish rows, the regulated pilgrimage, and the 21 monastic bodies. They comprise seventy-four parish chapels, fifteen cemetery churches, fifty-one country churches, four private chapels, six monastery chapels, one monastery church, one country chapel, one additional pilgrimage church, and one other church. Saint Anna in Kranidi is counted only once in the 21-body monastic roster.",
+      "sources": [
+        "https://imhydra.gr/wp-content/uploads/2021/04/Ενορία-Παχειάς-Ράχης-Αίγινας.pdf",
+        "https://imhydra.gr/wp-content/uploads/2021/03/2021_ΙΣΤΟΣΕΛΙΔΑ_ΑΡΧΙΕΡΑΤΙΚΗ-ΕΠΙΤΡΟΠΕΙΑ-ΜΕΘΑΝΩΝ_1.pdf",
+        "https://imhydra.gr/wp-content/uploads/2022/02/ΑΡΧΙΕΡΑΤΙΚΗ-ΕΠΙΤΡΟΠΕΙΑ-ΚΡΑΝΙΔΙΟΥ.pdf",
+        "https://imhydra.gr/agios-nektarios"
+      ]
+    },
+    {
+      "topic": "current-monastic-roster",
+      "finding": "The Church of Greece profile names three male monasteries, eight female monasteries, one male hermitage, and nine female hermitages. These 21 exact current bodies are published. Later local first-party wording controls the Holy Trinity body in Hydra as a Monastic House while the canonical profile controls the remaining formal monastery and hermitage ranks. The body-owned Saint Nectarius page establishes two current monastery chapels and one current monastery church as dependencies of the Aegina hermitage.",
+      "sources": [
+        "https://ecclesiagreece.gr/ecclesiajoomla/index.php/el/metropoleis/ydras-spetson-kai-aigines",
+        "https://imhydra.gr/wp-content/uploads/2021/04/MONES_YDRAS_GR-1.pdf",
+        "https://imhydra.gr/agios-nektarios"
+      ]
+    },
+    {
+      "topic": "body-contact-treatment",
+      "finding": "Thirty-seven bodies carry body-linked current contact data: forty-nine public phone values, two fax values, eight email values, and two direct body sites. Public clergy-linked routes are retained where an official body inventory associates them with the body, but clergy names are omitted. Central Metropolis contacts are not copied to subordinate bodies, and malformed, superseded, or ambiguous values are held rather than repaired.",
+      "sources": [
+        "https://imhydra.gr/arxieratikes-epitropies",
+        "https://ecclesiagreece.gr/ecclesiajoomla/index.php/el/metropoleis/ydras-spetson-kai-aigines",
+        "https://imna.gr/",
+        "https://prodromos-kranidiou.gr/"
+      ]
+    }
+  ],
+  "official_parent_audit": [
+    {
+      "parent": "gr-ydra",
+      "status": "audited",
+      "finding": "The National Printing House regulation, the Church of Greece profile, and the body-owned Metropolis administrative and archieratical pages establish the canonical parent, seven archieratical districts, legal parish and pilgrimage roster, current parish total, current monastic roster, and exact dependency inventories used here.",
+      "sources": [
+        "https://api.et.gr/apiFEK/2/2019/1513/pdf",
+        "https://ecclesiagreece.gr/ecclesiajoomla/index.php/el/metropoleis/ydras-spetson-kai-aigines",
+        "https://imhydra.gr/dioikitiko-prosopiko",
+        "https://imhydra.gr/arxieratikes-epitropies"
+      ]
+    }
+  ],
+  "exclusions": [
+    {
+      "category": "central-and-non-worship-bodies",
+      "reason": "Metropolis offices, museums, hospitals, care institutions, camps, schools, charities, clergy offices, and other non-worship institutions are not subordinate worship rows. Central telephone, fax, email, and site details are not propagated to churches or monasteries.",
+      "sources": [
+        "https://imhydra.gr/dioikitiko-prosopiko",
+        "https://ecclesiagreece.gr/ecclesiajoomla/index.php/el/metropoleis/ydras-spetson-kai-aigines"
+      ]
+    },
+    {
+      "category": "unnamed-and-unclear-leads",
+      "reason": "Unnamed aggregate churches, unlinked district residuals, map-only and search-only results, private social pages, event references, ruins, and bodies whose current canonical administration is unclear remain outside the current roster.",
+      "sources": [
+        "https://imhydra.gr/dioikitiko-prosopiko",
+        "https://imhydra.gr/arxieratikes-epitropies"
+      ]
+    }
+  ]
+}
